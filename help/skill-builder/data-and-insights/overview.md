@@ -1,9 +1,9 @@
 ---
 title: Visão geral do Skill Builder
 description: Impulsione a personalização em tempo real em qualquer canal usando insights de dados online e offline em toda a organização.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '208'
 ht-degree: 6%
 
 ---
@@ -17,11 +17,11 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html">
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
       <img alt="Personalizar e automatizar com o Adobe Target" src="assets/343821.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
         <strong>Personalizar e automatizar com o Adobe Target</strong>
       </a>
     </div>
@@ -30,11 +30,11 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/innovations.html">
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
       <img alt="Inovações e tendências em 2022" src="assets/343818.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/innovations.html">
+      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
         <strong>Inovações e tendências em 2022</strong>
       </a>
     </div>
@@ -43,11 +43,11 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/mobile-and-apps.html">
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
       <img alt="Aplicativos do Analytics e do Target para dispositivos móveis e aplicativos" src="assets/343819.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/mobile-and-apps.html">
+      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
         <strong>Aplicativos do Analytics e do Target para dispositivos móveis e aplicativos</strong>
       </a>
     </div>

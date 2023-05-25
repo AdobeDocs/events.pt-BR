@@ -4,10 +4,10 @@ description: Obtenha uma visão geral da Estrutura de comércio do CQ 5.6 de uma
 uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 2%
+source-wordcount: '120'
+ht-degree: 6%
 
 ---
 
@@ -31,4 +31,4 @@ John Fait
 
 * [Documentação](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
 * [Página de produto da DPS](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [CLOUD SERVICE DPS](https://digitalpublishing.acrobat.com/welcome.html)
+* [CLOUD SERVICE DPS](https://helpx.adobe.com/br/digital-publishing-suite/help/eol-statement-for-dpsc.html)

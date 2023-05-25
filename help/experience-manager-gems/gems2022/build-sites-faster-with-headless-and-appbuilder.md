@@ -10,10 +10,10 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: 5d20c88e799787b91a4f224efcdeb917ccdd259f
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 1%
+source-wordcount: '143'
+ht-degree: 2%
 
 ---
 
@@ -28,8 +28,7 @@ Inicialize e implante rapidamente aplicativos de página única (SPA) usando os 
 Esse webinário foi realizado em 23 de março de 2022 e apresentado por Duy Nguyen, engenheiro de desenvolvimento de software
 
 >[!MORELIKETHIS]
->
->* [Página correspondente do Evento do grupo de usuários do Adobe Experience Manager](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
+<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
 >* [Thread contextual correspondente](https://adobe.ly/3LkSWdm)
 >* Registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/) para ser notificado sobre webinários futuros.
 
