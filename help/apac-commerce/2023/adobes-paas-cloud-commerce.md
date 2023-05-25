@@ -10,7 +10,8 @@ level: Beginner
 doc-type: Event
 last-substantial-update: 2023-05-17T00:00:00Z
 jira: KT-13206
-source-git-commit: 2880d89fc0a783887efb0982010ea52385c0fb3c
+event-start-time: 2023-4-27 08:30-8
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # Simplifique seus negócios com o Adobe PaaS Cloud Commerce
 
-Na última edição da Série de webinários de Comércio da APAC, exploramos o valor da solução Adobe Commerce Cloud PaaS. Para qualquer pessoa que pratique a auto-hospedagem e esteja curiosa para saber o que uma solução PaaS pode oferecer, este webinário é para você. Se você já for cliente do Adobe Commerce Cloud, poderá se juntar a nós para saber mais sobre como maximizar o valor de sua configuração existente. 
+Na última edição da Série de webinários de Comércio da APAC, exploramos o valor da solução Adobe Commerce Cloud PaaS. Para qualquer pessoa que pratique a auto-hospedagem e esteja curiosa para saber o que uma solução PaaS pode oferecer, este webinário é para você. Se você já for cliente do Adobe Commerce Cloud, poderá se juntar a nós para saber mais sobre como maximizar o valor de sua configuração existente.
 
 Você ouvirá de um de nossos clientes, a Panatrade, a principal distribuidora de roupas esportivas da Indonésia, sobre sua jornada do local para a Adobe Commerce Cloud e como eles estão colhendo as recompensas de mudar para uma solução totalmente otimizada e gerenciada para seus negócios de comércio eletrônico.
 
