@@ -1,7 +1,7 @@
 ---
 title: A Experiência Faz O Intercâmbio De Habilidades
 description: Criadores de experiências O Skill Exchange é uma série global de eventos virtuais de aprendizado para clientes, com o objetivo de aprofundar as soluções da Adobe Experience Cloud.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
       </a>
       <div>
          <a href="analytics/jun2021/getting-started.md"><strong>Introdução ao Adobe Analytics</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -53,7 +53,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
       </a>
       <div>
          <a href="marketo/feb2022/data-maintenance.md"><strong>Manutenção de dados</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -66,7 +66,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
       </a>
       <div>
          <a href="workfront/apr2022/ten-tips.md"><strong>10 dicas para utilizar o Workfront</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>

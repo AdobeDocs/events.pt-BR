@@ -1,7 +1,7 @@
 ---
 title: Eventos sob demanda do Workfront
 description: Workfront Events é uma biblioteca de vídeos na qual especialistas e colegas compartilham suas ideias e opiniões sobre como usar o Workfront para aprimorar o trabalho que está sendo feito para suas organizações.
-source-git-commit: 408a3ae9ada432dc515d49c1108ce1f732c3a1f2
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Uma biblioteca de eventos gravados do Workfront na qual especialistas e colegas 
       </a>
       <div>
          <a href="user-groups/workfront-system-maintenance.md"><strong>Manutenção do sistema Workfront</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -35,7 +35,7 @@ Uma biblioteca de eventos gravados do Workfront na qual especialistas e colegas 
       </a>
       <div>
          <a href="user-groups/reporting-and-dashboards.md"><strong>Relatórios e painéis</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -48,7 +48,7 @@ Uma biblioteca de eventos gravados do Workfront na qual especialistas e colegas 
       </a>
       <div>
          <a href="user-groups/agile-in-marketing.md"><strong>Agilidade no marketing</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
