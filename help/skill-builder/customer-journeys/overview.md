@@ -1,7 +1,8 @@
 ---
 title: Skill Builder - Jornadas do cliente
 description: Série de webinários gravada para ajudar você a desenvolver perfis de clientes em tempo real, extraindo dados de todas as fontes para criar jornadas personalizadas entre canais.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 24%
@@ -18,7 +19,7 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="Melhor juntos - Adobe Marketo Engage e Real-Time CDP" src="assets/343824.jpeg" />
+      <img alt="Melhor juntos - Adobe Marketo Engage e Real-Time CDP" src="https://video.tv.adobe.com/v/343824?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
@@ -31,7 +32,7 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-      <img alt="Desenvolver e personalizar modelos de dados no Adobe Campaign Classic" src="assets/343829.jpeg" />
+      <img alt="Desenvolver e personalizar modelos de dados no Adobe Campaign Classic" src="https://video.tv.adobe.com/v/343829?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
@@ -44,7 +45,7 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
-      <img alt="Principais dicas e truques para o Adobe Campaign Standard" src="assets/343828.jpeg" />
+      <img alt="Principais dicas e truques para o Adobe Campaign Standard" src="https://video.tv.adobe.com/v/343828?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">

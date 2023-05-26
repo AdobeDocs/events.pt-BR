@@ -2,7 +2,8 @@
 title: Adobe Developers Live outubro de 2021
 description: Uma coleção de vídeos e tutoriais do Adobe Experience Manager Sites fornecidos como parte do evento do Adobe Developers Live.
 sub-product: sites, content-services
-source-git-commit: f4953d9b0a3449d31e09877e11ef29524e3026fb
+exl-id: 0ad75a56-d7d1-401c-9a3f-c45fc2c78036
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 17%

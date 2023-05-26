@@ -2,7 +2,8 @@
 title: Visão geral da versão do Adobe Experience Manager as a Cloud Service
 description: Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 15bc0a37-79c6-47f7-958b-96b47fe8b3ff
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 100%

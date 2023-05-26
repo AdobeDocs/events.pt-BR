@@ -1,9 +1,10 @@
 ---
 title: Visão geral do Skill Builder
 description: Série de webinários gravada para criar sua base de conhecimento e maximizar seu investimento no Adobe Experience Cloud.
-source-git-commit: b85f434224e5e4b08e80c99b6da0edb9acac1ee9
+exl-id: a2c07218-6f1d-434a-8b69-f6686c9f3370
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '159'
 ht-degree: 3%
 
 ---
@@ -36,7 +37,7 @@ O Skill Builder é uma série de webinários projetada para criar sua base de co
     <p>
     <em>Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes para criar jornadas personalizadas entre canais.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar sessões</span>
     </a>
   </td>
@@ -48,7 +49,7 @@ O Skill Builder é uma série de webinários projetada para criar sua base de co
     <p>
     <em>Impulsione a personalização em tempo real em qualquer canal usando insights de dados online e offline em toda a organização.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar sessões</span>
     </a>
   </td>  

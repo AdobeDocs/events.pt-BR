@@ -1,7 +1,8 @@
 ---
 title: Série Adobe Campaign Insider
 description: Dicas, truques e inspiração para clientes do Adobe Campaign que ajudam a desenvolver estratégias de marketing entre canais, aumentar as habilidades do profissional de marketing da equipe e ajudar as organizações a lançar estratégias de marketing entre canais mais avançadas.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+exl-id: 5ab4c6a7-a5ad-4ab5-94c4-7cdff1466c2a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 26%
