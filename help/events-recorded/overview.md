@@ -2,9 +2,9 @@
 title: Eventos da Adobe Experience League
 description: Uma coleção de gravações de eventos forçadas a usar os produtos Adobe Enterprise
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: ecbca1c217f26d718dc5fb69f063c8fbb0f5cdb2
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '747'
 ht-degree: 10%
 
 ---
@@ -158,7 +158,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
       </a>
       <div>
          <a href="/help/learn-from-your-peers/overview.md"><strong>Aprenda com seus colegas</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Marketo</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Experience Manager, Adobe Marketo</em>
       </div>
       <p>
         <br/>
