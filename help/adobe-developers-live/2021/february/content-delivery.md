@@ -12,7 +12,7 @@ kt: 7270
 type: Event
 thumbnail: 332022.jpg
 exl-id: e5c3b842-c8d5-413a-9019-cfe87f1b35ef
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 29%
@@ -23,7 +23,7 @@ ht-degree: 29%
 
 O Adobe Experience Manager as a Cloud Service tem uma eficiente arquitetura de entrega de conteúdo pré-configurada. Demonstrar como tirar o melhor proveito das configurações otimizadas de entrega de conteúdo.
 
-Continuar a conversa em **[Comunidades Experience League](http://adobe.ly/36Yd3v6)**.
+Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332022/?quality=12&learn=on&hidetitle=true)
 

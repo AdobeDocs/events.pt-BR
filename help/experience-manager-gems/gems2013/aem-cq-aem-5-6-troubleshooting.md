@@ -5,7 +5,7 @@ uuid: 5c036b16-f1ea-4ef4-b0bd-07489f972770
 discoiquuid: 207a6ae5-b8d3-40cd-82fc-ee9fcbea17aa
 targetaudience: target-audience advanced
 exl-id: ed8c2251-c1e1-49b1-91ba-978d9aa3040d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 3%
@@ -30,4 +30,4 @@ Thierry Yge, Engenheiro de Suporte Sênior, Adobe
 
 ## Links relacionados {#related-links}
 
-[Documentação](http://docs.adobe.com/docs/en/cq/current/howto/troubleshoot.html)
+[Documentação](https://docs.adobe.com/docs/en/cq/current/howto/troubleshoot.html)

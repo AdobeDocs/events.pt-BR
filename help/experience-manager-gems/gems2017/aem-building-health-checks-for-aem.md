@@ -5,10 +5,10 @@ uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
 exl-id: 03298b03-360c-43af-9ece-ad95b49f581b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 2%
+source-wordcount: '185'
+ht-degree: 7%
 
 ---
 
@@ -26,7 +26,10 @@ Determinar se uma instância do AEM está íntegra não é uma tarefa simples. E
 
 [Obter arquivo](assets/aem-gems-health-checks-for-aem.pdf)
 
+>[!WARNING]
+>
+>O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR).  As versões arquivadas da documentação podem ser acessadas neste [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
+
 ## Links relacionados {#related-links}
 
-* [Documentação do AEM](https://docs.adobe.com/docs/en/aem/6-3/administer/operations/operations-dashboard.html#Health%20Reports)
 * [Documentação do Sling](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)

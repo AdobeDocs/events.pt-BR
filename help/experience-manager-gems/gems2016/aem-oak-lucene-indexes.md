@@ -5,10 +5,10 @@ uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
 exl-id: 671b41ee-851b-460b-86d9-8b3a24587408
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 7%
+source-wordcount: '189'
+ht-degree: 11%
 
 ---
 
@@ -35,5 +35,10 @@ Descrevemos os recursos dos índices Oak Lucene e como eles podem ser usados par
 
 ## Links relacionados {#related-links}
 
-* [Consultas e indexação do Oak](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
+>[!WARNING]
+>
+>O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR).  As versões arquivadas da documentação podem ser acessadas neste [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
+>
+>Como se refere a esta sessão, consulte *Consultas e indexação do Oak* na documentação do AEM 6.1.
+
 * [Documentação do Oak: índice Lucene](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

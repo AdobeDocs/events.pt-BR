@@ -5,10 +5,10 @@ uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 5%
+source-wordcount: '263'
+ht-degree: 8%
 
 ---
 
@@ -35,5 +35,10 @@ Projeto de exemplo
 
 ## Links relacionados {#related-links}
 
-* [Implantar o Screens](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
-* [Conceito do Screens](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)
+
+>[!WARNING]
+>
+>O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR).  As versões arquivadas da documentação podem ser acessadas neste [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
+>
+>Como se refere a esta sessão, consulte *Implantar o Screens* e *Conceito do Screens* na documentação do AEM 6.2.
+

@@ -12,7 +12,7 @@ kt: 7403
 type: Event
 thumbnail: 332305.jpg
 exl-id: 2acdcc8d-dafa-4b49-bfa5-502e7058f29b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Essa sessão se concentra na jornada do Forms, do local para a nuvem. Também abordará a capacitação de casos de uso de inscrição digital por meio de demonstrações.
 
-Continuar a conversa em **[Comunidades Experience League](http://adobe.ly/36Yd3v6)**.
+Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332305/?quality=12&learn=on&hidetitle=true)
 
