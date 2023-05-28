@@ -1,6 +1,6 @@
 ---
 title: Cloud Service Adobe Experience Manager Forms - Inscrição digital segura de vários canais
-description: Saiba como criar experiências modernas de inscrição digital seguras e modernas com o Adobe Experience Manager Forms as a Cloud Service. Esta sessão destacará as práticas recomendadas para proteger dados processados em workflows, externalizar dados enviados para o armazenamento do Azure e coletar insights usando o Adobe Analytics com o Adaptive Forms no serviço de nuvem.
+description: Saiba como criar experiências modernas de inscrição digital seguras e modernas com o Adobe Experience Manager Forms as a Cloud Service. Esta sessão destacará as práticas recomendadas para proteger dados processados em workflows, externalizar dados enviados para o armazenamento do Azure e coletar insights usando o Adobe [!DNL Analytics] com o Adaptive Forms no Cloud Service.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ version: Cloud Service
 kt: 9194
 type: Event
 exl-id: 5ac915d0-9e53-4bc8-9d4d-9d8dafe0c06e
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 15%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 15%
 
 Saiba como criar experiências modernas de inscrição digital seguras e modernas com o Adobe Experience Manager Forms as a Cloud Service.
 
-Esta sessão destacará as práticas recomendadas para proteger dados processados em workflows, externalizar dados enviados para o armazenamento do Azure e coletar insights usando o Adobe Analytics com o Adaptive Forms no serviço de nuvem.
+Esta sessão destacará as práticas recomendadas para proteger dados processados em workflows, externalizar dados enviados para o armazenamento do Azure e coletar insights usando o Adobe [!DNL Analytics] com o Adaptive Forms no Cloud Service.
 
 Também incluiremos uma pré-visualização de algumas integrações em nosso roteiro, como o Microsoft PowerAutomate e a integração do Teams com o Adobe Experience Manager Forms.
 

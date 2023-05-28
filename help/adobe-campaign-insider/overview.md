@@ -1,17 +1,16 @@
 ---
-title: Série Adobe Campaign Insider
-description: Dicas, truques e inspiração para clientes do Adobe Campaign que ajudam a desenvolver estratégias de marketing entre canais, aumentar as habilidades do profissional de marketing da equipe e ajudar as organizações a lançar estratégias de marketing entre canais mais avançadas.
-exl-id: 5ab4c6a7-a5ad-4ab5-94c4-7cdff1466c2a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+title: Adobe [!DNL Campaign] Série Insider
+description: Dicas e truques e inspiração para o Adobe [!DNL Campaign] para ajudar os clientes a desenvolver estratégias de marketing entre canais, aumentar as habilidades do profissional de marketing em equipe e ajudar as organizações a lançar estratégias de marketing entre canais mais avançadas.
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 26%
+source-wordcount: '110'
+ht-degree: 5%
 
 ---
 
-# Série Adobe Campaign Insider
+# Adobe [!DNL Campaign] Série Insider
 
-Dicas, truques e inspiração para clientes do Adobe Campaign que ajudam a desenvolver estratégias de marketing entre canais, aumentar as habilidades do profissional de marketing da equipe e ajudar as organizações a lançar estratégias de marketing entre canais mais avançadas.
+Dicas e truques e inspiração para o Adobe [!DNL Campaign] para ajudar os clientes a desenvolver estratégias de marketing entre canais, aumentar as habilidades do profissional de marketing em equipe e ajudar as organizações a lançar estratégias de marketing entre canais mais avançadas.
 
 >[!TIP]
 >
@@ -23,19 +22,19 @@ Dicas, truques e inspiração para clientes do Adobe Campaign que ajudam a desen
   <tr>
    <td>
       <a href="2022/cross-channel.md">
-      <img alt="Alinhe seu marketing entre canais com o Adobe Campaign Classic" src="assets/cross-channel.png"/>
+      <img alt="Alinhe seu marketing entre canais com o Adobe [!DNL Campaign Classic]" src="assets/cross-channel.png"/>
       </a>
       <div>
-         <a href="./2022/cross-channel.md"><strong>Alinhe seu marketing entre canais com o Adobe Campaign Classic</strong></a>
+         <a href="./2022/cross-channel.md"><strong>Alinhe seu marketing entre canais com o Adobe [!DNL Campaign Classic]</strong></a>
          <br/>
       </div>
    </td>
    <td>
       <a href="2022/integrations.md">
-      <img alt="Integrações do Adobe Campaign com um ecossistema de marketing" src="assets/integrations.png"/>
+      <img alt="Adobe [!DNL Campaign] integrações com um ecossistema de marketing" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>Integrações do Adobe Campaign com um ecossistema de marketing</strong></a>
+         <a href="./2022/integrations.md"><strong>[!DNL Campaign]Integrações do Adobe com um ecossistema de marketing</strong></a>
          <br/>
       </div>
    </td>

@@ -2,10 +2,10 @@
 title: Skill Builder - Jornadas do cliente
 description: Série de webinários gravada para ajudar você a desenvolver perfis de clientes em tempo real, extraindo dados de todas as fontes para criar jornadas personalizadas entre canais.
 exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 24%
+source-wordcount: '207'
+ht-degree: 9%
 
 ---
 
@@ -19,28 +19,28 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="Melhor juntos - Adobe Marketo Engage e Real-Time CDP" src="https://video.tv.adobe.com/v/343824?format=jpeg" />
+      <img alt="Melhor juntos - Adobe [!DNL Marketo Engage] e REAL-TIME CDP" src="assets/343824.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-        <strong>Melhor juntos - Adobe Marketo Engage e Real-Time CDP</strong>
+        <strong>Melhor juntos - Adobe [!DNL Marketo Engage] e REAL-TIME CDP</strong>
       </a>
     </div>
     <p>
-    <em>Saiba como orquestrar campanhas B2B com Marketo Engage e RT-CDP (edição B2B) e quais são os principais casos de uso e vantagens.</em>
+    <em>Saiba como orquestrar campanhas B2B com [!DNL Marketo Engage] e RT-CDP (edição B2B) e quais são os principais casos de uso e vantagens.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-      <img alt="Desenvolver e personalizar modelos de dados no Adobe Campaign Classic" src="https://video.tv.adobe.com/v/343829?format=jpeg" />
+      <img alt="Desenvolver e personalizar modelos de dados no Adobe [!DNL Campaign Classic]" src="assets/343829.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>Desenvolver e personalizar modelos de dados no Adobe Campaign Classic</strong>
+        <strong>Desenvolver e personalizar modelos de dados no Adobe [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>
-    <em>Participe desta sessão com nosso treinador do Campaign para saber como desenvolver um esquema de dados dentro de um modelo de dados no Campaign Classic.</em>
+    <em>Participe desta sessão com nosso treinador do Campaign para saber como desenvolver um esquema de dados dentro de um modelo de dados no [!DNL Campaign Classic].</em>
     <p>
   </td>  
   <td>

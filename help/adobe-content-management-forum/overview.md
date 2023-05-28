@@ -2,9 +2,9 @@
 title: Fórum de gerenciamento de conteúdo do Adobe
 description: Uma coleção de gravações de sessões do Fórum de gerenciamento de conteúdo do Adobe
 exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ Participe das sessões abaixo para saber:
 * Como modernizar o gerenciamento de experiência que democratiza a criação de conteúdo, facilitando a entrega omnicanal e dimensionando a personalização para fazer com que cada experiência valha a pena.
 * Como criar uma cadeia de fornecimento de conteúdo que seja dimensionada para personalização
 * Como acelerar o tempo de comercialização para a criação de novos sites e reduzir a dependência de recursos técnicos
-* As mais recentes inovações do Experience Manager oferecidas como um serviço nativo em nuvem e como você se adapta às expectativas do mercado em constante mudança enquanto se mantém à frente
-* Como criar sites mais rapidamente com o Adobe Experience Manager as a Headless CMS, usando GraphQL e fragmentos de conteúdo
+* As mais recentes inovações da [!DNL Experience Manager] oferecido como um serviço nativo em nuvem e como você se adapta às expectativas do mercado em constante mudança enquanto se mantém à frente
+* Como criar sites mais rapidamente com o Adobe [!DNL Experience Manager] as a Headless CMS, usando GraphQL e fragmentos de conteúdo
 * Práticas recomendadas do desenvolvedor para acelerar o tempo de entrada no mercado do Adobe Experience Manager Sites
 
 >[!TIP]
@@ -46,12 +46,12 @@ Participe das sessões abaixo para saber:
       <img alt="Ativos para todos" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Extensão do Adobe Experience Manager Headless com o Construtor de aplicativos do Adobe</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>Extensão do Adobe [!DNL Experience Manager] Headless com Adobe [!DNL App Builder]</strong></a>         
          <br/><em>com Purnima Rachoor Roy</em>
       </div>
       <p>
         <br/>
-          Saiba mais sobre como o Assets Essentials é o novo sistema de Gerenciamento de ativos digitais para departamentos e empresas de médio porte.
+          Saiba como [!DNL Assets Essentials] é o novo [!DNL Digital Asset Management] para departamentos e empresas de médio porte.
       </p>
    </td>
    <td>

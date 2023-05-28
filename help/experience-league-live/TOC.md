@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 02e78a5b7959dbcca9b73845266e3aa021bf7fd9
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 9%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 9%
    + [Ep 23: Coloque a coleta de dados e o encaminhamento de eventos em funcionamento com apenas alguns cliques!](episodes/exl-live-episode-4-25-23.md)
    + [Ep 22: Acelerando suas experiências na Web](episodes/exl-live-episode-2-16-23.md)
    + [Ep 21: Destaques da coleta de dados e roteiro](episodes/exl-live-episode-1-26-23.md)
-   + [Ep 20: Analytics no escritório ou em movimento](episodes/exl-live-episode-11-18-22.md)
+   + [Ep 20: [!DNL Analytics] no escritório ou fora dele](episodes/exl-live-episode-11-18-22.md)
    + [Ep 19: Forneça a oferta certa no momento certo com a gestão de decisões](episodes/exl-live-episode-10-25-22.md)
    + [Ep 18: Executar suas campanhas no Adobe Journey Optimizer](episodes/exl-live-episode-09-22-22.md)
    + [Ep 17: Fornecendo uma experiência do cliente mais personalizada em tempo real](episodes/exl-live-episode-09-20-22.md)
@@ -44,5 +44,5 @@ ht-degree: 9%
    + [Ep 4: Quem clicou nisso? E então o que eles fizeram?](episodes/exl-live-episode-04.md)
    + [Ep 3: Dicas de especialistas para fazer suas campanhas de fim de ano se destacarem](episodes/exl-live-episode-03.md)
    + [Ep 2: Torne seu próximo segmento de público-alvo mais inteligente do que nunca](episodes/exl-live-episode-02.md)
-   + [Ep 1: Minhas três dicas de implementação favoritas do Adobe Analytics](episodes/exl-live-episode-01.md)
+   + [Ep 1: Meus três Adobe favoritos [!DNL Analytics] Dicas de implementação](episodes/exl-live-episode-01.md)
 + [Ativos Experience League LIVE](exl-live-assets.md)

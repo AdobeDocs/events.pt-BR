@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Coleção de gravações de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 8d5f1a59eb757539e8e78d3cc24db90d5eb9eb52
+source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 22%
+source-wordcount: '72'
+ht-degree: 23%
 
 ---
 
@@ -33,6 +33,6 @@ ht-degree: 22%
       + [Dominar o conteúdo e os fragmentos de experiência](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
    + Maio de {#may2023}
-      + [Rastrear a personalização no código de escala usando o Marketo Engage](marketo/may2023/personalization-at-scale.md)
+      + [Rastrear a personalização no código de escala usando [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + Março de {#mar2023}
       + [Como fazer seu [!DNL Adobe Marketo Engage] Conteúdo escalonável](marketo/mar2023/templates-tokens-teamwork.md)
