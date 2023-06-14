@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=sNsFedPnhL8
 event-cta-url-reg: null
 event-start-time: 2023-6-14 08:00-7
 event-guests: Sandra Hausmann,Robert Calangiu,Erik Wiener,Daniel Cristian Popescu
-source-git-commit: 66db5d4c9ae904c4dfa7f69c00142538021523b4
+source-git-commit: ebf56636b1eff403aebdda4e3417fdf12a0955eb
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,4 @@ ht-degree: 0%
 
 O novo canal da Web permite que os profissionais de marketing criem campanhas da Web com um designer visual WYSIWYG. Além disso, o Journey Optimizer agora permite experimentar conteúdo em qualquer canal — email, Web, push, no aplicativo, SMS e muito mais.
 
-[![ExL LIVE 14 de junho de 2023](../assets/Jun14_2023_exl_live_banner_web_1920_WebBanner.png)](https://www.youtube.com/watch?v=sNsFedPnhL8)
-
-Clique na imagem de exibição acima para acessar o programa de transmissão ao vivo.
+>[!VIDEO](https://video.tv.adobe.com/v/3420129/?learn=on)
