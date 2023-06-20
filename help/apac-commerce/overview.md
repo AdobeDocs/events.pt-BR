@@ -2,9 +2,9 @@
 title: Série de webinários do APAC Commerce
 description: A série de webinários de comércio da APAC é uma cadência mensal de workshops para clientes do Adobe Commerce que abrange uma grande variedade de tópicos, desde práticas recomendadas até roteiros de produtos e tendências do setor.
 exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -44,16 +44,16 @@ A série de webinários de comércio da APAC é uma cadência mensal de workshop
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
-      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/345148?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
+      <img alt="Estratégias de comércio combináveis para comércio eletrônico escalável e ágil" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
-        <strong>New Relic Masterclass</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
+        <strong>Estratégias de comércio combináveis para comércio eletrônico escalável e ágil</strong>
       </a>
     </div>
     <p>
-    <em>Participe deste webinário para saber como assumir o controle de sua infraestrutura com o New Relic. Aborde sua próxima campanha com absoluta confiança, acessando e entendendo seus dados de infraestrutura.</em>
+    <em>Junte-se a nós para um webinário brilhante que aprofundará o mundo da arquitetura combinável e como ela está revolucionando o cenário do comércio eletrônico.</em>
     <p>
   </td>  
 </tr>
