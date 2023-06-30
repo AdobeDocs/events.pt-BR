@@ -6,10 +6,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: ebf56636b1eff403aebdda4e3417fdf12a0955eb
+source-git-commit: 32f483cf4faf83dfcf671ea5b9836a9b0f960105
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 46%
+source-wordcount: '169'
+ht-degree: 47%
 
 ---
 
@@ -23,8 +23,16 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 
 <table>
 <tr>
-  <td>
-    Volte em breve para saber mais detalhes sobre o nosso próximo programa no <b>20 de julho de 2023</b>. Falaremos sobre o novo <b>Recursos de composição e do portal de público-alvo no Real-Time CDP</b>.
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-7-20-23.md">
+      <img alt="Experience League LIVE 20 de julho de 2023" src="assets/July20_2023_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-7-20-23.md">
+        <strong>Públicos acionáveis, em um local, de qualquer origem, com controles padrão</strong>
+      </a>
+      <br/><em>com Aaron Shields, Kim Whatcott e Andres Monroy</em>
+      <br/><em>20 de julho de 2023</em>
+    </div>
   </td>
 </tr>
 </table>
