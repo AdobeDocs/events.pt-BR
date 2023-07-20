@@ -1,7 +1,7 @@
 ---
 title: Crie experiências excelentes com seus dados primários
 description: Descubra como fundir dados de cookies primários com identificadores duráveis baseados em consentimento para obter acesso ao registro dourado do cliente.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Identities
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -9,7 +9,7 @@ kt: 9727
 thumbnail: 340369.jpeg
 type: Event
 exl-id: 28a39086-09d5-4998-93e1-927df4e12766
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%

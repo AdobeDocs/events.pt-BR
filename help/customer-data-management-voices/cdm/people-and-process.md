@@ -1,14 +1,14 @@
 ---
 title: Práticas recomendadas de CDP — pessoas e processos
 description: Saiba como obter o máximo de sua CDP investindo nas pessoas e nos processos por trás da tecnologia. Nina Caruso do Adobe compartilha como configurar sua organização ... (as descrições devem ter entre 60 e 160 caracteres)
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10634
 thumbnail: 344313.jpeg
 exl-id: c7ff138e-0865-4b89-a1e6-be9cdd95059e
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 6%
