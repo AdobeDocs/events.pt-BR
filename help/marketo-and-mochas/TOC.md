@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+source-git-commit: 95a4f33eb72b0feb1d15875b04ee67d7256d1bd6
 workflow-type: tm+mt
-source-wordcount: '24'
-ht-degree: 12%
+source-wordcount: '28'
+ht-degree: 10%
 
 ---
 
@@ -22,7 +22,8 @@ ht-degree: 12%
 + [Visão geral](overview.md)
 + 2023 {#2023}
    + [Atribuição](2023/attribution.md)
-   + [Pontuação de lead](2023/lead-scoring.md)
-   + [Modelagem do ciclo de vida](2023/lifecycle-modeling.md)
    + [Capacidade de entrega - Parte 1](2023/deliverability-part-one.md)
    + [Capacidade de entrega - Parte 2](2023/deliverability-part-two.md)
+   + [Pontuação de lead](2023/lead-scoring.md)
+   + [Modelagem do ciclo de vida](2023/lifecycle-modeling.md)
+   + [Canais online vs. offline](2023/online-offline.md)
