@@ -4,11 +4,12 @@ description: Saiba como medir e rastrear a velocidade usando o [!DNL Workfront] 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9912
+jira: KT-9912
+last-substantial-update: 2023-08-14T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
 workflow-type: tm+mt
-source-wordcount: '3919'
+source-wordcount: '3918'
 ht-degree: 1%
 
 ---
@@ -30,7 +31,7 @@ Formato: Data
 Cálculo:
 
 ```
-IF(ISBLANK(First Commit Date),Default Baseline.Planned Completion Date,First Commit Date)
+IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
 **Primeira duração**
@@ -40,7 +41,7 @@ Formato: Texto
 Cálculo:
 
 ```
-IF(ISBLANK(First Duration),Default Baseline.Duration,First Duration)
+IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
 **Taxa Trabalho para Confirmação**
@@ -50,7 +51,7 @@ Formato:Número
 Cálculo:
 
 ```
-ROUND(DIV(Actual Duration,First Duration),1)
+ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
 **Status da Proporção Trabalho para Confirmação**
@@ -60,7 +61,7 @@ Formato:Texto
 Cálculo:
 
 ```
-IF({Work-to-Commit Ratio}>2,"Terrible",IF({Work-to-CommitRatio}>1.6,"Poor",IF({Work-to-Commit Ratio}>1.2,"Not Bad","Exc ellent")))
+IF({DE:Work-to-Commit Ratio}>2,"Terrible",IF({DE:Work-to-Commit Ratio}>1.6,"Poor",IF({DE:Work-to-Commit Ratio}>1.2,"Not Bad","Excellent")))
 ```
 
 **Velocidade ajustada**
@@ -70,7 +71,7 @@ Formato:Número
 Cálculo:
 
 ```
-ROUND(DIV(Actual Duration,Duration),1)
+ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
 **Status da Velocidade Ajustada**
@@ -80,7 +81,7 @@ Formato:Texto
 Cálculo:
 
 ```
-IF(Adjusted Velocity>2,"Terrible",IF(Adjusted Velocity>1.6,"Poor",IF(Adjusted Velocity>1.2,"Not Bad","Excellent")))
+IF({DE:Adjusted Velocity}>2,"Terrible",IF({DE:Adjusted Velocity}>1.6,"Poor",IF({DE:Adjusted Velocity}>1.2,"Not Bad","Excellent")))
 ```
 
 ## P&amp;R
@@ -95,7 +96,7 @@ Para uma situação como essa, você pode usar a filtragem e a edição em massa
 
 Estas são as etapas:
 
-1. Determine quais valores de Estado deseja mapear para valores de Condição. Por exemplo, digamos que você tenha um valor de Estado de &quot;Atrasado&quot; e &quot;Muito atrasado&quot; que são mapeados para um valor de Condição de &quot;Com Problemas&quot;
+1. Determine quais valores de Estado deseja mapear para valores de Condição. Por exemplo, digamos que você tenha um valor de Estado de &quot;Atrasado&quot; e &quot;Muito Atrasado&quot; que são mapeados para um valor de Condição de &quot;Com Problemas&quot;
 1. Criar um relatório de projeto mostrando todos os projetos com um valor de Estado de &quot;Atrasado&quot; e &quot;Muito Atrasado&quot;
 1. Execute o relatório. Verifique se está mostrando todos os projetos (consulte as opções na parte inferior direita do relatório)
 1. Clique na caixa de seleção na parte superior esquerda do relatório na barra com os cabeçalhos da coluna. Isso selecionará todos os projetos no relatório
@@ -119,7 +120,7 @@ A fórmula para isso é Duração real/Duração planejada (que é armazenada no
 
 Taxa Trabalho para Confirmação
 
-Essa fórmula é como a Velocidade ajustada, exceto que, em vez de usar o valor da Duração planejada do replanejamento final, queremos usar a Duração planejada prometida inicialmente ao cliente. Estamos presumindo que a linha de base Original contém essas informações (e estamos planejando a partir de agora solicitar que nossos gerentes de projeto planejem seus projetos dessa maneira para que possamos capturar dados precisos). Capturamos esse valor de duração da linha de base original e o chamamos de Primeira duração.
+Essa fórmula é como a Velocidade ajustada, exceto que, em vez de usar o valor da Duração planejada do replanejamento final, queremos usar a Duração planejada prometida inicialmente ao cliente. Estamos presumindo que a linha de base Original contém essas informações (e estamos planejando a partir de agora solicitar que nossos gerentes de projeto planejem seus projetos dessa forma para que possamos capturar dados precisos). Capturamos esse valor de duração da linha de base original e o chamamos de Primeira duração.
 
 Dividindo a Duração Real pela Duração Planejada ou pela Primeira Duração, obtemos um número que pode nos informar a proximidade com que chegamos ao destino. Se a Duração planejada ou a Primeira Duração for igual à Duração real, o índice será igual a 1. Se a Duração real for maior, a resposta será maior que 1. Quanto maior o número pior nós fizemos na reunião de nossa data.
 
@@ -251,9 +252,9 @@ Estou tentando determinar se é possível criar um painel com uma área que proc
 
 **Resposta**
 
-Vamos ver se eu entendo sua pergunta. Suponha que eu tenha um formulário personalizado de tarefa chamado Formulário Tammy com um campo chamado Campo Tammy.
+Vamos ver se eu entendo a sua pergunta. Suponha que eu tenha um formulário personalizado de tarefa chamado Formulário Tammy com um campo chamado Campo Tammy.
 
-Você está querendo um relatório de tarefas que mostrará todas as tarefas que têm Tammy Form anexado e onde Tammy Field está tem algum valor nele.
+Você está querendo um relatório de tarefas que irá mostrar todas as tarefas que têm Tammy Form anexado e onde Tammy Field tem algum valor nele.
 
 Sim, você pode fazer isso. Você só precisaria de um filtro no seu relatório de tarefas com duas regras de filtro:
 
@@ -267,7 +268,7 @@ Existe uma maneira de criar um relatório para procurar um documento nomeado esp
 
 **Resposta**
 
-Sim. É necessário criar um relatório de documento. Parece que você deseja fornecer um nome de documento específico sempre que executar o relatório. Se for esse o caso, recomendaria ir até Opções de relatório e selecionar Prompts de relatório. Adicione um prompt para Documento >> Nome.
+Sim. É necessário criar um relatório de documento. Parece que você deseja fornecer um nome de documento específico sempre que executar o relatório. Se esse for o caso, eu recomendaria ir até Opções de relatório e selecionar Prompts de relatório. Adicione um prompt para Documento >> Nome.
 
 **Pergunta**
 
@@ -339,9 +340,9 @@ Um atalho para adicionar formulários personalizados a um grande número de proj
 
 A melhor maneira de pensar sobre agrupamentos em relatórios de listas é:
 
-Primeiro, você controla quais itens são exibidos na lista usando a guia Filtro. Não haverá entradas duplicadas. O filtro é aplicado a cada objeto. Se ele passar pelo filtro, aparecerá uma vez na lista, caso contrário, não aparecerá.
+Primeiro, você controla quais itens são exibidos na lista usando a guia Filtro. Não haverá entradas duplicadas. O filtro é aplicado a cada objeto. Se ele passar pelo filtro, aparecerá uma vez na lista; caso contrário, não aparecerá.
 
-O próximo agrupamento é aplicado à lista filtrada. Um agrupamento identifica uma coisa sobre os objetos na lista, como o nome do portfólio em que está (não é possível agrupar em uma lista de itens, somente em uma única coisa). Assim, todos os objetos com o mesmo valor aparecerão nesse agrupamento, como todos os projetos no mesmo portfólio. Qualquer projeto que não tenha um portfólio selecionado aparecerá no agrupamento chamado &quot;Sem valor&quot;.
+O próximo agrupamento é aplicado à lista filtrada. Um agrupamento identifica uma coisa sobre os objetos na lista, como o nome do portfólio em que ele está (não é possível agrupar em uma lista de itens, somente em uma única coisa). Assim, todos os objetos com o mesmo valor aparecerão nesse agrupamento, como todos os projetos no mesmo portfólio. Qualquer projeto que não tenha um portfólio selecionado aparecerá no agrupamento chamado &quot;Sem valor&quot;.
 
 Como resultado, não há como qualquer objeto aparecer em mais de um agrupamento. E se um objeto aparece na lista é totalmente controlado pelo filtro (e se a pessoa que está executando o relatório tiver direitos para visualizá-lo).
 
@@ -353,11 +354,11 @@ Você recomendaria algum outro relatório para rastrear a Velocity? Apenas uma r
 
 Assim como em qualquer relatório, a primeira coisa que você precisa fazer é decidir o que deseja saber. A próxima etapa é acessar essas informações, o que em alguns casos significa que você precisa começar a rastreá-las.
 
-Uma razão pela qual decidi comparar a Duração real com dois tipos de Duração planejada foi porque pensei que ela fornecesse insights interessantes sobre a velocidade. Os dados também já estavam disponíveis, portanto, não precisei começar a rastreá-los. Com alguns cálculos eu poderia extrair os dados em um formulário que eu poderia relatar sobre ele.
+Uma razão pela qual decidi comparar a Duração real com dois tipos de Duração planejada foi porque pensei que ela fornecesse insights interessantes sobre a velocidade. Os dados também já estavam disponíveis, então não tive que começar a rastreá-los. Com alguns cálculos eu poderia extrair os dados em um formulário que eu poderia relatar sobre ele.
 
 Mas você também pode decidir rastrear outras informações sobre tarefas ou projetos para relatar.
 
-O Workfront não tem nenhum relatório velocity integrado, portanto, eu recomendaria que você e sua equipe fizessem um brainstorming sobre o que você deseja saber para determinar a velocidade e, em seguida, ver o que precisa rastrear.
+O Workfront não tem nenhum relatório velocity integrado, portanto, eu recomendaria que você e sua equipe fizessem um brainstorm sobre o que você deseja saber para determinar a velocidade e, em seguida, ver o que você precisa rastrear.
 
 **Pergunta**
 
@@ -367,7 +368,7 @@ Você consegue calcular algo no nível da COLUNA? Em vez de chamar um CAMPO calc
 
 Teria sido possível usar uma expressão de valor no modo de texto para fazer esses cálculos. Não poderíamos ter feito a Primeira Duração ou a Primeira Data de Confirmação, mas precisávamos capturá-los em um local onde não seriam alterados.
 
-Quanto ao Status da taxa de trabalho para confirmação e Status da velocidade ajustada, eles precisavam ser campos personalizados para que pudéssemos usá-los na guia Gráfico. A guia Chart não reconhece agrupamentos em modo texto, eles precisam ser campos personalizados. E como precisávamos que a Taxa de trabalho para compromisso e a Velocidade ajustada calculassem esses status, também precisávamos que eles fossem campos personalizados. Nesse caso, todos precisavam ser campos personalizados, mas é sempre bom considerar de ambas as maneiras e escolher o que funcionará melhor. Obrigado pela pergunta.
+Quanto ao Status da taxa de trabalho para confirmação e Status da velocidade ajustada, eles precisavam ser campos personalizados para que pudéssemos usá-los na guia Gráfico. A guia Chart não reconhece agrupamentos em modo texto, eles precisam ser campos personalizados. E como precisávamos que a Taxa de trabalho para compromisso e a Velocidade ajustada calculassem esses status, também precisávamos que eles fossem campos personalizados. Nesse caso, todos eles precisavam ser campos personalizados, mas é sempre bom considerar de ambas as maneiras e escolher o que funcionará melhor. Obrigado pela pergunta.
 
 **Pergunta**
 
@@ -377,7 +378,7 @@ Nossos projetos mudam com frequência devido a atrasos ou alterações por parte
 
 A prática recomendada é usar uma lista suspensa para rastrear isso. Coloque quantos &quot;motivos&quot; você puder pensar nele para começar, em seguida, adicione uma opção &quot;outro&quot; para capturar um motivo que não está na lista. Se o novo motivo parecer ou se tornar comum, adicione-o à lista suspensa. Você pode facilmente criar relatórios em uma lista suspensa e agrupar nesse campo (não é possível agrupar em caixas de seleção ou em uma lista suspensa de várias seleções).
 
-Só mais um comentário sobre isso. Talvez você não queira incluir todos os projetos nos relatórios do Velocity. Se você está corrigindo erros ou &quot;indo aonde ninguém foi antes&quot;, provavelmente não está assumindo o mesmo tipo de compromisso com uma data de conclusão como se estivesse construindo uma casa que já construiu muitas vezes antes.
+Só mais um comentário sobre isso. Talvez você não queira incluir todos os projetos nos relatórios do Velocity. Se você está consertando erros ou &quot;indo onde ninguém foi antes&quot; você provavelmente não está fazendo o mesmo tipo de compromisso com uma data de conclusão como se você estivesse construindo uma casa que você construiu muitas vezes antes.
 
 Portanto, concentre seus relatórios de velocidade em lugares onde eles podem ajudá-lo a atingir suas metas.
 
@@ -403,7 +404,7 @@ Você pode restringir os direitos de exibição e edição para campos em um for
 
 **Resposta**
 
-Sim. É necessário criar um relatório de documento. Parece que você deseja fornecer um nome de documento específico sempre que executar o relatório. Se for esse o caso, recomendaria ir até Opções de relatório e selecionar Prompts de relatório. Adicione um prompt para Documento >> Nome.
+Sim. É necessário criar um relatório de documento. Parece que você deseja fornecer um nome de documento específico sempre que executar o relatório. Se esse for o caso, eu recomendaria ir até Opções de relatório e selecionar Prompts de relatório. Adicione um prompt para Documento >> Nome.
 
 **Pergunta**
 
