@@ -7,7 +7,7 @@ team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: 063fb4f12e8f5b61f21c96cf86b00966d14b3da9
+source-git-commit: 5f6bb627a24b2b3018094ed31842c1e712785f48
 workflow-type: tm+mt
 source-wordcount: '3958'
 ht-degree: 1%
@@ -27,8 +27,7 @@ Economize tempo copiando e colando os cálculos abaixo.
 >[!NOTE]
 >
 >A sintaxe para cálculos de campo personalizado mudou desde que a apresentação foi feita em 2019, no entanto, os conceitos e outras instruções fornecidas na apresentação ainda são precisos.
-
-Os cálculos incluídos abaixo foram atualizados para refletir as regras de sintaxe mais recentes.
+>**Os cálculos incluídos abaixo foram atualizados para refletir as regras de sintaxe mais recentes.**
 
 **Primeira data de compromisso**
 
