@@ -3,9 +3,9 @@ title: Eventos da Adobe Experience League
 description: Uma coleção de gravações de eventos focada no uso de produtos Adobe Enterprise
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
+source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '895'
 ht-degree: 9%
 
 ---
@@ -80,7 +80,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
       </a>
       <div>
          <a href="/help/aem-champion-office-hours/overview.md"><strong>Horário comercial do AEM Champion</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Manager, Adobe Campaign, Adobe Marketo, Adobe Target, Customer Journey Analytics, Real-Time CDP</em>
       </div>
       <p>
         <br/>
@@ -221,6 +221,21 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
          A Marketo e o Mochas ajudarão você a entender melhor como usar o Adobe Marketo para dar suporte à sua empresa.
       </p>
     </td>
+    </tr>
+    <tr>
+    <td>
+      <a href="/help/office-hours/overview.md">
+      <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
+      </a>
+      <div>
+         <a href="/help/mbi-webinars/overview.md"><strong>Office Hours</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         O Office Hours é uma abordagem proativa para o desvio de casos, oferecendo aos clientes webinários com soluções específicas. 
+      </p>
+    </td>
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="Webinários do MBI" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -234,8 +249,6 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
          A série de webinários de MBI é um evento periódico para clientes de MBI. Os webinários cobrem uma ampla variedade de tópicos e práticas recomendadas para usar o MBI ao máximo seu potencial.
       </p>
     </td>
-    </tr>
-    <tr> 
     <td>
       <a href="/help/skill-builder/overview.md">
       <img style="width:100%" alt="Skill Builder" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
@@ -249,6 +262,8 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
          O Skill Builder é uma série de webinários projetada para criar sua base de conhecimento e maximizar seu investimento no Adobe Experience Cloud.
       </p>
     </td>
+    </tr>
+    <tr>     
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo e Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
