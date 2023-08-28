@@ -4,9 +4,9 @@ user-guide-breadcrumb: "[!DNL Campaign] Insider Events"
 user-guide-description: Dicas e truques e inspiração para o Adobe [!DNL Campaign] para ajudar os clientes a desenvolver estratégias de marketing entre canais, aumentar as habilidades do profissional de marketing em equipe e ajudar as organizações a lançar estratégias de marketing entre canais mais avançadas.
 feature-set: Campaign
 solution: Campaign
-source-git-commit: 4dab34d66617ff8cc6f4a4daaea06badc3987962
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '79'
 ht-degree: 25%
 
 ---
@@ -23,3 +23,5 @@ ht-degree: 25%
    + [Alinhe seu marketing entre canais com o [!DNL Campaign Classic]](2022/cross-channel.md)
    + [Equipe, habilidades e design organizacional necessários para oferecer suporte ao marketing entre canais](2022/team-skills-org-design.md)
    + [Dicas para economizar tempo de um profissional](2022/tips.md)
++ 2023 {#2023}
+   + [Destaque do cliente](2023/customer-spotlight-center-parcs.md)

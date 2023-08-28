@@ -1,15 +1,17 @@
 ---
 title: Lógica avançada de lista inteligente e armadilhas comuns
-description: Nesta primeira sessão, abordaremos a visão geral da lógica de lista inteligente complexa e avançada, TODOS, QUALQUER UM e Filtros avançados, vários acionadores, filtros negativos e restrições negativas, problemas comuns e dicas de solução de problemas
+description: visão geral da lógica complexa e avançada de lista inteligente, TODOS, QUALQUER UM e Filtros avançados, vários acionadores, filtros negativos e restrições negativas, problemas comuns e dicas de solução de problemas
+feature-set: Marketo Engage
+feature: Smart Lists
 role: Admin, User
 level: Beginner
 doc-type: Event
 last-substantial-update: 2023-08-17T00:00:00Z
 jira: KT-13817
 thumbnail: 3422531.jpeg
-source-git-commit: 0b0fd8d660ca8ac4eb94f7c0fc0c6172b2c303de
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -17,6 +19,6 @@ ht-degree: 0%
 
 # Marketo Engage - Lógica avançada de lista inteligente e armadilhas comuns
 
-Nesta primeira sessão, abordaremos: Visão geral da lógica de lista inteligente complexa e avançada, TODOS, QUALQUER UM e Filtros avançados, vários acionadores, filtros negativos e restrições negativas, problemas comuns e dicas de solução de problemas
+Nesta primeira sessão, abordamos uma visão geral da lógica de lista inteligente complexa e avançada, TODOS, QUALQUER UM e Filtros avançados, vários acionadores, filtros negativos e restrições negativas, problemas comuns e dicas de solução de problemas
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422531/?learn=on)

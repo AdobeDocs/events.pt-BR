@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Coleção de gravações de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 21%
+source-wordcount: '97'
+ht-degree: 20%
 
 ---
 
@@ -15,6 +15,8 @@ ht-degree: 21%
 + [Criadores de experiências](overview.md)
 + Analytics {#analytics}
    + 2023 {#2023}
+      + Agosto de {#aug2023}
+         + [Como explorar todo o potencial das regras de processamento no Adobe Analytics](analytics/aug2023/processing-rules.md)
       + Fevereiro de {#feb2023}
          + [Criação de uma cultura orientada por dados](analytics/feb2023/data-driven-culture.md)
          + [Perguntas e respostas sobre como criar uma cultura orientada por dados](analytics/feb2023/data-driven-culture-q-and-a.md)
