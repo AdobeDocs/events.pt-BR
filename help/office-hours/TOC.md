@@ -2,10 +2,10 @@
 user-guide-title: Adobe Office Hours
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: O Office Hours é uma abordagem proativa para o desvio de casos, oferecendo aos clientes webinários com soluções específicas.
-source-git-commit: cb7148bcc186fc747d97476d12648e40cc7e147a
+source-git-commit: dcddd5ed81868ffcd0bf2a41fd898800129a4bc0
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 14%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 14%
 + 2023 {#2023}
    + Adobe Campaign {#adobe-campaign-office-hours}
       + [Visão geral do canal de SMS e dicas de solução de problemas](2023/ac-sms-channel-overview.md)
+   + Adobe Analytics {#adobe-analytics}
+      + [Práticas recomendadas do Launch](2023/launch-best-practices.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Permissões Admin Console](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}
