@@ -11,17 +11,17 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: bbbaa32a14c7da72225a94a6c15533aa0c3dd469
+source-git-commit: c475497b293909a5ea8365463a0d075bc34d4e01
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 0%
+source-wordcount: '350'
+ht-degree: 1%
 
 ---
 
 
-# Principal a arte da certificação de Experience Manager: Prepare-se, Prepare-se, Obtenha certificação!
+# Domine a arte da certificação de Experience Manager: Prepare-se, Prepare-se, Obtenha certificação!
 
-Este webinário será realizado em **28 de junho**, 2023 (8h PST). Registre-se por meio deste [link da página de eventos](https://adobe.ly/3Ni6XeL).
+Este webinário foi realizado em **28 de junho**, 2023. Veja a gravação abaixo.
 
 ## Descrição da sessão
 
@@ -37,3 +37,13 @@ Reclame seu lugar hoje e embarque em uma jornada para novos patamares com a cert
 
 * Ayana Nickerson, gerente sênior do programa de certificação de credenciais, Adobe
 * Payal Banerjee, Sr. Consultor de soluções, Adobe
+
+## Gravação do webinário - 28/06/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3421028)
+
+>[!NOTE]
+>
+>* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread contextual](https://adobe.ly/3p2CmbA)
+>
+>* Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
