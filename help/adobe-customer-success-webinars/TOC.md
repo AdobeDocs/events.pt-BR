@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários Adobe Customer Success-led projetados para capacitá-lo na otimização do seu investimento no Adobe Experience Cloud. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções Adobe.
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '79'
 ht-degree: 1%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 1%
    + [Priorização de inteligência e medição](2023/intelligence-and-measurement.md)
    + [Disponibilidade da migração para a Real-time CDP](2023/rtcdp-migration-readiness.md)
    + [Definindo uma estratégia de Audience Activation eficaz](2023/audience-activation.md)
-   + [Transição para a RTCDP](2023/aam-to-rtcdp.md)
+   + [Transição para a Real-time CDP](2023/aam-to-rtcdp.md)
