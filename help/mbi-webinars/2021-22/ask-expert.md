@@ -1,26 +1,30 @@
 ---
-title: MBI - Pergunte a um especialista
-description: Assista a esses webinários gravados para conhecer a fundo a equipe de produtos da MBI, incluindo a transformação de negócios por meio de dados inteligentes.
-landing-page-description: Assista a esses webinários gravados para conhecer a fundo a equipe de produtos da MBI, incluindo a transformação de negócios por meio de dados inteligentes.
-short-description: Assista a esses webinários gravados para conhecer a fundo a equipe de produtos da MBI, incluindo a transformação de negócios por meio de dados inteligentes.
+title: Commerce Intelligence - Pergunte a um especialista
+description: Assista a esses webinários gravados para conhecer a fundo a equipe de produtos de inteligência do Commerce, incluindo a transformação de negócios por meio de dados inteligentes.
+landing-page-description: Assista a esses webinários gravados para conhecer a fundo a equipe de produtos de inteligência do Commerce, incluindo a transformação de negócios por meio de dados inteligentes.
+short-description: Assista a esses webinários gravados para conhecer a fundo a equipe de produtos de inteligência do Commerce, incluindo a transformação de negócios por meio de dados inteligentes.
 kt: 10404
 solution: Commerce,Magento Business Intelligence
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
 exl-id: a4590f96-8f23-4f14-9f69-dd15253184ed
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 4%
+source-wordcount: '186'
+ht-degree: 2%
 
 ---
 
 # MBI - Pergunte a um especialista
 
+>[!NOTE]
+>
+>O Adobe Commerce Intelligence era conhecido anteriormente como [!DNL Magento Business Intelligence (MBI)]. As gravações de eventos anteriores refletem o nome anterior.
+
 Sessão 1:
 
-- O que os clientes dizem sobre a MBI
+- O que os clientes dizem sobre o Commerce Intelligence
 - Transformação de negócios por meio de dados inteligentes
 
 Sessão 2:
@@ -46,7 +50,7 @@ _Pergunte a um especialista_ O é composto por duas sessões:
 
 >[!TIP]
 >
->Se você é novo no MBI, a variável [Introdução à série de vídeos](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) O fornece uma visão geral completa para gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+>Se você é novo no Commerce Intelligence, a variável [Introdução à série de vídeos](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) O fornece uma visão geral completa para gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 
-- [Introdução ao MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Suporte MBI](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Introdução ao Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [Suporte ao Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

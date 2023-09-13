@@ -1,24 +1,28 @@
 ---
-title: Introdução ao MBI
-description: Assista a este webinário para saber mais sobre a funcionalidade principal do MBI para sua Adobe Commerce ou loja de Magento Open Source.
-landing-page-description: Assista a este webinário gravado para saber mais sobre a funcionalidade principal do MBI para sua loja de Adobe Commerce ou Magento Open Source.
-short-description: Assista a este webinário gravado para saber mais sobre a funcionalidade principal do MBI para sua loja de Adobe Commerce ou Magento Open Source.
+title: Introdução ao Commerce Intelligence
+description: Assista a este webinário para saber mais sobre a funcionalidade principal do Commerce Intelligence para sua loja de Adobe Commerce ou Magento Open Source.
+landing-page-description: Assista a este webinário gravado para saber mais sobre a funcionalidade principal do Commerce Intelligence para sua loja de Adobe Commerce ou Magento Open Source.
+short-description: Assista a este webinário gravado para saber mais sobre a funcionalidade principal do Commerce Intelligence para sua loja de Adobe Commerce ou Magento Open Source.
 kt: 10408
 solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
 exl-id: 4d0843b1-251d-45dc-94ab-85a35b71771f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 19%
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
-# Introdução ao MBI
+# Introdução ao Commerce Intelligence
 
-Saiba mais sobre a funcionalidade principal do MBI diretamente da equipe de produtos do Commerce, com um aprofundamento sobre painéis pré-configurados e opções de personalização disponíveis.
+>[!NOTE]
+>
+>O Adobe Commerce Intelligence era conhecido anteriormente como [!DNL Magento Business Intelligence (MBI)]. As gravações de eventos anteriores refletem o nome anterior.
+
+Saiba mais sobre a funcionalidade principal do Commerce Intelligence diretamente da equipe de produtos do Commerce, com um aprofundamento sobre painéis pré-configurados e opções de personalização disponíveis.
 
 Os casos de uso são compartilhados por todo o, o que fornece exemplos ilustrativos de como os comerciantes estão ganhando mais insights e impulsionando mais crescimento em suas lojas com o BI, desde o primeiro dia.
 
@@ -28,9 +32,5 @@ Os casos de uso são compartilhados por todo o, o que fornece exemplos ilustrati
 
 ## Recursos úteis
 
->[!TIP]
->
->A variável [Introdução à série de vídeos](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) O também fornece uma visão geral completa para gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
-
-[Introdução ao MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-[Suporte MBI](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Introdução ao Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+[Suporte ao Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
