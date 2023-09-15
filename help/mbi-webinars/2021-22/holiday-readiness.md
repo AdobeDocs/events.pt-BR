@@ -4,12 +4,12 @@ description: Assista a este webinário para saber como usar seus dados de comér
 landing-page-description: Assista a este webinário gravado para saber como usar seus dados de comércio eletrônico para obter sucesso durante a temporada de festas.
 short-description: Assista a este webinário gravado para saber como usar seus dados de comércio eletrônico para obter sucesso durante a temporada de festas.
 kt: 10409
-solution: Commerce,Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: 00ca556edca8e39734489d1385029c6b79f3587d
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 3%
