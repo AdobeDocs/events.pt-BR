@@ -4,12 +4,12 @@ description: Assista a este webinário para saber mais sobre alguns dos recursos
 landing-page-description: Assista a este webinário para saber mais sobre alguns dos recursos avançados do Commerce Intelligence Data Warehouse Manager.
 short-description: Assista a este webinário para saber mais sobre alguns dos recursos avançados do Commerce Intelligence Data Warehouse Manager.
 kt: 10410
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
 exl-id: fa45b78f-9dc6-4466-a7d1-0deeb08c4d2c
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 20%

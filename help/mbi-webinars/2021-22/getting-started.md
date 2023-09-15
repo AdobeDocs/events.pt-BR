@@ -4,12 +4,12 @@ description: Assista a este webinário para saber mais sobre a funcionalidade pr
 landing-page-description: Assista a este webinário gravado para saber mais sobre a funcionalidade principal do Commerce Intelligence para sua loja de Adobe Commerce ou Magento Open Source.
 short-description: Assista a este webinário gravado para saber mais sobre a funcionalidade principal do Commerce Intelligence para sua loja de Adobe Commerce ou Magento Open Source.
 kt: 10408
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
 exl-id: 4d0843b1-251d-45dc-94ab-85a35b71771f
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%
