@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 6682d7be406a8922067c520b7c21cd2da001fd80
+source-git-commit: aa5d4f36b22a0a069accc635f3d82d5ed6f871cc
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 47%
+source-wordcount: '165'
+ht-degree: 49%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 
 <table>
 <tr>
-  <td>
-    Acesse esta página em breve para saber mais sobre os episódios futuros, incluindo o episódio de setembro de 2023 sobre Públicos-alvo semelhantes no Real-time Customer Data Platform!
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-26-23.md">
+      <img alt="Experience League LIVE 21 de abril" src="assets/Oct26_exl_live_WebBanner.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-10-26-23.md">
+        <strong>Aprofundamento da versão do Workfront - nova página inicial do Workfront</strong>
+      </a>
+      <br/><em>com Betsey West, Ben Robbins e Jamie Smith</em>
+      <br/><em>26 de outubro de 2023</em>
+    </div>
   </td>
 </tr>
 </table>
