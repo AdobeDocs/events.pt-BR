@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Coleção de gravações de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+source-git-commit: 3ae2f5392dbf58f63f9b2ef1dcaef6ff6f5134d4
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 20%
+source-wordcount: '113'
+ht-degree: 19%
 
 ---
 
@@ -31,10 +31,12 @@ ht-degree: 20%
       + Março de {#mar2022}
          + [Contar histórias impactantes com dados](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
-   + Maio de {#may2023}
-      + [Dominar o conteúdo e os fragmentos de experiência](experience-manager/may2023/mastering-content-and-experience-fragments.md)
+   + Setembro de {#sept2023}
+      + [Aprofundamento das ferramentas do AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Julho de {#july2023}
       + [Estratégias eficazes de segurança no Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+   + Maio de {#may2023}
+      + [Dominar o conteúdo e os fragmentos de experiência](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
    + Setembro de {#sept2023}
       + [Aumente a capacidade de entrega de emails com o Marketo Engage](marketo/sept2023/email-deliverability.md)
