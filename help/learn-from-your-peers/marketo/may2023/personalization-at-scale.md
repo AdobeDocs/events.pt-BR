@@ -9,14 +9,13 @@ last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-13214
 thumbnail: 3419133.jpeg
 event-start-time: 2023-5-4 08:30-8
-exl-id: 82a9be2d-a3b8-4582-8b63-91dc91defce0
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 56947a3f-ce77-4b57-b780-035366f59117
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # Rastrear a personalização no código de escala usando [!DNL Marketo Engage]
 

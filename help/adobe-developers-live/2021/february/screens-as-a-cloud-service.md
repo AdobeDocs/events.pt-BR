@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7164
 type: Event
 thumbnail: 331767.jpg
-exl-id: 11c79583-4260-4b83-95c3-615ac7b49f3f
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 3ddae9b1-f480-4d84-952a-ca31bb9616f7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%

@@ -8,13 +8,13 @@ last-substantial-update: 2023-06-14T00:00:00Z
 event-start-time: 2023-6-12 08:00-7
 jira: KT-13482
 thumbnail: 3420422.jpeg
-source-git-commit: d8d773222bc081f58eea44d79c0deae28466fc54
+exl-id: 73461f7a-7a04-4c7e-b0dc-76fcb8aac15b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Marketo Engage Champion Deep Dive: herdar uma instância
 

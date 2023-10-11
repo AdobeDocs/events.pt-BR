@@ -2,8 +2,8 @@
 title: Adobe Developers Live
 description: Uma coleção de gravações de sessão do Adobe Developers Live
 solution: Experience Cloud, Experience Manager
-exl-id: 912ad972-27ef-4b59-a742-26b49f935c8d
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 29%

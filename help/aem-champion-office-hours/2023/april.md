@@ -10,13 +10,13 @@ last-substantial-update: 2023-06-30T00:00:00Z
 jira: KT-13182
 thumbnail: 3419001.jpeg
 event-start-time: 2023-4-1 08:30-8
-source-git-commit: 0695851792fda7ceeaac785b3c4f1b3c38fdf565
+exl-id: 1793792e-e8ea-4f39-bdb4-e7be733e4660
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Office Hours do campeão do AEM - Edição de abril
 

@@ -8,11 +8,11 @@ role: Developer, Architect
 level: Experienced
 kt: 9136
 type: Event
-exl-id: 35168448-43c4-4fa2-b142-9f5e8ce30497
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 7f78af56-2d66-4e0d-a6cf-0b9c1b971804
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 21%
+ht-degree: 25%
 
 ---
 
@@ -24,6 +24,6 @@ Junte-se a nós para obter uma visão geral de nossa oferta de API do mecanismo 
 
 ## Recursos adicionais
 
-- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

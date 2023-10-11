@@ -5,7 +5,7 @@ user-guide-description: Webinários Adobe Customer Success-led projetados para c
 source-git-commit: de72ca31699f62b6f3034ccb2fe161f78b1f39e8
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -21,5 +21,5 @@ ht-degree: 1%
    + [Estratégia básica para a orquestração de campanhas](2023/foundational-strategy-campaign.md)
    + [Priorização de inteligência e medição](2023/intelligence-and-measurement.md)
    + [Disponibilidade da migração para a Real-time CDP](2023/rtcdp-migration-readiness.md)
-   + [Definindo uma estratégia de Audience Activation eficaz](2023/audience-activation.md)
+   + [Definição de uma estratégia eficiente do Audience Activation](2023/audience-activation.md)
    + [Transição para a Real-time CDP](2023/aam-to-rtcdp.md)

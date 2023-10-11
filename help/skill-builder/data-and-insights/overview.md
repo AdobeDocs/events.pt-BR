@@ -1,8 +1,8 @@
 ---
 title: Visão geral do Skill Builder
 description: Impulsione a personalização em tempo real em qualquer canal usando insights de dados online e offline em toda a organização.
-exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
-source-git-commit: d2a3a5edcdf1aa38a0d0daf469a6e83d4e0b996b
+exl-id: 8fd59178-ed35-4781-9bca-6438ba80d44d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 6%

@@ -8,11 +8,11 @@ role: Developer, Architect
 level: Experienced
 kt: 9149
 type: Event
-exl-id: 91904051-0450-43d5-91f5-bf9dcf7a78b5
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 74a6c6b3-4519-44bb-97b6-fb9b97c91e9b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 15%
+ht-degree: 17%
 
 ---
 
@@ -25,6 +25,6 @@ Saiba como o serviço de extração de PDF na API de serviços da Adobe PDF faci
 
 ## Recursos adicionais
 
-- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

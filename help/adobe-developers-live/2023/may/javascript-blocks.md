@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-05-27T00:00:00Z
 jira: KT-13355
 thumbnail: 3419944.jpeg
-source-git-commit: 397c2c94f0883d8c7fe7e9b3a4e0200e046094d2
+exl-id: ba3cc23a-9179-486e-ad13-ac896fdab268
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
-
 
 # Criação prática de um site com os novos blocos JavaScript
 

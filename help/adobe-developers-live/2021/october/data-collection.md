@@ -8,11 +8,11 @@ role: Developer, Architect
 level: Experienced
 kt: 9140
 type: Event
-exl-id: e3bea0bb-d31a-4089-a0be-af3816d43e7e
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 1ddec597-5475-41f8-9750-8c74f8f94884
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 19%
+ht-degree: 22%
 
 ---
 
@@ -24,6 +24,6 @@ As experiências digitais na Web e em dispositivos móveis estão mudando rapida
 
 ## Recursos adicionais
 
-- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

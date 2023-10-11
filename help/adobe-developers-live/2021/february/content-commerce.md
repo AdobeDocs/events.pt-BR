@@ -1,6 +1,6 @@
 ---
 title: Conteúdo e comércio com o Adobe Experience Manager as a Cloud Service
-description: Esta sessão ajuda os desenvolvedores a começar a usar o Commerce no Adobe Experience Manager as a Cloud Service, desde a configuração local do SDK do Adobe Experience Manager + Commerce Integration Framework até o Adobe Experience Manager & Magento na nuvem. Esta sessão foi entregue como parte do evento Conteúdo do Adobe Developers Live.
+description: Essa sessão ajuda os desenvolvedores a começar a usar o Commerce no Adobe Experience Manager as a Cloud Service, desde a configuração local do SDK + Commerce integration framework do Adobe Experience Manager até o Adobe Experience Manager & Magento na nuvem. Esta sessão foi entregue como parte do evento Conteúdo do Adobe Developers Live.
 solution: Experience Manager,Experience Manager Sites, Commerce
 product: experience manager
 sub-product: sites
@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7188
 type: Event
 thumbnail: 331851.jpg
-exl-id: 3c0af2d0-c672-4f69-b5c7-9467661fc15e
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 1326926c-1bb4-4d05-ab08-a8f60701bd1a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Conteúdo e comércio com o Adobe Experience Manager as a Cloud Service
 
-Esta sessão ajuda os desenvolvedores a começar a usar o Commerce no Adobe Experience Manager as a Cloud Service, desde a configuração local do SDK do Adobe Experience Manager + Commerce Integration Framework até o Adobe Experience Manager &amp; Magento na nuvem.
+Essa sessão ajuda os desenvolvedores a começar a usar o Commerce no Adobe Experience Manager as a Cloud Service, desde a configuração local do SDK + Commerce integration framework do Adobe Experience Manager até o Adobe Experience Manager &amp; Magento na nuvem.
 
 Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
 

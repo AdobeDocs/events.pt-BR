@@ -1,20 +1,20 @@
 ---
-title: Experimentos na escalabilidade de autores do AEM
-description: Dimensionar autores do AEM diz respeito principalmente ao dimensionamento do Oak, mas qual é a melhor maneira de fazer isso? Nesta sessão, abordaremos uma série de experimentos que foram feitos para explorar como dimensionar AEM e Oak. Abordaremos o que foi aprendido com esses experimentos, como o que aprendemos afeta como pensamos sobre o armazenamento de conteúdo dali em diante, projetos e ferramentas que surgiram a partir desses experimentos, e também alguns pontos surpreendentes e não intuitivos.
+title: Experimentos na escalabilidade do autor do AEM
+description: Escalonar autores de AEM é principalmente escalonar o Oak, mas qual é a melhor maneira de fazer isso? Nesta sessão, abordaremos uma série de experimentos que foram feitos para explorar como dimensionar AEM e Oak. Abordaremos o que foi aprendido com esses experimentos, como o que aprendemos afeta como pensamos sobre o armazenamento de conteúdo dali em diante, projetos e ferramentas que surgiram a partir desses experimentos, e também alguns pontos surpreendentes e não intuitivos.
 uuid: 5dab0a6c-2b3c-40fc-866a-b630215d1cd8
 discoiquuid: 0b0d99a4-60be-4e25-9169-5a9717fbcaa2
 targetaudience: target-audience advanced
-exl-id: 8960b457-323b-4a68-a66b-b1cd3bc798af
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: c38e4340-1cda-4267-8738-4c83884b6934
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
 
 ---
 
-# Experimentos na escalabilidade de autores do AEM{#experiments-in-aem-author-scalability}
+# Experimentos na escalabilidade do autor do AEM{#experiments-in-aem-author-scalability}
 
-Dimensionar autores do AEM diz respeito principalmente ao dimensionamento do Oak, mas qual é a melhor maneira de fazer isso? Nesta sessão, abordaremos uma série de experimentos que foram feitos para explorar como dimensionar AEM e Oak. Abordaremos o que foi aprendido com esses experimentos, como o que aprendemos afeta como pensamos sobre o armazenamento de conteúdo dali em diante, projetos e ferramentas que surgiram a partir desses experimentos, e também alguns pontos surpreendentes e não intuitivos.
+Escalonar autores de AEM é principalmente escalonar o Oak, mas qual é a melhor maneira de fazer isso? Nesta sessão, abordaremos uma série de experimentos que foram feitos para explorar como dimensionar AEM e Oak. Abordaremos o que foi aprendido com esses experimentos, como o que aprendemos afeta como pensamos sobre o armazenamento de conteúdo dali em diante, projetos e ferramentas que surgiram a partir desses experimentos, e também alguns pontos surpreendentes e não intuitivos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21522/?quality=9)
 

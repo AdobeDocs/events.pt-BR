@@ -8,11 +8,11 @@ level: Beginner, Intermediate, Experienced
 type: Event
 thumbnail: 337665.jpg
 kt: 9145
-exl-id: 4381a5c0-4f74-4828-bd06-4dc2c5ef3bc6
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 23%
+ht-degree: 31%
 
 ---
 
@@ -34,4 +34,4 @@ Cumprindo a promessa da experiência, com acesso a menos dados. Seja você um an
 
 [Audience Marketplace para compradores de dados](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
-[Destinos com base em pessoas](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)
+[Destinos com base em pessoas](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=pt-BR)

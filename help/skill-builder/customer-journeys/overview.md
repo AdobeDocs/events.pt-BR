@@ -1,8 +1,8 @@
 ---
 title: Skill Builder - Jornadas do cliente
 description: Série de webinários gravada para ajudar você a desenvolver perfis de clientes em tempo real, extraindo dados de todas as fontes para criar jornadas personalizadas entre canais.
-exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: a77be055-e53b-4062-9e02-ee589c0b0f4d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 9%

@@ -1,5 +1,5 @@
 ---
-title: Extensibilidade da estrutura de integração do Commerce por meio do GraphQL
+title: Extensibilidade de Commerce integration framework via GraphQL
 description: Saiba como estender os componentes principais do Commerce usando o GraphQL. Esta sessão foi entregue como parte do evento Conteúdo do Adobe Developers Live.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
@@ -12,15 +12,15 @@ version: Cloud Service
 kt: 7187
 type: Event
 thumbnail: 331850.jpg
-exl-id: c41fd457-a8aa-4ab5-a7e4-67562aa77d63
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 15776683-621e-4be4-b4ef-b9c58a4eedf4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# Extensibilidade da estrutura de integração do Commerce por meio do GraphQL
+# Extensibilidade de Commerce integration framework via GraphQL
 
 Saiba como estender os componentes principais do Commerce usando o GraphQL.
 

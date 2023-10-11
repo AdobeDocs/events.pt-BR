@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7338
-exl-id: f39da510-d4d6-447e-97cc-b3f9036e14ab
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b19bdea1-486a-400d-93b8-166f0f12d366
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 8%
@@ -22,7 +22,7 @@ ht-degree: 8%
 
 # Estrutura de pastas e pesquisa - Série de ativos da Adobe Experience Manager
 
-Use esta série de webinários com cinco partes para criar sua base de conhecimento e maximizar seu investimento no Adobe Experience Manager Assets. Se você for um profissional novato no Adobe Experience Manager Assets ou estiver usando o Adobe Experience Manager Assets há algum tempo e estiver procurando aprimorar suas habilidades existentes, essa é a maneira ideal de aprofundar cinco das áreas mais importantes da solução. Os especialistas em Adobe analisarão os conceitos básicos e também fornecerão insights avançados que deixarão você com as próximas etapas acionáveis que você poderá colocar em prática imediatamente.
+Use esta série de webinários com cinco partes para criar sua base de conhecimento e maximizar seu investimento no Adobe Experience Manager Assets. Se você for um profissional novato no Adobe Experience Manager Assets ou estiver usando o Adobe Experience Manager Assets há algum tempo e estiver procurando aprimorar suas habilidades existentes, essa é a maneira ideal de aprofundar cinco das áreas mais importantes da solução. Especialistas em Adobe vão rever as noções básicas e também fornecer insights avançados que irão deixá-lo com as próximas etapas acionáveis que você pode colocar em prática imediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 

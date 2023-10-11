@@ -1,6 +1,6 @@
 ---
 title: Abrindo Palestra
-description: Palestra - Criação de serviços de composição de próxima geração com o Adobe Experience ManagerObtenha uma visão geral de como estamos desenvolvendo uma plataforma da Web em constante evolução para trazer inovações como serviços de composição de próxima geração, editor universal, entrega de borda e IA gerativa para nossa comunidade de desenvolvedores. Também visualizaremos nossas sessões do dia para configurar você para um Adobe Developers Live produtivo!
+description: Palestra - Criação de serviços de composição de próxima geração com o Adobe Experience ManagerObtenha uma visão geral de como estamos construindo uma plataforma da Web em constante evolução para trazer inovações como os serviços de composição de próxima geração, editor universal, entrega de borda e IA gerativa para nossa comunidade de desenvolvedores. Também visualizaremos nossas sessões do dia para configurar você para um Adobe Developers Live produtivo!
 product: experience manager
 sub-product: sites
 topic: Development
@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-05-27T00:00:00Z
 jira: KT-13353
 thumbnail: 3419949.jpeg
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: 1d0fde08-1f0f-492b-a2c3-b6e1c53bd130
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # Abrindo Palestra
 

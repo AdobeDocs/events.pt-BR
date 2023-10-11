@@ -12,13 +12,13 @@ doc-type: Event
 last-substantial-update: 2023-07-20T00:00:00Z
 jira: KT-13708
 thumbnail: KT-13708.jpeg
-source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
+exl-id: ffac5c39-a1db-4533-947f-609e4d8dc7b4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # Estratégias de segurança eficazes no webinário do Cloud Service On-Demand
 

@@ -8,11 +8,11 @@ role: Developer, Architect
 level: Experienced
 kt: 9138
 type: Event
-exl-id: a307d5d7-dc49-4745-ad64-25d6a3375faf
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: cf345cb3-1273-4e11-b942-24e2715deb20
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 22%
+ht-degree: 25%
 
 ---
 
@@ -24,6 +24,6 @@ Acelere seus fluxos de trabalho gráficos e de design criando plug-ins no Photos
 
 ## Recursos adicionais
 
-- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

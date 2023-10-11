@@ -4,8 +4,8 @@ description: Obtenha uma apresentação sobre os diferentes recursos de integra�
 uuid: 0c7aa66b-3909-4eeb-85d6-87e7faa4db39
 discoiquuid: f9e11075-59f1-46cb-82c7-ba85864f5e33
 targetaudience: target-audience advanced
-exl-id: f9fd62b7-89e4-46d3-a3e2-40f5d856580f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e95f9c55-f36f-47c3-b86a-9bb045e7822c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Integração do IBM WebSphere Commerce para AEM{#ibm-websphere-commerce-integration-for-aem}
 
-A Commerce Integration Framework (CIF) é um complemento do AEM que acelera qualquer projeto de integração de comércio eletrônico, fornecendo padrões de integração documentados, código de referência e componentes. O pacote de integração do IBM WebSphere é uma implementação de referência da CIF especializada para a plataforma de comércio eletrônico WebSphere da IBM. Nesta sessão, Martin Buergi e Markus Haack orientam você pelos diferentes recursos de integração com aprofundamentos no código. Você aprenderá a personalizar, estender e testar sua integração.
+O Commerce integration framework (CIF) é um complemento do AEM que acelera qualquer projeto de integração de comércio eletrônico fornecendo padrões de integração documentados, código de referência e componentes. O pacote de integração do IBM WebSphere é uma implementação de referência CIF especializada para a plataforma de comércio eletrônico WebSphere da IBM. Nesta sessão, Martin Buergi e Markus Haack orientam você pelos diferentes recursos de integração com aprofundamentos no código. Você aprenderá a personalizar, estender e testar sua integração.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19375/?quality=9)
 

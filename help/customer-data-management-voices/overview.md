@@ -1,15 +1,15 @@
 ---
 title: Vozes do gerenciamento de dados do cliente
 description: Seu destino como técnico de gerenciamento de dados do cliente e líder e especialista de práticas de marketing.  Esta página é o seu balcão único para ouvir de seus colegas, inspirar-se e aprender sobre os desenvolvimentos em martech.
-exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
-# Gerenciamento de dados do cliente — Vozes {#overview}
+# Gerenciamento de dados do cliente - Vozes {#overview}
 
 <img alt="Vozes do gerenciamento de dados do cliente" src="./assets/cdp-voices-banner.png" />
 

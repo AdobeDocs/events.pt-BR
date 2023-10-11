@@ -9,8 +9,8 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-exl-id: ac690121-876c-4eba-8b61-71b463e7df3b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 70564929-78c2-4a3d-bcf7-8708fd458812
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 5%
@@ -33,4 +33,3 @@ O conteúdo se aplica ao Adobe Experience Manager as a Cloud Service e ao Experi
 >
 >* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread contextual](https://adobe.ly/3O0rdzd)
 >* Para receber notificações automáticas sobre webinários, registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
-

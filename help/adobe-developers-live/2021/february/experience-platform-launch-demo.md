@@ -10,8 +10,8 @@ role: Developer
 level: Experienced
 kt: 7166
 thumbnail: 331734.jpg
-exl-id: 442098f1-512a-4801-8bf1-85fc84be4aca
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 4bf107fe-f34a-407f-9cec-fc94f7496130
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%

@@ -7,11 +7,11 @@ role: Developer, Architect
 level: Experienced
 kt: 9151
 type: Event
-exl-id: 5f6ef72e-20ea-410f-965d-200335bab9cb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: d1d39490-9ca1-4378-a856-a8aac0badd2e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 16%
+ht-degree: 18%
 
 ---
 
@@ -23,6 +23,6 @@ A pesquisa no site pode criar ou interromper um negócio. Até um terço do trá
 
 ## Recursos adicionais
 
-- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

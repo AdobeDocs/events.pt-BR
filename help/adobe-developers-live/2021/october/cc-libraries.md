@@ -8,11 +8,11 @@ role: Developer, Architect
 level: Experienced
 kt: 9221
 type: Event
-exl-id: 263a098a-02c1-489c-9a9d-37efc9c6b0ef
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3097134d-2a30-495c-8e98-83d46643be5a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 31%
+ht-degree: 35%
 
 ---
 
@@ -24,6 +24,6 @@ Saiba como integrar bibliotecas de Creative Cloud em seus aplicativos da Web por
 
 ## Recursos adicionais
 
-- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

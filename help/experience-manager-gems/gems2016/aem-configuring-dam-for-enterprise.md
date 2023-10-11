@@ -5,8 +5,8 @@ uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
-exl-id: 4d9bd5a8-9052-42e6-87df-2c1bdfce575a
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 6c87ff99-3c15-4e15-a0b5-d9f72ff641c5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 4%
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 # Configuração do DAM para corporações{#configuring-the-dam-for-enterprise}
 
-Essa sessão foi projetada para ajudar os usuários a melhorar o sucesso do aproveitamento do [!DNL AEM Assets]. A Arnold Espos se concentrará nos casos de uso de clientes reais do DAM Enterprise, seus desafios e nas soluções que foram criadas para apoiá-los a fim de aumentar o sucesso alcançado pelo DAM.
+Essa sessão foi projetada para ajudar os usuários a melhorar o sucesso do aproveitamento [!DNL AEM Assets]. A Arnold Espos se concentrará nos casos de uso de clientes reais do DAM Enterprise, seus desafios e nas soluções que foram criadas para apoiá-los a fim de aumentar o sucesso alcançado pelo DAM.
 
 Os participantes poderão entender melhor como usar o DAM em seus ambientes. Ao ver estudos de caso de clientes reais, os participantes que trabalham com clientes existentes do DAM poderão entender as novas soluções fornecidas por meio dessa oferta, o que pode ajudar nos fluxos de trabalho existentes e na compreensão da tecnologia.
 
@@ -42,4 +42,3 @@ Os participantes poderão entender melhor como usar o DAM em seus ambientes. Ao 
 >Como se refere a esta sessão, consulte *Notas de versão do aplicativo de desktop* na documentação do AEM 6.2.
 
 * [Atualizações de documentação do AEM Assets](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
-

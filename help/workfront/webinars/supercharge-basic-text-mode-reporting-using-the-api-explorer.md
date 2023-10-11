@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
-exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
-source-git-commit: 5952a51bcc4ec25d14cf5527ec1af218ebc0ae11
+exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1662'
 ht-degree: 2%
@@ -121,7 +121,7 @@ Como posso usar o modo de texto para identificar membros de uma equipe em um rel
 
 **Resposta**
 
-Para fazer referência aos Membros da equipe associados ao estágio de aprovação atual, seria necessário fazer referência a uma coleção de uma coleção referenciada, o que não é possível no momento por meio dos recursos do modo de texto do Workfront. A coluna que sua organização está usando atualmente que mostra a Equipe associada à aprovação é sua melhor opção.
+Para fazer referência aos Membros da equipe associados ao estágio de aprovação atual, seria necessário fazer referência a uma coleção referenciada, o que não é possível no momento por meio dos recursos do modo de texto do Workfront. A coluna que sua organização está usando atualmente que mostra a Equipe associada à aprovação é sua melhor opção.
 
 **Pergunta**
 
