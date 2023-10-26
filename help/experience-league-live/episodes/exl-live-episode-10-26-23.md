@@ -8,7 +8,7 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
 event-guests: Betsey West,Ben Robbins,Jamie Smith
 exl-id: f36c96ce-d889-4549-8595-a43d815dd9af
-source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
+source-git-commit: 81f6b2235709d847437827b422e68caebafd318d
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -25,4 +25,4 @@ A página inicial do Workfront totalmente renovada tornou-se uma máquina de pro
 
 Nesta sessão ao vivo do Experience League, o especialista em produtos Ben Robbins o guiará pela nova experiência da Página inicial, incluindo novos controles de layout de administrador e melhorias interessantes que serão lançadas em 2024. E o cliente da Workfront Jamie Smith compartilhará insights sobre como a nova experiência da casa está aumentando a produtividade na AT&amp;T.
 
-**Para continuar a discussão, visite o [Publicação da comunidade Experience League!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470)**
+**Para continuar a discussão, visite o [Publicação da comunidade Experience League!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
