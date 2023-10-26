@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 49%
+source-wordcount: '172'
+ht-degree: 47%
 
 ---
 
@@ -24,15 +24,15 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-26-23.md">
-      <img alt="Experience League LIVE 21 de abril" src="assets/Oct26_exl_live_WebBanner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-14-23.md">
+      <img alt="Experience League LIVE 21 de abril" src="assets/Nov14_2023_exl_live_WebBanner.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-26-23.md">
-        <strong>Aprofundamento da versão do Workfront - nova página inicial do Workfront</strong>
+      <a href="episodes/exl-live-episode-11-14-23.md">
+        <strong>Aproveite ao máximo seus dados comportamentais de evento no Real-Time CDP e no Journey Optimizer</strong>
       </a>
-      <br/><em>com Betsey West, Ben Robbins e Jamie Smith</em>
-      <br/><em>26 de outubro de 2023</em>
+      <br/><em>com Daniel Wright, Lory Mishra e Rachit Gupta</em>
+      <br/><em>14 de novembro de 2023</em>
     </div>
   </td>
 </tr>
