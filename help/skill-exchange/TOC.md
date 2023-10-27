@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Coleção de gravações do Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: b16db3497f0e9801b71294bcaa66ae3cd9a2eb5c
+source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '416'
 ht-degree: 11%
 
 ---
@@ -67,6 +67,15 @@ ht-degree: 11%
       + [Canais De Marketing, Use Com Responsabilidade](analytics/jun2021/marketing-channels.md)
       + [Tudo junto na prática](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Agosto de 2023 {#aug2023}
+      + Faixa do desenvolvedor {#developer-track}
+         + [Kit inicial para desenvolvedores de AEM](aem/aug2023/deploy-new-project.md)
+         + [Construindo um sistema de estilo eficiente e escalável](aem/aug2023/scalable-style-system.md)
+         + [Migrar para o AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+      + Rastreamento na Web {#webtrack}
+         + [Introdução ao AEM Assets](aem/aug2023/getting-started-aem-assets.md)
+         + [Aproveitar um DAM colaborativo](aem/aug2023/collaborative-dam.md)
+         + [Dimensionar para disponibilidade de IA](aem/aug2023/metadata.md)
    + Agosto de 2022 {#aug2022}
       + Faixa do desenvolvedor {#developer-track}
          + [Destaques do Experience Makers](aem/aug2022/spotlight.md)
@@ -101,6 +110,8 @@ ht-degree: 11%
       + [Relatórios dentro de [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Dicas e truques mais recentes para o seu Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Agosto de 2023 {#aug2023}
+      + [Fundação de gerenciamento de recursos](workfront/aug2023/resource-management.md)
    + Abril de 2022 {#apr2022}
       + [10 dicas para utilizar o Workfront](workfront/apr2022/ten-tips.md)
       + [Campos Calculados Que Todos Devem Saber](workfront/apr2022/calculated-fields.md)
