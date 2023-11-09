@@ -2,10 +2,10 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários Adobe Customer Success-led projetados para capacitá-lo na otimização do seu investimento no Adobe Experience Cloud. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções Adobe.
-source-git-commit: de72ca31699f62b6f3034ccb2fe161f78b1f39e8
+source-git-commit: 900cc9e1d3b0f0ab268d4ad864f7c663018cf833
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 8%
+source-wordcount: '92'
+ht-degree: 7%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 8%
    + [Construindo a base para a personalização em escala](2023/personalization-at-scale.md)
    + [Conteúdo e experiências - Personalização](2023/content-experiences-personalization.md)
    + [Disponibilidade para migração do Customer Journey Analytics](2023/cja-migration-readiness.md)
+   + [Fundamentos de integração de Customer Journey Analytics](2023/cja-integration-essentials.md)
    + [Estratégia de medição eficaz](2023/measurement-strategy.md)
    + [Estratégia básica para a orquestração de campanhas](2023/foundational-strategy-campaign.md)
    + [Priorização de inteligência e medição](2023/intelligence-and-measurement.md)
