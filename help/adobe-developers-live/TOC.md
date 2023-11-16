@@ -3,10 +3,10 @@ user-guide-title: Eventos do Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Coleção de gravações do evento de conteúdo sobre o Adobe Developer Live
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 6%
+source-wordcount: '700'
+ht-degree: 8%
 
 ---
 
@@ -15,6 +15,22 @@ ht-degree: 6%
 
 + [Visão geral](overview.md)
 + 2023 {#2023}
+   + Novembro de {#nov2023}
+      + [Abrindo Palestra](2023/november/keynote.md)
+      + Edge Delivery Services
+         + [Criar um site](2023/november/edge-breakout-1.md)
+         + [Desempenho do site](2023/november/edge-breakout-2.md)
+         + [Uma implantação de cliente](2023/november/edge-breakout-3.md)
+         + [Criação baseada em documento](2023/november/deep-dive.md)
+      + Headless
+         + [APIs headless](2023/november/headless-breakout-1.md)
+         + [Editor universal](2023/november/headless-breakout-2.md)
+         + [Fontes de dados externas](2023/november/headless-breakout-3.md)
+      + Commerce
+         + [Serviços de catálogo](2023/novemnber/commerce-breakout-1.md)
+         + [Integração com o Sales Channel Amazon](2023/novemnber/commerce-breakout-2.md)
+         + [Extensibilidade orientada por eventos](2023/novemnber/commerce-breakout-3.md)
+         + [API Mesh](2023/novemnber/commerce-breakout-4.md)
    + Maio de {#may2023}
       + [Abrindo Palestra](2023/may/keynote.md)
       + [Tour da API](2023/may/new-apis.md)
@@ -26,7 +42,7 @@ ht-degree: 6%
       + [Blocos JavaScript](2023/may/javascript-blocks.md)
       + [Integração perfeita do AEM Assets com aplicativos](2023/may/seamless-intergration.md)
       + [Entender a API do GraphQL](2023/may/graphql.md)
-      + [Editor universal](2023/may/universal-editor.md)
+      + [Universal Editor](2023/may/universal-editor.md)
 + 2022 {#2022}
    + Fevereiro - Commerce {#feb2022}
       + [Visão geral](2022/february/overview.md)
@@ -59,7 +75,7 @@ ht-degree: 6%
       + [Autenticação de API com Experience Manager Cloud Service](2021/february/api-authentication.md)
       + [Assimilação de ativos em massa](2021/february/asset-bulk-ingestion.md)
       + [Extensibilidade de serviço do Asset compute](2021/february/asset-compute-service-extensibility.md)
-      + [Extensibilidade da CIF via GraphQL](2021/february/cif-extensibility-graphql.md)
+      + [Extensibilidade de CIF via GraphQL](2021/february/cif-extensibility-graphql.md)
       + [Conteúdo e comércio com o Experience Manager](2021/february/content-commerce.md)
       + [Entrega de conteúdo com o Experience Manager Cloud Service](2021/february/content-delivery.md)
       + [Testes funcionais personalizados](2021/february/custom-functional-tests-cicd.md)
