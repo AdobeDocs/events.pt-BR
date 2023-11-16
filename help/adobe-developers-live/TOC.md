@@ -3,7 +3,7 @@ user-guide-title: Eventos do Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Coleção de gravações do evento de conteúdo sobre o Adobe Developer Live
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 8%
@@ -17,20 +17,20 @@ ht-degree: 8%
 + 2023 {#2023}
    + Novembro de {#nov2023}
       + [Abrindo Palestra](2023/november/keynote.md)
-      + Edge Delivery Services
+      + Edge Delivery Services {#nov-edgedeliveryservices}
          + [Criar um site](2023/november/edge-breakout-1.md)
          + [Desempenho do site](2023/november/edge-breakout-2.md)
          + [Uma implantação de cliente](2023/november/edge-breakout-3.md)
          + [Criação baseada em documento](2023/november/deep-dive.md)
-      + Headless
+      + Headless {#nov-headless}
          + [APIs headless](2023/november/headless-breakout-1.md)
          + [Editor universal](2023/november/headless-breakout-2.md)
          + [Fontes de dados externas](2023/november/headless-breakout-3.md)
-      + Commerce
-         + [Serviços de catálogo](2023/novemnber/commerce-breakout-1.md)
-         + [Integração com o Sales Channel Amazon](2023/novemnber/commerce-breakout-2.md)
-         + [Extensibilidade orientada por eventos](2023/novemnber/commerce-breakout-3.md)
-         + [API Mesh](2023/novemnber/commerce-breakout-4.md)
+      + Commerce {#nov-commerce}
+         + [Serviços de catálogo](2023/november/commerce-breakout-1.md)
+         + [Integração com o Sales Channel Amazon](2023/november/commerce-breakout-2.md)
+         + [Extensibilidade orientada por eventos](2023/november/commerce-breakout-3.md)
+         + [API Mesh](2023/november/commerce-breakout-4.md)
    + Maio de {#may2023}
       + [Abrindo Palestra](2023/may/keynote.md)
       + [Tour da API](2023/may/new-apis.md)
