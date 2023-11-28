@@ -2,9 +2,8 @@
 user-guide-title: Adobe [!DNL Campaign] Eventos Insider
 user-guide-breadcrumb: "[!DNL Campaign] Insider Events"
 user-guide-description: Dicas e truques e inspiração para o Adobe [!DNL Campaign] para ajudar os clientes a desenvolver estratégias de marketing entre canais, aumentar as habilidades do profissional de marketing em equipe e ajudar as organizações a lançar estratégias de marketing entre canais mais avançadas.
-feature-set: Campaign
 solution: Campaign
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 25%

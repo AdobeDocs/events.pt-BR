@@ -2,8 +2,7 @@
 user-guide-title: Vozes do gerenciamento de dados do cliente
 user-guide-breadcrumb: Customer Data Management Voices
 user-guide-description: O destino do gerenciamento de dados do cliente para o líder e especialista de práticas técnicas e de marketing
-feature-set: Experience Platform
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 21%
