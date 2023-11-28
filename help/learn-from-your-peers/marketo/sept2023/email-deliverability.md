@@ -3,7 +3,7 @@ title: Aumente a capacidade de entrega de emails com o Marketo Engage
 description: Neste webinário, você aprenderá sobre quais fatores contribuem para a capacidade de entrega de emails.  Avaliação do estado atual usando Relatórios de desempenho de email, Relatórios de desempenho de pessoas e Smart Lists.  Etapas a serem seguidas para reduzir os riscos à capacidade de entrega de emails, incluindo protocolos de verificação, manutenção da qualidade do banco de dados e uso de direcionamento preciso.
 solution: Marketo Engage
 feature-set: Marketo Engage
-feature: Smart Lists, Email Editor, Email Programs, Email Setup, Database, Target Account Management, Deliverability, Performance Insights
+feature: Smart Lists, Deliverability, Reporting
 role: Admin
 level: Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ last-substantial-update: 2023-09-07T00:00:00Z
 jira: KT-13911
 thumbnail: 3423966.jpeg
 exl-id: c6b9cb51-fb81-41e7-b100-9cb2029c43dc
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

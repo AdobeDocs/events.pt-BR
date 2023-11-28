@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Coleção de gravações do Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 11%
+source-wordcount: '446'
+ht-degree: 10%
 
 ---
 
@@ -111,7 +111,15 @@ ht-degree: 11%
       + [Dicas e truques mais recentes para o seu Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Agosto de 2023 {#aug2023}
+      + [Uma introdução aos painéis](workfront/aug2023/introduction-to-boards.md)
+      + [Destaques do Experience Makers](workfront/aug2023/spotlight.md)
+      + [Crescimento e eficiência contínua](workfront/aug2023/growth-continued-efficiencies.md)
+      + [Vencimento da Workfront em toda a empresa](workfront/aug2023/workfront-across-enterprise.md)
+      + [Integrações nativas com o Creative Cloud](workfront/aug2023/native-integtrations.md)
+      + [Automações direcionadas por propósitos](workfront/aug2023/automations.md)
+      + [Burnout do gerenciamento de recursos](workfront/aug2023/resource-management-burnout.md)
       + [Fundação de gerenciamento de recursos](workfront/aug2023/resource-management.md)
+      + [Starter Kit de Gerenciamento de Recursos](workfront/aug2023/resource-management-starter-kit.md)
    + Abril de 2022 {#apr2022}
       + [10 dicas para utilizar o Workfront](workfront/apr2022/ten-tips.md)
       + [Campos Calculados Que Todos Devem Saber](workfront/apr2022/calculated-fields.md)

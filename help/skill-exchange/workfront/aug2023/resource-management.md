@@ -10,15 +10,15 @@ doc-type: Event
 last-substantial-update: 2023-10-27T00:00:00Z
 jira: KT-14152
 thumbnail: 3424863.jpeg
-source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
+exl-id: ce446884-62e9-4f4a-9af6-6ee38726420c
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
 
-
-# Evento de intercâmbio de habilidades em agosto de 2023 - Workfront Learn Track - Fundação de gerenciamento de recursos
+# Fundação de gerenciamento de recursos
 
 Se você tem pensado em usar as ferramentas de gerenciamento de recursos da Adobe Workfront, mas não tem certeza de onde começar - esta é a sessão perfeita para você!
 
