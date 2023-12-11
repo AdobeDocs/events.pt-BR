@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Coleção de gravações do Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
+source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 10%
+source-wordcount: '496'
+ht-degree: 11%
 
 ---
 
@@ -15,6 +15,16 @@ ht-degree: 10%
 
 + [Visão geral](overview.md)
 + Analytics {#analytics}
+   + Agosto de 2023 {#aug2023}
+      + [Tudo sobre segmentos](analytics/aug2023/spotlight-segments.md)
+      + [Análise de dados](analytics/aug2023/analyze-the-data.md)
+      + [Educar o usuário casual do espaço de trabalho](analytics/aug2023/spotlight.md)
+      + [Corrigir a Navegação](analytics/aug2023/fix-navigation.md)
+      + [Quatro recursos pouco usados](analytics/aug2023/data-analysis.md)
+      + [Introdução](analytics/aug2023/getting-started.md)
+      + [Melhore a experiência do cliente](analytics/aug2023/anti-conversion.md)
+      + [Palestra](analytics/aug2023/keynote.md)
+      + [Tudo junto na prática](analytics/aug2023/putting-together.md)
    + Maio de 2023 {#may2023}
       + [Dicas e truques do Adobe Analytics](analytics/may2023/tips-and-tricks.md)
       + [Migrar para EDDL/WebSDK](analytics/may2023/migrate.md)
@@ -72,6 +82,7 @@ ht-degree: 10%
          + [Kit inicial para desenvolvedores de AEM](aem/aug2023/deploy-new-project.md)
          + [Construindo um sistema de estilo eficiente e escalável](aem/aug2023/scalable-style-system.md)
          + [Migrar para o AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+         + [Emails de marketing personalizados](aem/aug2023/personalized-marketing-emails.md)
       + Rastreamento na Web {#webtrack}
          + [Introdução ao AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Aproveitar um DAM colaborativo](aem/aug2023/collaborative-dam.md)
