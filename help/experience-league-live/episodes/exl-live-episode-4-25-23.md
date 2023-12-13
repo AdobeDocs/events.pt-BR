@@ -1,22 +1,22 @@
 ---
-title: Comece a trabalhar com coleta de dados e encaminhamento de eventos com apenas alguns cliques.
+title: Coloque a coleta de dados e o encaminhamento de eventos em funcionamento com apenas alguns cliques!
 description: Com alguns cliques, os workflows de início rápido da coleta de dados do Adobe configurarão vários itens no back-end para economizar seu tempo e garantir que sua configuração esteja correta.
 solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
 kt: 13041
 thumbnail: https://video.tv.adobe.com/v/3417927?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=jGjIKIWFNsM
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230425.html
-event-start-time: 2023-4-25 09:00-8
+event-start-time: 2023-04-25 09:00-8
 event-guests: Rudi Shumpert,Travis Jordan,Doug Moore
 exl-id: 1c5c5c90-9772-440e-a7eb-5138d4adadb9
-source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
+source-git-commit: af23ea73c76387f9e7be277227fd786d7ce9b02c
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 39%
+source-wordcount: '170'
+ht-degree: 24%
 
 ---
 
-# Comece a trabalhar com coleta de dados e encaminhamento de eventos com apenas alguns cliques.
+# Coloque a coleta de dados e o encaminhamento de eventos em funcionamento com apenas alguns cliques!
 
 **Introdução a novos workflows de início rápido na coleta de dados do Adobe Experience Platform**
 
