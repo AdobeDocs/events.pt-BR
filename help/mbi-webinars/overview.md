@@ -2,10 +2,10 @@
 title: Webinários do Commerce Intelligence
 description: Explore os webinários gravados do Commerce Intelligence, que abrangem uma grande variedade de tópicos e práticas recomendadas para usar o Commerce Intelligence em todo o seu potencial.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 5be00538f31610434e2853d4c94fb0611726e709
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 19%
+source-wordcount: '265'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 19%
 >
 >O Adobe Commerce Intelligence era conhecido anteriormente como [!DNL Magento Business Intelligence (MBI)]. As gravações de eventos anteriores refletem o nome anterior.
 
-A série de webinários de Inteligência do Commerce é um evento periódico para clientes do MBI. Os webinários abrangem uma grande variedade de tópicos e práticas recomendadas para usar o Commerce Intelligence em todo o seu potencial.
+A série de webinários de Inteligência do Commerce é um evento periódico para clientes de Inteligência do Commerce. Os webinários abrangem uma grande variedade de tópicos e práticas recomendadas para usar o Commerce Intelligence em todo o seu potencial.
 
 Participantes de todas as regiões podem participar dos eventos ao vivo para entender melhor o produto e obter respostas diretas sobre as perguntas relacionadas à funcionalidade do Commerce Intelligence.
 
@@ -26,12 +26,12 @@ Os tópicos são repetidos ocasionalmente para acomodar quaisquer novas pergunta
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
-      <img alt="Introdução ao MBI" src="./assets/getting-started-mbi.png" />
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+      <img alt="Introdução ao Commerce Intelligence" src="./assets/getting-started.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
-        <strong>Introdução ao MBI</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+        <strong>Introdução ao Commerce Intelligence</strong>
       </a>
     </div>
     <p>
@@ -39,25 +39,25 @@ Os tópicos são repetidos ocasionalmente para acomodar quaisquer novas pergunta
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
       <img alt="Gerenciamento de conjuntos de dados no MBI" src="./assets/managing-data-sets-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
         <strong>Gerenciamento de conjuntos de dados no MBI</strong>
       </a>
     </div>
     <p>
-    <em>Saiba mais sobre alguns dos recursos avançados do Gerenciador de Data Warehouse do MBI, diretamente da equipe de produtos do Adobe Commerce. Vá além da criação básica de relatórios e saiba como fazer mais com seus dados.</em>
+    <em>Saiba mais sobre alguns dos recursos avançados do Gerenciador de Datas Warehouse do MBI, diretamente da equipe de produtos do Adobe Commerce. Vá além da criação básica de relatórios e saiba como fazer mais com seus dados.</em>
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
-      <img alt="Otimizar o Data Warehouse do MBI" src="./assets/optimize-data-warehouse.png" />
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+      <img alt="Otimizar a Data Warehouse do MBI" src="./assets/optimize-data-warehouse.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
-        <strong>Otimizar o Data Warehouse do MBI</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+        <strong>Otimizar a Data Warehouse do MBI</strong>
       </a>
     </div>
     <p>
