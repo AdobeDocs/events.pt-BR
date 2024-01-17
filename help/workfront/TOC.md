@@ -2,7 +2,7 @@
 user-guide-title: Eventos da Workfront
 breadcrumb-title: Eventos da Workfront
 user-guide-description: Eventos da Workfront
-source-git-commit: 0dc027b6c267c52b961b641d838571fc2d0a9fd6
+source-git-commit: 258dad6728f49c093121b6f7a8b49db5778d18fe
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -46,5 +46,6 @@ ht-degree: 0%
    + [Aproveitamento da prova do Workfront](user-groups/leveraging-workfront-proof.md)
 + Filas de solicitações e entrada {#request-queues-and-intake}
    + [Filas de solicitações e Forms de entrada](user-groups/request-queues-and-intake-forms.md)
-+ Versões de 2024
-   + [Versão 24.1](webinars/24-1-release-webinar.md)
++ Versões {#releases}
+   + 2024 {#2024-releases}
+      + [Versão 24.1](webinars/24-1-release-webinar.md)
