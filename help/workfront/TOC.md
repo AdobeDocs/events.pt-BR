@@ -2,9 +2,9 @@
 user-guide-title: Eventos da Workfront
 breadcrumb-title: Eventos da Workfront
 user-guide-description: Eventos da Workfront
-source-git-commit: 258dad6728f49c093121b6f7a8b49db5778d18fe
+source-git-commit: e5c41210809983e9b6d2854f6ecf75e44976d019
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -47,5 +47,4 @@ ht-degree: 0%
 + Filas de solicitações e entrada {#request-queues-and-intake}
    + [Filas de solicitações e Forms de entrada](user-groups/request-queues-and-intake-forms.md)
 + Versões {#releases}
-   + 2024 {#2024-releases}
-      + [Versão 24.1](webinars/24-1-release-webinar.md)
+   + [Versão 24.1](webinars/24-1-release-webinar.md)
