@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9141
 type: Event
 exl-id: f1aec13d-db37-4d71-9650-9bb01a745b91
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1375
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 35%
+source-wordcount: '75'
+ht-degree: 17%
 
 ---
 
@@ -25,6 +26,6 @@ Saiba como instalar e configurar o Adobe Experience Manager e o Adobe Commerce u
 
 ## Recursos adicionais
 
-- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
+- [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

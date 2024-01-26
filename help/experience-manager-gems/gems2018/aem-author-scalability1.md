@@ -1,11 +1,11 @@
 ---
 title: Experimentos na escalabilidade do autor do AEM
 description: Escalonar autores de AEM é principalmente escalonar o Oak, mas qual é a melhor maneira de fazer isso? Nesta sessão, abordaremos uma série de experimentos que foram feitos para explorar como dimensionar AEM e Oak. Abordaremos o que foi aprendido com esses experimentos, como o que aprendemos afeta como pensamos sobre o armazenamento de conteúdo dali em diante, projetos e ferramentas que surgiram a partir desses experimentos, e também alguns pontos surpreendentes e não intuitivos.
-uuid: 5dab0a6c-2b3c-40fc-866a-b630215d1cd8
 discoiquuid: 0b0d99a4-60be-4e25-9169-5a9717fbcaa2
 targetaudience: target-audience advanced
 exl-id: c38e4340-1cda-4267-8738-4c83884b6934
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3652
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%

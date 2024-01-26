@@ -1,14 +1,14 @@
 ---
 title: Gerenciamento de conteúdo com o editor de modelo do Adobe Experience Manager
 description: Com o Adobe Experience Manager 6.2, foi introduzido um novo editor de modelo que fornece maneiras novas e eficientes de criar, estruturar e configurar propriedades digitais. Explore o recurso de uma perspectiva de superautor para entender como ele permite compor diferentes modelos de página e controlar exatamente o que os autores de conteúdo têm permissão para fazer nas páginas correspondentes. Finalmente, mergulhe na mecânica interna para entender como ela funciona por baixo dos panos.
-uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: 0f447b26-e145-48ea-8b75-a9c03b047da9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2962
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 4%
+source-wordcount: '263'
+ht-degree: 1%
 
 ---
 

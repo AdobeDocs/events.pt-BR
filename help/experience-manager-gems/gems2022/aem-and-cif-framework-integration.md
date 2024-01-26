@@ -1,5 +1,5 @@
 ---
-title: Integre a estrutura AEM & CIF para criar uma experiência de comércio eletrônico imersiva e avançada
+title: Integre a estrutura CIF & AEM para criar uma experiência de comércio eletrônico imersiva e avançada
 description: Entenda como a estrutura CIF da Adobe pode ser usada para criar uma experiência de comércio consistente, imersiva e repleta de conteúdo.
 solution: Experience Manager
 feature-set: Experience Manager
@@ -10,14 +10,15 @@ role: User
 level: Intermediate
 kt: 10220
 exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3561
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 23%
+source-wordcount: '213'
+ht-degree: 9%
 
 ---
 
-# Integre a estrutura AEM &amp; CIF para criar uma experiência de comércio eletrônico imersiva e avançada
+# Integre a estrutura CIF &amp; AEM para criar uma experiência de comércio eletrônico imersiva e avançada
 
 Este webinar de GEMs de AEM inclui uma apresentação e uma demonstração para ajudá-lo a entender como a estrutura de Adobe CIF pode ser usada para criar uma experiência de comércio consistente, repleta de conteúdo e imersiva. O Experience Manager e o Adobe Commerce são perfeitamente integrados usando o Commerce integration framework (CIF). O CIF permite que o AEM acesse diretamente e se comunique com a instância de comércio usando as APIs do GraphQL da Adobe Commerce (consulte a agenda de alto nível abaixo).
 

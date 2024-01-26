@@ -1,13 +1,13 @@
 ---
 title: A explosão de ativos digitais e o AEM Assets
 description: Saiba mais sobre a explosão de ativos digitais e o AEM Assets no Adobe.
-uuid: 236f688c-82c0-46dd-bbdc-e9c8552152c4
 discoiquuid: b3ec974b-8173-4dad-b349-88c4da78ce89
 targetaudience: target-audience advanced
 exl-id: fd0b8f3e-c6fc-4df7-926c-c40074b6534c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3276
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '112'
 ht-degree: 1%
 
 ---

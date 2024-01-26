@@ -9,10 +9,11 @@ level: Experienced
 kt: 9207
 type: Event
 exl-id: 57ca3fd4-b135-4ffb-92a8-d64e595435f4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1875
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 22%
+source-wordcount: '125'
+ht-degree: 10%
 
 ---
 
@@ -24,6 +25,6 @@ A API de geração de documento do Adobe é um poderoso serviço de criação de
 
 ## Recursos adicionais
 
-- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
+- [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

@@ -4,14 +4,14 @@ description: Junte-se ao apresentador Doug Moore e aos convidados Nick Cammuso e
 solution: Audience Manager, Real-Time Customer Data Platform
 kt: 10358
 thumbnail: https://video.tv.adobe.com/v/342611?format=jpeg
-event-cta-url: null
 event-start-time: 2022-04-28 09:00-7
 event-guests: Nick Cammuso,Jackie Chevallier
 exl-id: a1262eef-da2b-4e79-92d8-73819bc47744
-source-git-commit: 0d4c3913e2db031097c1a3a3a7555ab4c4227181
+duration: 3812
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 9%
+source-wordcount: '141'
+ht-degree: 0%
 
 ---
 

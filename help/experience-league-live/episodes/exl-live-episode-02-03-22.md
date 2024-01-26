@@ -7,10 +7,11 @@ event-cta-url: https://youtu.be/FEREXV826NQ
 event-start-time: 2022-02-03 09:00-8
 event-guests: Hyman Chung, Ruben Reusser
 exl-id: 434d0d98-83ab-4168-bebf-4ba2f2cb5efd
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3925
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 44%
+source-wordcount: '128'
+ht-degree: 20%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: Sonar - Um elemento-chave para melhorar a qualidade do produto
 description: Saiba como usar o Sonar para ajudar a melhorar a qualidade do produto, incluindo cobertura de Teste de unidade, cobertura de Teste de integração, análise de código estático. Saiba também sobre o caso de uso de AEM e obtenha uma apresentação global de perguntas e respostas do aplicativo Sonar.
-uuid: f193d261-0e70-4758-8b0f-47c7b288e9e9
 discoiquuid: e0a955be-47e1-4d78-ab20-c4747b06d094
 targetaudience: target-audience advanced
 exl-id: 2c9b6cdc-8595-404e-9d75-33483989c5b2
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4359
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---

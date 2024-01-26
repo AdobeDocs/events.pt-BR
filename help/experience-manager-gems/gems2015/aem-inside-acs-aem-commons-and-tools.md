@@ -1,11 +1,11 @@
 ---
 title: Por dentro dos ACS AEM Commons and Tools
 description: Nesta sessão, Justin Edelson, Global Evangelist for AEM e co-projeto líder do ACS AEM Commons e ACS AEM Tools fornecerão algumas informações sobre a meta e os processos usados por esses projetos de código aberto para o AEM e demonstrarão alguns dos principais recursos.
-uuid: aef962ac-5e21-4582-9da2-cdfa6f5f18ff
 discoiquuid: 3210944a-4a03-495a-b652-3c9e54ecbc22
 targetaudience: target-audience advanced
 exl-id: 44aa2e08-f792-4b46-b7ff-c3a54c5a6bf0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3249
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 1%

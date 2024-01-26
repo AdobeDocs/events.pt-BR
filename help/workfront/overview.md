@@ -2,7 +2,8 @@
 title: Eventos sob demanda do Workfront
 description: Workfront Events é uma biblioteca de vídeos na qual especialistas e colegas compartilham suas ideias e opiniões sobre como usar o Workfront para aprimorar o trabalho que está sendo feito para suas organizações.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 39
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

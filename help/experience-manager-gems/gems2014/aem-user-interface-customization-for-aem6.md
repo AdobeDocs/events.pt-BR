@@ -1,13 +1,13 @@
 ---
 title: Personalização da interface do usuário para AEM 6
 description: Saiba como estender a interface do usuário do AEM 6.0. Com a nova fusão de recursos, é possível modificar cada Admin Console por meio de uma sobreposição para alterar, excluir ou adicionar qualquer nó ou propriedade.
-uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
 exl-id: c73a94ba-a21b-4dd4-90e1-334b91616a46
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3601
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '165'
 ht-degree: 1%
 
 ---

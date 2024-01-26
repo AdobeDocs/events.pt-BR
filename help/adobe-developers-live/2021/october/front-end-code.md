@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9191
 type: Event
 exl-id: 20d765c3-6e5a-40f8-8422-d73900da858d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1805
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 18%
+source-wordcount: '61'
+ht-degree: 11%
 
 ---
 
@@ -27,6 +28,6 @@ Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/2XVcB
 
 ## Recursos adicionais
 
-- [Documentação do Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
+- [Documentação do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
 - [Visão geral do Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Tutoriais do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

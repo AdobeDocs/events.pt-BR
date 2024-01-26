@@ -11,9 +11,10 @@ event-cta-url: https://www.youtube.com/watch?v=f1T9XU9TCJU
 event-start-time: 2022-10-25 09:00-7
 event-guests: Sandra Hausmann,Ben Tepfer,Brandon Poyfair,Jason Hickey
 exl-id: 468f1e46-7b69-41c3-8c49-948aaf2e92a3
-source-git-commit: 26cd8c02afc6f8cf506d82b363ccfd0482c3bafd
+duration: 3666
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 **Classifique as ofertas usando IA e utilize-as em seus canais de mensagens internos e externos.**
 
-Como a maioria das jornadas dos clientes hoje é multisuperficial e multiponto de contato, encontrar e fornecer as ofertas certas na interação certa é fundamental. Mais do que apenas descontos, as ofertas podem incluir mensagens de fidelidade e retenção, atualizações, lembretes, promoções e até mesmo oportunidades de aprendizado. Mais do que nunca, os profissionais de marketing estão adotando a inteligência artificial para casos de uso de gestão de decisões em tempo real que são essenciais.
+Como a maioria das jornadas dos clientes hoje é multisuperficial e multiponto de contato, encontrar e fornecer as ofertas certas na interação certa é fundamental. Mais do que apenas descontos, as ofertas podem incluir mensagens de fidelidade e retenção, atualizações, lembretes, promoções e até mesmo oportunidades de aprendizado. Mais do que nunca, os profissionais de marketing estão adotando a inteligência artificial para casos de uso críticos de gestão de decisões em tempo real.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410560/?quality=12&learn=on)
 

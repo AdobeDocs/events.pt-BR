@@ -1,15 +1,15 @@
 ---
 title: Solução de problemas da distribuição de conteúdo do Sling
 description: A Distribuição de conteúdo do Sling (SCD) pode ser usada no AEM para encaminhamento, distribuição reversa de conteúdo e sincronização. Nesta sessão, forneceremos detalhes sobre como solucionar e lidar com problemas comuns com o SCD.
-uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
 exl-id: 2d87ab40-9848-4bf9-ab9a-8d4d9ef6542c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3093
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 10%
+source-wordcount: '164'
+ht-degree: 3%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: Pergunte ao especialista - Controle de trabalho moderno para a empresa
 description: Saiba como desenvolver a estrutura do seu Centro de excelência para garantir o sucesso. Esse webinário foi gravado em 5 de agosto de 2020.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9915
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 3698
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

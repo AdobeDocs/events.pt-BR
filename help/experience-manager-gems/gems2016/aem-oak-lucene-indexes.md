@@ -1,14 +1,14 @@
 ---
 title: Índices Oak Lucene
 description: Descrevemos os recursos dos índices Oak Lucene e como eles podem ser usados para melhorar o desempenho das consultas. Na segunda parte, falaremos sobre como a indexação assíncrona funciona em geral e como ela pode ser monitorada.
-uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
 exl-id: ed0e32b3-44bc-4e45-a80e-f9cfd0688e80
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3517
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 11%
+source-wordcount: '177'
+ht-degree: 3%
 
 ---
 

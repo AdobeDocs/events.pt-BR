@@ -1,13 +1,13 @@
 ---
 title: SharePoint Connector - instalação e configuração
 description: Obtenha uma diretriz passo a passo sobre como configurar um conector de compartilhamento com CQ/AEM (5.6.0), juntamente com uma demonstração de alguns exemplos. O SharePoint Connector do Adobe expõe o conteúdo por meio da interface JCR padrão, permitindo que os aplicativos acessem o conteúdo que reside em um repositório proprietário de maneira padronizada, simplificando o acesso ao conteúdo.
-uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
 exl-id: bf44898e-f455-456a-b168-912feb275aae
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3478
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '164'
 ht-degree: 1%
 
 ---

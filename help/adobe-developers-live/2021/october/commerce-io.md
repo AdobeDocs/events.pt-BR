@@ -8,10 +8,11 @@ level: Experienced
 kt: 9200
 type: Event
 exl-id: 66157be8-eb97-452a-a8a5-97b1d61cd79b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1952
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 33%
+source-wordcount: '81'
+ht-degree: 16%
 
 ---
 
@@ -23,6 +24,6 @@ Saiba como o Adobe Commerce permite que desenvolvedores e comerciantes enriqueç
 
 ## Recursos adicionais
 
-- [Documentação da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
+- [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

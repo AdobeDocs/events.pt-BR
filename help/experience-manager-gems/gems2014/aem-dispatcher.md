@@ -1,14 +1,14 @@
 ---
 title: Dispatcher - Novos recursos e práticas recomendadas
 description: Esta sessão explorará novos recursos no Dispatcher (desde a versão 4.1.9) e examinará algumas práticas recomendadas ao implantar o Dispatcher.
-uuid: df8dc6ec-3785-4204-b0b9-e656a1a4db94
 discoiquuid: 732207fa-d0f6-4bc8-8cda-f25703e4b061
 targetaudience: target-audience advanced
 exl-id: e4b01f10-05bf-455d-a0cc-72bbd3009e64
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3623
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 7%
+source-wordcount: '86'
+ht-degree: 4%
 
 ---
 

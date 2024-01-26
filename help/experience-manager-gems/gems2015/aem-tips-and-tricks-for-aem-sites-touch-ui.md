@@ -1,11 +1,11 @@
 ---
 title: Dicas e truques para a interface do usuário de toque do AEM Sites
 description: Aprenda as melhores dicas e truques sobre o [!DNL AEM Sites] Interface para toque. Descubra os recursos da interface para toque que você pode ou não conhecer e que permitem fazer mais com mais rapidez. Seja você um estrategista de conteúdo ou um profissional de marketing de conteúdo, você descobrirá algumas das joias ocultas da interface para toque que o tornarão mais eficiente e produtivo.
-uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: e5575c26-8725-4857-973f-b0991d48497b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3140
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%

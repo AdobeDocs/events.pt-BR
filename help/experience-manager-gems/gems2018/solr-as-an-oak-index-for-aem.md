@@ -1,14 +1,14 @@
 ---
 title: Solr como um índice Oak para AEM
 description: Os recursos de pesquisa de texto completo do AEM são fornecidos por índices Oak Lucene por padrão. No entanto, o AEM também pode descarregar a indexação e a pesquisa em servidores/clusters Solr por meio de índices Oak Solr. Nesta sessão Gem, mergulhamos em alguns cenários práticos da vida real, onde usar Solr como um índice Oak para AEM faz sentido em termos de desempenho e recursos de indexação/pesquisa.
-uuid: 97e4ee67-f218-4ff9-9d9a-452963ba6deb
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
 exl-id: 638aab84-a8eb-411d-89de-856558492831
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3474
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---

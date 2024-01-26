@@ -1,15 +1,15 @@
 ---
 title: Configuração do DAM para corporações
 description: Essa sessão foi projetada para ajudar os usuários a melhorar o sucesso usando o AEM Assets. A Arnold Espos se concentrará nos casos de uso de clientes reais do DAM Enterprise, seus desafios e nas soluções que foram criadas para apoiá-los a fim de aumentar o sucesso alcançado pelo DAM.   Os participantes poderão entender melhor como usar o DAM em seus ambientes. Ao ver estudos de caso de clientes reais, os participantes que trabalham com clientes existentes do DAM poderão entender as novas soluções fornecidas por meio dessa oferta, o que pode ajudar nos fluxos de trabalho existentes e na compreensão da tecnologia.
-uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: 6c87ff99-3c15-4e15-a0b5-d9f72ff641c5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3576
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 4%
+source-wordcount: '288'
+ht-degree: 1%
 
 ---
 

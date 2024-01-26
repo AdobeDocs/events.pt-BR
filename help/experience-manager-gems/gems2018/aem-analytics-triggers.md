@@ -1,14 +1,14 @@
 ---
 title: Eventos da Adobe Developer (IO) - Acionadores do Analytics
 description: Combine o poder da arquitetura orientada por eventos e o reconhecimento do padrão de comportamento do cliente em tempo real - esta sessão discute como você pode aproveitar o poder dos acionadores do Analytics por meio dos Eventos da Adobe Developer (Adobe I/O) para reagir ao comportamento do cliente e redirecionar em tempo quase real.
-uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
 exl-id: 870620f5-60dd-43b0-86ed-b2bb82779531
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2746
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---

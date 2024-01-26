@@ -1,15 +1,15 @@
 ---
 title: Pergunte a um especialista - Medindo a velocidade
 description: Saiba como medir e rastrear a velocidade usando o [!DNL Workfront] relatórios. Esse workshop foi gravado em 14 de agosto de 2019.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4630
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '3958'
+source-wordcount: '3967'
 ht-degree: 1%
 
 ---

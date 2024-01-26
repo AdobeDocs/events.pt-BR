@@ -1,15 +1,15 @@
 ---
 title: Solução de problemas de replicação do AEM
 description: A replicação é um recurso central no AEM, pois permite a publicação de conteúdo criado para publicar instâncias. Nesta sessão, analisaremos como solucionar problemas e reagir aos problemas mais comuns na replicação.
-uuid: 4e4a3dc8-eb1c-4c28-a7c1-1c8c2e084e7b
 content-type: troubleshooting
 topic-tags: troubleshoot
 discoiquuid: 563fbea0-fad3-45da-8d38-5ee736bd3588
 targetaudience: target-audience new;target-audience ongoing
 exl-id: 0d8338e3-bf83-450b-a7e1-7091ea10f436
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3644
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---

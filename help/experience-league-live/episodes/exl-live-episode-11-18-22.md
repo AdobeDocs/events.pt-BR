@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Analytics] no escritório ou fora dele"
+title: '[!DNL Analytics] no escritório ou em movimento'
 description: Com tantas demandas de tempo e atenção, você precisa ser capaz de criar e acessar insights de negócios em qualquer ambiente - esteja você atrás de uma mesa ou fora dela e tudo mais.
 solution: Analytics
 kt: 11360
@@ -9,9 +9,10 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-221118.html
 event-start-time: 2022-11-18 09:00-8
 event-guests: Eric Matisoff,Jennifer Werkmeister,Doug Moore
 exl-id: 0662d6d4-2445-4359-82bf-4ef5bab7c7a6
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+duration: 3753
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---

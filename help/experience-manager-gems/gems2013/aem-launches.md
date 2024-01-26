@@ -1,13 +1,13 @@
 ---
 title: Lançamentos do AEM - preparação simultânea de várias versões de um site (AEM 5.6)
 description: Saiba como usar as Inicializações do AEM para funcionar simultaneamente em várias versões de um mesmo site e sincronizar as alterações entre elas. Descubra como o AEM Launches foi integrado ao AEM e saiba mais sobre seus mecanismos básicos.
-uuid: ebff46e5-e580-4a42-bb8a-55ea0fa13d9e
 discoiquuid: a18d345a-fbb4-4ace-b569-96fd95503a39
 targetaudience: target-audience advanced
 exl-id: 5a80f708-3536-4009-a76d-38611d505a89
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2897
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 2%
 
 ---

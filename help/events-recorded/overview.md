@@ -3,10 +3,11 @@ title: Eventos da Adobe Experience League
 description: Uma coleção de gravações de eventos focada no uso de produtos Adobe Enterprise
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 334
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '915'
-ht-degree: 9%
+source-wordcount: '912'
+ht-degree: 5%
 
 ---
 
@@ -164,7 +165,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
       </div>
       <p>
         <br/>
-         Experience League LIVE é um programa de streaming ao vivo produzido pela equipe da Experience League. É uma chance de se conectar com especialistas em produtos da Adobe e aprender dicas, truques e estratégias úteis que podem ser usados com os aplicativos da Adobe Experience Cloud.
+         Experience League LIVE é um programa de streaming ao vivo produzido pela equipe Experience League. É uma chance de se conectar com especialistas em produtos da Adobe e aprender dicas, truques e estratégias úteis que podem ser usados com os aplicativos da Adobe Experience Cloud.
       </p>
     </td>
    <td>

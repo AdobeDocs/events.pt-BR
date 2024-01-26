@@ -1,14 +1,14 @@
 ---
 title: Utilização de SAML em implantações do Adobe Experience Manager
 description: Junte-se a Sham Hassan Chikkegowda, Engenheiro de CS, e Timothe Maret, Desenvolvedor Sênior do Adobe, para saber como usar a SAML (Security Assertion Markup Language, Linguagem de marcação de asserção de segurança) com suas implantações de Experience Manager. O SAML é um formato de dados baseado em XML e de padrão aberto para a troca de dados de autenticação e autorização entre as partes, em particular entre um provedor de identidade e um provedor de serviços.  O SAML é um produto do Comitê Técnico dos Serviços de Segurança da OASIS.
-uuid: 1fef0c03-50fc-4874-aab3-6b8908a91938
 discoiquuid: eec3e83c-b167-457e-8db7-41dfebb3b406
 targetaudience: target-audience advanced
 exl-id: 3631e05d-633f-42ef-a950-92f039081ced
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3224
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 2%
+source-wordcount: '207'
+ht-degree: 0%
 
 ---
 
