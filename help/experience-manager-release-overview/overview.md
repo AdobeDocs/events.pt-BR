@@ -4,10 +4,10 @@ description: Obtenha uma visão geral rápida dos recursos mais recentes no Adob
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: f36ba52ac04db5b00b41bb3ddf4ba2f2a42cd553
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 65%
+source-wordcount: '204'
+ht-degree: 60%
 
 ---
 
@@ -16,6 +16,28 @@ ht-degree: 65%
 Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience Manager as a Cloud Service. São vídeos curtos, de aproximadamente 10 minutos, disponibilizados pela equipe de produtos AEM que compartilham os destaques da versão mais recente.
 
 ## Última atualização
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
+      <a href="2024/2024-1-0.md">
+        <img alt="Versão 2024.1.0" src="2024/assets/2024-1-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2024/2024-1-0.md">
+          <strong>Versão | 2024.1.0</strong>
+          <br/>
+        </a>
+          <em>Data de lançamento: janeiro de 2024 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
+      <p>
+    </td>
+  </tr>  
+</table>
+
+## Atualizações anteriores
 
 <table style="max-width: 50%;">
   <tr>
@@ -34,13 +56,6 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
       <p>
     </td>
-  </tr>  
-</table>
-
-## Atualizações anteriores
-
-<table style="max-width: 50%;">
-  <tr>
     <td>
       <a href="2023/2023-10-0.md">
         <img alt="Versão 2023.10.0" src="2023/assets/2023-10-0-thumb.png" />
@@ -71,6 +86,8 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
       <p>
     </td>
+  </tr>
+  <tr>  
     <td>
       <a href="2023/2023-8-0.md">
         <img alt="Versão 2023.8.0" src="2023/assets/2023-8-0-thumb.png" />
@@ -86,8 +103,6 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
       <p>
     </td>
-</tr>
-<tr>    
     <td>
       <a href="2023/2023-7-0.md">
         <img alt="Versão 2023.7.0" src="2023/assets/2023-7-0-thumb.png" />
@@ -118,6 +133,8 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
       <p>
     </td>
+  </tr>
+  <tr>     
     <td>
       <a href="2023/2023-4-0.md">
         <img alt="Versão 2023.4.0" src="2023/assets/2023-4-0-thumb.png" />
@@ -133,8 +150,6 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
       <p>
     </td>
-   </tr>
-   <tr> 
     <td>
       <a href="2023/2023-2-0.md">
         <img alt="Versão 2023.2.0" src="2023/assets/2023-2-0-thumb.png" />
@@ -160,21 +175,6 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
           <br/>
         </a>
           <em>Data de lançamento: fevereiro de 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
-      <p>
-    </td>
-    <td>
-      <a href="2022/2022-10-0.md">
-        <img alt="Versão 2022.10.0" src="2022/assets/2022-10-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2022/2022-10-0.md">
-          <strong>Versão | 2022.10.0</strong>
-          <br/>
-        </a>
-          <em>Data de lançamento: 13 de outubro de 2022</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
