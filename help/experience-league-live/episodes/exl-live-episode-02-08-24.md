@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri
 duration: 25
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,6 @@ ht-degree: 0%
 
 Apresentação dos manuais de casos de uso - um catálogo acionável de manuais de casos de uso específicos do setor no Real-Time CDP e no Journey Optimizer. Neste webinário, você aprenderá sobre os manuais de casos de uso e como eles traduzem suas metas de marketing em objetos de implementação. Mostraremos como impulsionar sua organização para a criação e a implantação de casos de uso conhecidos com mais agilidade para impacto e colaboração nos negócios.
 
-[![ExL LIVE 08 de fevereiro de 2024](assets/WebBanner-Feb08-2024.jpg)](https://www.youtube.com/watch?v=EZGQ--J2M9I)
+>[!VIDEO](https://video.tv.adobe.com/v/3426930/?quality=12&learn=on)
 
-**Clique na imagem acima para definir um lembrete do YouTube Live**.
-
+**Dúvidas sobre isso?** Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
