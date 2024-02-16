@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: d63e2bf6b09c8db5c0833ac449f10d47103cc6a7
+source-git-commit: 46cb6d3ed306f7f03116124912bcbdb0a5f24529
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ O Adobe Campaign v8 terá uma aparência totalmente nova. A experiência do usu�
 
 Junte-se a esta sessão Experience League ao vivo, onde os especialistas em produtos da Adobe Campaign mostrarão como planejar, iniciar e medir campanhas entre canais na nova experiência do usuário.
 
-[![ExL LIVE 29 de fevereiro de 2024](../assets/Feb29_2024_WebBanner.png)](https://www.youtube.com/watch?v=ESgehCRcSgQ)
+[![ExL LIVE 29 de fevereiro de 2024](../assets/exl-live-episode-02-29-24-web-banner.png)](https://engage.adobe.com/ExpLeagueLive-240229.html)
 
-**Clique na imagem acima para definir um lembrete do YouTube Live.**
+**Clique na imagem acima para se inscrever no evento.**
