@@ -11,7 +11,7 @@ duration: 3632
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14970
 thumbnail: 3427355.jpeg
-source-git-commit: d50bee76b17c486088ea62619b3331906a68be80
+source-git-commit: de1dbd19647f523ba96bf9e94ab2a15f2f4bc710
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -25,4 +25,4 @@ Nesta sessão de Commerce &amp; Coffee, o consultor sênior de estratégia de co
 
 Corey também destaca como a IA pode ajudar a criar campanhas de marketing direcionadas que repercutem em clientes individuais por meio de descrições de produtos personalizadas, emails e banners de sites. Por mais importante que seja analisar dados anteriores, prever o comportamento futuro do cliente pode ser igualmente impactante. Usando a análise preditiva, os usuários podem prever as tendências de compra futuras de seus clientes, criando a oportunidade para ofertas personalizadas proativas. Corey aborda como criar uma melhor experiência de compra personalizada com os recursos do Live Search e do Chatbot. Em seguida, ele compartilha uma demonstração ao vivo do Recommendations de produto, Merchandising de categoria e Live Search. Como sempre, respondemos as perguntas ao cliente ao vivo durante as perguntas e respostas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427355/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427493/?learn=on)
