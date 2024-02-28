@@ -1,15 +1,15 @@
 ---
 title: Avançando com a nova interface da Web do Adobe Campaign
-description: Junte-se a nós em 29 de fevereiro para saber como planejar, iniciar e medir estratégias entre canais usando a nova Interface do usuário da Web do Adobe Campaign, incluindo os recursos de IA gerativa em beta.
+description: Junte-se a nós em 29 de fevereiro para saber como planejar, iniciar e medir estratégias entre canais usando a nova interface da Web do Adobe Campaign.
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: 46cb6d3ed306f7f03116124912bcbdb0a5f24529
+source-git-commit: ebfe862ab1219b40a957f4cf5db552ff09292bef
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
