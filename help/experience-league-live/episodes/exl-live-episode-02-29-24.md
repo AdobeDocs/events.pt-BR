@@ -7,10 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
+source-git-commit: be09d9c0bda9c1fdf2f37092ee4ac6ec284b39ce
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 2%
 
 ---
 
@@ -22,6 +22,13 @@ Junte-se a esta sessão Experience League ao vivo, onde os especialistas em prod
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
-Para obter a documentação detalhada sobre o que está disponível atualmente na interface da Web do Adobe Campaign, visite [Interface do usuário da Web do Campaign - Principais recursos](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=pt-BR){target="_blank"}.
+**Dúvidas?** Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
 
-**Dúvidas sobre isso?** Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+## Recursos adicionais
+
+* **[Interface do usuário da Web do Campaign - Principais recursos](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=pt-BR){target="_blank"}**
+*Documentação detalhada sobre o que está disponível atualmente na interface da Web do Adobe Campaign, visite [Interface do usuário da Web do Campaign - Principais recursos](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=pt-BR){target="_blank"}.
+
+* **[Interface do usuário da Web do Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+*Vídeos e tutoriais sobre os recursos e as funcionalidades da interface da Web do Adobe Campaign.
+
