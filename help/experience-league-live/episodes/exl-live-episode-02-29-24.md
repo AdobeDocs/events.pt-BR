@@ -1,15 +1,16 @@
 ---
-title: Avançando com a nova interface da Web do Adobe Campaign
-description: Junte-se a nós em 29 de fevereiro para saber como planejar, iniciar e medir estratégias entre canais usando a nova interface da Web do Adobe Campaign.
-kt: KT-14433
+title: Melhore a eficácia do marketing em redes sociais com a nova interface da Web do Adobe Campaign
+description: Saiba como planejar, lançar e medir estratégias de marketing entre canais, incluindo marketing por email e marketing de mídia social, usando a nova interface de usuário da Web do Adobe Campaign.
+jira: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: e8ecba0a2c066e881e53be13f07352e636058de2
+exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
+source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '424'
 ht-degree: 1%
 
 ---
@@ -22,7 +23,25 @@ Junte-se a esta sessão Experience League ao vivo, onde os especialistas em prod
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
-**Dúvidas?** Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+>[!BEGINSHADEBOX &quot;Você tem dúvidas?&quot;]
+
+Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+
+>[!ENDSHADEBOX]
+
+A nova interface da Web do Campaign é importante porque fornece uma experiência de usuário unificada e moderna para os usuários do Adobe Campaign. Ele simplifica o processo de criação de campanha, permite fácil navegação e configuração e oferece recursos como criação de público-alvo, design de conteúdo e gerenciamento de campanha. A nova interface também se integra a outras soluções da Adobe Experience Cloud, facilitando o acesso e a utilização de diferentes ferramentas no ecossistema. Além disso, a nova interface do usuário pode ser acessada em navegadores da Web, eliminando a necessidade de os usuários alternarem entre diferentes plataformas ou aplicativos. Em geral, a nova interface da Web do Campaign melhora a eficiência, a experiência do usuário e a colaboração para profissionais de marketing e gerentes de campanha.
+
+## Principais aprendizados
+
+* A nova interface de usuário da Web do Adobe Campaign foi lançada e está disponível para clientes que usam a versão 8.6 do Adobe Campaign.
+* A interface da Web fornece uma experiência do usuário unificada e consistente em todos os produtos da Adobe Experience Cloud.
+* A home page da interface da Web permite acesso rápido a todos os aplicativos no Experience Cloud e fornece opções de suporte e notificações.
+* A interface da Web simplifica o processo de criação de públicos-alvo, definição de campanhas e criação de conteúdo de email.
+* A interface da Web permite a integração de bancos de dados de terceiros e fornece acesso ao Adobe Experience Platform e ao Adobe Analytics.
+* A atividade JavaScript ainda não é editável na interface da Web, mas ainda pode ser executada e visualizada.
+* A interface da Web é compatível com o uso de filtros predefinidos e permite a personalização da navegação do Explorer.
+* A interface do usuário da Web está sendo atualizada continuamente com novos recursos e funcionalidades.
+
 
 ## Recursos adicionais
 
@@ -31,4 +50,3 @@ Junte-se a esta sessão Experience League ao vivo, onde os especialistas em prod
 
 * **[Interface do usuário da Web do Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *Vídeos e tutoriais sobre os recursos e as funcionalidades da interface da Web do Adobe Campaign.*
-
