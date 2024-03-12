@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários Adobe Customer Success-led projetados para capacitá-lo na otimização do seu investimento no Adobe Experience Cloud. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções Adobe.
-source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
+source-git-commit: 2489f9e31da2de8e7955843baed3ff05d5cc7b64
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '115'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 1%
 + [Webinários de sucesso do cliente do Adobe](overview.md)
 + 2024 {#2024}
    + [Priorização do fluxo de dados](2024/data-stream-prioritization.md)
+   + [Capacitar as equipes do Leah](2024/empowering-lean-teams.md)
    + [Liderança estratégica](2024/strategic-leadership.md)
 + 2023 {#2023}
    + [Construindo a base para a personalização em escala](2023/personalization-at-scale.md)
