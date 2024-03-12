@@ -1,7 +1,7 @@
 ---
 title: Introdução à criação e ao Edge Delivery Services do AEM
 description: Este webinar de GEMs de AEM inclui uma apresentação e uma demonstração para mostrar como a criação de AEM funciona junto com os Edge Delivery Services. Vamos orientá-lo pelo processo de criação de um novo projeto Edge Delivery Services habilitado para a criação de AEM com o AEM Cloud Service como fonte de conteúdo e mostraremos como você pode se beneficiar da experiência de desenvolvimento enxuta e ágil que acompanha o Edge Delivery Services, mas preserva uma experiência de criação WYSIWYG para o profissional.
-version: Cloud Service
+version: Experience Manager:Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -11,7 +11,7 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 92e19dbdd92d8d901a48edff751487b42a5d9f2c
+source-git-commit: 661e34e66c089caab712585fba6e3066426e55f1
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
