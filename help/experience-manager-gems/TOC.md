@@ -2,10 +2,10 @@
 user-guide-title: Eventos de GEMS do Adobe Experience Manager
 user-guide-description: Saiba mais sobre AEM Gems, uma série de aprofundamentos técnicos fornecidos por especialistas da Adobe Experience Manager.
 breadcrumb-title: Eventos AEM GEMs
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 5%
+source-wordcount: '696'
+ht-degree: 2%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 5%
 # Experience Manager Eventos GEMS {#experience-manager-gems-recordings}
 
 + [Visão geral](overview.md)
++ 2024 {#gems2024}
+   + [Introdução à criação e ao Edge Delivery Services do AEM](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [Criar vitrines no Edge Delivery Services no Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [APM do New Relic para AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [Certificação AEM - técnica](gems2023/aem-certification-technical.md)
@@ -21,7 +24,7 @@ ht-degree: 5%
 + 2022 {#gems2022}
    + [Caso de uso do cliente e implementação do AEM Headless em uso](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [Nos bastidores - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
-   + [Integre a estrutura AEM &amp; CIF para criar uma experiência de comércio eletrônico imersiva e avançada](gems2022/aem-and-cif-framework-integration.md)
+   + [Integre a estrutura CIF &amp; AEM para criar uma experiência de comércio eletrônico imersiva e avançada](gems2022/aem-and-cif-framework-integration.md)
    + [Crie sites mais rapidamente com AEM Headless e o Construtor de aplicativos](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service: análise de 2021 e perspectivas para 2022](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
