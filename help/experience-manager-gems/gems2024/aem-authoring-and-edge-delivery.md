@@ -12,16 +12,16 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 # Data do webinário: 13 de março de 2024
 
-Hora: 17h CET / 8h PST / 21h30 IST Registre-se através do link abaixo da página do evento.
+Este webinário foi concluído. Assista à gravação abaixo.
 
 ## Introdução à criação e ao Edge Delivery Services do AEM
 
@@ -31,11 +31,11 @@ Este webinar de GEMs de AEM inclui uma apresentação e uma demonstração para 
 
 * Dirk Rudolph, Gerente, Desenvolvimento De Software, Adobe
 
-## Registro do webinário
+## Gravação do webinário
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427919/)
 
 >[!NOTE]
->
->* Registre-se/confirme sua presença neste webinário via [Página Evento](https://adobe.ly/4bz9T0H).
 > 
 >* Para interações da comunidade específicas da sessão no Experience League, visite nosso [thread contextual](https://adobe.ly/3uIj6D7).
 >
