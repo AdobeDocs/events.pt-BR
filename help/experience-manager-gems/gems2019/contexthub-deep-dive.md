@@ -5,9 +5,9 @@ discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: c56b8724-a97e-4671-a1ad-0a87a9260ed6
 duration: 3199
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: bc69fa95cfc24710f3e80a30a133fbf7be76f043
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -28,6 +28,6 @@ Slides do apresentador, Data: 20/03/2019
 
 Pacote de exemplo do ContextHub:
 
-O pacote de amostra do ContextHub mencionado no Artur está disponível em:
+O pacote de amostra do ContextHub mencionado no Artur está disponível como arquivo zip:
 
-[https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive](https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive)
+[Obter arquivo zip](/assets/contexthub-gems-deep-dive-1.0.zip)
