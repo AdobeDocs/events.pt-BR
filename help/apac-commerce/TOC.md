@@ -2,7 +2,7 @@
 user-guide-title: Eventos de comércio da APAC
 breadcrumb-title: Eventos de comércio da APAC
 user-guide-description: Adobe Commerce Events é uma biblioteca de vídeos na qual especialistas e colegas compartilham suas ideias e ideias sobre como usar o Adobe Commerce.
-source-git-commit: 598a8b46ed2e2dff796bb076c5323da3639fe837
+source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 4%
@@ -14,14 +14,14 @@ ht-degree: 4%
 
 + [Visão geral](overview.md)
 + 2024 {#2024}
-   + [Aumento das conversões de comércio eletrônico](2024/ecommerce-conversions.md)
    + [Webinário do Innovation Spotlight](2024/innovation-spotlight.md)
 + 2023 {#2023}
-   + [Mercados como força de crescimento](2023/marketplaces.md)
-   + [Preparação da temporada de pico](2023/peak-season-prep.md)
-   + [Estratégias de comércio combináveis](2023/composable-commerce.md)
    + [Personalização alimentada por IA](2023/ai-personalisation.md)
    + [Adobe PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)
+   + [Aumento das conversões de comércio eletrônico](2023/ecommerce-conversions.md)
+   + [Estratégias de comércio combináveis](2023/composable-commerce.md)
+   + [Mercados como força de crescimento](2023/marketplaces.md)
+   + [Preparação da temporada de pico](2023/peak-season-prep.md)
 + 2022 {#2022}
    + [Disponibilidade para férias 2022](2022/holiday.md)
    + [New Relic Masterclass](2022/new-relic.md)
