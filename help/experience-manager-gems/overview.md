@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessões GEM com AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
+source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,10 @@ ht-degree: 0%
 
 <img alt="Experiências digitais" src="./assets/ADX_Gems.png"/>
 
-## Evento anterior de GEMs AEM!
+## Próximo evento GEMs AEM
+
+17 de abril de 2024 - **Introdução ao Edge Delivery Services para AEM Forms**
+Confirme sua presença/Inscreva-se [aqui](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/)
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -45,6 +48,9 @@ ht-degree: 0%
 </table>
 
 -->
+
+## Evento anterior de GEMs AEM
+
 Nosso mais recente webinário de GEMs com AEM em **Introdução à criação e ao Edge Delivery Services do AEM** foi realizada em *13 de março de 2024*.
 A variável **gravação** podem ser encontrados aqui:
 [Introdução à criação e ao Edge Delivery Services do AEM](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
