@@ -9,9 +9,10 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
+source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,10 +31,10 @@ Saiba como criar e publicar AEM Forms usando Edge Delivery Services e entregar e
 * Arun Taneja, Director de gerenciamento de produtos, Adobe
 * Vijay Kumar Jalagari, Gerente sênior de engenharia, Adobe
 
-## Gravação do webinário
+## Interação da comunidade de webinários
 
 >[!NOTE]
 > 
->* Para interações de comunidade específicas de sessão no Experience League, um thread contextual estará disponível em breve.
+>* Para ver as interações da comunidade específicas da sessão no Experience League, visite os respectivos [Thread contextual](https://adobe.ly/4aCz0OE).
 >
 >* Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
