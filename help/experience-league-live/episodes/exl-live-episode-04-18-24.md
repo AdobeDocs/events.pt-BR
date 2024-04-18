@@ -7,9 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=UI-P0ezCHqA
 event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
-source-git-commit: d222484d9678454f3e74b5ab09e877685ad898f2
+exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
+source-git-commit: 44b97fea8d73859bbdbccadfb66543a531f25401
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,14 @@ ht-degree: 0%
 
 O Marketo Measure remodelou completamente os Painéis do Discover. Não se trata apenas de pequenos aprimoramentos e adições; trata-se de uma reformulação completa. As placas foram recriadas e, o mais importante, simplificadas. Esses novos painéis são muito mais intuitivos e fáceis de usar para obter os dados de que você precisa - de forma rápida e fácil!
 
-[![ExL LIVE 17 de janeiro de 2024](assets/WebBanner-April18-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240418.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3428093/?quality=12&learn=on)
 
-**[Inscreva-se agora](https://engage.adobe.com/ExpLeagueLive-240418.html) para o evento!**
+Tópicos discutidos:
 
+* Filosofia de atribuição em um mundo de marketing B2B
+* Mudança da mentalidade de geração de relatórios para a receita
+* Descubra dicas profissionais para segmentar e aprimorar estrategicamente os dados
+* Saiba como resolver erros comuns
+* Quais painéis pré-criados estão disponíveis e como aproveitá-los ao máximo
+* Métricas recém-disponíveis e como usá-las para elevar os insights de negócios
+* Como criar e salvar relatórios personalizados
