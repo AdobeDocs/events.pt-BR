@@ -7,7 +7,7 @@ doc-type: Event
 duration: 3495
 last-substantial-update: 2024-04-18T00:00:00Z
 jira: KT-15343
-source-git-commit: a8ae18af0407dd9a1f28a80b2f665ec6d4a446de
+source-git-commit: b05a720e257fad9a601abc4f0e423d7efe0ddbee
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -20,3 +20,4 @@ ht-degree: 0%
 Junte-se à Equipe de Defesa de Adobe e selecione Adobe Campeões para descobrir Como enviar um aplicativo de Campeão de Adobe de Destaque. Vamos analisar a elegibilidade do programa e os diversos &quot;Atos de Defesa&quot;, para fazer com que sua candidatura seja a melhor possível! Guiaremos você pelo processo de inscrição, pela linha do tempo da janela do aplicativo e pelos benefícios do programa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428431/?learn=on)
+
