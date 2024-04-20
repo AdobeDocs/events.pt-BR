@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
-source-git-commit: 28c2d6f249968bfe402dad24bf42fe7e3bfbdf4a
+source-git-commit: 21784d00fa8a5a6d700c92b2e824a8b3f36d03ee
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -29,4 +29,4 @@ Neste webinário, você vai:
 >[!VIDEO](https://video.tv.adobe.com/v/3428435/?learn=on)
 
 
-Participe da conversa no thread do webinário da comunidade do país de marketing - [Discussão](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}
+Participe da conversa no [Thread do webinário da comunidade de país/região de marketing](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}.
