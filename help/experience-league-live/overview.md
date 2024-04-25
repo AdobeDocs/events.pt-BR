@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4b83bd595f69eafd7dd8074917eee9c9645f2e22
+source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 46%
+source-wordcount: '171'
+ht-degree: 43%
 
 ---
 
@@ -26,16 +26,8 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
-      <img alt="Experience League LIVE 21 de abril" src="episodes/assets/WebBanner-Apr24-2024.jpg">
-    </a>
-    <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
-        <strong>Novo canal de experiência baseado em código no Journey Optimizer</strong>
-      </a>
-      <br/><em>com Sandra Hausmann, Robert Calangiu e Brent Kostak</em>
-      <br/><em>24 de abril de 2024</em>
-    </div>
+<td style="vertical-align: top;">
+    <strong>Volte a essa página mais tarde para obter detalhes sobre nosso programa de 16 de maio. Alerta de spoiler - falaremos sobre como migrar o Analytics do AppMeasurement para o SDK da Web.</strong>
   </td>
 </tr>
 </table>

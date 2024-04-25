@@ -8,9 +8,9 @@ event-start-time: 2024-04-18 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak
 duration: 25
 exl-id: 94725433-1bc2-40a4-835a-2cfac9af1fd9
-source-git-commit: bf9c0a2b00f6858950f20df5257af1859446ec7e
+source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Ative superfícies de entrada e controle de personalização granular com ações centradas no desenvolvedor.
 
-[![ExL LIVE 17 de janeiro de 2024](assets/WebBanner-Apr24-2024.jpg)](https://www.youtube.com/watch?v=ZKa4OatgQjk)
-
-**Clique na imagem acima para definir um lembrete do YouTube para o evento!**
+>[!VIDEO](https://video.tv.adobe.com/v/3428095/?quality=12&learn=on)
 
 **Detalhes**: o Canal de experiência baseado em código no Adobe Journey Optimizer desbloqueia enormes oportunidades e novos casos de uso para marcas que crescem em seus programas de personalização e experimentação. Esse novo canal permite que as equipes aumentem o controle da personalização usando ações baseadas em código HTML ou JSON com a capacidade de alterar aspectos granulares de aplicativos nativos. O Canal de experiência baseado em código expande a flexibilidade e o desempenho para implementações do lado do cliente, do lado do servidor, híbridas e baseadas em API.
 
@@ -29,7 +27,7 @@ Neste episódio do Experience League ao vivo, junte-se aos especialistas em prod
 
 >[!BEGINSHADEBOX &quot;Você tem dúvidas?&quot;]
 
-Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.
+**Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]
 
