@@ -2,16 +2,16 @@
 title: Pergunte aos especialistas - Noções básicas do SDK da Web
 description: Saiba mais sobre o SDK da Web. Mostraremos todas as noções básicas do SDK da Web, incluindo os motivos por trás dele, como funciona e os casos de uso importantes que ele possibilita.
 solution: Data Collection,Experience Platform
+feature: Data Collection
 kt: 10412
-thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
 duration: 3863
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -33,7 +33,8 @@ Nesta primeira das três sessões de transmissão ao vivo sobre a coleção de d
 * [Tutorial: implementar o Adobe Experience Cloud com o SDK da Web](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=pt-BR){target="_blank"}
 * [Informações coletadas automaticamente no SDK da Web](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
 * [Provisionamento gratuito do SDK da Web](https://adobe.ly/websdkaccess){target="_blank"}
-* [Informações sobre IDs de dispositivo próprio no SDK da Web](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
+* [Informações sobre IDs de dispositivo próprio no SDK da Web](https://experienceleague.adobe.com/pt-br/docs/experience-platform/web-sdk/identity/first-party-device-ids){target="_blank"}
 * [Visão geral e download do Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [Documentos do SDK móvel](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Informações da coleção de aplicativos híbridos](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+

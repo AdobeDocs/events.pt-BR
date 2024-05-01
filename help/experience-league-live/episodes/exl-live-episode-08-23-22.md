@@ -1,14 +1,14 @@
 ---
 title: Pergunte aos especialistas - Extensões úteis em tags (Launch) para ajudar a sobrecarregar o SDK da Web
 description: Você está pensando em migrar sua implementação para o novo SDK da Web do Adobe?  Vamos executar algumas de nossas extensões favoritas na biblioteca de tags do Adobe, que ajudarão você a elevar o nível da sua coleção de dados.
-solution: Data Collection,Experience Platform
+solution: Data Collection, Experience Platform
+feature: Tags
 kt: 10528
-thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
 duration: 3833
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '675'
 ht-degree: 0%
@@ -104,3 +104,4 @@ Prossiga a discussão sobre este tópico no [Discussão da comunidade do Experie
 * [Pergunte aos especialistas - Noções básicas do SDK da Web](exl-live-episode-05-26-22.md)
 * [Pergunte aos especialistas - RTCDP Connections](exl-live-episode-06-23-22.md)
 * [Pergunte aos especialistas - Datastreams e preparação de dados](exl-live-episode-07-21-22.md)
+

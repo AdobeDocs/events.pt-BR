@@ -4,13 +4,13 @@ description: Entender a jornada do cliente é tudo. E relatar a interação do u
 landing-page-description: Saiba como usar Classificações com o Activity Map para entender melhor o comportamento do usuário e criar um gráfico com os cliques que levam a atividades valiosas do site.
 short-description: Saiba como usar Classificações com o Activity Map para entender melhor o comportamento do usuário e criar um gráfico com os cliques que levam a atividades valiosas do site.
 solution: Analytics
+feature: Activity Map, Classifications
 kt: 9255
-thumbnail: https://video.tv.adobe.com/v/338108?format=jpeg
 event-start-time: 2021-10-21 09:00-7
 event-guests: Jenn Kunz,Adam Klintworth
 exl-id: b601414e-7892-452e-8dd3-e9d917bd9b3e
 duration: 3697
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 7%
@@ -26,3 +26,4 @@ E relatar a interação do usuário com sua propriedade da web ou móvel é o qu
 Também abordaremos dicas para entender e aproveitar os relatórios de atribuição.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338108/?quality=12&learn=on)
+
