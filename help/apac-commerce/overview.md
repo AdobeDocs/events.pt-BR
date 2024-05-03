@@ -1,16 +1,16 @@
 ---
-title: Série de webinários do APAC Commerce
+title: Série de webinários da APAC Commerce
 description: A série de webinários de comércio da APAC é uma cadência mensal de workshops para clientes do Adobe Commerce que abrange uma grande variedade de tópicos, desde práticas recomendadas até roteiros de produtos e tendências do setor.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
+source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
-# Série de webinários do APAC Commerce
+# Série de webinários da APAC Commerce
 
 A série de webinários de comércio da APAC é uma cadência mensal de workshops para clientes do Adobe Commerce que abrange uma grande variedade de tópicos, desde práticas recomendadas até roteiros de produtos e tendências do setor. Ouça vários especialistas em produtos em toda a empresa e participe ao vivo para ter uma oportunidade de fazer perguntas e se envolver diretamente com a equipe. Esta série ajudará você a ser bem-sucedido no e maximizar seu investimento na plataforma Adobe Commerce.
 
@@ -32,29 +32,29 @@ A série de webinários de comércio da APAC é uma cadência mensal de workshop
     <p>
   </td> 
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-      <img alt="Ferramenta de análise abrangente do site Adobe Commerce" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+      <img alt="Ferramenta de análise abrangente do site Adobe Commerce" src="https://video.tv.adobe.com/v/3428818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-        <strong>Simplifique seus negócios com o Adobe PaaS Cloud Commerce</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+        <strong>A borda criativa - Como o pensamento visionário está transformando a Commerce</strong>
       </a>
     </div>
     <p>
-    <em>Junte-se ao nosso webinário para descobrir os benefícios da solução Adobe Commerce Cloud PaaS, seja ela auto-hospedagem e esteja curioso sobre PaaS ou um cliente existente que busca otimizar sua configuração.</em>
+    <em>Explore a integração da criatividade e do comércio.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-      <img alt="Benefícios da atualização para o Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
+      <img alt="Benefícios da atualização para o Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3428817?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-        <strong>Personalização alimentada por IA</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
+        <strong>Sete maneiras de expandir um negócio de eCommerce organicamente</strong>
       </a>
     </div>
     <p>
-    <em>Aproveite o potencial da IA para obter uma experiência excepcional do cliente com o investimento do Adobe em IA e sua integração no Commerce.</em>
+    <em>Obtenha insights valiosos e dicas práticas para expandir um negócio de comércio eletrônico organicamente por meio de estratégias de SEO</em>
     <p>
   </td>
 </tr>
