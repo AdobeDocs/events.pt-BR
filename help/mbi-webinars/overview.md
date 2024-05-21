@@ -3,7 +3,7 @@ title: Webinários do Commerce Intelligence
 description: Explore os webinários gravados do Commerce Intelligence, que abrangem uma grande variedade de tópicos e práticas recomendadas para usar o Commerce Intelligence em todo o seu potencial.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
+source-git-commit: 78cb08c0aabfa98db97e1b7c1cee466e7c3578df
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 1%
@@ -16,9 +16,9 @@ ht-degree: 1%
 >
 >O Adobe Commerce Intelligence era conhecido anteriormente como [!DNL Magento Business Intelligence (MBI)]. As gravações de eventos anteriores refletem o nome anterior.
 
-A série de webinários de Inteligência do Commerce é um evento periódico para clientes de Inteligência do Commerce. Os webinários abrangem uma grande variedade de tópicos e práticas recomendadas para usar o Commerce Intelligence em todo o seu potencial.
+A série de webinários Commerce Intelligence é um evento periódico para clientes do Commerce Intelligence. Os webinários abrangem uma grande variedade de tópicos e práticas recomendadas para usar o Commerce Intelligence em todo o seu potencial.
 
-Participantes de todas as regiões podem participar dos eventos ao vivo para entender melhor o produto e obter respostas diretas sobre as perguntas relacionadas à funcionalidade do Commerce Intelligence.
+Participantes de todas as regiões geográficas podem participar dos eventos ao vivo para entender melhor o produto e obter respostas diretas sobre as perguntas relacionadas à funcionalidade do Commerce Intelligence.
 
 Os tópicos são repetidos ocasionalmente para acomodar quaisquer novas perguntas que os clientes possam fazer.
 
@@ -40,11 +40,11 @@ Os tópicos são repetidos ocasionalmente para acomodar quaisquer novas pergunta
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
       <img alt="Gerenciamento de Conjuntos de Dados no Adobe Commerce Intelligence" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
         <strong>Gerenciamento de Conjuntos de Dados no Adobe Commerce Intelligence</strong>
       </a>
     </div>
