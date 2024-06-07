@@ -2,9 +2,9 @@
 user-guide-title: Gravações de evento do Adobe Experience League
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Uma coleção de gravações de eventos forçadas a usar os produtos Adobe Enterprise
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '351'
 ht-degree: 12%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 12%
    + [Webinários do Acrobat Sign](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + [Série Adobe Campaign Insider](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Fórum de gerenciamento de conteúdo do Adobe](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
+   + [Webinários do Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
    + [Atualizações de produto do Adobe Commerce](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [Horário comercial do AEM Champion](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
@@ -31,7 +32,6 @@ ht-degree: 12%
    + [Aprenda com seus colegas](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo e Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [Office Hours](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
-   + [Webinários do MBI](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
    + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
@@ -59,7 +59,7 @@ ht-degree: 12%
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [Eventos de comércio da APAC](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
       + [Commerce e Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
-      + [Webinários do MBI](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
+      + [Webinários do Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
       + [Office Hours](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Customer Journey Analytics {#cja}

@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários Adobe Customer Success-led projetados para capacitá-lo na otimização do seu investimento no Adobe Experience Cloud. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções Adobe.
-source-git-commit: 2cf8e724088594be85182d65ac106e8118920474
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '142'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,15 @@ ht-degree: 1%
 
 + [Webinários de sucesso do cliente do Adobe](overview.md)
 + 2024 {#2024}
+   + [Adobe Workfront - Equipes de lean manufacturing](2024/workfront-lean-teams.md)
    + [Priorização do fluxo de dados](2024/data-stream-prioritization.md)
+   + [Gerenciamento eficaz de alterações](2024/effective-change-management.md)
    + [Capacitar equipes enxutas](2024/empowering-lean-teams.md)
    + [A Expedia muda do Adobe Analytics para o Customer Journey Analytics](2024/expedia-aa-to-cja.md)
+   + [Hiperpersonalização](2024/hyperpersonalization.md)
    + [Liderança estratégica](2024/strategic-leadership.md)
+   + [Mapeamento de casos de uso para recursos da solução](2024/use-case-mapping.md)
+   + [Fundamentos para migração do SDK da Web](2024/web-sdk-migration.md)
 + 2023 {#2023}
    + [Construindo a base para a personalização em escala](2023/personalization-at-scale.md)
    + [Gerenciamento de alterações](2023/change-management.md)
