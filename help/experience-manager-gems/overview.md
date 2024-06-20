@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessões GEM com AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 2f4720df0080c4121892fbdfab1a0cbcf1be850e
+source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,7 @@ ht-degree: 0%
 
 ## Próximo evento GEMs AEM
 
-29 de maio de 2024 - **EDGE DELIVERY SERVICES e AEM ASSETS**
-As inscrições serão abertas em breve...
+Os próximos webinars serão anunciados em julho de 2024.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +50,9 @@ As inscrições serão abertas em breve...
 
 ## Evento anterior de GEMs AEM
 
-Nosso mais recente webinário de GEMs com AEM em **Introdução ao Edge Delivery Services para AEM Forms** foi realizada em *17 de abril de 2024*.
+Nosso mais recente webinário de GEMs com AEM em **Melhoria na experiência do desenvolvedor para o AEM Assets com nossas novas APIs e eventos** foi realizada em *19 de junho de 2024*.
 A variável **gravação** podem ser encontrados aqui:
-[Introdução ao Edge Delivery Services para AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
+[Melhoria na experiência do desenvolvedor para o AEM Assets com nossas novas APIs e eventos](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >

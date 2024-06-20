@@ -9,7 +9,8 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
+exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
+source-git-commit: e364366d7df321ebbcb598ac15e237e5626a4087
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -18,8 +19,7 @@ ht-degree: 0%
 
 # Data do webinário: 19 de junho de 2024
 
-Este webinário será transmitido na quarta-feira, 19 de junho - 17h00 CEST / 8h00 PDT / 20h30 IST.
-Registre-se por meio de nossa [página do evento](https://adobe.ly/3wLRpdI).
+Este webinário foi realizado na quarta-feira, 19 de junho - 17h CEST / 8h PDT / 20h IST. Veja a gravação abaixo.
 
 ## Melhoria na experiência do desenvolvedor para o AEM Assets com nossas novas APIs e eventos
 
@@ -34,10 +34,12 @@ Os desenvolvedores do AEM terão a oportunidade de explorar as APIs abertas do A
 * Ian Reasor, cientista da computação sênior, Adobe
 * Ievgen Nedoviesov, Gerente, Engenharia De Software, Adobe
 
-## Interação da comunidade de webinários
+## Gravação do webinário
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430198)
 
 >[!NOTE]
 > 
->* Para ver as interações da comunidade específicas da sessão no Experience League, visite os respectivos [Thread contextual](https://adobe.ly/3UQXwFO).
+>* Para ver as interações da comunidade específicas da sessão neste webinário no Experience League, visite os respectivos [Thread contextual](https://adobe.ly/3UQXwFO).
 >
 >* Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
