@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 34b3c72c487bd43cd8b1ec0e94e107dfb72be850
+source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 44%
+ht-degree: 4%
 
 ---
 
 # Experience League LIVE 
 
-Experience League LIVE é um programa de streaming ao vivo produzido pela equipe da Experience League.  É uma chance de se conectar com especialistas em produtos da Adobe e aprender dicas, truques e estratégias úteis que podem ser usados com os aplicativos da Adobe Experience Cloud.
+Experience League LIVE é um programa de streaming ao vivo produzido pela equipe Experience League.  É uma chance de se conectar com especialistas em produtos Adobe e aprender dicas, truques e estratégias úteis que podem ser usados com os aplicativos Adobe Experience Cloud.
 
 <div id="upcoming-events">
 
@@ -26,9 +26,16 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 <table>
 <tr>
 
-<td style="vertical-align: top;"><b>Volte a esta página em breve para saber mais sobre nossos programas de junho de 2024:</b><br/>
-    * Versões do primeiro semestre de 2024 para Adobe Real-time Customer Data Platform<br/>
-    * Revisão e aprovações unificadas do Adobe Workfront
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
+      <img alt="Experience League LIVE 26 de junho" src="episodes/assets/WebBanner-June26-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>Como as versões mais recentes do Adobe Real-Time CDP podem ajudar a sua empresa</strong>
+      </a>
+      <br/><em>com Nina Caruso, Rudi Shumpert e Doug Moore</em>
+      <br/><em>26 de junho de 2024</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -94,4 +101,4 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 
 >[!TIP]
 >
->Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) gratuitos, bem como [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
+>Para obter métodos adicionais de aprendizado, consulte nossa [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) bem como as pessoas [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR).
