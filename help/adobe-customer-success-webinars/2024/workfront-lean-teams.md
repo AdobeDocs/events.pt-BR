@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Maximizar a eficiência com o Adobe Workfront: webinário de equipes enxutas
 
@@ -27,3 +27,31 @@ Estratégias relevantes e abordagens práticas para organizações com o objetiv
 * Aprendizado contínuo e adaptação
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+
+## Visão geral da reunião
+
+A reunião focou em Equipes simples e na maximização da eficiência com o Adobe Workfront. Aqui está um resumo dos pontos principais discutidos,
+
+**Equipes enxutas e eficiência**
+
+* Discutimos os desafios enfrentados pelas equipes do Lean.
+* Metas e benefícios destacados do gerenciamento enxuto.
+* Enfatizou os princípios associados ao gerenciamento Lean.
+
+**Estratégias para a eficiência**
+
+* Importância do aprimoramento contínuo.
+* Simplificação da comunicação.
+* Tomar decisões orientadas por dados.
+
+**Ferramentas do Workfront**
+
+* Utilização de ferramentas do Workfront, como blueprints, planejador de recursos e integrações para obter sucesso.
+
+**Principais pontos**
+
+* Estratégias para a eficiência.
+* Simplificação da comunicação.
+* Tomada de decisões orientada por dados.
+* Promover uma mentalidade de aprendizagem.
+* Interação com a comunidade da Workfront para obter suporte e práticas recomendadas.
