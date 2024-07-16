@@ -9,7 +9,7 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 7582ea084cdfe20cfc5bd4c62a5a1234b5c3bcac
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Um treinamento exclusivo MUG Leader sobre a migração do Adobe Admin Console. Esta reunião terá o formato de &quot;Treinamento do instrutor&quot;, para que você possa receber o que aprendeu e educar seus capítulos sobre essa mudança futura.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430626/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Visão geral
 
