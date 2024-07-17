@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## Com o Experience League, o aprendizado é um evento.
 
-Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendizado. Visite esse espaço com frequência para ver gravações de eventos anteriores, como Experience League LIVE, Skill Builder, Developers Live e muito mais. Se quiser se registrar em um evento futuro, consulte o [eventos futuros](https://%65xperienceleague.adobe.com/events/?lang=en) no Experience League.
+Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendizado. Visite esse espaço com frequência para ver gravações de eventos anteriores, como Experience League LIVE, Skill Builder, Developers Live e muito mais. Se quiser se registrar em um evento futuro, consulte os [eventos futuros](https://%65xperienceleague.adobe.com/events/?lang=en) no Experience League.
 
 ## Série de eventos
 
@@ -31,7 +31,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Webinários do Acrobat Sign">Webinários do Acrobat Sign</a>
+              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Webinários do Acrobat Sign">Webinars do Acrobat Sign</a>
           </p>
           <p class="is-size-6">
          Aprenda com especialistas do Adobe como dominar novos workflows de assinatura eletrônica no Acrobat Sign.</p>
@@ -143,7 +143,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="Horário comercial do AEM Champion">Horário comercial do AEM Champion</a>
+              <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="Horário comercial do AEM Champion">Horário comercial do AEM</a>
           </p>
           <p class="is-size-6">
          Se você estiver interessado em avançar seu conhecimento e uso do Adobe Experience Manager, interagir com os líderes de pensamento do Experience Manager e ganhar swag exclusivo - então junte-se ao AEM Champion Office Hours User Group hoje mesmo!</p>
@@ -165,10 +165,10 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="Webinários do Adobe Commerce para APAC">Webinários do Adobe Commerce para APAC</a>
+              <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="Webinários do Adobe Commerce para APAC">Webinários do APAC Adobe Commerce</a>
           </p>
           <p class="is-size-6">
-         A série de webinários de comércio da APAC é uma cadência mensal de workshops para clientes do Adobe Commerce que abrange uma grande variedade de tópicos, desde práticas recomendadas até roteiros de produtos e tendências do setor.</p>
+         A série de webinários APAC Commerce é uma cadência mensal de workshops para clientes do Adobe Commerce que abrange uma grande variedade de tópicos, desde práticas recomendadas até roteiros de produtos e tendências do setor.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -187,7 +187,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Webinários de sucesso do cliente do Adobe">Webinários de sucesso do cliente do Adobe</a>
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Webinários de sucesso do cliente do Adobe">Webinários sobre o Sucesso do Cliente do Adobe</a>
           </p>
           <p class="is-size-6">
          Webinários Adobe Customer Success-led projetados para capacitá-lo na otimização do seu investimento no Adobe Experience Cloud. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções Adobe.</p>
@@ -209,7 +209,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce e Coffee">Commerce e Coffee</a>
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce e Coffee">Commerce e Café</a>
           </p>
           <p class="is-size-6">
          A série Commerce &amp; Coffee é para clientes existentes da Adobe Commerce de todos os níveis de habilidade e recursos, Sr. Consultor de estratégia da Commerce, Corey Gelato. A série se concentra em estratégias e táticas do Commerce, apoiadas por estatísticas que refletem o tópico do evento.</p>
@@ -297,7 +297,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="EXPERIENCE MANAGER GEMS">EXPERIENCE MANAGER GEMS</a>
+              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="EXPERIENCE MANAGER GEMS">Experience Manager GEMS</a>
           </p>
           <p class="is-size-6">
          Detalhes técnicos da Adobe Experience Manager fornecidos por especialistas da Adobe. Esta série é um complemento da documentação do produto e de todos os outros canais técnicos relacionados ao Adobe Experience Manager, permitindo que os desenvolvedores entrem em contato e aprofundem o assunto.</p>
@@ -410,7 +410,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
               <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
           </p>
           <p class="is-size-6">
-         A série de webinários Adobe Commerce Intelligence (também conhecida como MBI) é um evento periódico para clientes do Adobe Commerce Intelligence. Os webinários abrangem uma grande variedade de tópicos e práticas recomendadas para usar o Adobe Commerce Intelligence em todo o seu potencial.</p>
+         A série de webinários Adobe Commerce Intelligence (também conhecida como MBI) é um evento periódico para clientes do Adobe Commerce Intelligence. Os webinários abrangem uma grande variedade de tópicos e práticas recomendadas para usar o Adobe Commerce Intelligence ao máximo.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

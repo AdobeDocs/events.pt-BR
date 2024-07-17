@@ -1,6 +1,6 @@
 ---
-title: Introdução às bibliotecas Creative Cloud e APIs do navegador de ativos
-description: Saiba como integrar bibliotecas de Creative Cloud em seus aplicativos da Web por meio da API de bibliotecas de Creative Cloud e do SDK do navegador de ativos
+title: Introdução ao Creative Cloud Libraries e às APIs do navegador de ativos
+description: Saiba como integrar o Creative Cloud Libraries em seus aplicativos web por meio da API do Creative Cloud Libraries e do SDK do navegador de ativos
 solution: Creative Cloud
 feature: Developer Tools
 topic: Development
@@ -13,18 +13,18 @@ duration: 1485
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 17%
+ht-degree: 16%
 
 ---
 
-# Introdução às bibliotecas Creative Cloud e APIs do navegador de ativos
+# Introdução ao Creative Cloud Libraries e às APIs do navegador de ativos
 
-Saiba como integrar bibliotecas de Creative Cloud em seus aplicativos da Web por meio da API de bibliotecas de Creative Cloud e do SDK do navegador de ativos
+Saiba como integrar o Creative Cloud Libraries em seus aplicativos web por meio da API do Creative Cloud Libraries e do SDK do navegador de ativos
 
 >[!VIDEO](https://video.tv.adobe.com/v/337592/?quality=12&learn=on&hidetitle=true)
 
 ## Recursos adicionais
 
-- [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
+- [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

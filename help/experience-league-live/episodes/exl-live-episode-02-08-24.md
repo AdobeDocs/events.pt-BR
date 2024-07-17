@@ -22,21 +22,21 @@ Apresentação dos manuais de casos de uso - um catálogo acionável de manuais 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426930/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Você tem dúvidas?&quot;]
+>[!BEGINSHADEBOX &quot;Tem dúvidas?&quot;]
 
-Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
+Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488) do Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
 Os manuais de casos de uso foram criados para lidar com dois grandes desafios,
 
-1. **Síndrome de página em branco** - Muitos clientes, especialmente os novos, sentem-se sobrecarregados quando obtêm acesso à Adobe Experience Platform pela primeira vez e não sabem por onde começar ou como aproveitar seu poder. Os manuais de casos de uso ajudam os clientes a superar esse obstáculo inicial, fornecendo conjuntos preparados de modelos de casos de uso que os orientam pelo processo de implementação de metas de marketing específicas.
+1. **Síndrome da página em branco** - Muitos clientes, especialmente os novos, sentem-se sobrecarregados quando obtêm acesso à Adobe Experience Platform pela primeira vez e não sabem por onde começar ou como aproveitar seu potencial. Os manuais de casos de uso ajudam os clientes a superar esse obstáculo inicial, fornecendo conjuntos preparados de modelos de casos de uso que os orientam pelo processo de implementação de metas de marketing específicas.
 
-1. **Maior adoção e envolvimento** - Os manuais têm como objetivo ajudar os clientes a se atualizarem mais rapidamente e aproveitar ao máximo o investimento em produtos Adobe, fornecendo modelos pré-construídos e orientação técnica.  Isso ajuda os clientes a implementar casos de uso com mais rapidez, demonstrar valor para as partes interessadas e promover a colaboração entre as equipes de TI e de marketing.  Em última análise, os manuais têm como objetivo maximizar a adoção e o valor que os clientes obtêm da plataforma Adobe Experience.
+1. **Maior adoção e envolvimento** - Os manuais têm como objetivo ajudar os clientes a se familiarizarem mais rapidamente e a aproveitar ao máximo o investimento em produtos Adobe, fornecendo modelos pré-criados e orientação técnica.  Isso ajuda os clientes a implementar casos de uso com mais rapidez, demonstrar valor para as partes interessadas e promover a colaboração entre as equipes de TI e de marketing.  Em última análise, os manuais têm como objetivo maximizar a adoção e o valor que os clientes obtêm da plataforma Adobe Experience.
 
 Um exemplo de caso de uso discutido nesta sessão é um caso de uso de navegação e merchandise abandonado. Esse caso de uso tem como objetivo lidar com o desafio de os clientes abandonarem a sessão de navegação antes de fazerem uma compra. O segmento de público-alvo resultante para este caso de uso seria de clientes que abandonaram a sessão de navegação sem concluir uma compra. Esse segmento pode ser direcionado com mensagens ou ofertas personalizadas para incentivá-los a retornar e concluir sua compra.
 
-## Principais aprendizados
+## Principais pontos
 
 * Os manuais de casos de uso são conjuntos preparados de modelos de casos de uso que ajudam os clientes a aproveitar e descobrir o poder da Adobe Experience Platform.
 * Os principais desafios que os manuais de casos de uso têm como objetivo abordar são a &quot;síndrome da página em branco&quot; e a necessidade de maior adoção e engajamento nas ferramentas.
@@ -52,10 +52,10 @@ Um exemplo de caso de uso discutido nesta sessão é um caso de uso de navegaç�
 ## Recursos adicionais
 
 * **[Visão geral dos manuais de caso de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
-  *Os manuais de casos de uso podem ajudar você a superar o problema ao começar a usar o Real-Time CDP ou o Adobe Journey Optimizer, quando talvez você não saiba exatamente com o que começar ou como criar os ativos certos para atingir os casos de uso desejados.*
+  *Os manuais de casos de uso podem ajudá-lo a resolver o problema ao começar a usar o Real-Time CDP ou o Adobe Journey Optimizer, quando talvez você não saiba exatamente com o que começar ou como criar os ativos certos para obter os casos de uso desejados.*
 
-* **[Introdução aos manuais de caso de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=pt-BR){target="_blank"}**
-  *Saiba como configurar sua conta para manuais de casos de uso, projetados para Real-time Customer Data Platform e Adobe Journey Optimizer.*
+* **[Introdução aos manuais de casos de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=pt-BR){target="_blank"}**
+  *Saiba como configurar sua conta para os manuais de casos de uso, criados para o Real-time Customer Data Platform e o Adobe Journey Optimizer.*
 
-* **[Playbooks de caso de uso disponíveis](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=pt-BR){target="_blank"}**
+* **[Guias de reprodução de casos de uso disponíveis](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=pt-BR){target="_blank"}**
   *Leia esta página para obter uma visão geral de todos os manuais disponíveis que você pode descobrir e usar no Real-time Customer Data Platform e no Adobe Journey Optimizer.*

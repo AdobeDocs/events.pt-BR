@@ -29,7 +29,7 @@ Esse webinário foi realizado em 27 de abril de 2022 e apresentado por Kunal Gab
 >[!MORELIKETHIS]
 >
 >* [Página correspondente do Evento do grupo de usuários do Adobe Experience Manager](https://adobe.ly/3O0uXl5/)
->* [Thread contextual correspondente](https://adobe.ly/3jorz5r)
+>* [Thread Contextual Correspondente](https://adobe.ly/3jorz5r)
 >* Registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/) para ser notificado sobre webinários futuros.
 
 **Agenda de alto nível:**

@@ -17,7 +17,7 @@ duration: 3317
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -31,13 +31,13 @@ Noções básicas para configuração e uso do seu DAM.
 
 ## Recursos
 
-* [Guia do usuário do AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [Configuração da estrutura de pastas do AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
-* [Configurar permissões de pastas do AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=pt-BR)
+* [Guia do Usuário do AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
+* [Configurando sua estrutura de pastas do AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
+* [Configurar permissões da pasta do AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=pt-BR)
 * [Usar coleções para organizar e compartilhar ativos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Encontrar ativos visualmente semelhantes com aprendizado de máquina](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Obtenha resultados de pesquisa precisos e precisos com os aspectos de pesquisa dinâmica](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Sintaxe avançada de pesquisa de texto completo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [Localizar ativos visualmente semelhantes com aprendizado de máquina](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [Obtenha resultados de pesquisa precisos e precisos com aspectos de pesquisa dinâmica](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [Sintaxe de pesquisa avançada de texto completo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 
 ## Gravações em série
 

@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Criar uma cultura orientada por dados"'
-description: Ingressar [!DNL Adobe Analytics] O especialista Gitai Ben-Ammi discute como é uma cultura orientada por dados e compartilha estratégias para usar [!DNL Adobe Analytics] para criar um.
+title: '[!DNL Adobe Analytics] Criando uma Cultura Orientada por Dados'
+description: Junte-se ao [!DNL Adobe Analytics] Champion Gitai Ben-Ammi enquanto ele discute a aparência de uma cultura orientada por dados e compartilha estratégias para usar o [!DNL Adobe Analytics] para criar uma.
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Criação de uma cultura orientada por dados
 
-Ingressar [!DNL Adobe Analytics] O especialista Gitai Ben-Ammi discute como é uma cultura orientada por dados e compartilha estratégias para usar [!DNL Adobe Analytics] para criar um.
+Junte-se ao especialista do [!DNL Adobe Analytics] Gitai Ben-Ammi enquanto ele discute a aparência de uma cultura orientada por dados e compartilha estratégias para usar o [!DNL Adobe Analytics] para criar uma.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414131/?quality=12&learn=on)

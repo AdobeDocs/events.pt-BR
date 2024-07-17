@@ -18,7 +18,7 @@ Bem-vindo ao Gerenciamento de dados do cliente Vozes seu destino como técnico d
 
 >[!TIP]
 >
->**Todas as sessões gravadas são listadas na navegação à esquerda**.
+>**Todas as sessões gravadas estão listadas na navegação à esquerda**.
 
 ## Blocos de construção do gerenciamento de dados do cliente
 
@@ -29,7 +29,7 @@ Bem-vindo ao Gerenciamento de dados do cliente Vozes seu destino como técnico d
       <img alt="Simplificando sua primeira milha de gerenciamento de dados" src="./assets/first-mile.png"/>
       </a>
       <div>
-         <a href="./cdm/first-mile.md"><strong>Simplificando sua primeira milha de gerenciamento de dados</strong></a>
+         <a href="./cdm/first-mile.md"><strong>Simplificando a Primeira Milha do Gerenciamento de Dados</strong></a>
          <br/>
       </div>
    </td>
@@ -38,7 +38,7 @@ Bem-vindo ao Gerenciamento de dados do cliente Vozes seu destino como técnico d
       <img alt="Seleção de uma plataforma de dados do cliente para o sucesso" src="./assets/cdp-success.png"/>
       </a>
       <div>
-         <a href="./cdm/cdp-success.md"><strong>Seleção de uma plataforma de dados do cliente para o sucesso</strong></a>
+         <a href="./cdm/cdp-success.md"><strong>Selecionando uma Plataforma de Dados do Cliente para Êxito</strong></a>
          <br/>
       </div>
     </td>
@@ -47,7 +47,7 @@ Bem-vindo ao Gerenciamento de dados do cliente Vozes seu destino como técnico d
       <img alt="Pessoas e Processos" src="./assets/people-and-process.png"/>
       </a>
       <div>
-         <a href="./cdm/people-and-process.md"><strong>Práticas recomendadas de CDP — pessoas e processos</strong></a>
+         <a href="./cdm/people-and-process.md"><strong>Práticas recomendadas da CDP - Pessoas e processos</strong></a>
          <br/>
       </div>
     </td>
@@ -58,7 +58,7 @@ Bem-vindo ao Gerenciamento de dados do cliente Vozes seu destino como técnico d
       <img alt="Evolução do seu centro de excelência de público" src="./assets/evolving-your-audience-center-of-excellence.png"/>
       </a>
       <div>
-         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>Evolução do seu centro de excelência de público</strong></a>
+         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>Desenvolvendo seu Centro de Excelência para o Público</strong></a>
          <br/>
       </div>
     </td>
@@ -67,7 +67,7 @@ Bem-vindo ao Gerenciamento de dados do cliente Vozes seu destino como técnico d
       <img alt="Criar melhores experiências com perfis de clientes" src="./assets/building-better-experiences-with-customer-profiles.png"/>
       </a>
       <div>
-         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>Criar melhores experiências com perfis de clientes</strong></a>
+         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>Criando melhores experiências com perfis de clientes</strong></a>
       </div>
       <p>
         <br/>
@@ -105,7 +105,7 @@ Bem-vindo ao Gerenciamento de dados do cliente Vozes seu destino como técnico d
       <img alt="Dez considerações para o gerenciamento responsável de dados do cliente" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>Dez considerações para o gerenciamento responsável de dados do cliente</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 considerações para o gerenciamento responsável de dados do cliente</strong></a>
          <br/>
       </div>
       <p>
@@ -116,7 +116,7 @@ Bem-vindo ao Gerenciamento de dados do cliente Vozes seu destino como técnico d
       <img alt="Elevar a função do profissional de marketing como administrador de dados" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Elevar a função do profissional de marketing como administrador de dados</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Elevação da função de profissional de marketing como administrador de dados</strong></a>
          <br/>
       </div>
       <p>
@@ -142,10 +142,10 @@ Bem-vindo ao Gerenciamento de dados do cliente Vozes seu destino como técnico d
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="Colaboração de dados no contexto de dados próprios" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="Collaboration de dados no contexto de dados próprios" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Colaboração de dados no contexto de dados próprios</strong></a>
+         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Data Collaboration no Contexto de Dados Próprios</strong></a>
       </div>
       <p>
       </p>

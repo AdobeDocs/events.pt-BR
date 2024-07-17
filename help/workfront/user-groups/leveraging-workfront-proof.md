@@ -1,6 +1,6 @@
 ---
-title: Aproveitamento da prova do Workfront (9 de novembro de 2021)
-description: Analise maneiras diferentes de aproveitar o Workfront Proof para aprimorar o seu modo de trabalhar.
+title: Aproveitamento do Workfront Proof (9 de novembro de 2021)
+description: Ouça maneiras diferentes de aproveitar o Workfront Proof para aprimorar seu modo de trabalhar.
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10002
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Aproveitamento da prova do Workfront (9 de novembro de 2021)
+# Aproveitamento do Workfront Proof (9 de novembro de 2021)
 
-Analise maneiras diferentes de aproveitar o Workfront Proof para aprimorar o seu modo de trabalhar.
+Ouça maneiras diferentes de aproveitar o Workfront Proof para aprimorar seu modo de trabalhar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341217/?quality=12&learn=on)

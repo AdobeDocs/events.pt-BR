@@ -28,11 +28,11 @@ Embora a segurança esteja vinculada a vários fatores técnicos e comerciais, s
 
 ## Principais pontos
 
-**Segurança do setor de comércio eletrônico**
+**Segurança do E-commerce Industry**
 
 * Altamente alvo de ataques virtuais por roubo de dados de cartões de crédito.
 
-**Medidas de segurança do Adobe Commerce**
+**Medidas de Segurança do Adobe Commerce**
 
 * Melhorar ativamente as medidas de segurança para a proteção dos comerciantes.
 * Recomenda autenticação de dois fatores, limitação de taxa de API e políticas de segurança de conteúdo.
@@ -48,7 +48,7 @@ Embora a segurança esteja vinculada a vários fatores técnicos e comerciais, s
 
 * Atualize para as versões mais recentes para solucionar vulnerabilidades de segurança e garantir a conformidade.
 
-**Integração do Fastly Next-Generation WAF**
+**Integração rápida do WAF da próxima geração**
 
 * Em andamento para melhorar as medidas de segurança.
 * Collaboration com profissionais de suporte para implementação de regras do Fastly para bloquear solicitações mal-intencionadas.

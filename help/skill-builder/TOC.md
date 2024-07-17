@@ -3,8 +3,8 @@ user-guide-title: Skill Builder
 user-guide-description: Esta é uma descrição do guia do usuário que será exibida na landing page.
 source-git-commit: 14496a09a0e2dccb88b1ef90a6a070f8f5c3990c
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 31%
+source-wordcount: '163'
+ht-degree: 8%
 
 ---
 
@@ -12,19 +12,19 @@ ht-degree: 31%
 # Skill Builder {#skill-builder-recordings}
 
 + [Visão geral](overview.md)
-+ Content and Commerce {#content-and-commerce}
++ Conteúdo e Commerce {#content-and-commerce}
    + [Visão geral](content-and-commerce/overview.md)
    + 2022 {#2022}
-      + [Inovações na personalização de conteúdo](content-and-commerce/2022/content-perosonalization.md)
-      + [Fornecer experiências headless com o Experience Manager](content-and-commerce/2022/headless.md)
+      + [Inovações no Personalization de conteúdo](content-and-commerce/2022/content-perosonalization.md)
+      + [Ofereça experiências headless com o Experience Manager](content-and-commerce/2022/headless.md)
       + [Atualização do Adobe Commerce 2.4.4](content-and-commerce/2022/commerce-upgrade.md)
       + [Gerenciamento de fluxos de trabalho corporativos](content-and-commerce/2022/workflow.md)
       + [Faça com que os metadados funcionem para sua empresa](content-and-commerce/2022/metadata.md)
-      + [Headless para comércio e PWA Studio](content-and-commerce/2022/headless-pwa.md)
+      + [Headless para Commerce e PWA Studio](content-and-commerce/2022/headless-pwa.md)
    + 2021 {#2021}
-      + [Princípios básicos de criação](content-and-commerce/2021/authoring-fundamentals.md)
+      + [Fundamentos de criação](content-and-commerce/2021/authoring-fundamentals.md)
       + [Administração do Media Library](content-and-commerce/2021/media-library-administration.md)
-      + [Ferramentas de colaboração](content-and-commerce/2021/collaboration-tools.md)
+      + [Ferramentas do Collaboration](content-and-commerce/2021/collaboration-tools.md)
       + [Experiências omnicanais](content-and-commerce/2021/omnichannel-experiences.md)
       + [MSM e tradução](content-and-commerce/2021/multi-site-management-web-translation.md)
       + [Gerenciamento de conteúdo](content-and-commerce/2021/traditional-headless-content-management.md)
@@ -42,8 +42,8 @@ ht-degree: 31%
       + [Principais dicas e truques para o Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
       + [Desenvolver e personalizar modelos de dados no Adobe [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
       + [Tendências e inovação da Jornada do cliente em B2B e B2C](customer-journeys/2022/keynote.md)
-      + [Melhor juntos - Adobe [!DNL Marketo Engage] e REAL-TIME CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [Experiências B2B com [!DNL Marketo Engage] e ADOBE EXPERIENCE CLOUD](customer-journeys/2022/b2b-experiences.md)
+      + [Melhor juntos - Adobe [!DNL Marketo Engage] e Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
+      + [Experiências B2B com o  [!DNL Marketo Engage]  e o Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
 + Dados e insights {#data-and-insights}
    + [Visão geral](data-and-insights/overview.md)
    + 2022 {#2022}

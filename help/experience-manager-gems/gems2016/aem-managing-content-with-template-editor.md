@@ -8,7 +8,7 @@ duration: 2962
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -36,6 +36,6 @@ Especialista em chat,
 
 >[!WARNING]
 >
->O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR).  As versões arquivadas da documentação podem ser acessadas neste [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
+>O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  As versões arquivadas da documentação podem ser acessadas nesta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
 >
->Como se refere a esta sessão, consulte *Modelos de página* e *Criação de modelos de página* na documentação do AEM 6.2.
+>Como está relacionado a esta sessão, consulte *Modelos de página* e *Criação de modelos de página* na documentação do AEM 6.2.

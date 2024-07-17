@@ -13,7 +13,7 @@ exl-id: 8bf461e9-bf2d-4c96-b92c-c064df9650f5
 duration: 858
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Junte-se a Jonathan Roeder, Director of Developer Experience for Experience Cloud, para saber mais sobre as últimas atualizações de desenvolvedores no Adobe Experience Cloud.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 
-Clique em **[aqui](/help/adobe-developers-live/assets/developer-experience.pdf)** para os slides da sessão.
+Clique **[aqui](/help/adobe-developers-live/assets/developer-experience.pdf)** para ver os slides da sessão.

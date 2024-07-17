@@ -23,9 +23,9 @@ Saiba como os novos recursos lançados em 2023 podem ajudar você a ativar públ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Você tem dúvidas?&quot;]
+>[!BEGINSHADEBOX &quot;Tem dúvidas?&quot;]
 
-Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"}.
+Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"} do Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
@@ -33,11 +33,11 @@ Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publica
 
 Você é um profissional atual da Real-Time CDP e está procurando informações sobre as novidades do produto, por que ele é importante e como o Adobe pode ajudar a melhorar as estratégias de gerenciamento de dados do cliente? Não procure mais. Você chegou ao lugar certo! Nesta série, vamos nos aprofundar no que foi lançado recentemente no Real-Time CDP para que você possa aproveitar as novidades imediatamente e causar um impacto na sua organização.
 
-## Principais aprendizados
+## Principais pontos
 
 Nesta sessão, discutiremos e mostraremos cinco novos recursos que foram lançados nos últimos meses:
 
-1. Atributos Calculados
+1. Atributos computados
 2. Suporte a dados de parceiros
 3. Nossa nova estrutura de público-alvo
 4. Públicos-alvo semelhantes

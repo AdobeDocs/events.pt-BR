@@ -15,7 +15,7 @@ exl-id: 667512a8-5fdf-4f1a-8082-7d765100b6b3
 duration: 777
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Junte-se a Gabriel Walt, gerente de produto do Experience Manager, para obter uma visão geral dos grandes temas que impulsionam o roteiro da Adobe Experience Manager e como as sessões se relacionam.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331279/?quality=12&learn=on&hidetitle=true)
 
-Clique em **[aqui](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** para os slides da sessão.
+Clique **[aqui](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** para ver os slides da sessão.

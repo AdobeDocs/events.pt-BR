@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # Automações de fluxo de trabalho possibilitadas pelo Microsoft Power Automate
 
@@ -29,5 +29,3 @@ Aproveite todos os recursos de automação com a solução de baixo código/sem 
 * &#x200B;Além disso, o Power Automate permite que os usuários criem e usem fluxos de trabalho automatizados no Adobe Acrobat Sign sem a necessidade de envolver a equipe de TI.
 * Esses fluxos de trabalho automatizados podem aumentar a eficiência, a produtividade e reduzir erros.
 * O Power Automate também permite que não administradores criem fluxos de trabalho, fornecendo uma plataforma para que os usuários automatizem tarefas e processos criando fluxos que conectam diferentes aplicativos e serviços. Ele oferece uma grande variedade de acionadores e ações que podem ser usados para criar fluxos de trabalho personalizados com base em necessidades comerciais específicas.
-
-

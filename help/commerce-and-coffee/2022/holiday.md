@@ -1,5 +1,5 @@
 ---
-title: Comércio e café - Retrospectiva do feriado de 2021
+title: Commerce e café - Retrospectiva do feriado de 2021
 description: Durante esta sessão, analisamos como o cenário de comércio eletrônico foi bem-sucedido durante a única temporada de festas de 2021. Com esses aprendizados, discutimos métodos para influenciar melhor sua estratégia do Adobe Commerce em 2022. Corey demonstra alertas de estoque de produtos, coleta de BOPIS / Curbside, recompensas e fidelidade e muito mais. A apresentação e a demonstração são acompanhadas por uma sessão de perguntas e respostas ao vivo com Corey.
 solution: Commerce
 topic: Commerce

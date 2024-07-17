@@ -1,5 +1,5 @@
 ---
-title: Ativos para todos
+title: Assets para todos
 description: Ouça Purnima Rachoor Roy dizer como o Assets Essentials é o novo sistema de Gerenciamento de ativos digitais para departamentos e empresas de médio porte.
 solution: Experience Manager, Experience Manager Assets, Experience Manager as a Cloud Service
 feature: Asset Management
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Ativos para todos
+# Assets para todos
 
-Ouça Purnima Rachoor Roy dizer como [!DNL Assets Essentials] é o novo [!DNL Digital Asset Management] para departamentos e empresas de médio porte.
+Purnima Rachoor Roy nos diz como o [!DNL Assets Essentials] é o novo sistema [!DNL Digital Asset Management] para departamentos e empresas de médio porte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345378/?quality=12&learn=on)

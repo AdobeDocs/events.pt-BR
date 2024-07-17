@@ -1,6 +1,6 @@
 ---
-title: Skill Builder - Conteúdo e comércio
-description: Série de webinários gravada para criar sua base de conhecimento e maximizar seu investimento em soluções de conteúdo e comércio do Adobe
+title: Skill Builder - Conteúdo e Commerce
+description: Série de webinários gravada para criar sua base de conhecimento e maximizar seu investimento em soluções Adobe Content and Commerce
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
 duration: 58
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -28,7 +28,7 @@ Crie e gerencie diversos sites, aplicativos móveis e formulários envolventes. 
       </a>
     </div>
     <p>
-    <em>Saiba mais sobre o gerenciamento de experiência headless usando as melhorias mais recentes do Fragmento de conteúdo Experience Manager e a nova API do GraphQL para a entrega de conteúdo headless.</em>
+    <em>Saiba mais sobre o gerenciamento de experiência headless usando as melhorias mais recentes do Fragmento de conteúdo do Experience Manager e a nova API do GraphQL para a entrega de conteúdo headless.</em>
     <p>
   </td>
   <td>
@@ -50,7 +50,7 @@ Crie e gerencie diversos sites, aplicativos móveis e formulários envolventes. 
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
-        <strong>Aproveite ao máximo o Gerenciamento de fluxos de trabalho corporativos</strong>
+        <strong>Aproveite ao máximo o Gerenciamento de Fluxo de Trabalho Empresarial</strong>
       </a>
     </div>
     <p>
@@ -62,4 +62,4 @@ Crie e gerencie diversos sites, aplicativos móveis e formulários envolventes. 
 
 >[!TIP]
 >
->**Todas as sessões gravadas são listadas na navegação à esquerda**.
+>**Todas as sessões gravadas estão listadas na navegação à esquerda**.

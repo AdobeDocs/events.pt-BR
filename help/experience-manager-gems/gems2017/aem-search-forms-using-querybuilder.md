@@ -8,7 +8,7 @@ duration: 3652
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -30,15 +30,15 @@ A maioria dos desenvolvedores se deparou com o AEM querybuilder como uma linguag
 
 Demonstração
 
-* [Construtor de consultas do AEM](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), apresentada por Alexander Klimetschek
+* [Construtor de consultas do AEM](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), entregue por Alexander Klimetschek
 
 Documentação do AEM
 
 >[!WARNING]
 >
->O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR).  As versões arquivadas da documentação podem ser acessadas neste [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
+>O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  As versões arquivadas da documentação podem ser acessadas nesta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
 >
->Como se refere a esta sessão, consulte *API do Querybuilder* na documentação do AEM.
+>Como está relacionado a esta sessão, consulte a *API do Querybuilder* na documentação do AEM.
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

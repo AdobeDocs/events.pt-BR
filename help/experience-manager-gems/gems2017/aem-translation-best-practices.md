@@ -8,7 +8,7 @@ duration: 3560
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Nesta sessão, apresentaremos os recursos e as práticas recomendadas do AEM 6.3
 **Apresentado por:**
 
 Leandro Reis, arquiteto de globalização, Adobe Core Services\
-Mathias Siegel, Gerente De Produto Sênior, [!DNL AEM Sites], ADOBE
+Mathias Siegel, Gerente De Produto Sr, [!DNL AEM Sites], Adobe
 
 **Slides do apresentador**
 
@@ -33,6 +33,6 @@ Mathias Siegel, Gerente De Produto Sênior, [!DNL AEM Sites], ADOBE
 
 >[!WARNING]
 >
->O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR).  As versões arquivadas da documentação podem ser acessadas neste [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
+>O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  As versões arquivadas da documentação podem ser acessadas nesta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
 >
->Como se refere a esta sessão, consulte *Documentos de tradução do AEM Sites*, *Documentação de práticas recomendadas de tradução* e *Gerenciamento de ativos multilíngues* na documentação do AEM 6.3.
+>Como está relacionado a esta sessão, consulte *Documentos de tradução do AEM Sites*, *Documentação de práticas recomendadas de tradução* e *Gerenciamento de Assets multilíngue* na documentação do AEM 6.3.

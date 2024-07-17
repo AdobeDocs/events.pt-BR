@@ -39,11 +39,11 @@ Este webinário explora as principais maneiras de explorar e priorizar casos de 
 
 * Efeitos em casos de uso como redirecionamento e personalização de mídia paga
 
-**Comparação da Real-time CDP com o Audience Manager DMP**
+**Comparação da Real-time CDP com o DMP Audience Manager**
 
 * Foco na assimilação de dados, gerenciamento de público-alvo e estruturas de saída de dados
 
-**Importância do alinhamento e da priorização**
+**Importância do Alinhamento e da Priorização**
 
 * Alinhamento dos recursos da CDP com prioridades estratégicas
 * Priorização de casos de uso

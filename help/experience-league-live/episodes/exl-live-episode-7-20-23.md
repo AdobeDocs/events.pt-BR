@@ -23,5 +23,5 @@ Os novos recursos do Portal de público-alvo e Composição elevaram a segmenta�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
-Tem dúvidas sobre esse programa? Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366).
+Tem dúvidas sobre esse programa? Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366) do Adobe Experience League.
 

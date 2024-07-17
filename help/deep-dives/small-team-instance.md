@@ -1,6 +1,6 @@
 ---
-title: Saiba como uma equipe pequena maximiza o Adobe [!DNL Marketo Engage] instância
-description: Discutir como obter suporte para instâncias do Adobe [!DNL Marketo Engage] com uma pequena equipe ou equipe de um.
+title: Saiba como uma equipe pequena maximiza a instância do Adobe [!DNL Marketo Engage]
+description: Discuta como criar instâncias de Adobe [!DNL Marketo Engage]  com suporte de uma pequena equipe ou equipe de um.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Saiba como uma pequena equipe maximiza sua instância
 
-Associe-se ao Adobe atual [!DNL Marketo Engage] Champions, Darshil Shah, Jenny Robertson &amp; Joy Martinez enquanto discutem sobre como eles têm apoiado instâncias do Adobe [!DNL Marketo Engage] com uma pequena equipe ou equipe de um. Nossos Campeões também discutirão como eles foram capazes de obter sucesso, sem muitos recursos, como isso ajudou sua carreira e os resultados positivos que eles foram capazes de ver em sua instância.
+Junte-se aos atuais Adobe [!DNL Marketo Engage] Champions, Darshil Shah, Jenny Robertson e Joy Martinez enquanto discutem sobre como eles têm apoiado instâncias do Adobe [!DNL Marketo Engage] com uma pequena equipe ou equipe de um. Nossos Campeões também discutirão como eles foram capazes de obter sucesso, sem muitos recursos, como isso ajudou sua carreira e os resultados positivos que eles foram capazes de ver em sua instância.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417670/?quality=12&learn=on)
 
-Clique em **[aqui](assets/small-team-instance.pdf){target="_blank"}** para os slides da sessão.
+Clique **[aqui](assets/small-team-instance.pdf){target="_blank"}** para ver os slides da sessão.

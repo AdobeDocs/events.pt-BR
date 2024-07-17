@@ -1,6 +1,6 @@
 ---
-title: Comércio e café - Preparação da temporada de pico
-description: Esta sessão detalha estratégias, dicas e práticas recomendadas para o site do Commerce durante a temporada de pico. Discutimos as expectativas de feriados de 2022, o comércio móvel, as opções de promoção e de finalização, bem como a importância do marketing para ajudar a impulsionar uma temporada de pico bem-sucedida. A apresentação e a demonstração são acompanhadas por uma sessão de perguntas e respostas ao vivo com Corey Gelato.
+title: Commerce e café - Preparação da temporada de pico
+description: Essa sessão detalha estratégias, dicas e práticas recomendadas para o site do Commerce durante a temporada de pico. Discutimos as expectativas de feriados de 2022, o comércio móvel, as opções de promoção e de finalização, bem como a importância do marketing para ajudar a impulsionar uma temporada de pico bem-sucedida. A apresentação e a demonstração são acompanhadas por uma sessão de perguntas e respostas ao vivo com Corey Gelato.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Comércio e café: Preparação da temporada de pico
+# Commerce e café: preparação da temporada de pico
 
-Esta sessão detalha estratégias, dicas e práticas recomendadas para o site do Commerce durante a temporada de pico. Discutimos as expectativas de feriados de 2022, o comércio móvel, as opções de promoção e de finalização, bem como a importância do marketing para ajudar a impulsionar uma temporada de pico bem-sucedida. A apresentação e a demonstração são acompanhadas por uma sessão de perguntas e respostas ao vivo com Corey Gelato.
+Essa sessão detalha estratégias, dicas e práticas recomendadas para o site do Commerce durante a temporada de pico. Discutimos as expectativas de feriados de 2022, o comércio móvel, as opções de promoção e de finalização, bem como a importância do marketing para ajudar a impulsionar uma temporada de pico bem-sucedida. A apresentação e a demonstração são acompanhadas por uma sessão de perguntas e respostas ao vivo com Corey Gelato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412587/?quality=12&learn=on)

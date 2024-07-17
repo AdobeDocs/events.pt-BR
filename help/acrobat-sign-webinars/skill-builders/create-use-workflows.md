@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1273
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15301
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 4b21e52d-5ecb-4d82-b66b-784b51395bc2
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
 
 ---
-
 
 # Criar e usar workflows do início ao fim
 
@@ -40,4 +40,3 @@ Os tópicos abordados na sessão são:
 * Interface de controle do escopo do fluxo de trabalho: a interface para definir quais usuários podem acessar o fluxo de trabalho foi atualizada, com intervalos para rótulos de texto e o uso de um único menu suspenso de seleção para selecionar grupos individuais.
 * Rótulos de texto atualizados: os rótulos de texto para opções, como a inclusão de todos os usuários do grupo na conta, foram alterados para esclarecer alguns pontos.
 * Posicionamento de assinatura definido pelo modelo: esse recurso permite a construção de um formulário totalmente habilitado com todos os campos de recipient possíveis definidos e o índice do signatário do recipient conforme definido no designer do workflow é aplicado com segurança, desconsiderando quaisquer campos atribuídos a recipients opcionais omitidos quando o contrato é enviado.
-

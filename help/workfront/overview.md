@@ -23,7 +23,7 @@ Uma biblioteca de eventos gravados do Workfront na qual especialistas e colegas 
       <img alt="Manutenção do sistema Workfront" src="assets/workfront-system-maintenance.png"/>
       </a>
       <div>
-         <a href="user-groups/workfront-system-maintenance.md"><strong>Manutenção do sistema Workfront</strong></a>
+         <a href="user-groups/workfront-system-maintenance.md"><strong>Manutenção do Sistema Workfront</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
@@ -36,7 +36,7 @@ Uma biblioteca de eventos gravados do Workfront na qual especialistas e colegas 
       <img alt="Relatórios e painéis" src="assets/reporting-and-dashboards.png"/>
       </a>
       <div>
-         <a href="user-groups/reporting-and-dashboards.md"><strong>Relatórios e painéis</strong></a>
+         <a href="user-groups/reporting-and-dashboards.md"><strong>Relatórios e Painéis</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
@@ -49,7 +49,7 @@ Uma biblioteca de eventos gravados do Workfront na qual especialistas e colegas 
       <img alt="Agilidade no marketing" src="assets/agile-in-marketing.png"/>
       </a>
       <div>
-         <a href="user-groups/agile-in-marketing.md"><strong>Agilidade no marketing</strong></a>
+         <a href="user-groups/agile-in-marketing.md"><strong>Ágil no Marketing</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

@@ -1,6 +1,6 @@
 ---
 title: AEM as a Cloud Service - Revisão de 2021 e perspectivas para 2022
-description: Assista a um webinário de GEMs de AEM que divulgue uma análise do AEM as a Cloud Service em 2021. Obtenha também uma visão geral do que está aguardando para 2022.
+description: Assista a um webinário de GEMs de AEM para obter uma revisão do AEM as a Cloud Service em 2021. Obtenha também uma visão geral do que está aguardando para 2022.
 solution: Experience Manager
 feature-set: Experience Manager
 version: Cloud Service
@@ -32,5 +32,5 @@ Esse webinário foi realizado em 25 de janeiro de 2022 e apresentado por Bertran
 >[!MORELIKETHIS]
 >
 >* [Página correspondente do Evento do grupo de usuários do Adobe Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
->* [Thread contextual correspondente](https://adobe.ly/3rqbSOz)
+>* [Thread Contextual Correspondente](https://adobe.ly/3rqbSOz)
 >* Registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/) para ser notificado sobre webinários futuros.

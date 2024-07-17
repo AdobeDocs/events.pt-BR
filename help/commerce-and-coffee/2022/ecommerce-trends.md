@@ -1,5 +1,5 @@
 ---
-title: Comércio e café - Tendências do comércio eletrônico
+title: Commerce e café - Tendências do E-Commerce
 description: Esta sessão aborda cinco das principais tendências do comércio eletrônico atuais. Discutimos estratégias e táticas sobre as principais tendências, juntamente com o impacto que elas têm em seus negócios quando implementadas. Corey passa por uma demonstração de Tickers de evento, Permissões de categoria, Recursos B2B e muito mais. A apresentação e a demonstração são acompanhadas por uma sessão de perguntas e respostas ao vivo com Corey.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Comércio e café - Tendências do comércio eletrônico
+# Commerce e café - Tendências do E-Commerce
 
 Esta sessão aborda cinco das principais tendências do comércio eletrônico atuais. Discutimos estratégias e táticas sobre as principais tendências, juntamente com o impacto que elas têm em seus negócios quando implementadas. Corey passa por uma demonstração de Tickers de evento, Permissões de categoria, Recursos B2B e muito mais. A apresentação e a demonstração são acompanhadas por uma sessão de perguntas e respostas ao vivo com Corey.
 

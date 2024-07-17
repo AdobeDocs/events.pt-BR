@@ -20,8 +20,8 @@ ht-degree: 0%
 
 Participe desta sessão para saber mais sobre as atualizações mais recentes do produto, bem como entender as diferenças entre a V7 e a V8 com nossos Gerentes de produto.
 
-*Christophe Protat* Gerente de produto / Adobe
+*Christophe Protat* Gerente/Adobe
 
-*Gael Mouello* Gerente de produto sênior/Adobe
+*Gael Mouello* gerente de produto sênior/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343823/?quality=12&learn=on)

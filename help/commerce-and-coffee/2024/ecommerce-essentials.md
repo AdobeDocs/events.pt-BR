@@ -33,13 +33,13 @@ A Corey também compartilhará uma demonstração ao vivo de técnicas de mercha
 * Recomendações de produto personalizadas com base em experiências de clientes individuais melhoram as taxas de engajamento e conversão.
 * Regras de merchandising eficazes combinadas com aprendizado de máquina geram recomendações personalizadas, melhorando a experiência geral de compra.
 
-**Estratégia de marketing e promoções**
+**Estratégia de Marketing e Promoções**
 
 * O marketing e as promoções são essenciais para estratégias bem-sucedidas de comércio eletrônico direcionadas para consumidores e empresas.
 * Estratégias como descontos, ofertas especiais e programas de fidelidade incentivam compras, geram conversões e promovem a fidelidade do cliente.
 * Aproveitar vários canais, como redes sociais, marketing por email e SEO, melhora a participação e a retenção do cliente.
 
-**Segmentação de cliente para experiências personalizadas**
+**Segmentação de clientes para experiências personalizadas**
 
 * A utilização dos atributos e da segmentação do cliente permite criar experiências personalizadas com base nos interesses do cliente, como preferências de condicionamento físico, resultando em mais engajamento e satisfação do cliente.
 * A implementação de programas de fidelidade com pontos de recompensa para várias ações, como registro, inscrições em boletins informativos e indicações, pode impulsionar a retenção do cliente e incentivar os comportamentos desejados, promovendo, em última análise, a fidelidade do cliente.

@@ -9,7 +9,7 @@ duration: 2846
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -43,4 +43,4 @@ Sandro Looser, arquiteto de soluções, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Como implantar o Adobe Analytics em uma instância local do AEM usando o serviço de nuvem do Dynamic Tag Management](aem-adobe-analytics-dynamic-tag-management.md)
+>* [Como implantar o Adobe Analytics em uma instância AEM local usando o serviço de nuvem do Dynamic Tag Management](aem-adobe-analytics-dynamic-tag-management.md)

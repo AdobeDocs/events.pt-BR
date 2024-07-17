@@ -1,6 +1,6 @@
 ---
 title: Nutrição 101 - Utilização De Programas De Envolvimento Para Envolver Seus Clientes
-description: Conheça as noções básicas dos programas de engajamento dentro do [!DNL Marketo Engage] incluindo casos de uso de exemplo, dicas e truques.
+description: Saiba mais sobre as noções básicas dos programas de envolvimento do [!DNL Marketo Engage] incluindo exemplos de casos de uso, dicas e truques.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Nutrição 101 - Utilização De Programas De Envolvimento Para Envolver Seus Clientes
 
-Conheça as noções básicas dos programas de engajamento dentro do [!DNL Marketo Engage] incluindo casos de uso de exemplo, dicas e truques.
+Conheça as noções básicas dos programas de envolvimento dentro do [!DNL Marketo Engage], incluindo exemplos de casos de uso, dicas e truques.
 
 **Principais pontos**
 

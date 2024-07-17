@@ -1,19 +1,19 @@
 ---
 title: Habilitando diversos modelos de negócios com Commerce e Composability
-description: A reunião focou principalmente em permitir diversos modelos de negócios no Adobe Commerce, destacando as tendências de crescimento do comércio B2B, enfatizando a importância de simplificar integrações para atualizações contínuas, apresentando interações personalizadas de B2B para B2C por meio de uma demonstração, discutindo recursos do Adobe Commerce como suporte omnicanal e integração em malha de API, enfatizando os benefícios dos serviços de comércio combinável, introduzindo o Construtor de aplicativos para personalizações escaláveis e gerenciamento de assinaturas na plataforma.
+description: A reunião focou principalmente em permitir diversos modelos de negócios no Adobe Commerce, destacando as tendências de crescimento do comércio B2B, enfatizando a importância de simplificar integrações para atualizações contínuas, apresentando interações personalizadas de B2B para B2C por meio de uma demonstração, discutindo recursos do Adobe Commerce como suporte omnicanal e integração em malha de API, enfatizando os benefícios dos serviços de comércio combinável, introduzindo o App Builder para personalizações escaláveis e gerenciamento de assinaturas na plataforma.
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
-source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
+exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
+source-git-commit: 74f9d5e2e3f3a5830e96422b58222d3c3a9b7acc
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Habilitando diversos modelos de negócios com Commerce e Composability
 
@@ -46,7 +46,7 @@ As empresas estão aproveitando o comércio de Adobe para implantar vários mode
 
 * Suporte omnicanal
 * Experiências personalizadas
-* Integração com sistemas de terceiros por meio da malha de API e do Construtor de aplicativos
+* Integração com sistemas de terceiros por meio da malha de API e do App Builder
 
 ### Aspectos Tecnológicos Discutidos
 

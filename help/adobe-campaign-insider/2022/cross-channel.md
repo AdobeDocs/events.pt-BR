@@ -1,6 +1,6 @@
 ---
 title: Alinhe seu marketing entre canais com o Adobe [!DNL Campaign Classic]
-description: Webinário detalhado com foco em fluxos de trabalho, automação, personalização e medição para o Adobe [!DNL Campaign Classic] clientes.
+description: Webinário detalhado com foco em fluxos de trabalho, automação, personalização e medição para clientes do Adobe [!DNL Campaign Classic] .
 version: Classic v7
 solution: Campaign
 kt: 10506
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Alinhe seu marketing entre canais com o Adobe [!DNL Campaign Classic]
 
-Webinário detalhado com foco em fluxos de trabalho, automação, personalização e medição para o Adobe [!DNL Campaign Classic] clientes.
+Webinário detalhado com foco em fluxos de trabalho, automação, personalização e medição para clientes do Adobe [!DNL Campaign Classic].
 
 >[!VIDEO](https://video.tv.adobe.com/v/343524/?quality=12&learn=on)

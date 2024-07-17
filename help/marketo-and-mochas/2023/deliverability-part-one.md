@@ -1,6 +1,6 @@
 ---
 title: Marketo e Mochas - Capacidade de entrega (Parte 1)
-description: Esta sessão do Marketo & Mochas apresenta o Gerente de capacidade de entrega da Marketo, Sean Wirt e o Consultor de negócios sênior de automação de marketing, Cynthia Chang. Nesta sessão, Sean aborda as práticas recomendadas de capacidade de entrega, destacando os componentes de reputação, fatores de qualidade de dados, tipos de engajamento e os prós e contras de IPs compartilhados vs. dedicados. Cynthia demonstra como importar o Programa de capacidade de entrega no [!DNL Marketo Engage]. O evento termina com uma sessão de perguntas e respostas ao vivo, onde Sean responde a perguntas de inscritos e participantes.
+description: Esta sessão do Marketo & Mochas apresenta o Gerente de capacidade de entrega da Marketo, Sean Wirt e o Consultor de negócios sênior de automação de marketing, Cynthia Chang. Nesta sessão, Sean aborda as práticas recomendadas de capacidade de entrega, destacando os componentes de reputação, fatores de qualidade de dados, tipos de engajamento e os prós e contras de IPs compartilhados vs. dedicados. Cynthia demonstra como importar o Programa de Avaliação do Delivery em  [!DNL Marketo Engage]. O evento termina com uma sessão de perguntas e respostas ao vivo, onde Sean responde a perguntas de inscritos e participantes.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Marketo e Mochas - Capacidade de entrega (Parte 1)
 
-Esta sessão do Marketo &amp; Mochas apresenta o Gerente de capacidade de entrega da Marketo, Sean Wirt e o Consultor de negócios sênior de automação de marketing, Cynthia Chang. Nesta sessão, Sean aborda as práticas recomendadas de capacidade de entrega, destacando os componentes de reputação, fatores de qualidade de dados, tipos de engajamento e os prós e contras de IPs compartilhados vs. dedicados. Cynthia demonstra como importar o Programa de capacidade de entrega no [!DNL Marketo Engage]. O evento termina com uma sessão de perguntas e respostas ao vivo, onde Sean responde a perguntas de inscritos e participantes.
+Esta sessão do Marketo &amp; Mochas apresenta o Gerente de capacidade de entrega da Marketo, Sean Wirt e o Consultor de negócios sênior de automação de marketing, Cynthia Chang. Nesta sessão, Sean aborda as práticas recomendadas de capacidade de entrega, destacando os componentes de reputação, fatores de qualidade de dados, tipos de engajamento e os prós e contras de IPs compartilhados vs. dedicados. Cynthia demonstra como importar o Programa de Avaliação do Delivery em [!DNL Marketo Engage]. O evento termina com uma sessão de perguntas e respostas ao vivo, onde Sean responde a perguntas de inscritos e participantes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416666/?quality=12&learn=on)

@@ -22,10 +22,12 @@ ht-degree: 0%
 
 Aproveitar as automações pode liberar um enorme potencial de eficiência, permitindo que seus usuários se concentrem no trabalho que requer suas habilidades e conhecimento exclusivos, em vez das tarefas de rotina e repetitivas que sobrecarregam os usuários.
 
-Durante esta sessão, Jennafer Higgs, Jonathan Cabre e Malcom Benites da Zimmerman Advertising compartilharão exemplos práticos de automações que comprovaram criar um fluxo de trabalho mais eficiente.
+Durante esta sessão, Jennafer Higgs, Jonathan Cabre e Malcom Benites da Zimmerman Advertising compartilharão exemplos práticos de automações comprovadas para criar um fluxo de trabalho mais eficiente.
 
 Eles compartilharão automação Fusion e não Fusion, incluindo:
 
-· Como fechar projetos automaticamente · Geração de submodelos · Análise consolidada de ativos aprovados
+· Como fechar projetos automaticamente
+· Geração de submodelos
+· Revisão consolidada de ativos aprovados
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425812/?learn=on)

@@ -16,7 +16,7 @@ exl-id: e819c76d-84f4-4cd6-baed-a336a40267aa
 duration: 1732
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Torne seu site instalável em dispositivos móveis e disponível offline com apenas um clique, independentemente de ser um aplicativo web ou um site tradicional.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

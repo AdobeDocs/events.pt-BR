@@ -34,13 +34,13 @@ Carly também conduzirá uma demonstração ao vivo, orientando você pela confi
 * Envolve o compartilhamento de recursos, o fornecimento de informações úteis, a educação em produtos e serviços e a personalização de interações.
 * Ajuda a aumentar a propensão de um cliente potencial para comprar, cria confiança, melhora a liderança de marca e pensamento e reduz o ciclo de vendas.
 
-**Estratégias para o fomento eficaz de leads**
+**Estratégias para Promoção Eficaz de Clientes Potenciais**
 
 * Defina metas claras, alinhe os esforços de marketing e vendas, identifique públicos-alvo e segmente dados de maneira eficaz.
 * Selecione os tipos certos de campanhas de promoção, redefina os objetivos do conteúdo existente, crie novo conteúdo e use ferramentas como o Marketo.
 * Utilize o conteúdo existente, segmente públicos, personalize conteúdo, otimize com base nas métricas de desempenho e avalie o sucesso.
 
-*Otimização de campanhas de email e da tomada de decisões*
+*Otimizando Campanhas de Email e Tomada de Decisão*
 
 * Considere o uso de programas aninhados ou eventos que estimulam modelos de programas para campanhas de email complexas.
 * Alinhe a decisão de interromper a criação de leads com o objetivo da campanha de criação.

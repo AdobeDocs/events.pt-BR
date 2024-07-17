@@ -14,7 +14,7 @@ duration: 2092
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 17%
+ht-degree: 16%
 
 ---
 
@@ -22,12 +22,12 @@ ht-degree: 17%
 
 Saiba mais sobre o App Builder enquanto abordamos a arquitetura de aplicativos do App Builder que estendem o Adobe Experience Manager.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/3uragoI)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/3uragoI)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 
 ## Recursos adicionais
 
-- [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
+- [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

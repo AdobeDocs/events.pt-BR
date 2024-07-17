@@ -8,7 +8,7 @@ duration: 3538
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Esta é uma continuação da sessão do ano passado de Indexação de AEM e JCR 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23429/?quality=0)
 
-*Entregue em 22/08/2018*
+*Entregue em 22/08/18*
 
 **Apresentado por:**
 

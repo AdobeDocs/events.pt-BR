@@ -6,7 +6,7 @@ event-series: The Skill Exchange
 source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 11%
+ht-degree: 9%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 11%
          + [Construindo um sistema de estilo eficiente e escalável](aem/aug2023/scalable-style-system.md)
          + [Migrar para o AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
          + [Emails de marketing personalizados](aem/aug2023/personalized-marketing-emails.md)
-      + Rastreamento na Web {#webtrack}
+      + Faixa da Web {#webtrack}
          + [Introdução ao AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Aproveitar um DAM colaborativo](aem/aug2023/collaborative-dam.md)
          + [Dimensionar para disponibilidade de IA](aem/aug2023/metadata.md)
@@ -94,32 +94,32 @@ ht-degree: 11%
          + [Multilocação da sessão de campeão AEM](aem/aug2022/multi-tenancy.md)
          + [Componentes principais e sistemas de estilo do AEM](aem/aug2022/core-components.md)
          + [Extensão do AEM headless com o App Builder](aem/aug2022/app-builder.md)
-      + Profissional de marketing / produtor da Web {#marketer}
+      + Profissional de marketing/produtor da Web {#marketer}
          + [O poder da reutilização](aem/aug2022/reusability.md)
          + [Impulsionar o valor dos negócios com a personalização de conteúdo no AEM](aem/aug2022/personalization.md)
          + [Maximize a sua implementação do AEM](aem/aug2022/implementation.md)
 + Marketo {#marketo}
    + Fevereiro de 2022 {#feb2022}
       + [Manutenção de dados](marketo/feb2022/data-maintenance.md)
-      + [O conteúdo dinâmico e o poder da personalização](marketo/feb2022/dynamic-content.md)
+      + [O conteúdo dinâmico e o poder do Personalization](marketo/feb2022/dynamic-content.md)
       + [Destaques do Experience Makers](marketo/feb2022/experience-makers-spotlight.md)
       + [Gem Oculto No Banco De Dados - Registros Reativados](marketo/feb2022/hidden-gems.md)
-      + [Personalização Em Escala](marketo/feb2022/personalization-at-scale.md)
+      + [Personalization em escala](marketo/feb2022/personalization-at-scale.md)
       + [Escalabilidade e eficiência usando tokens](marketo/feb2022/using-tokens.md)
       + [Utilização De Programas De Envolvimento Para Envolver Seus Clientes](marketo/feb2022/utilize-engagement-programs.md)
    + Agosto de 2021 {#aug2021}
-      + [Criação de programas no [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+      + [Criando Programas em  [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
       + [[!DNL Marketo Engage] Rockstars](marketo/aug2021/engage-rockstars.md)
       + [O poder de uma campanha inteligente](marketo/aug2021/smart-campaign.md)
       + [Campos Personalizados de Membros do Programa](marketo/aug2021/program-member-custom-fields.md)
-      + [Relatórios dentro de [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
+      + [Relatório em  [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
       + [Seu roteiro do Marketo](marketo/aug2021/marketo-roadmap.md)
    + Fevereiro de 2021 {#feb2021}
       + [Um mergulho de corda nos objetos personalizados e na velocidade](marketo/feb2021/custom-objects.md)
       + [Adobe [!DNL Marketo Engage] Segmento Rockstar](marketo/feb2021/rockstar.md)
-      + [Criação de programas no Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
+      + [Criando Programas no Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [O poder de uma campanha inteligente](marketo/feb2021/power-of-smart-campaign.md)
-      + [Relatórios dentro de [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
+      + [Relatório em  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Dicas e truques mais recentes para o seu Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Agosto de 2023 {#aug2023}
@@ -141,7 +141,7 @@ ht-degree: 11%
       + [Saiba Mais Sobre O Destaque Dos Criadores De Experiência](workfront/apr2022/learn-track-spotlight.md)
       + [Especialização em datas e linhas do tempo de projetos](workfront/apr2022/projects-dates-timelines.md)
       + [Noções básicas sobre objetos no Workfront](workfront/apr2022/understanding-objects.md)
-+ Mordidas digitais {#digital-bites}
++ Bites Digitais {#digital-bites}
    + [Libere a eficiência operacional com o melhor modelo operacional da categoria](digital-bites/operational-model.md)
    + [Um roteiro para o mapeamento de valores e a realização de valores](digital-bites/roadmap.md)
    + [Como explorar o valor comercial na jornada do cliente](digital-bites/business-value.md)

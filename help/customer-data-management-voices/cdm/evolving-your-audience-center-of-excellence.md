@@ -23,4 +23,4 @@ Como as plataformas que facilitam o gerenciamento de dados do cliente, os públi
 
 >[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
 
-Para complementar esse vídeo, você também pode [baixar um whitepaper](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)
+Para complementar este vídeo, você também pode [baixar um documento](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)

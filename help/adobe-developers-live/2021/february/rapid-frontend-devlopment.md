@@ -16,7 +16,7 @@ exl-id: 3365d609-70e7-404c-ad4d-c9049ed00b35
 duration: 1862
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Use os Modelos de site para criar novos sites com apenas alguns cliques e para trazer de volta a diversão do desenvolvimento de front-end com a rápida implantação de ativos de front-end, como CSS e JS.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 
-Clique em **[aqui](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** para os slides da sessão.
+Clique **[aqui](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** para ver os slides da sessão.

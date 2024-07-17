@@ -13,7 +13,7 @@ duration: 3410
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 22%
+ht-degree: 21%
 
 ---
 
@@ -27,11 +27,11 @@ Saiba mais sobre alguns dos recursos avançados do Gerenciador de Data Warehouse
 
 Durante esse webinário gravado, você aprenderá a calcular o retorno sobre o investimento de suas campanhas de anúncios, unindo dados do Adobe Commerce, Google Ecommerce e Google AdWords.
 
-## Conteúdo em vídeo
+## Conteúdo de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/344680?quality=12&learn=on)
 
 ## Recursos úteis
 
 [Um tour pelo Gerenciador de Datas Warehouse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[Conectar seus dados](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Conectar seus Dados](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

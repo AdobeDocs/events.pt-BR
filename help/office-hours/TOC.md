@@ -22,7 +22,7 @@ ht-degree: 14%
    + Adobe Campaign {#adobe-campaign-office-hours}
       + [Visão geral do canal de SMS e dicas de solução de problemas](2023/ac-sms-channel-overview.md)
    + Adobe Commerce {#adobe-commerce-office-hours}
-      + [Ferramenta de análise do site](2023/site-wide-analysis-tool.md)
+      + [Ferramenta de Análise do Site](2023/site-wide-analysis-tool.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Permissões Admin Console](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}

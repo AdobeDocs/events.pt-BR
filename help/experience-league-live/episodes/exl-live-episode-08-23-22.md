@@ -26,7 +26,7 @@ Você está pensando em migrar sua implementação para o novo SDK da Web do Ado
 ### Extensão do Assistente de elemento de dados do Evolytics
 
 <br> 
-**Pergunta:** Do ponto de vista da segurança de dados, o Evolytics é seguro para uso, pois é uma extensão de terceiros?
+**Pergunta:** do ponto de vista da segurança de dados, o Evolytics é seguro para uso, pois é uma extensão de terceiros?
 
 **Resposta:** Sim. Você pode revisar o código de extensão se desejar. Além disso, ele não salva a data e faz apenas uma transformação.
 
@@ -34,13 +34,13 @@ Você está pensando em migrar sua implementação para o novo SDK da Web do Ado
 
 **Pergunta:** Isso também captura o Adobe ECID?
 
-**Resposta:** O ECID do Adobe não é capturado nessa extensão. Essa extensão se destina à criação de identificadores adicionais e anônimos (entre outras coisas).
+**Resposta:** o Adobe ECID não foi capturado dentro dessa extensão. Essa extensão se destina à criação de identificadores adicionais e anônimos (entre outras coisas).
 
 **Resposta:** A Adobe ECID pode ser capturada de outras maneiras. Compartilharemos isso por meio das notas e do Twitter do ExL, já que não é possível compartilhar links no bate-papo aqui.
 
 <br> 
 
-**Pergunta:** A funcionalidade de hash oferece várias técnicas de hash como SHA-256 e fornece chaves públicas e privadas?
+**Pergunta:** A funcionalidade de hash oferece várias técnicas de hash, como SHA-256, e fornece chaves públicas e privadas?
 
 **Resposta:** Sim! SHA-256 é o padrão
 
@@ -52,51 +52,51 @@ Você está pensando em migrar sua implementação para o novo SDK da Web do Ado
 
 **Pergunta:** Em que clicamos para baixar os arquivos de origem das extensões? Isso está no &quot;menu de 3 pontos&quot;?
 
-**Resposta:** Sim! Os 3 pontos e, em seguida, Baixar origem (na exibição do catálogo)
+**Resposta:** Sim! Os 3 pontos e, em seguida, Baixar Source (na exibição de catálogo)
 
 <br> 
 
-**Comentário:** Uma das coisas que eu realmente gosto de usar com extensões é o aspecto de economia de tempo delas. Muitos deles fazem coisas que você *poderia* faça com algum código personalizado, mas com uma extensão, você não precisa gravar esse código.
+**Comentário:** Uma das coisas que realmente gosto de usar extensões é o aspecto de economia de tempo delas. Muitos deles fazem coisas que você *poderia* fazer com algum código personalizado, mas com uma extensão você não precisa gravar esse código.
 
 **Responder:** Diretamente. E é repetível sem ter que recriar a roda a cada vez.
 
 <br> 
 
-**Pergunta:** Como os plug-ins do Analytics serão compatíveis ou substituídos por implementações do SDK da Web?
+**Pergunta:** Como os plug-ins do Analytics serão suportados ou substituídos por implementações do SDK da Web?
 
-**Resposta:** Muitos plug-ins do Analytics são desnecessários hoje em dia, graças à maior flexibilidade das tags do Workspace e do Adobe. No entanto, aqueles que não estão, estão sendo migrados ativamente para uso pelo SDK da Web.
+**Resposta:** muitos plug-ins de análise são atualmente desnecessários, graças à maior flexibilidade das tags Workspace e Adobe. No entanto, aqueles que não estão, estão sendo migrados ativamente para uso pelo SDK da Web.
 
 <br> 
 
 **Pergunta:** Algum desenvolvimento no rastreamento do Activity Map usando o SDK da Web?
 
-**Resposta:** Tenho o prazer de informar que o Activity Map está sendo ativamente trabalhado também para suporte no SDK da Web
+**Resposta:** tenho o prazer de informar que o Activity Map está sendo ativamente trabalhado no suporte do SDK da Web também
 
 <br> 
 
-**Pergunta:** Poderíamos ter acesso à rede Adobe Edge para gerenciar eventos antes de transferi-los para os destinos finais? Entendo que também podemos fazer isso no Launch, mas no futuro também seria possível fazer isso no servidor?
+**Pergunta:** poderíamos ter acesso à rede da Adobe Edge para gerenciar eventos antes de transferi-los para os destinos finais? Entendo que também podemos fazer isso no Launch, mas no futuro também seria possível fazer isso no servidor?
 
 **Resposta:** Sim! Isso é possível por meio do recurso de encaminhamento de eventos, que os clientes podem comprar por meio de qualquer um dos nossos produtos da Real-Time CDP (Real-Time CDP Connections, Prime ou Ultimate).
 
-**Resposta:** As Conexões RTCDP (Encaminhamento de eventos) oferecem a capacidade de ter mais controle antes de enviá-las para destinos que não sejam da Adobe.
+**Resposta:** as Conexões RTCDP (Encaminhamento de Eventos) fornecem a capacidade de ter mais controle antes de você enviá-las para destinos que não sejam da adobe.
 
 **Resposta:** Confira alguns de nossos outros vídeos ExL Live para saber mais sobre isso (como [este](exl-live-episode-06-23-22.md)).
 
 <br> 
 
-**Comentário:** Chamada rápida para uma de minhas extensões favoritas: há uma extensão de tabela de mapeamento em que você pode ler uma tabela para um elemento de dados que &quot;se esse valor for esse, defina-o dessa maneira&quot;.
+**Comentário:** Chamada rápida para uma de minhas extensões favoritas: há uma extensão de tabela de mapeamento onde você pode ler uma tabela para um elemento de dados que &quot;se esse valor for esse, defina-o dessa forma&quot;.
 
-**Responder:** A flexibilidade que eles proporcionam é impressionante. Além disso, observe que as empresas também podem criar suas próprias extensões privadas, se desejarem.
-
-<br> 
-
-**Pergunta:** Você mostrou os dados individuais do CRM, como cidade e clima, então onde estamos armazenando a resposta individual?
-
-**Resposta:** As respostas são armazenadas em cada evento único que aciona uma regra em uma propriedade de encaminhamento de eventos e são usadas somente nesse evento específico.
+**Resposta:** a flexibilidade que eles oferecem é impressionante. Além disso, observe que as empresas também podem criar suas próprias extensões privadas, se desejarem.
 
 <br> 
 
-Prossiga a discussão sobre este tópico no [Discussão da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
+**Pergunta:** você mostrou os dados individuais do CRM, como cidade e clima, então onde estamos armazenando a resposta individual?
+
+**Resposta:** As respostas são armazenadas em cada evento único que aciona uma regra em uma propriedade de Encaminhamento de Eventos e são usadas somente nesse evento específico.
+
+<br> 
+
+Continue a discussão sobre este tópico na [discussão da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
 <br> 
 
 ## Sessões Experience League LIVE adicionais desta série de coleta de dados

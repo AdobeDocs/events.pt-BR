@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # O poder de uma campanha inteligente
 
-Nesta sessão, você aprenderá tudo sobre *Campanhas inteligentes* incluindo: Smart List - Acionadores e filtros, Fluxo, Agendamento e resultados.
+Nesta sessão, você aprenderá tudo sobre *Campanhas inteligentes*, incluindo: Smart List - Triggers &amp; Filters, Flow, Schedule and Results.
 
 Você sairá desta sessão com um entendimento do que são campanhas inteligentes, como usá-las e dicas e truques para obter sucesso!
 

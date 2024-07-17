@@ -1,5 +1,5 @@
 ---
-title: Comércio e café - IA e automação
+title: Commerce e café - IA e automação
 description: Esta sessão aborda detalhadamente os recursos de IA do Adobe Commerce. Discutimos o que é IA e automação, o que os clientes esperam e por que as empresas não podem ignorá-los. Corey passa por uma demonstração completa do Recommendations do produto e do Live Search na plataforma Adobe Commerce. A apresentação e a demonstração são acompanhadas por uma sessão de perguntas e respostas ao vivo com Corey.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Comércio e café - IA e automação
+# Commerce e café - IA e automação
 
 Esta sessão aborda detalhadamente os recursos de IA do Adobe Commerce. Discutimos o que é IA e automação, o que os clientes esperam e por que as empresas não podem ignorá-los. Corey passa por uma demonstração completa do Recommendations do produto e do Live Search na plataforma Adobe Commerce. A apresentação e a demonstração são acompanhadas por uma sessão de perguntas e respostas ao vivo com Corey.
 

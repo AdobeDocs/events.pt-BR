@@ -23,7 +23,7 @@ Saiba mais sobre os recursos mais recentes do Adobe Real-Time CDP que foram lan�
 
 **Para continuar a discussão, visite nossa [discussão na Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}.**
 
-**Exibir detalhes**: você é um profissional atual da Real-Time CDP e está procurando informações sobre as novidades do produto, por que ele é importante e como o Adobe pode ajudar a melhorar as estratégias de gerenciamento de dados do cliente? Não procure mais. Você chegou ao lugar certo! Nesta série, vamos nos aprofundar no que foi lançado recentemente no Real-Time CDP para que você possa aproveitar as novidades imediatamente e causar um impacto na sua organização.\
+**Mostrar detalhes**: você é um profissional atual da Real-Time CDP e está procurando informações sobre as novidades do produto, por que ele é importante e como o Adobe pode ajudá-lo a melhorar as estratégias de gerenciamento de dados do seu cliente? Não procure mais. Você chegou ao lugar certo! Nesta série, vamos nos aprofundar no que foi lançado recentemente no Real-Time CDP para que você possa aproveitar as novidades imediatamente e causar um impacto na sua organização.\
 Nesta sessão, discutiremos e mostraremos cinco novos recursos que foram lançados nos últimos meses:
 
 1. Manuais de casos de uso 

@@ -1,5 +1,5 @@
 ---
-title: Comércio e café - Temporada de pico 'Pergunte-me qualquer coisa'
+title: Commerce & Coffee - Temporada de pico 'Pergunte-me qualquer coisa'
 description: Essa sessão "Pergunte-me qualquer coisa" aborda a adaptação a alterações de última hora para o site do Commerce durante a temporada de pico. Discutimos as expectativas de feriados de 2022, promoções de última hora, opções de check-out e estratégias de marketing para ajudar a impulsionar uma temporada de pico bem-sucedida. A apresentação e a demonstração são acompanhadas por uma sessão de perguntas e respostas ao vivo com Corey Gelato.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Comércio e café - Temporada de pico &#39;Pergunte-me qualquer coisa&#39;
+# Commerce &amp; Coffee - Temporada de pico &#39;Pergunte-me qualquer coisa&#39;
 
 Essa sessão &quot;Pergunte-me qualquer coisa&quot; aborda a adaptação a alterações de última hora para o site do Commerce durante a temporada de pico. Discutimos as expectativas de feriados de 2022, promoções de última hora, opções de check-out e estratégias de marketing para ajudar a impulsionar uma temporada de pico bem-sucedida. A apresentação e a demonstração são acompanhadas por uma sessão de perguntas e respostas ao vivo com Corey Gelato.
 

@@ -23,7 +23,7 @@ Junte-se ao apresentador Danny Gordon e aos convidados Amol Anand, Sachin Mali e
 
 >[!VIDEO](https://video.tv.adobe.com/v/342475/?quality=12&learn=on)
 
-**Gravada em 21 de abril, 9:00 PST**
+**Gravado em 21 de abril, 9:00 PST**
 
 ## Slides da apresentação
 

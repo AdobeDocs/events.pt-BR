@@ -1,5 +1,5 @@
 ---
-title: Conteúdo e experiências - O coração batedor da personalização
+title: Conteúdo e experiências - O coração batedor do Personalization
 description: Identificar e superar desafios comuns para criar um recurso de conteúdo e experiências Criação de casos de uso para impulsionar o conteúdo na jornada do cliente
 solution: General
 topic: Personalization
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Conteúdo e experiências: o coração batedor da personalização
+# Conteúdo e experiências: o coração pulsante do Personalization
 
-*Conteúdo e experiências: o coração batedor da personalização*
+*Experiências e conteúdo: o coração pulsante do Personalization*
 
 * Identificar e superar desafios comuns para criar um recurso de conteúdo e experiências
 * Criação de casos de uso para direcionar conteúdo na jornada do cliente

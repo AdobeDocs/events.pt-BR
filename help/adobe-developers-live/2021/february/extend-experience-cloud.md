@@ -21,8 +21,8 @@ ht-degree: 0%
 
 Deseja estender as soluções de Adobe usando uma arquitetura moderna que funciona com várias soluções? Bem, achamos que você deveria experimentar o Adobe Developer App Builder.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331852/?quality=12&learn=on&hidetitle=true)
 
-Clique em **[aqui](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** para os slides da sessão.
+Clique **[aqui](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** para ver os slides da sessão.

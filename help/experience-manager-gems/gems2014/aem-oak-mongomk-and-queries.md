@@ -1,5 +1,5 @@
 ---
-title: AEM 6 Oak - MongoMK e queries
+title: AEM 6 Oak - MongoMK e consultas
 description: Saiba mais sobre o mecanismo de consulta do Oak e como ele se compara ao Jackrabbit 2.x. A sessão oferece indicações sobre como analisar o desempenho da consulta e gerenciar índices personalizados. Na segunda parte, falamos do MongoMK com foco nas garantias de consistência fornecidas pela nova implementação de clusters no AEM.
 discoiquuid: 51d59018-e137-4370-8530-9c38dca34343
 targetaudience: target-audience advanced
@@ -8,11 +8,11 @@ duration: 3968
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
-# AEM 6 Oak - MongoMK e queries{#aem-oak-mongomk-and-queries}
+# AEM 6 Oak - MongoMK e consultas{#aem-oak-mongomk-and-queries}
 
 Saiba mais sobre o mecanismo de consulta do Oak e como ele se compara ao Jackrabbit 2.x. A sessão oferece indicações sobre como analisar o desempenho da consulta e gerenciar índices personalizados. Na segunda parte, falamos do MongoMK com foco nas garantias de consistência fornecidas pela nova implementação de clusters no AEM.
 

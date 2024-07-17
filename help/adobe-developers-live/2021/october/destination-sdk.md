@@ -13,7 +13,7 @@ duration: 1582
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 9%
+ht-degree: 8%
 
 ---
 
@@ -26,6 +26,6 @@ Nesta sessão, apresentaremos o Destination SDK, um novo recurso do Adobe Experi
 
 ## Recursos adicionais
 
-- [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
+- [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

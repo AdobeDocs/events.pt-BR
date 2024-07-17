@@ -1,6 +1,6 @@
 ---
-title: Estratégias para otimizar o desempenho do seu site do Commerce
-description: Elevar sua experiência no Commerce - Analise nossa apresentação sobre estratégias de otimização do desempenho do seu site. Descubra técnicas e práticas recomendadas para melhorar a velocidade, a capacidade de resposta e a satisfação do cliente, impulsionando seus negócios online.
+title: Estratégias para otimizar o desempenho do seu site Commerce
+description: Eleve sua experiência com o Commerce - conheça nossa apresentação de estratégias para otimizar o desempenho do seu site. Descubra técnicas e práticas recomendadas para melhorar a velocidade, a capacidade de resposta e a satisfação do cliente, impulsionando seus negócios online.
 solution: Commerce
 feature-set: Commerce
 feature: Site Management
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Estratégias para otimizar o desempenho do seu site do Commerce
+# Estratégias para otimizar o desempenho do seu site Commerce
 
-Elevar sua experiência no Commerce - Analise nossa apresentação sobre estratégias de otimização do desempenho do seu site. Descubra técnicas e práticas recomendadas para melhorar a velocidade, a capacidade de resposta e a satisfação do cliente, impulsionando seus negócios online.
+Eleve sua experiência com o Commerce - conheça nossa apresentação de estratégias para otimizar o desempenho do seu site. Descubra técnicas e práticas recomendadas para melhorar a velocidade, a capacidade de resposta e a satisfação do cliente, impulsionando seus negócios online.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426314/?learn=on)

@@ -31,8 +31,8 @@ Junte-se a Sham Hassan Chikkegowda, Engenheiro de CS, e Timothe Maret, Desenvolv
 
 ## Links relacionados {#related-links}
 
-* [Manipulador de autenticação SAML 2.0](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
-* [[SAMLProf] Perfis da SAML (Security Assertion Markup Language) V2.0 do OASIS](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
-* [[SAMLBind] Associações para a SAML (Security Assertion Markup Language) V2.0 do OASIS](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
-* [[SAMLTech] Visão geral técnica da SAML (Security Assertion Markup Language) V2.0](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
-* [Visão geral executiva do SAML V2.0](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)
+* [Manipulador de Autenticação SAML 2.0](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
+* [[SAMLProf] Perfis para SAML (Security Assertion Markup Language) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf) do OASIS
+* [[SAMLBind] Associações para a SAML (Security Assertion Markup Language) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf) do OASIS
+* [[SAMLTech] SAML (Security Assertion Markup Language) V2.0 Visão Geral Técnica](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
+* [Visão Geral Executiva do SAML V2.0](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)

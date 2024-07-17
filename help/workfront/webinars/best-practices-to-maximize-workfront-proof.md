@@ -1,5 +1,5 @@
 ---
-title: Pergunte a um especialista - Práticas recomendadas para maximizar a prova do Workfront
+title: Pergunte a um especialista - Práticas recomendadas para maximizar o Workfront Proof
 description: Saiba como definir configurações, habilitar ótimos relatórios e evitar armadilhas comuns no Proof. Esse webinário foi gravado em 26 de fevereiro de 2020.
 doc-type: feature video
 team: Technical Marketing
@@ -9,11 +9,11 @@ duration: 5182
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '5572'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Pergunte a um especialista - Práticas recomendadas para maximizar a prova do Workfront
+# Pergunte a um especialista - Práticas recomendadas para maximizar o Workfront Proof
 
 Saiba como definir configurações para sucesso, acessar visualizações (e outros truques) para permitir excelentes relatórios e entender como evitar armadilhas comuns no Proof. Esse webinário foi gravado em 26 de fevereiro de 2020.
 
@@ -465,11 +465,11 @@ Eu recomendaria usar Modelos de fluxo de trabalho automatizados que permitirão 
 
 **Pergunta**
 
-O estágio de Prova do Workfront é adicionado somente quando os Fluxos de trabalho automatizados são usados e alguém não adicionado ao fluxo de trabalho abre a prova?
+O estágio do Workfront Proof só é adicionado quando os Fluxos de trabalho automatizados são usados e alguém não adicionado ao fluxo de trabalho abre a prova?
 
 **Resposta**
 
-O estágio &quot;Workfront Proof&quot; será adicionado às provas se um usuário que não seja recipient clicar na prova. Ele também será aplicado se alguém converter uma Prova de fluxo de trabalho básica em uma Prova automatizada do Workfront.
+O estágio &quot;Workfront Proof&quot; será adicionado às provas se um usuário que não seja destinatário clicar na prova. Ela também será aplicada se alguém converter uma Prova básica de fluxo de trabalho em um Workfront Proof automatizado.
 
 **Pergunta**
 

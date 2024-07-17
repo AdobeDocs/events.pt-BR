@@ -66,4 +66,4 @@ Se você estiver interessado em avançar seu conhecimento e uso do Adobe Experie
 
 >[!TIP]
 >
->**Todas as sessões gravadas são listadas na navegação à esquerda**.
+>**Todas as sessões gravadas estão listadas na navegação à esquerda**.

@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Essa sessão se concentra na jornada do Forms, do local para a nuvem. Também abordará a capacitação de casos de uso de inscrição digital por meio de demonstrações.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332305/?quality=12&learn=on&hidetitle=true)
 
-Clique em **[aqui](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** para os slides da sessão.
+Clique **[aqui](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** para ver os slides da sessão.

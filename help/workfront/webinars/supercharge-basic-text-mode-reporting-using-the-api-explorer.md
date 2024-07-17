@@ -9,13 +9,13 @@ duration: 4068
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '1658'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Pergunte ao especialista - Relatórios do modo de texto básico de sobrecarga usando o API Explorer
 
-Saiba mais sobre o [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/), como usá-lo e como aprimorar seus relatórios aproveitando o modo de texto básico. Esse webinário foi gravado em 22 de janeiro de 2020.
+Saiba mais sobre a [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/), como usá-la e como aprimorar seus relatórios usando o modo de texto básico. Esse webinário foi gravado em 22 de janeiro de 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
@@ -24,7 +24,7 @@ Saiba mais sobre o [[!UICONTROL API Explorer]](https://developer.adobe.com/workf
 ![Um gráfico que mostra exemplos de regras de código do modo de texto](assets/text-mode-chart.png)
 
 
-**Coluna final &quot;Todas as funções de trabalho&quot;**
+**Coluna final &quot;Todas as Funções de Trabalho&quot;**
 
 ```
 description="Primary =" indicates the user's primary job role
@@ -37,7 +37,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("Primary = ",{role}.{name}
 valueformat=HTML
 ```
 
-**Modo de texto para a coluna &quot;Todas as equipes&quot;**
+**Modo de Texto para a coluna &quot;Todas as Equipes&quot;**
 
 ```
 displayname=All Teams
@@ -49,7 +49,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-**Modo de texto para a coluna &quot;Todos os grupos&quot;**
+**Modo de Texto para a coluna &quot;Todos os Grupos&quot;**
 
 ```
 displayname=All Groups
@@ -61,7 +61,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-**Modo de texto para a coluna &quot;Subordinados diretos&quot;**
+**Modo Texto para a coluna &quot;Relatórios Diretos&quot;**
 
 ```
 displayname=Direct Reports
@@ -101,11 +101,11 @@ Ao criar um relatório de problemas, você pode ver as informações da tarefa s
 
 **Pergunta**
 
-É possível compartilhar o formato de texto ([!DNL CSS]) exemplos?
+É possível compartilhar exemplos de formato de texto ([!DNL CSS])?
 
 **Resposta**
 
-O Workfront não é compatível [!DNL CSS] no modo texto.
+O Workfront não oferece suporte a [!DNL CSS] no modo texto.
 
 **Pergunta**
 
@@ -135,7 +135,8 @@ Ao fazer referência a objetos no modo de texto, você desejará gravá-lo exata
 valuefield=project:name
 ```
 
-No entanto, no caso de problemas, elas são chamadas de opTasks no API Explorer. Portanto, se você executar um relatório de Horas e quiser adicionar uma coluna para Nome do problema, o campo de valor seria semelhante ao seguinte:
+No entanto, no caso de problemas, elas são chamadas de opTasks no API Explorer. Portanto, se você executasse um Relatório de horas e quisesse adicionar uma coluna para Nome do problema, o campo de valor
+ter a seguinte aparência:
 
 ```
 valuefield=opTask:name

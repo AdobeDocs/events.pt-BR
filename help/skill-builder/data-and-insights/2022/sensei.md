@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Descubra como aproveitar as vantagens do Sensei, a estrutura de inteligência artificial fornecida pelo Adobe, para analisar de forma inteligente os clientes e segmentos de público-alvo para encontrar diferenças significativas, atribuir fatores de conversão e prever o comportamento futuro.
 
-*Matthias Kolitsch* Treinador sênior de várias soluções EMEA / Adobe
+*Matthias Kolitsch* Treinador Sênior de Várias Soluções EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343830/?quality=12&learn=on)

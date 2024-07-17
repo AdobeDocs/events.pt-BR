@@ -1,6 +1,6 @@
 ---
-title: Relatórios dentro de [!DNL Marketo Engage]
-description: Esta sessão analisará todas as Ferramentas de relatório disponíveis em [!DNL Marketo Engage] incluindo relatórios Smart Lists Analyzers Insights de email MPI
+title: Relatório em  [!DNL Marketo Engage]
+description: Esta sessão analisará todas as Ferramentas de Relatório disponíveis em [!DNL Marketo Engage] incluindo os Insights de email de MPI dos Analisadores de Smart Lists de Relatórios
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -11,13 +11,13 @@ duration: 2355
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Relatórios dentro de [!DNL Marketo Engage]
+# Relatório em [!DNL Marketo Engage]
 
-Esta sessão analisará todas as Ferramentas de relatório disponíveis em [!DNL Marketo Engage] incluindo:
+Esta sessão analisará todas as Ferramentas de Relatório disponíveis em [!DNL Marketo Engage], incluindo:
 
 * Relatórios
 * Smart Lists
@@ -30,7 +30,7 @@ Esta sessão analisará todas as Ferramentas de relatório disponíveis em [!DNL
 * Quando usar Relatórios padrão vs. Smart Lists
    * Assinaturas
 
-Você sairá desta sessão com uma compreensão dos recursos de relatório de alto nível da [!DNL Marketo Engage]e um aprofundamento em Relatórios e Smart Lists.
+Você sairá desta sessão com uma compreensão dos recursos de relatório de alto nível no [!DNL Marketo Engage] e com um aprofundamento nos Relatórios e Smart Lists.
 
 Uma sessão de perguntas e respostas ao vivo no final desta sessão responderá a qualquer uma de suas perguntas pendentes.
 

@@ -1,5 +1,5 @@
 ---
-title: Práticas recomendadas de teste com o Cloud Manager - setembro de 2019
+title: Práticas recomendadas de teste do Cloud Manager - setembro de 2019
 description: Descrição aqui
 sub-product: cloud-manager
 feature-set: Experience Manager
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 ---
 
-# Práticas recomendadas de teste com o Cloud Manager - setembro de 2019
+# Práticas recomendadas de teste do Cloud Manager - setembro de 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
 

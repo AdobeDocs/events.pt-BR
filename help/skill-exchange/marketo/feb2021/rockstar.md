@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Marketo Engage] Segmento Rockstar
-description: Quatro clientes "Rockstar" apresentarão seus melhores [!DNL Marketo Engage] dica ou truque. Quem te deslumbrará além da crença?
+description: Quatro clientes "Rockstar" apresentarão cada um sua melhor [!DNL Marketo Engage] dica ou truque. Quem te deslumbrará além da crença?
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Adobe [!DNL Marketo Engage] Segmento Rockstar
 
-Quatro clientes &quot;Rockstar&quot; apresentarão seus melhores [!DNL Marketo Engage] dica ou truque. Quem te deslumbrará além da crença?
+Quatro clientes da &quot;Rockstar&quot; apresentarão suas melhores dicas ou truques de [!DNL Marketo Engage]. Quem te deslumbrará além da crença?
 
 >[!VIDEO](https://video.tv.adobe.com/v/340311/?quality=12&learn=on)

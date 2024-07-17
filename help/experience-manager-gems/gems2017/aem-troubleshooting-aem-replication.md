@@ -10,7 +10,7 @@ duration: 3644
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -37,6 +37,6 @@ A replicação é um recurso central no AEM, pois permite a publicação de cont
 
 >[!MORELIKETHIS]
 >
->* [Indexação de AEM e consulta JCR](aem-indexing-jcr-query.md)
+>* [Indexação de AEM e Consulta JCR](aem-indexing-jcr-query.md)
 >* [Solução de problemas de replicação do AEM](aem-troubleshooting-aem-replication.md)
 <!-- >>* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html) -->

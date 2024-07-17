@@ -1,6 +1,6 @@
 ---
 title: Agosto de 2023 Aumentar a faixa - Destaques do Experience Makers
-description: Nivelamento para Cima - Educando o Usuário Casual do Workspace
+description: Nivelamento para cima - Educando o usuário casual do Workspace
 feature-set: Analytics
 feature: Workspace Basics
 role: User
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Evento de troca de habilidades em agosto de 2023 - Faixa de crescimento - Destaques do Experience Makers
 
-Nivelamento para Cima - Educando o Usuário Casual do Workspace
+Nivelamento para cima - Educando o usuário casual do Workspace
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)

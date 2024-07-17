@@ -25,4 +25,4 @@ Junte-se a Chris Knittle, gerente de treinamento e entrega da Workfront, para ou
 * Noções básicas sobre durações de tarefas e predecessores
 * Uma introdução às restrições de tarefa
 
->[!VIDEO](https://video.tv.adobe.com/v/Cannot encontrar link MPC/?quality=12&amp;learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/Cannot encontrar MPC Link/?quality=12&amp;learn=on)

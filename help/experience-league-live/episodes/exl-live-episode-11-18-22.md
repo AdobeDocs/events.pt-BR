@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Analytics no escritório ou em movimento
 
-**Insights sem atritos a qualquer hora, em qualquer lugar com o Adobe[!DNL Analytics]**
+**Insights sem atritos a qualquer momento, em qualquer lugar com o Adobe[!DNL Analytics]**
 
 Com tantas demandas de tempo e atenção, você precisa ser capaz de criar e acessar insights de negócios em qualquer ambiente - esteja você atrás de uma mesa ou fora dela e tudo mais.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410834/?quality=12&learn=on)
 
-Assista ao vídeo acima para ver este evento de transmissão ao vivo, onde Adobe [!DNL Analytics] especialistas forneceram excelentes dicas sobre como personalizar e acessar insights no Analysis Workspace e no [!DNL Analytics] Aplicativo de painéis.
+Assista ao vídeo acima para ver este evento de transmissão ao vivo, onde os especialistas do Adobe [!DNL Analytics] deram ótimas dicas sobre como personalizar e acessar insights no Analysis Workspace e no aplicativo de Painéis do [!DNL Analytics].
 
-Dúvidas sobre isso? Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+Dúvidas sobre isso? Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037) do Adobe Experience League.
 

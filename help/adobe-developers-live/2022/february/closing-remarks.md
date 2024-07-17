@@ -1,6 +1,6 @@
 ---
 title: Observações finais
-description: Feche o Adobe Developers Live Commerce com Sr. Director, Gerenciamento de produtos Chris Hedge.
+description: Feche o Adobe Developers Live Commerce com o Sr. Director, Gerenciamento de produtos Chris Hedge.
 role: User
 level: Beginner
 kt: 9787
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Observações finais
 
-Feche o Adobe Developers Live Commerce com Sr. Director, Gerenciamento de produtos Chris Hedge.
+Feche o Adobe Developers Live Commerce com o Sr. Director, Gerenciamento de produtos Chris Hedge.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340625/?quality=12&learn=on)

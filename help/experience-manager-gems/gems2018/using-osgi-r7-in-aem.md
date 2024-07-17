@@ -8,7 +8,7 @@ duration: 2785
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -44,9 +44,9 @@ Data: 17/10/2018
 
 [Blog da Aliança OSGi](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
 
-[Licença de especificação OSGi, versão 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
+[Licença de Especificação OSGi, Versão 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
 
-[Compêndio OSGi versão 7](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
+[Compêndio OSGi Versão 7](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -1,6 +1,6 @@
 ---
 title: O futuro do comércio (geração AI e 3D)
-description: Libere o futuro do Adobe Commerce! Explore nossa apresentação de última geração sobre os últimos aprimoramentos da plataforma Commerce, alimentada por IA gerativa e tecnologia 3D. Saiba como essas inovações redefinem o engajamento do cliente e impulsionam o sucesso dos negócios.
+description: Libere o futuro do Adobe Commerce! Explore nossa apresentação de última geração sobre os últimos aprimoramentos da plataforma Commerce, alimentada por IA generativa e tecnologia 3D. Saiba como essas inovações redefinem o engajamento do cliente e impulsionam o sucesso dos negócios.
 solution: Commerce
 feature-set: Commerce
 feature: Site Management
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # O futuro do comércio (geração AI e 3D)
 
-Libere o futuro do Adobe Commerce! Explore nossa apresentação de última geração sobre os últimos aprimoramentos da plataforma Commerce, alimentada por IA gerativa e tecnologia 3D. Saiba como essas inovações redefinem o engajamento do cliente e impulsionam o sucesso dos negócios.
+Libere o futuro do Adobe Commerce! Explore nossa apresentação de última geração sobre os últimos aprimoramentos da plataforma Commerce, alimentada por IA generativa e tecnologia 3D. Saiba como essas inovações redefinem o engajamento do cliente e impulsionam o sucesso dos negócios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)

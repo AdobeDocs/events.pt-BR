@@ -1,6 +1,6 @@
 ---
 title: Como explorar o valor comercial na jornada do cliente
-description: Saiba como a Adobe Consulting ajuda suas equipes de criação, marketing e tecnologia a avaliar e identificar as práticas recomendadas no marketing digital centrado no cliente para gerar resultados quantificáveis e excelentes experiências do cliente, alinhando sua organização à jornada do cliente.
+description: Saiba como a Adobe Consulting ajuda suas equipes criativas, de marketing e técnicas a avaliar e identificar as práticas recomendadas no marketing digital centrado no cliente para gerar resultados quantificáveis e excelentes experiências do cliente, alinhando sua organização à jornada do cliente.
 role: Leader, User
 level: Intermediate
 kt: 11122
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Como explorar o valor comercial na jornada do cliente
 
-Saiba como a Adobe Consulting ajuda suas equipes de criação, marketing e tecnologia a avaliar e identificar as práticas recomendadas no marketing digital centrado no cliente para gerar resultados quantificáveis e excelentes experiências do cliente, alinhando sua organização à jornada do cliente.
+Saiba como a Adobe Consulting ajuda suas equipes criativas, de marketing e técnicas a avaliar e identificar as práticas recomendadas no marketing digital centrado no cliente para gerar resultados quantificáveis e excelentes experiências do cliente, alinhando sua organização à jornada do cliente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409235/?quality=12&learn=on)

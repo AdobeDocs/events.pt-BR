@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Recurso GEMs do AEM - Caso de uso do cliente e implementação do AEM Headless em uso
 
-*Este webinário foi realizado em **Quarta-feira, 12 de outubro - 15h UTC**. A gravação está disponível abaixo.*
+*Este webinário foi conduzido em **quarta-feira, 12 de outubro - 15h UTC**. A gravação está disponível abaixo.*
 
 Essa sessão excepcional de GEMs AEM apresenta dois alto-falantes que estão operando AEM como clientes. A sessão será dividida em duas metades da seguinte forma:
 
@@ -48,11 +48,11 @@ Conceitualmente, o GraphQL é semelhante a uma consulta de banco de dados SQL, c
 
 Isso elimina a necessidade da API de fornecer vários endpoints que fornecem vários volumes ou grupos de dados para vários clientes e permite que vários clientes consultem a API para suas próprias necessidades.
 
-**Gravação da sessão**
+**Gravação de sessão**
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410160)
 
 >[!NOTE]
 >
->* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread contextual](https://adobe.ly/3r6P4nr)
->* Para receber notificações automáticas sobre webinários, registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
+>* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread Contextual](https://adobe.ly/3r6P4nr)
+>* Para receber notificações automáticas sobre webinários, registre-se em [Grupo de usuários de Adobe AEM](https://aem-augs.adobe.com/).

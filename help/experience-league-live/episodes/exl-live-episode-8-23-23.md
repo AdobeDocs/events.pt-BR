@@ -28,7 +28,7 @@ Com Campanhas acionadas por API, as empresas podem definir uma campanha e usá-l
 
 Nesta sessão em tempo real do Experience League, os especialistas em produtos do Adobe explicarão como você pode executar casos de uso transacionais e de marketing com recursos de mensagens acionadas por API no AJO.
 
-**Clique na imagem acima para assistir ao show!**
+**Clique na imagem acima para assistir ao programa!**
 
-Prossiga a discussão no [Publicação da comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Continue a discussão na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
 

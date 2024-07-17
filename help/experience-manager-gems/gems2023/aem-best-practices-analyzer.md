@@ -26,7 +26,7 @@ ht-degree: 0%
 ## Descrição
 
 O Analisador de práticas recomendadas é uma ferramenta que fornece recursos de análise e relatórios sobre AEM no local e instâncias AMS. Ele gera uma avaliação da implementação de AEM atual, indicando áreas que não estão seguindo as práticas recomendadas e, ao mesmo tempo, fornecendo orientações sobre como tomar medidas para corrigir possíveis problemas. A motivação é simples; identificar e solucionar apenas um mau uso no ambiente do AEM tem o potencial de melhorar a experiência do usuário, reduzir o débito técnico e, por sua vez, reduzir o custo total de propriedade (TCO). Então, por que não reservar um tempo para ver se há oportunidades de melhoria?
-Observe que o Analisador de práticas recomendadas para AEM não se aplica a ambientes as a Cloud Service para AEM.
+Observe que o Analisador de práticas recomendadas do AEM não se aplica a ambientes AEM as a Cloud Service.
 
 ### Apresentadores
 
@@ -42,5 +42,5 @@ Observe que o Analisador de práticas recomendadas para AEM não se aplica a amb
 
 >[!NOTE]
 >
->* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread contextual](https://bit.ly/3Z6AyM1)
->* Para receber notificações automáticas sobre webinários, registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
+>* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread Contextual](https://bit.ly/3Z6AyM1)
+>* Para receber notificações automáticas sobre webinários, registre-se em [Grupo de usuários de Adobe AEM](https://aem-augs.adobe.com/).

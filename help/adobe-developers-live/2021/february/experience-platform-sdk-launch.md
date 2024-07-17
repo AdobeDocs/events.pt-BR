@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Libere todo o potencial do AEP Launch Server Side com os SDKs da AEP para Web e dispositivos móveis para otimizar a coleção de dados da sua empresa.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-Clique em **[aqui](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** para os slides da sessão.
+Clique **[aqui](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** para ver os slides da sessão.

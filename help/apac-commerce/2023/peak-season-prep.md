@@ -1,6 +1,6 @@
 ---
 title: Preparação da temporada de pico
-description: Na próxima edição da Série de webinários de comércio da APAC, que terá como foco a preparação de seus negócios para a temporada de pico. A preparação é fundamental para o sucesso e, neste webinário, guiaremos você pelas práticas recomendadas para aproveitar o Adobe Commerce e maximizar as vendas e o desempenho durante esse importante período de negociação (ou qualquer outro evento de vendas que sua empresa possa ter ao longo do ano).
+description: Na próxima edição da Série de webinários APAC Commerce, que terá como foco a preparação de seus negócios para a temporada de pico. A preparação é fundamental para o sucesso e, neste webinário, guiaremos você pelas práticas recomendadas para aproveitar o Adobe Commerce e maximizar as vendas e o desempenho durante esse importante período de negociação (ou qualquer outro evento de vendas que sua empresa possa ter ao longo do ano).
 solution: Commerce
 feature: Best Practices
 topic: Performance
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # Preparação da temporada de pico
 
-Na próxima edição da Série de webinários de comércio da APAC, que terá como foco a preparação de seus negócios para a temporada de pico. A preparação é fundamental para o sucesso e, neste webinário, guiaremos você pelas práticas recomendadas para aproveitar o Adobe Commerce e maximizar as vendas e o desempenho durante esse importante período de negociação (ou qualquer outro evento de vendas que sua empresa possa ter ao longo do ano).
+Na próxima edição da Série de webinários APAC Commerce, que terá como foco a preparação de seus negócios para a temporada de pico. A preparação é fundamental para o sucesso e, neste webinário, guiaremos você pelas práticas recomendadas para aproveitar o Adobe Commerce e maximizar as vendas e o desempenho durante esse importante período de negociação (ou qualquer outro evento de vendas que sua empresa possa ter ao longo do ano).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423983/?learn=on)

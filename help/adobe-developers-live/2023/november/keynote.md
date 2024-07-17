@@ -1,6 +1,6 @@
 ---
 title: Abrindo Palestra
-description: Nesta sessão de palestras, gravada na Adobe Developers Live Content and Commerce em 6 de novembro de 2023, os especialistas do setor, Nishant Kapoor e Cedric Huesler, revelam os últimos avanços no Adobe Commerce e no Experience Manager. Explore a evolução e o futuro dessas plataformas poderosas, com foco em aplicativos do mundo real, ferramentas de desenvolvimento de baixo código e estratégias para manter sites de alto desempenho. Ron Nagy sedia essa sessão reveladora, oferecendo um aprofundamento nas ferramentas que permitem experiências digitais envolventes e personalizadas.
+description: Nesta sessão de palestras, gravada na Adobe Developers Live Content and Commerce em 6 de novembro de 2023, os especialistas do setor, Nishant Kapoor e Cedric Huesler, divulgam os últimos avanços no Adobe Commerce e no Experience Manager. Explore a evolução e o futuro dessas plataformas poderosas, com foco em aplicativos do mundo real, ferramentas de desenvolvimento de baixo código e estratégias para manter sites de alto desempenho. Ron Nagy sedia essa sessão reveladora, oferecendo um aprofundamento nas ferramentas que permitem experiências digitais envolventes e personalizadas.
 solution: Commerce, Experience Manager as a Cloud Service
 topic: Development
 role: Developer
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Novidades e novidades para desenvolvedores
 
-Nesta sessão de palestras, gravada no Adobe Developers Live: Content and Commerce em 6 de novembro de 2023, os especialistas do setor, Nishant Kapoor e Cedric Huesler, divulgam os últimos avanços no Adobe Commerce e no Experience Manager. Explore a evolução e o futuro dessas plataformas poderosas, com foco em aplicativos do mundo real, ferramentas de desenvolvimento de baixo código e estratégias para manter sites de alto desempenho. Ron Nagy sedia essa sessão reveladora, oferecendo um aprofundamento nas ferramentas que permitem experiências digitais envolventes e personalizadas.
+Nesta sessão de palestras, gravada em Adobe Developers Live: Content and Commerce em 6 de novembro de 2023, os especialistas do setor Nishant Kapoor e Cedric Huesler revelam os últimos avanços no Adobe Commerce e no Experience Manager. Explore a evolução e o futuro dessas plataformas poderosas, com foco em aplicativos do mundo real, ferramentas de desenvolvimento de baixo código e estratégias para manter sites de alto desempenho. Ron Nagy sedia essa sessão reveladora, oferecendo um aprofundamento nas ferramentas que permitem experiências digitais envolventes e personalizadas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425637/?learn=on)

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Conecte-se à sua instância do Adobe Campaign Standard e descubra as práticas recomendadas relacionadas ao direcionamento, à personalização e fadiga de marketing para ter um melhor uso do ACS. Esta sessão será interativa: Crie uma sessão própria perguntando sobre os recursos/necessidades diretamente ao nosso especialista!
 
-*Laurent Valenza* Consultor principal de soluções / Adobe
+*Laurent Valenza* Consultor Principal de Soluções/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343828/?quality=12&learn=on)

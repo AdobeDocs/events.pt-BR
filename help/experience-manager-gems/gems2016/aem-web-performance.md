@@ -8,13 +8,13 @@ duration: 3831
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
 # Desempenho da Web no AEM{#aem-web-performance}
 
-Oferecer experiências complexas na Web com rapidez é um desafio. Nesta palestra, Joel irá lançar luzes sobre algumas das armadilhas mais comuns. Ele incluirá teoria, exemplos, práticas recomendadas, bem como demonstração de ferramentas nas seguintes áreas - Rede e latência: otimizações para HTTP/1.1 e HTTP/2 - Solicitações lentas do servidor AEM: identificação de problemas - JavaScript: minimização da sobrecarga
+Oferecer experiências complexas na Web com rapidez é um desafio. Nesta palestra, Joel irá lançar luzes sobre algumas das armadilhas mais comuns. Ele incluirá teoria, exemplos, práticas recomendadas, bem como demonstração de ferramentas nas seguintes áreas - Rede e latência: otimizações para HTTP/1.1 e HTTP/2 - Solicitações lentas do servidor AEM: identificando problemas - JavaScript: minimizando a sobrecarga
 
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 
@@ -32,7 +32,7 @@ Oferecer experiências complexas na Web com rapidez é um desafio. Nesta palestr
 
 >[!WARNING]
 >
->O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR).  As versões arquivadas da documentação podem ser acessadas neste [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
+>O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  As versões arquivadas da documentação podem ser acessadas nesta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
 
 Apache:\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
@@ -42,7 +42,7 @@ Padrões da Web:\
 [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 
 AEM:\
-[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=pt-BR)
+[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html)
 
 Componentes do AEM:\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\

@@ -1,5 +1,5 @@
 ---
-title: Pergunte a um especialista - Acompanhamento das práticas recomendadas de prova do Workfront
+title: Pergunte a um especialista - Acompanhamento das práticas recomendadas da Workfront Proof
 description: Saiba por que você deve usar modelos de fluxo de trabalho automatizados, como criá-los e como ajustar configurações de prova para garantir a privacidade. Esse webinário foi gravado em 4 de março de 2020.
 doc-type: feature video
 team: Technical Marketing
@@ -9,11 +9,11 @@ duration: 4083
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '1649'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Pergunte a um especialista - Acompanhamento das práticas recomendadas de prova do Workfront
+# Pergunte a um especialista - Acompanhamento das práticas recomendadas da Workfront Proof
 
 Saiba por que você deve usar modelos de fluxo de trabalho automatizados, como criá-los e como ajustar configurações de prova para garantir a privacidade. Esse webinário foi gravado em 4 de março de 2020.
 
@@ -43,7 +43,7 @@ No nosso caso de uso, o designer carrega o documento, mas o gerente da conta ger
 
 **Resposta**
 
-Se você configurar o Designer com um Nível de Acesso de Trabalho ou Plano no Workfront, ele receberá uma licença de prova. Se a licença de prova for definida como Supervisor ou Administrador, será possível criar novas versões de provas sem precisar executar a etapa manual de fazer com que o Gerente de conta converta a nova versão e aplique um fluxo de trabalho. A nova versão adotará o fluxo de trabalho da versão anterior (e também poderá ser alterada ou alterada nesse momento).
+Se você configurar a Designer com um Nível de acesso de trabalho ou plano no Workfront, eles receberão uma licença de prova. Se a licença de prova for definida como Supervisor ou Administrador, será possível criar novas versões de provas sem precisar executar a etapa manual de fazer com que o Gerente de conta converta a nova versão e aplique um fluxo de trabalho. A nova versão adotará o fluxo de trabalho da versão anterior (e também poderá ser alterada ou alterada nesse momento).
 
 **Pergunta**
 
@@ -83,7 +83,7 @@ Embora não seja possível adicionar um recipient de prova a mais de um estágio
 
 **Resposta**
 
-Sim, você navegará para Workfront Proof e selecionará Fluxos de trabalho no menu à esquerda. Lá, é possível editar estágios, adicionar usuários, remover usuários, adicionar estágios etc.
+Sim, você navegará para o Workfront Proof e selecionará Workflows no menu à esquerda. Lá, é possível editar estágios, adicionar usuários, remover usuários, adicionar estágios etc.
 
 **Pergunta**
 

@@ -1,5 +1,5 @@
 ---
-title: Módulo de logon externo do Oak - Autenticar com LDAP e posterior
+title: Módulo de logon externo da Oak - Autenticar com LDAP e posterior
 description: Consulte o novo módulo de logon externo do Apache Jackrabbit Oak. Saiba mais sobre os detalhes e a interação do módulo de logon, do manipulador de sincronização e do provedor de identidade. Obtenha uma demonstração da configuração necessária para que os usuários do LDAP possam ser importados automaticamente para o AEM para fins de autenticação. Aprenda dicas e truques sobre como depurar o sistema se as coisas não funcionarem imediatamente.
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
@@ -8,11 +8,11 @@ duration: 3236
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Módulo de logon externo do Oak - Autenticar com LDAP e posterior{#oak-s-external-login-module-authenticating-with-ldap-and-beyond}
+# Módulo de logon externo da Oak - Autenticar com LDAP e posterior{#oak-s-external-login-module-authenticating-with-ldap-and-beyond}
 
 Consulte o novo módulo de logon externo do Apache Jackrabbit Oak. Saiba mais sobre os detalhes e a interação do módulo de logon, do manipulador de sincronização e do provedor de identidade. Obtenha uma demonstração da configuração necessária para que os usuários do LDAP possam ser importados automaticamente para o AEM para fins de autenticação. Aprenda dicas e truques sobre como depurar o sistema se as coisas não funcionarem imediatamente.
 

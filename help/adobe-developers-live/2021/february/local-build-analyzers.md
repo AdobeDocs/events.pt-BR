@@ -23,10 +23,10 @@ ht-degree: 0%
 
 # Analisadores de build local com o Adobe Experience Manager as a Cloud Service
 
-Entenda a API orientada por eventos da ACDL. Um exemplo de comércio mostrará como os Componentes principais hidratam o componente e a extensão do Launch faz interface com o AA e o AT.
+Entenda a API orientada por eventos da ACDL. Um exemplo do Commerce mostrará como os Componentes principais hidratam ele, e a extensão do Launch faz interface com o AA e o AT.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332307/?quality=12&learn=on&hidetitle=true)
 
-Clique em **[aqui](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** para os slides da sessão.
+Clique **[aqui](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** para ver os slides da sessão.

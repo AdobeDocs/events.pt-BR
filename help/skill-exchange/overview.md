@@ -18,7 +18,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
 
 >[!TIP]
 >
->**Todas as sessões gravadas são listadas na navegação à esquerda**.
+>**Todas as sessões gravadas estão listadas na navegação à esquerda**.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -54,7 +54,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
       <img alt="Manutenção de dados" src="./assets/data-maintenance.png"/>
       </a>
       <div>
-         <a href="marketo/feb2022/data-maintenance.md"><strong>Manutenção de dados</strong></a>
+         <a href="marketo/feb2022/data-maintenance.md"><strong>Manutenção de Dados</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
@@ -67,7 +67,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
       <img alt="10 dicas para utilizar o Workfront" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="workfront/apr2022/ten-tips.md"><strong>10 dicas para utilizar o Workfront</strong></a>
+         <a href="workfront/apr2022/ten-tips.md"><strong>10 dicas para utilizar sua Workfront</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

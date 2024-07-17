@@ -27,6 +27,8 @@ Dale Whitchurch, vice-presidente executivo da Production Intelligence, da IPG He
 
 Você vai ouvir,
 
-Como eles evoluíram seu processo e sua infraestrutura ao longo do tempo Recomendações práticas para integrar o Workfront a sua pilha de tecnologia mais ampla e fluxos de trabalho principais em amadurecimento Como o IPG está estabelecendo a base para a Cadeia de fornecimento de conteúdo
+Como eles evoluíram seu processo e sua infraestrutura ao longo do tempo
+Conselhos práticos para integrar o Workfront à sua pilha de tecnologia mais ampla e amadurecer fluxos de trabalho importantes
+Como o IPG está preparando a base para a Cadeia de fornecimento de conteúdo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)

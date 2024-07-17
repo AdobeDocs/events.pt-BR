@@ -1,5 +1,5 @@
 ---
-title: Publicar um formulário Web preenchível e assinável
+title: Post um formulário Web preenchível e assinável
 description: Saiba como criar um formulário web que permita a qualquer pessoa preencher e assinar — sem precisar iniciar a transação ou até mesmo saber o endereço de email do signatário.
 feature: Sign, Form
 role: User
@@ -8,15 +8,15 @@ doc-type: Event
 duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-
-# Publicar um formulário Web preenchível e assinável
+# Post um formulário Web preenchível e assinável
 
 Saiba como criar um formulário web que permita a qualquer pessoa preencher e assinar — sem precisar iniciar a transação ou até mesmo saber o endereço de email do signatário. Você também verá como preparar um modelo de documento que pode ser usado para transações de assinatura individuais, bem como para postagem em um URL exclusivo para compartilhamento amplo.
 

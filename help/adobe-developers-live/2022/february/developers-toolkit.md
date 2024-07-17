@@ -1,5 +1,5 @@
 ---
-title: Uma visão geral do Kit de ferramentas de um desenvolvedor do Commerce
+title: Acesso rápido ao Kit de ferramentas do desenvolvedor do Commerce
 description: Aborda tópicos como configuração de desenvolvimento local, ferramentas de depuração e criação de perfil, uso do New Relic em seu benefício em um ambiente de produção e testes.
 role: Developer
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Uma visão geral do Kit de ferramentas de um desenvolvedor do Commerce
+# Acesso rápido ao Kit de ferramentas do desenvolvedor do Commerce
 
 Quando se trata de fornecer resultados bem-sucedidos em estruturas flexíveis e, portanto, complexas, como Adobe Commerce e Magento open source, é imperativo que as equipes de desenvolvimento usem as ferramentas certas para o trabalho. Nesta palestra abordaremos ferramentas que achei úteis em minha carreira como desenvolvedor de Magento. Abordaremos tópicos como configuração de desenvolvimento local, ferramentas de depuração e criação de perfil, uso do New Relic em seu benefício em um ambiente de produção, teste etc. Vamos ver alguns exemplos de como essas ferramentas podem facilitar a vida dos desenvolvedores, em um ambiente já complexo!
 

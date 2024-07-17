@@ -1,5 +1,5 @@
 ---
-title: Acelerando o desenvolvimento as a Cloud Service do AEM com ambientes de desenvolvimento rápido
+title: Acelerando o desenvolvimento de AEM as a Cloud Service com ambientes de desenvolvimento rápido
 description: Para implantar alterações, os ambientes de desenvolvimento de nuvem atuais exigem o uso de um processo que emprega regras abrangentes de segurança e qualidade de código chamadas de pipeline de CI/CD. Para situações em que são necessárias alterações rápidas e iterativas, o Adobe introduziu os ambientes de desenvolvimento rápido (RDEs, na sigla em inglês).Os RDEs permitem que os desenvolvedores implantem e revisem alterações rapidamente, minimizando o tempo necessário para testar recursos que comprovadamente funcionam em um ambiente de desenvolvimento local.
 feature-set: Experience Manager
 solution: Experience Manager
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ---
 
-# Acelerando o desenvolvimento as a Cloud Service do AEM com ambientes de desenvolvimento rápido
+# Acelerando o desenvolvimento de AEM as a Cloud Service com ambientes de desenvolvimento rápido
 
 Esse webinário foi realizado em 22 de fevereiro de 2023. Veja a gravação abaixo.
 
@@ -44,6 +44,6 @@ As RDEs permitem que os desenvolvedores implantem e revisem alterações rapidam
 
 >[!NOTE]
 >
->* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread contextual](http://bit.ly/3x1Cl8x)
+>* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread Contextual](http://bit.ly/3x1Cl8x)
 >
->* Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
+>* Para receber notificações sobre nossos próximos webinários, registre-se em [Grupo de usuários do AdobeAEM](https://aem-augs.adobe.com/).

@@ -4,7 +4,7 @@ breadcrumb-title: Horário comercial do AEM Champion
 user-guide-description: Esse Grupo de usuários do Adobe Experience Manager (AEMUG) é facilitado pela Classe de campeão de AEM 2022-2023. Os especialistas usarão esse AEMUG como plataforma para o horário comercial mensal
 source-git-commit: af82f5c366f0de35e354589ba84ff99108f73213
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '53'
 ht-degree: 3%
 
 ---

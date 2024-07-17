@@ -9,7 +9,7 @@ duration: 3093
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -33,14 +33,14 @@ Timothe Maret, Desenvolvedor Sênior, Adobe
 
 >[!WARNING]
 >
->O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR).  As versões arquivadas da documentação podem ser acessadas neste [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
+>O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  As versões arquivadas da documentação podem ser acessadas nesta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
 >
->Como se refere a esta sessão, consulte *Sincronização de usuário* na documentação do AEM.
+>Como está relacionado a esta sessão, consulte *Sincronização de Usuário* na documentação do AEM.
 
 * [Distribuição de conteúdo do Apache Sling](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [Retorne à Visão geral](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Retorne à Visão Geral](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [Indexação de AEM e consulta JCR](aem-indexing-jcr-query.md)
->* [Solução de problemas da distribuição de conteúdo do Sling](aem-troubleshooting-sling.md)
+>* [Indexação de AEM e Consulta JCR](aem-indexing-jcr-query.md)
+>* [Solução de problemas de Distribuição de Conteúdo de Sling](aem-troubleshooting-sling.md)

@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - 22 DE NOVEMBRO - Como criar experiências de conteúdo e comércio usando o App Builder e a API Mesh
-description: Nesta sessão, você aprenderá o fluxo completo do desenvolvedor criando uma loja de comércio orientada por experiência headless. Começando com a API AppBuilder em malha para agregar diferentes fontes de conteúdo do Adobe Experience Manager & Commerce Saiba como criar uma experiência headless exibindo produtos enriquecidos com Fragmentos de conteúdo do Adobe Experience Manager Use o Micro Frontends for para integrar um carrinho de compras ao seu aplicativo
+title: Adobe Developers Live - 22 DE NOVEMBRO - Como criar conteúdo e experiências do Commerce usando o App Builder e a API Mesh
+description: Nesta sessão, você aprenderá o fluxo completo do desenvolvedor criando uma loja de comércio orientada por experiência headless. Começando com a API AppBuilder em malha para agregar diferentes fontes de conteúdo do Adobe Experience Manager e do Commerce Saiba como criar uma experiência headless exibindo produtos enriquecidos com Fragmentos de conteúdo do Adobe Experience Manager Use o Micro Frontends for para integrar um carrinho de compras ao seu aplicativo
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 ---
 
-# Como criar experiências de conteúdo e comércio usando o App Builder e a API Mesh
+# Como criar conteúdo e experiências do Commerce usando o App Builder e a API Mesh
 
 Nesta sessão, você aprenderá o fluxo completo do desenvolvedor criando uma loja de comércio orientada por experiência headless,
 
-* Começando com a API AppBuilder em malha para agregar diferentes fontes de conteúdo do Adobe Experience Manager &amp; Commerce
+* Começando com a API Mesh do AppBuilder para agregar diferentes fontes de conteúdo do Adobe Experience Manager e do Commerce
 * Saiba como criar uma experiência headless exibindo produtos enriquecidos com fragmentos de conteúdo do Adobe Experience Manager
 * Use o Micro Frontends for para integrar um carrinho de compras ao seu aplicativo
 

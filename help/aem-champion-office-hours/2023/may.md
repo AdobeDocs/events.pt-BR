@@ -1,6 +1,6 @@
 ---
 title: Office Hours do Adobe Experience Manager Champion - Cloud Manager
-description: Junte-se a nós para a edição de maio do Adobe Champion Office Hours como um painel de especialistas do Adobe Experience Manager AEM AEM AEM AEM discutir práticas recomendadas, compartilhar dicas e participar de uma sessão de perguntas e respostas ao vivo sobre o Cloud Manager.Se você é novo no, tenha uma dúvida sobre como o Cloud Manager pode simplificar seus fluxos de trabalho ou quiser entender como a implantação estável e o pipeline de compilação do Cloud Manager prontos para uso permitem que as organizações criem, testem e implantem aplicativos do automaticamente na nuvem, nossos especialistas em AEM têm as respostas!
+description: Junte-se a nós para a edição de maio do Adobe AEM Champion Office Hours como um painel de especialistas do Adobe Experience Manager AEM discutir as práticas recomendadas, compartilhar dicas e participar de uma sessão de perguntas e respostas ao vivo sobre o Cloud Manager AEM do.Se você for para o, tenha uma pergunta sobre o Cloud Manager pode simplificar seus fluxos de trabalho, ou quiser entender o pipeline da Cloud Manager AEM AEM pronto para uso e a implantação estável permite que as organizações criem, testem e implantem aplicativos na nuvem automaticamente, nossos especialistas têm as respostas!
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 # Office Hours do Adobe Experience Manager Champion - Cloud Manager
 
-Junte-se a nós na edição de maio do Adobe AEM Champion Office Hours como um painel de especialistas do Adobe Experience Manager AEM para discutir as práticas recomendadas, compartilhar dicas e participar de uma sessão de perguntas e respostas ao vivo sobre o Cloud Manager.
+Junte-se a nós na edição de maio do Adobe AEM Champion Office Hours como um painel de especialistas do Adobe Experience Manager para discutir as práticas recomendadas, compartilhar dicas e participar de uma sessão de perguntas e respostas ao vivo sobre o Cloud Manager do AEM.
 
-Se você é novo no AEM, tem uma pergunta sobre como o Cloud Manager pode simplificar seus fluxos de trabalho ou quer entender como o pipeline de criação pronto para uso do Cloud Manager e a implantação estável permitem que as organizações criem, testem e implantem aplicativos AEM na nuvem automaticamente, nossos especialistas em AEM têm as respostas.
+Se você é novo no AEM, tem uma pergunta sobre como o Cloud Manager pode simplificar seus fluxos de trabalho ou quer entender como o pipeline de build pronto para uso da Cloud Manager AEM AEM e a implantação estável permitem que as organizações criem, testem e implantem aplicativos do na nuvem automaticamente, nossos especialistas em têm as respostas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420726/?learn=on)

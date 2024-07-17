@@ -1,5 +1,5 @@
 ---
-title: Colaboração de dados no contexto de dados próprios
+title: Collaboration de dados no contexto de dados próprios
 description: Este webinário ajudará a desbloquear as oportunidades de colaboração de dados em um futuro sem cookies de terceiros.
 solution: Real-Time Customer Data Platform
 feature: Data Management
@@ -13,11 +13,11 @@ duration: 2560
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 15%
+ht-degree: 11%
 
 ---
 
-# Colaboração de dados no contexto de dados próprios
+# Collaboration de dados no contexto de dados próprios
 
 Cumprindo a promessa da experiência, com acesso a menos dados. Seja você um anunciante, editor ou uma agência, este webinário ajudará a desbloquear as oportunidades de colaboração de dados em um futuro sem cookies de terceiros.
 

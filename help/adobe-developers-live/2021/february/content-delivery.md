@@ -24,8 +24,8 @@ ht-degree: 0%
 
 O Adobe Experience Manager as a Cloud Service tem uma eficiente arquitetura de entrega de conteúdo pré-configurada. Demonstrar como tirar o melhor proveito das configurações otimizadas de entrega de conteúdo.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332022/?quality=12&learn=on&hidetitle=true)
 
-Clique em **[aqui](/help/adobe-developers-live/assets/content-delivery-on-aemcs.pdf)** para os slides da sessão.
+Clique **[aqui](/help/adobe-developers-live/assets/content-delivery-on-aemcs.pdf)** para ver os slides da sessão.

@@ -1,6 +1,6 @@
 ---
 title: Palestra de desenvolvedores do Live APAC
-description: Junte-se a Mark Szulc, gerente de produto principal e evangelista regional da APAC, e Ron Nagy, evangelista sênior, na palestra principal do Adobe Experience Manager durante o Adobe Developers Live APAC - Conteúdo e comércio em 14 de novembro de 2023.
+description: Junte-se a Mark Szulc, gerente de produto principal e evangelista regional da APAC, e Ron Nagy, evangelista sênior, na palestra principal do Adobe Experience Manager durante o Adobe Developers Live APAC - Content and Commerce em 14 de novembro de 2023.
 solution: Commerce, Experience Manager as a Cloud Service
 topic: Development
 role: Admin, Developer
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Palestra de abertura da Adobe Developers Live (APAC) - novembro de 2023
 
-Junte-se a Mark Szulc, gerente de produto principal e evangelista regional da APAC, e Ron Nagy, evangelista sênior, na palestra principal do Adobe Experience Manager durante o Adobe Developers Live APAC: Conteúdo e comércio em 14 de novembro de 2023.
+Junte-se a Mark Szulc, gerente de produto principal e evangelista regional da APAC, e Ron Nagy, evangelista sênior, na palestra principal do Adobe Experience Manager durante o Adobe Developers Live APAC: Content and Commerce em 14 de novembro de 2023.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426342/?learn=on)

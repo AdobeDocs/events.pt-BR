@@ -8,7 +8,7 @@ duration: 3199
 source-git-commit: 1f03e57f9818a9b61c9825febd8b9cf24d071b25
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Essas sessões do Gems são dedicadas para examinar mais de perto os detalhes de
 
 >[!VIDEO](https://video.tv.adobe.com/v/27010/?quality=9)
 
-*Entregue em 20/03/2019*
+*Entregue em 20/03/19*
 
 **Apresentado por:** Artur Kudlacz, Desenvolvedor, Adobe
 

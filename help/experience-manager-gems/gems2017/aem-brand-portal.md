@@ -8,7 +8,7 @@ duration: 3408
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ Você aprenderá:
 
 **Apresentado por:**
 
-Mike Carley, gerente de marketing de produtos - [!DNL AEM Assets], ADOBE
+Mike Carley, Gerente de marketing de produtos - [!DNL AEM Assets], Adobe
 
 Krishna Selvaraj, Engenheira de Marketing Técnico - AEM, Adobe
 

@@ -17,7 +17,7 @@ duration: 3081
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -32,9 +32,9 @@ Automatize a saída de ativos para todos os canais e telas com o Dynamic Media.
 ## Recursos
 
 *[Vídeos do Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
-*[Guia de início rápido da estratégia de mídia avançada](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
-*[Guia de predefinição de imagem de estratégia de mídia avançada](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Série de blogs Imagem é Tudo](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
+*[Guia de Início Rápido de Estratégia de Mídia Avançada](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
+*[Guia de Predefinição de Imagem de Estratégia de Mídia Avançada](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
+*[A Imagem é Tudo - Série de Blogs](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
 
 ## Gravações em série
 

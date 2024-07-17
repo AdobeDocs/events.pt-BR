@@ -1,5 +1,5 @@
 ---
-title: A borda criativa - Como o pensamento visionário está transformando a Commerce
+title: A Edge criativa - Como o pensamento visionário está transformando a Commerce
 description: Este webinário aborda a integração de criatividade e comércio, mostrando como as ferramentas e tecnologias da Adobe podem ajudar a gerenciar ativos, dimensionar a criação de conteúdo e simplificar a cadeia de fornecimento de conteúdo. Ele discute a importância de unir a criatividade e o comércio e aborda tópicos como experiências personalizadas, gerenciamento de ativos e uso de ferramentas como o Adobe Workfront, o Adobe Experience Manager e o Adobe Stock para simplificar o processo de criação de conteúdo.
 solution: Commerce
 topic: Commerce
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
+source-git-commit: 441e5d9313ea3c46ce09d1d6cfbe358fce8e0b83
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
+# A Edge criativa: como o pensamento visionário está transformando o Commerce
 
-# A borda criativa: como o pensamento visionário está transformando o Commerce
-
-The Creative Edge: Como o pensamento visionário está transformando o comércio eletrônico se aprofunda na vanguarda da inovação, onde a IA da geração está revolucionando o cenário criativo, oferecendo insights e possibilidades sem precedentes. Os participantes aprenderão como a IA está simplificando o gerenciamento das diretrizes de marca e estilo, garantindo a consistência em várias plataformas e canais.
+A Creative Edge: Como o pensamento visionário está transformando o comércio eletrônico se aprofunda na vanguarda da inovação, onde a Gen AI está revolucionando o cenário criativo, oferecendo insights e possibilidades sem precedentes. Os participantes aprenderão como a IA está simplificando o gerenciamento das diretrizes de marca e estilo, garantindo a consistência em várias plataformas e canais.
 
 Por meio da integração contínua, descubra como incorporar facilmente seus ativos criativos à execução de marketing e comércio, melhorando o envolvimento do cliente e as taxas de conversão.
 

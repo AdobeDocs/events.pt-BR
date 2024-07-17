@@ -8,7 +8,7 @@ duration: 3218
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -36,7 +36,7 @@ Apresentado por: Patrick Fauchere, gerente de engenharia, Adobe
 
 ## Links relacionados {#related-links}
 
-[Tutorial de fim de semana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=pt-BR)
+[Tutorial de fim de semana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
 [Documentação](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 

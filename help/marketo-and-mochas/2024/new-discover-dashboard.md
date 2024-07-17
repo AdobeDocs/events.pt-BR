@@ -7,7 +7,8 @@ doc-type: Event
 duration: 3619
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15339
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -22,7 +23,7 @@ Durante esta sessão, demonstraremos como incorporar com mais eficiência esses 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428405/?learn=on)
 
-## Principais aprendizados
+## Principais pontos
 
 * Os painéis do Discover no Marketo Measure são um conjunto novo e aprimorado de painéis pré-criados projetados para aprimorar a usabilidade e adicionar valor aos recursos de relatórios.
 * Os painéis antigos foram descontinuados em março e os novos painéis agora estão disponíveis para todos os clientes do Marketo Measure.

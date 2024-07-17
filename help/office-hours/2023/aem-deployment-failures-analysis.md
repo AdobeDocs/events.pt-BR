@@ -1,6 +1,6 @@
 ---
-title: Análise de falhas de implantação as a Cloud Service do AEM
-description: Implantação as a Cloud Service do AEM interna e solução de problemas.
+title: Análise de falhas de implantação do AEM as a Cloud Service
+description: Implantação interna do AEM as a Cloud Service e solução de problemas.
 feature-set: Experience Manager Cloud Manager
 feature: Code Deployment
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Análise de falhas de implantação as a Cloud Service do AEM
+# Análise de falhas de implantação do AEM as a Cloud Service
 
-Nesta sessão, você aprenderá sobre os recursos internos de implantação as a Cloud Service do AEM e sobre solução de problemas.
+Nesta sessão, você aprenderá sobre os aspectos internos de implantação e solução de problemas do AEM as a Cloud Service.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422532/?learn=on)

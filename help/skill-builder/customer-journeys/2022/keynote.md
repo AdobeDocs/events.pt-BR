@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Nesta sessão de palestras, você aprenderá sobre as últimas tendências no Gerenciamento de Jornadas do cliente em B2B e B2C. Também compartilharemos com você as inovações mais recentes nos principais aplicativos do jornada e na Adobe Experience Cloud e plataforma mais amplas. Um para não perder!
 
-*Timo Kohlberg* Gerente sênior e Marketing / Adobe de produto líder da EMEA
+*Timo Kohlberg* Gerente sênior e líder de marketing/Adobe de produtos para a EMEA
 
 >[!VIDEO](https://video.tv.adobe.com/v/343822/?quality=12&learn=on)

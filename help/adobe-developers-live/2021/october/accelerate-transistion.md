@@ -1,8 +1,8 @@
 ---
 title: Transição acelerada para o Adobe Experience Manager as a Cloud Service
 description: Saiba mais sobre como aproveitar as ferramentas de refatoração de código do Adobe Experience Manager as a Cloud Service para acelerar a jornada de transição para Cloud Service, tornando o conteúdo existente (estrutura do pacote, índices, fluxos de trabalho de processamento de ativos do Adobe Experience Manager, configurações do dispatcher) Cloud Service compatível por meio de automação.
-landing-page-description: Use as ferramentas de refatoração de código as a Cloud Service do AEM para acelerar sua transição para o Cloud Service.
-short-description: Use as ferramentas de refatoração de código as a Cloud Service do AEM para acelerar sua transição para o Cloud Service.
+landing-page-description: Use as ferramentas de refatoração de código do AEM as a Cloud Service para acelerar a transição para o Cloud Service.
+short-description: Use as ferramentas de refatoração de código do AEM as a Cloud Service para acelerar a transição para o Cloud Service.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -28,12 +28,12 @@ Nesta sessão, mostraremos como podemos usar o aio-cli-plugin-Adobe Experience M
 
 Esperamos ajudar as pessoas a entender as práticas recomendadas sobre o uso das ferramentas de refatoração de código, mostrando a execução das ferramentas na base real de código de cliente do Adobe Experience Manager.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/3ETr7FI)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/3ETr7FI)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338036/?quality=12&learn=on&hidetitle=true)
 
 ## Recursos adicionais
 
-- [Documentação do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
+- [Documentação do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Visão geral do Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Tutoriais do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

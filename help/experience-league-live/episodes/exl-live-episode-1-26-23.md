@@ -27,5 +27,5 @@ A coleta de dados é muito importante no Adobe! Você precisa ser capaz de confi
 
 Assista ao vídeo acima para ver este evento ao vivo, onde os especialistas em coleção de dados do Adobe forneceram um resumo de atualizações recentes importantes, bem como uma rápida olhada nos itens do futuro roteiro.
 
-Dúvidas sobre isso? Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+Dúvidas sobre isso? Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316) do Adobe Experience League.
 

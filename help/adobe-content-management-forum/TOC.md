@@ -16,10 +16,10 @@ ht-degree: 1%
 + [Fórum de gerenciamento de conteúdo do Adobe](overview.md)
 + 2022 {#2022}
    + [Endereço de boas-vindas e visão geral do AEM](2022/welcome.md)
-   + [Estender Adobe [!DNL Experience Manager] Headless com [!DNL Adobe App Builder]](2022/headless.md)
+   + [Estender o Adobe [!DNL Experience Manager] Headless com [!DNL Adobe App Builder]](2022/headless.md)
    + [Práticas recomendadas do desenvolvedor](2022/developer-best-practices.md)
    + [Fornecer personalização de conteúdo](2022/personalization.md)
    + [Criar uma cadeia de fornecimento de conteúdo que seja dimensionável](2022/supply-chain.md)
    + [[!DNL Experience Manager as a Cloud Service] inovações](2022/innovations.md)
-   + [Ativos para todos](2022/assets-for-all.md)
+   + [Assets para todos](2022/assets-for-all.md)
    + [AEM Forms - Simplificado, integrado e headless](2022/forms-headless.md)

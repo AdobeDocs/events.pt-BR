@@ -1,6 +1,6 @@
 ---
 title: Multilocação da sessão de campeão AEM
-description: A sessão terá como foco como vários locatários podem existir na mesma instância as a Cloud Service do AEM. O foco está no uso do Adobe Cloud Manager para implantar vários repositórios de código na mesma instância do AEM. Isso inclui a configuração de diferentes repositórios Git, bem como o uso de submódulos Git.
+description: A sessão se concentrará em como vários locatários podem existir na mesma instância do AEM as a Cloud Service. O foco está no uso do Adobe Cloud Manager para implantar vários repositórios de código na mesma instância do AEM. Isso inclui a configuração de diferentes repositórios Git, bem como o uso de submódulos Git.
 solution: Experience Manager
 role: User
 level: Beginner, Intermediate, Experienced
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Multilocação da sessão de campeão AEM
 
-A sessão terá como foco como vários locatários podem existir na mesma instância as a Cloud Service do AEM. O foco está no uso do Adobe Cloud Manager para implantar vários repositórios de código na mesma instância do AEM. Isso inclui a configuração de diferentes repositórios Git, bem como o uso de submódulos Git.
+A sessão se concentrará em como vários locatários podem existir na mesma instância do AEM as a Cloud Service. O foco está no uso do Adobe Cloud Manager para implantar vários repositórios de código na mesma instância do AEM. Isso inclui a configuração de diferentes repositórios Git, bem como o uso de submódulos Git.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346388/?quality=12&learn=on)

@@ -8,7 +8,7 @@ duration: 3276
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,9 +19,9 @@ No Adobe, observamos uma explosão de ativos digitais em quatro áreas principai
 * O tamanho do arquivo de ativos digitais que estão sendo produzidos
 * O número de ativos digitais sendo produzidos
 * As expectativas de nossos usuários e clientes para ativos digitais
-* As solicitações de maior e maior [!DNL AEM Assets] implantações
+* As solicitações para [!DNL AEM Assets] implantações cada vez maiores
 
-Nesta sessão, vamos aprender sobre o Digital Asset Explosion, entender a escala do AEM à medida que os ativos explodem e seguir um exemplo de cliente durante o ciclo de vida de seus [!DNL AEM Assets] projeto.
+Nesta sessão, vamos aprender sobre a Explosão de ativos digitais, entender a escala do AEM à medida que os ativos explodem e seguir um exemplo de cliente durante o ciclo de vida do projeto [!DNL AEM Assets].
 
 >[!VIDEO](https://video.tv.adobe.com/v/21474/?quality=9)
 

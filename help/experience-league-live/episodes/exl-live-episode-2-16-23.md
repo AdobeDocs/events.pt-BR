@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Acelerando suas experiências na Web!
 
-**Compreender a diferença entre rapidez e rapidez**
+**Entendendo a diferença entre o mais rápido e o mais rápido**
 
 Os tempos de carregamento do site e o desempenho geral têm impacto direto na satisfação dos clientes, além de impulsionar a conversão.
 
@@ -27,5 +27,5 @@ Os tempos de carregamento do site e o desempenho geral têm impacto direto na sa
 
 Assista ao vídeo acima para assistir a este evento de transmissão ao vivo, em que os especialistas em entrega de experiência de Adobe discutiram o que considerar e quais etapas você pode seguir para aumentar o desempenho.
 
-**Dúvidas sobre isso?** Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836).
+**Dúvidas sobre isso?** Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836) do Adobe Experience League.
 

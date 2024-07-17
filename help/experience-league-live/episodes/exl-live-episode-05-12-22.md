@@ -22,9 +22,9 @@ As notificações por push permitem a comunicação com usuários do aplicativo 
 
 >[!VIDEO](https://video.tv.adobe.com/v/342810/?quality=12&learn=on)
 
-[Baixe o iOS AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-ios)
+[Baixar o iOS AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-ios)
 
-[Baixe o Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
+[Baixar o Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
 
-Para continuar a conversa sobre esta sessão, visite o [Publicação da comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+Para continuar a conversa sobre esta sessão, visite a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
 

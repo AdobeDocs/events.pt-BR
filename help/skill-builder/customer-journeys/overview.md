@@ -20,11 +20,11 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="Melhor juntos - Adobe [!DNL Marketo Engage] e REAL-TIME CDP" src="assets/343824.jpeg" />
+      <img alt="Melhor juntos - Adobe [!DNL Marketo Engage] e Real-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-        <strong>Melhor juntos - Adobe [!DNL Marketo Engage] e REAL-TIME CDP</strong>
+        <strong>Melhor juntos - Adobe [!DNL Marketo Engage] e Real-Time CDP</strong>
       </a>
     </div>
     <p>
@@ -54,7 +54,7 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
       </a>
     </div>
     <p>
-    <em>Conecte-se à sua instância do Adobe Campaign Standard e descubra as práticas recomendadas relacionadas ao direcionamento, à personalização e fadiga de marketing para ter um melhor uso do ACS.</em>
+    <em>Conecte-se à sua instância do Adobe Campaign Standard e descubra as práticas recomendadas relacionadas ao direcionamento, à personalização e à fadiga de marketing para obter um melhor uso do ACS.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
 
 >[!TIP]
 >
->**Todas as sessões gravadas são listadas na navegação à esquerda**.
+>**Todas as sessões gravadas estão listadas na navegação à esquerda**.

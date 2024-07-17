@@ -1,6 +1,6 @@
 ---
 title: Quem clicou nisso? E então o que eles fizeram?
-description: Entender a jornada do cliente é tudo. E relatar a interação do usuário com sua propriedade da web ou móvel é o que permite que você alcance esse entendimento. Adobe [!DNL Analytics] O mostra quem, o quê, por que e onde de cada clique em seu aplicativo. Vamos analisar detalhadamente como aproveitar ao máximo esse recurso no nosso evento de 21 de outubro ao vivo. Mostraremos como usar Classificações com o Activity Map para entender melhor o comportamento do usuário e criar um gráfico fácil dos cliques que levam a atividades valiosas do site.
+description: Entender a jornada do cliente é tudo. E relatar a interação do usuário com sua propriedade da web ou móvel é o que permite que você alcance esse entendimento. O Adobe [!DNL Analytics] mostra quem, o quê, por que e onde de cada clique em seu aplicativo. Vamos analisar detalhadamente como aproveitar ao máximo esse recurso no nosso evento ao vivo de 21 de outubro. Mostraremos como usar Classificações com o Activity Map para entender melhor o comportamento do usuário e criar um gráfico fácil dos cliques que levam a atividades valiosas do site.
 landing-page-description: Saiba como usar Classificações com o Activity Map para entender melhor o comportamento do usuário e criar um gráfico com os cliques que levam a atividades valiosas do site.
 short-description: Saiba como usar Classificações com o Activity Map para entender melhor o comportamento do usuário e criar um gráfico com os cliques que levam a atividades valiosas do site.
 solution: Analytics
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 Entender a jornada do cliente é tudo.
 
-E relatar a interação do usuário com sua propriedade da web ou móvel é o que permite que você alcance esse entendimento. Adobe [!DNL Analytics] O mostra quem, o quê, por que e onde de cada clique em seu aplicativo. Vamos analisar detalhadamente como aproveitar ao máximo esse recurso no nosso evento de 21 de outubro ao vivo. Mostraremos como usar Classificações com o Activity Map para entender melhor o comportamento do usuário e criar um gráfico fácil dos cliques que levam a atividades valiosas do site.
+E relatar a interação do usuário com sua propriedade da web ou móvel é o que permite que você alcance esse entendimento. O Adobe [!DNL Analytics] mostra quem, o quê, por que e onde de cada clique em seu aplicativo. Vamos analisar detalhadamente como aproveitar ao máximo esse recurso no nosso evento ao vivo de 21 de outubro. Mostraremos como usar Classificações com o Activity Map para entender melhor o comportamento do usuário e criar um gráfico fácil dos cliques que levam a atividades valiosas do site.
 
 Também abordaremos dicas para entender e aproveitar os relatórios de atribuição.
 

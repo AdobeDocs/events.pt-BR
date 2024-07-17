@@ -19,6 +19,6 @@ ht-degree: 66%
 
 Saiba como aproveitar ao máximo seus metadados no AEM Assets ao reduzir a carga de trabalho para marcar ativos e tornar seus ativos mais pesquisáveis.
 
-*Robin Bussell* Treinador sênior/Adobe
+*Robin Bussell* Treinador Sênior/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343815/?quality=12&learn=on)

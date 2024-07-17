@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Nesta sessão, gravada ao vivo em 6 de novembro de 2023, na Adobe Developers Live, Kanika Gera e Surya Lamech discutem o processo de criação de integrações orientadas por eventos entre o Adobe Commerce e a AWS. Conheça o modelo de extensibilidade do Adobe Commerce, saiba mais sobre a integração dele com o Amazon EventBridge e explore aplicativos reais em um ambiente de comércio digital nativo em nuvem. Essa sessão oferece um aprofundamento sobre como criar soluções comerciais escaláveis e flexíveis, aproveitando o que há de mais recente em tecnologia de nuvem.
 
-Continuar a conversa em [Comunidades Experience League](https://adobe.ly/3ts1NW5).
+Continue a conversa em [Experience League Communities](https://adobe.ly/3ts1NW5).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425633/?learn=on)

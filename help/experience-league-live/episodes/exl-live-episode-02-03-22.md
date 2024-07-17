@@ -10,7 +10,7 @@ duration: 3925
 source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 20%
+ht-degree: 0%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 20%
 
 Aprenda a maneira mais rápida de provisionar, testar e explorar os recursos do AEM as a Cloud Service
 
-O complemento de demonstrações de referência do AEM permite a fácil criação de ambientes sandbox pré-carregados com exemplos de conteúdos pré-configurados usando as diretrizes mais recentes de práticas recomendadas da Adobe. Com o complemento, é possível avaliar facilmente os recursos do AEM em contexto e com pouca configuração. As demonstrações incluem Sites, Editor de SPA, Commerce e recursos avançados do Assets.
+O complemento de demonstrações de referência do AEM permite a fácil criação de ambientes sandbox pré-carregados com exemplos de conteúdo e pré-configurados usando as diretrizes de práticas recomendadas mais recentes do Adobe. Com o complemento, é possível avaliar facilmente os recursos do AEM em contexto e com pouca configuração. As demonstrações incluem Sites, Editor de SPA, Commerce e recursos avançados do Assets.
 
 Junte-se a nós para ver uma apresentação ao vivo com o gerente de produto da Adobe, Hyman Chung, e o CTO Ruben Reusser.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340236/?quality=12&learn=on)
 
-**Gravada: 3 de fevereiro de 2022, 09:00 PST**
+**Gravação: 3 de fevereiro de 2022, 9:00 PST**
 

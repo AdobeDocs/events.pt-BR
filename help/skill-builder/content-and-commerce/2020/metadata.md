@@ -17,7 +17,7 @@ duration: 2964
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 6%
+ht-degree: 3%
 
 ---
 
@@ -34,9 +34,9 @@ Definir uma estratégia clara para otimizar a descoberta.
 *[Usar esquemas de metadados para gerenciar metadados de ativos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
 *[Estender esquemas de metadados](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=pt-BR)
 *[Otimizar a criação de metadados com metadados em cascata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=pt-BR)
-*[Aplicar metadados automaticamente a ativos usando Perfis de metadados](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=pt-BR)
+*[Aplicar metadados automaticamente a ativos usando Perfis de Metadados](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=pt-BR)
 *[Esquemas de metadados AEM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[Gerenciar metadados de ativos](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
+*[Gerenciar metadados do ativo](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
 
 ## Gravações em série
 

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Ouse crescer? Marketplaces de Miami como força de crescimento
 
-Na edição de setembro da Série de webinários de Comércio da APAC, estamos animados em receber os palestrantes convidados, Cheryl Jones e Joael Pereira, juntando-se a nós do Mirakl, um dos Parceiros de Tecnologia da Adobe Premier. Nesta sessão, você aprenderá a aproveitar os marketplaces para gerar receita incremental e, ao mesmo tempo, fornecer uma experiência excepcional ao cliente e a importância de se adaptar a um mercado de consumidores cada vez mais exigente. Você conhecerá a facilidade e a simplicidade da integração de marketplaces em sua loja Adobe Commerce com uma demonstração e terá a oportunidade de fazer perguntas aos nossos palestrantes ao vivo.
+Na edição de setembro da Série de webinários APAC Commerce, estamos animados em receber os palestrantes convidados, Cheryl Jones e Joael Pereira, juntando-se a nós do Mirakl, um dos Parceiros de Tecnologia Adobe Premier. Nesta sessão, você aprenderá a aproveitar os marketplaces para gerar receita incremental e, ao mesmo tempo, fornecer uma experiência excepcional ao cliente e a importância de se adaptar a um mercado de consumidores cada vez mais exigente. Você conhecerá a facilidade e a simplicidade da integração de marketplaces em sua loja Adobe Commerce com uma demonstração e terá a oportunidade de fazer perguntas aos nossos palestrantes ao vivo.
 
 Junte-se a nós para descobrir:
 

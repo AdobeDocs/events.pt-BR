@@ -41,7 +41,7 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
       </a>
     </div>
     <p>
-    <em>Nesta sessão de palestras, você aprenderá sobre as principais tendências em D&amp;I. Junte-se a nós para explorar como você pode fazer uso relevante de seus dados, maximizando totalmente seus investimentos em Experience Cloud e espiar em novas inovações.</em>
+    <em>Nesta sessão de keynote, você aprenderá sobre as principais tendências em D&amp;I. Junte-se a nós para explorar como você pode fazer uso relevante de seus dados maximizando totalmente seus investimentos em Experience Cloud e vislumbrar novas inovações.</em>
     <p>
   </td>  
   <td>
@@ -54,7 +54,7 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
       </a>
     </div>
     <p>
-    <em>Nesta sessão, você aprenderá sobre as práticas recomendadas de uso dos painéis do Analytics em dispositivos móveis, bem como sobre como personalizar aplicativos por meio do Target.</em>
+    <em>Nesta sessão, você aprenderá sobre as práticas recomendadas de uso dos painéis do Analytics em dispositivos móveis, bem como sobre como personalizar aplicativos pelo Target.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
 
 >[!TIP]
 >
->**Todas as sessões gravadas são listadas na navegação à esquerda**.
+>**Todas as sessões gravadas estão listadas na navegação à esquerda**.

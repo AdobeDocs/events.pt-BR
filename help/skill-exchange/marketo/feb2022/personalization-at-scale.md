@@ -1,6 +1,6 @@
 ---
-title: Personalização Em Escala
-description: Aproveite o poder do Adobe [!DNL Marketo Engage], personalizar além dos tokens.
+title: Personalization em escala
+description: Aproveite o poder do Adobe [!DNL Marketo Engage], personalize além dos tokens.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# Personalização em escala - Aproveitando o potencial do Adobe [!DNL Marketo Engage] Dados Para Impulsionar O Engajamento
+# Personalization Em Escala - Aproveitando O Poder Dos Dados De Adobe [!DNL Marketo Engage] Para Impulsionar O Engajamento
 
-Começar a personalizar o alcance externo é fácil o suficiente usando tokens e outros recursos, mas e quando você quiser ir mais fundo com sua personalização do que os tokens permitem? Adobe [!DNL Marketo Engage] O permite coletar muitas informações sobre seus clientes potenciais e aproveitar essas informações pode ser uma das maneiras mais eficientes de personalizar o alcance da, destacar-se em caixas de entrada desordenadas e ajudar a avançar os clientes potenciais no funil. Nesta sessão, abordaremos:
+Começar a personalizar o alcance externo é fácil o suficiente usando tokens e outros recursos, mas e quando você quiser ir mais fundo com sua personalização do que os tokens permitem? O Adobe [!DNL Marketo Engage] permite que você colete tantas informações sobre seus clientes potenciais, e aproveitar essas informações pode ser uma das maneiras mais eficientes de personalizar o alcance externo, destacar-se em caixas de entrada desordenadas e ajudar a avançar os clientes potenciais no funil. Nesta sessão, abordaremos:
 
 * Ideias para personalização além dos tokens
 * Diferentes casos de uso de personalização

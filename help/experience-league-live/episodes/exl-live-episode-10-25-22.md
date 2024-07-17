@@ -28,4 +28,4 @@ Como a maioria das jornadas dos clientes hoje é multisuperficial e multiponto d
 
 Neste evento ao vivo, os especialistas em produtos da Adobe introduziram os recursos mais recentes de classificação inteligente de ofertas e mostraram como adicionar ofertas a jornadas e campanhas no Adobe Journey Optimizer.  Eles também mostraram como as ofertas podem ser colocadas em canais nativos do Journey Optimizer, como email, SMS e aplicativos móveis, bem como sistemas externos e aplicativos integrados como o Adobe Target.
 
-Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).
+Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55) do Adobe Experience League.

@@ -8,7 +8,7 @@ duration: 3750
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -38,4 +38,4 @@ Slides do apresentador - Parte 2
 
 * [Evento e manuseio de trabalho do Apache Sling](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
 * [API de descoberta e suas implementações](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [Descarregamento de trabalhos](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [Descarregando trabalhos](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

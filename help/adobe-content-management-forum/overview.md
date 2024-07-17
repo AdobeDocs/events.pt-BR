@@ -19,13 +19,13 @@ Participe das sessões abaixo para saber:
 * Como modernizar o gerenciamento de experiência que democratiza a criação de conteúdo, facilitando a entrega omnicanal e dimensionando a personalização para fazer com que cada experiência valha a pena.
 * Como criar uma cadeia de fornecimento de conteúdo que seja dimensionada para personalização
 * Como acelerar o tempo de comercialização para a criação de novos sites e reduzir a dependência de recursos técnicos
-* As mais recentes inovações da [!DNL Experience Manager] oferecido como um serviço nativo em nuvem e como você se adapta às expectativas do mercado em constante mudança enquanto se mantém à frente
-* Como criar sites mais rapidamente com o Adobe [!DNL Experience Manager] as a Headless CMS, usando GraphQL e fragmentos de conteúdo
+* As mais recentes inovações do [!DNL Experience Manager] oferecidas como um serviço nativo em nuvem e como você se adapta às expectativas do mercado em constante mudança enquanto se mantém à frente
+* Como criar sites mais rapidamente com o Adobe [!DNL Experience Manager] as a Headless CMS, usando GraphQL e Fragmentos de conteúdo
 * Práticas recomendadas do desenvolvedor para acelerar o tempo de entrada no mercado do Adobe Experience Manager Sites
 
 >[!TIP]
 >
->**Todas as sessões gravadas são listadas na navegação à esquerda**.
+>**Todas as sessões gravadas estão listadas na navegação à esquerda**.
 
 <table>
   <tr>
@@ -44,15 +44,15 @@ Participe das sessões abaixo para saber:
    </td>
    <td>
       <a href="2022/assets-for-all.md">
-      <img alt="Ativos para todos" src="assets/assets-for-all.png" >
+      <img alt="Assets para todos" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Extensão do Adobe [!DNL Experience Manager] Headless com Adobe [!DNL App Builder]</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>Estendendo o Adobe [!DNL Experience Manager] Headless com o Adobe [!DNL App Builder]</strong></a>         
          <br/><em>com Purnima Rachoor Roy</em>
       </div>
       <p>
         <br/>
-          Saiba como [!DNL Assets Essentials] é o novo [!DNL Digital Asset Management] para departamentos e empresas de médio porte.
+          Saiba mais sobre como o [!DNL Assets Essentials] é o novo sistema [!DNL Digital Asset Management] para departamentos e empresas de médio porte.
       </p>
    </td>
    <td>
@@ -60,7 +60,7 @@ Participe das sessões abaixo para saber:
       <img alt="Criando uma cadeia de fornecimento de conteúdo dimensionável" src="assets/supply-chain.png" />
       </a>
       <div>
-         <a href="2022/supply-chain.md"><strong>Criando uma cadeia de fornecimento de conteúdo dimensionável</strong></a>         
+         <a href="2022/supply-chain.md"><strong>Criando uma Cadeia de Fornecimento de Conteúdo Escalável</strong></a>         
          <br/><em>com Marc Angelinovich</em>
       </div>
       <p>

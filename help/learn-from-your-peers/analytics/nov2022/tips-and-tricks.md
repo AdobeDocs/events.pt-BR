@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Dicas e truques do campeão'
-description: Ingressar cinco [!DNL Adobe Analytics] Campeões do mundo inteiro que compartilham dicas e truques que os ajudaram a dominar [!DNL Adobe Analytics].
+title: '[!DNL Adobe Analytics] Dicas e truques do especialista'
+description: Junte-se a cinco [!DNL Adobe Analytics] Campeões do mundo inteiro enquanto eles compartilham dicas e truques que os ajudaram a dominar [!DNL Adobe Analytics].
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Dicas e truques do especialista
+# Dicas e truques do especialista [!DNL Adobe Analytics]
 
-Ingressar cinco [!DNL Adobe Analytics] Campeões do mundo inteiro que compartilham dicas e truques que os ajudaram a dominar [!DNL Adobe Analytics].
+Junte-se a cinco [!DNL Adobe Analytics] especialistas do mundo inteiro enquanto eles compartilham dicas e truques que os ajudaram a dominar [!DNL Adobe Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

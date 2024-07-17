@@ -1,6 +1,6 @@
 ---
 title: Análise de dados
-description: As tabelas de forma livre são a base flexível do Analysis Workspace - dominar essas tabelas poderosas o levará longe na jornada do WorkspaceOs segmentos são uma maneira altamente flexível de filtrar e pesquisar profundamente seus dados e podem ser aplicados globalmente, no nível da métrica, ou podem ser usados como dimensões independentes. Os painéis oferecem atalhos para análises complexas - o painel quick insights, em particular, é uma ótima opção para simplesmente responder às perguntas enfrentadas pela sua empresa
+description: As tabelas de forma livre são a base flexível do Analysis Workspace - dominar essas tabelas poderosas o levará longe na sua jornada do WorkspaceOs segmentos são uma maneira altamente flexível de filtrar e pesquisar profundamente seus dados e podem ser aplicados globalmente, no nível da métrica ou podem ser usados como dimensões independentes. Os painéis oferecem atalhos para análises complexas - o painel quick insights, em particular, é uma ótima opção para simplesmente responder às perguntas enfrentadas pela sua empresa
 feature-set: Analytics
 feature: Freeform Tables, Metrics
 role: User

@@ -8,7 +8,7 @@ duration: 3601
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ A sessão mostra maneiras de estender a interface do usuário do AEM 6.0. Com a 
 
 ## Links relacionados {#related-links}
 
-* [Conceitos da interface para toque](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [Conceitos de Interface para Toque](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
 * [Estrutura](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [Personalização dos Consoles (interface otimizada para toque)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [Personalização da criação de página (interface otimizada para toque)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [Personalização dos Consoles (Interface otimizada para toque)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [Personalizando Criação de Página (Interface otimizada para toque)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

@@ -22,12 +22,12 @@ ht-degree: 3%
 
 O Adobe Experience Manager as a Cloud Service foi projetado para fornecer conteúdo de forma eficiente e eficaz. Um elemento crítico para essa eficiência é que um projeto tenha uma Estratégia de armazenamento em cache e invalidação bem projetada. Nesta sessão, abordaremos algumas das armadilhas em que vemos projetos se enquadrarem e daremos dicas sobre como melhorar sua Taxa de ocorrência do cache e Cobertura de cache com exemplos de cenários do mundo real.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/3CUkzoB)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/3CUkzoB)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337846/?quality=12&learn=on&hidetitle=true)
 
 ## Recursos adicionais
 
-- [Documentação do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
+- [Documentação do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Visão geral do Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Tutoriais do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

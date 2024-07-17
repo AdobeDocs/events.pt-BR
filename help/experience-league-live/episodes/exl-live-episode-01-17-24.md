@@ -23,13 +23,13 @@ Junte-se a Bryan, Eric e Doug enquanto discutem como se mover rapidamente com o 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Você tem dúvidas?&quot;]
+>[!BEGINSHADEBOX &quot;Tem dúvidas?&quot;]
 
-Prossiga a discussão no [Discussão do fórum da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Continue a discussão na [discussão do Fórum da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
 
 >[!ENDSHADEBOX]
 
-## Principais aprendizados
+## Principais pontos
 
 * Há duas maneiras de obter dados do Adobe Analytics no Customer Journey Analytics: o Conector de dados do Analytics (ADC) e o SDK da Web.
 * O ADC permite que os dados de um conjunto de relatórios sejam copiados no Adobe Experience Platform para análise, enquanto o SDK da Web envia dados diretamente para o Adobe Experience Platform.

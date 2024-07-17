@@ -16,7 +16,7 @@ O programa Horário comercial do cliente é uma abordagem proativa para o desvio
 
 >[!TIP]
 >
->**Todas as sessões gravadas são listadas na navegação à esquerda**.
+>**Todas as sessões gravadas estão listadas na navegação à esquerda**.
 
 <!--
 

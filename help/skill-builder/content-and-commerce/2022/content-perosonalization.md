@@ -1,6 +1,6 @@
 ---
-title: Inovações na personalização de conteúdo que agregam valor aos negócios
-description: saiba mais sobre as inovações recentes na solução de conteúdo Adobe e como o Adobe está impulsionando a inovação em soluções comerciais
+title: Inovações no Personalization de conteúdo que agregam valor aos negócios
+description: conheça as inovações recentes na solução de conteúdo Adobe e como o Adobe está impulsionando a inovação nas soluções da Commerce
 solution: Experience Manager, Commerce
 role: Admin, Leader, User
 level: Beginner
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# Inovações na personalização de conteúdo que agregam valor aos negócios
+# Inovações no Personalization de conteúdo que agregam valor aos negócios
 
-Conteúdo e Comércio
+Conteúdo e Commerce
 
-Junte-se a nós para conhecer as inovações recentes na solução de conteúdo Adobe que ajudará você a democratizar a criação de conteúdo, facilitar a entrega omnicanal e dimensionar a personalização para que cada experiência tenha importância.  Também discutiremos como a Adobe está impulsionando a inovação em soluções comerciais que ajudarão você a envolver seus públicos, a perceber totalmente os esforços de marketing e sistemas de CRM e a sobrecarregar suas plataformas de comércio para que cada experiência seja lembrada.
+Junte-se a nós para conhecer as inovações recentes na solução de conteúdo Adobe que ajudará você a democratizar a criação de conteúdo, facilitar a entrega omnicanal e dimensionar a personalização para que cada experiência tenha importância.  Também discutiremos como a Adobe está impulsionando a inovação nas soluções da Commerce, que ajudarão você a envolver seus públicos, a perceber totalmente os esforços dos sistemas de marketing e CRM, e a sobrecarregar suas plataformas Commerce para que todas as experiências sejam lembradas.
 
-*Shaun McCran* Marketing do produto para Adobe Commerce / Adobe
+*Shaun McCran* Marketing de produto para Adobe Commerce/Adobe
 
-*Jamie Brighton* Chefe de Marketing da Indústria e Produtos EMEA / Adobe
+*Jamie Brighton* Chefe de Marketing de Produto e Indústria EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343810/?quality=12&learn=on)

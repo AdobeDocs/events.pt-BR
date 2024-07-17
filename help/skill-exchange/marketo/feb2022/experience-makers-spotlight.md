@@ -1,6 +1,6 @@
 ---
 title: Destaque do Marketo Engage Experience Makers
-description: Junte-se a nós conforme destacamos dois clientes especialistas e [!DNL Marketo Engage] usuários. Cada um deles compartilhará seu melhor [!DNL Marketo Engage] dica ou truque.
+description: Junte-se a nós conforme destacamos dois clientes especialistas e [!DNL Marketo Engage]  usuários. Cada um deles compartilhará sua melhor [!DNL Marketo Engage] dica ou truque.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] Destaques do Experience Makers
+# Destaque do Experience Makers [!DNL Marketo Engage]
 
-Junte-se a nós conforme destacamos dois clientes especialistas e [!DNL Marketo Engage] usuários. Cada um deles compartilhará seu melhor [!DNL Marketo Engage] dica ou truque.
+Junte-se a nós conforme destacamos dois clientes especialistas e [!DNL Marketo Engage] usuários. Cada um deles compartilhará sua melhor dica ou truque de [!DNL Marketo Engage].
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

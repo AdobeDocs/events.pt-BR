@@ -12,8 +12,8 @@ ht-degree: 0%
 
 # Eventos de aprofundamento
 
-Bem-vindo às gravações de eventos sob demanda do Deep Dives. A utilização desses recursos combinada com o Adobe Marketo [documentação](https://experienceleague.adobe.com/docs/marketo-engage.html) e [tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html), você compreenderá melhor como usar o Adobe Marketo para dar suporte à sua empresa.
+Bem-vindo às gravações de eventos sob demanda do Deep Dives. Ao usar esses recursos combinados com a [documentação](https://experienceleague.adobe.com/docs/marketo-engage.html) e os [tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) do Adobe Marketo, você compreenderá melhor como usar o Adobe Marketo para dar suporte à sua empresa.
 
 >[!TIP]
 >
->**Todas as sessões gravadas são listadas na navegação à esquerda**.
+>**Todas as sessões gravadas estão listadas na navegação à esquerda**.

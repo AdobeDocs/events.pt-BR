@@ -1,6 +1,6 @@
 ---
-title: Experiências B2B com [!DNL Marketo Engage] e ADOBE EXPERIENCE CLOUD
-description: Potencialize as experiências B2B conectando [!DNL Marketo Engage] com aplicativos Adobe para simplificar processos, otimizar o gerenciamento de público-alvo e maximizar a personalização.
+title: Experiências B2B com o  [!DNL Marketo Engage]  e o Adobe Experience Cloud
+description: Potencialize as experiências B2B conectando o [!DNL Marketo Engage] aos aplicativos Adobe para simplificar processos, simplificar o gerenciamento de público-alvo e maximizar a personalização.
 solution: Marketo, Experience Cloud
 role: Admin, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Experiências B2B com [!DNL Marketo Engage] e ADOBE EXPERIENCE CLOUD
+# Experiências B2B com [!DNL Marketo Engage] e Adobe Experience Cloud
 
-Potencialize as experiências B2B conectando [!DNL Marketo Engage] com aplicativos Adobe para simplificar processos, otimizar o gerenciamento de público-alvo e maximizar a personalização. Esta sessão abordará as integrações entre o [!DNL Marketo Engage] e Adobe Experience Cloud e quais pontos problemáticos serão resolvidos.
+Potencialize as experiências B2B conectando o [!DNL Marketo Engage] aos aplicativos Adobe para simplificar processos, simplificar o gerenciamento de público-alvo e maximizar a personalização. Esta sessão abordará as integrações entre o [!DNL Marketo Engage] e o aplicativo Adobe Experience Cloud e os pontos problemáticos que serão resolvidos.
 
-*Mihai Prisacariu* Consultor de soluções, CJM / Adobe
+*Mihai Prisacariu* Consultor de soluções, CJM/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343826/?quality=12&learn=on)

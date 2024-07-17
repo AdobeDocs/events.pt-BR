@@ -1,6 +1,6 @@
 ---
-title: Aprofundamento de entrega de borda e criação baseada em documento
-description: Amol Anand e Darin Kuntze, nesta sessão de aprofundamento da Adobe Developers Live, exploram os inovadores Edge Delivery Services no Adobe Experience Manager (AEM) e os mais recentes em Criação baseada em documentos. Gravados em 6 de novembro de 2023, eles discutem como essas ferramentas estão revolucionando a criação de conteúdo, tornando-a mais rápida e simples e como impulsionar o engajamento e a conversão com otimização contínua. Essa sessão é perfeita para desenvolvedores que buscam aprimorar suas estratégias de desenvolvimento na Web usando a API do AEM GraphQL e outras ferramentas flexíveis.
+title: Análise detalhada da criação com base em documentos e no Edge Delivery
+description: Amol Anand e Darin Kuntze, nesta sessão de aprofundamento da Adobe Developers Live, exploram os inovadores Edge Delivery Services no Adobe Experience Manager (AEM) e os mais recentes em Criação baseada em documentos. Gravados em 6 de novembro de 2023, eles discutem como essas ferramentas estão revolucionando a criação de conteúdo, tornando-a mais rápida e simples e como impulsionar o engajamento e a conversão com otimização contínua. Essa sessão é perfeita para desenvolvedores que buscam aprimorar suas estratégias de desenvolvimento na Web usando a API do GraphQL do AEM e outras ferramentas flexíveis.
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
 feature: Edge Delivery Services
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 ---
 
-# Aprofundamento da entrega do Adobe Developers Live Edge e da criação baseada em documentos - novembro de 2023
+# Aprofundamento de criação do Adobe Developers Live Edge Delivery e baseada em documentos - novembro de 2023
 
-Amol Anand e Darin Kuntze, nesta sessão de aprofundamento da Adobe Developers Live, exploram os inovadores Edge Delivery Services no Adobe Experience Manager (AEM) e os mais recentes em Criação baseada em documentos. Gravados em 6 de novembro de 2023, eles discutem como essas ferramentas estão revolucionando a criação de conteúdo, tornando-a mais rápida e simples e como impulsionar o engajamento e a conversão com otimização contínua. Essa sessão é perfeita para desenvolvedores que buscam aprimorar suas estratégias de desenvolvimento na Web usando a API do AEM GraphQL e outras ferramentas flexíveis.
+Amol Anand e Darin Kuntze, nesta sessão de aprofundamento da Adobe Developers Live, exploram os inovadores Edge Delivery Services no Adobe Experience Manager (AEM) e os mais recentes em Criação baseada em documentos. Gravados em 6 de novembro de 2023, eles discutem como essas ferramentas estão revolucionando a criação de conteúdo, tornando-a mais rápida e simples e como impulsionar o engajamento e a conversão com otimização contínua. Essa sessão é perfeita para desenvolvedores que buscam aprimorar suas estratégias de desenvolvimento na Web usando a API do GraphQL do AEM e outras ferramentas flexíveis.
 
-Continuar a conversa em [Comunidades Experience League](https://adobe.ly/46KMTsh).
+Continue a conversa em [Experience League Communities](https://adobe.ly/46KMTsh).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425622/?learn=on)

@@ -1,5 +1,5 @@
 ---
-title: Construindo a base para a personalização em escala
+title: Criando a base para o Personalization em escala
 description: Este webinário se concentra em entender a base necessária para orquestrar a personalização em escala
 solution: Experience Cloud
 topic: Personalization
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Construindo a base para a personalização em escala
+# Criando a base para o Personalization em escala
 
 Este webinário se concentra em entender a base necessária para orquestrar a personalização em escala
 

@@ -1,6 +1,6 @@
 ---
 title: Conectando os pontos - Estratégia básica para a orquestração de campanhas
-description: Princípios básicos da orquestração de campanhas O papel da orquestração de campanhas dentro da personalização @ Scale Pilares básicos e princípios orientadores Medição da orquestração Práticas recomendadas Desafios e soluções comuns
+description: Princípios básicos da orquestração de campanhas O papel da orquestração de campanhas no Personalization @ Scale Pilares básicos e princípios orientadores Medição da orquestração Práticas recomendadas Desafios e soluções comuns
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 # Conectando os pontos - Estratégia básica para a orquestração de campanhas
 
-*Fundamentos da orquestração de campanhas*
+*Fundamentos da Orquestração de Campanhas*
 
-* A função da orquestração de campanha na personalização em escala
+* A função da orquestração de campanhas na escala Personalization @
 * Pilares fundamentais e princípios orientadores
 * Práticas recomendadas de medição de orquestração
 * Desafios e soluções comuns

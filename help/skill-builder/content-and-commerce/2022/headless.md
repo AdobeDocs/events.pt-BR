@@ -22,6 +22,6 @@ ht-degree: 69%
 
 Saiba mais sobre o gerenciamento de experiência headless usando as melhorias mais recentes do Fragmento de conteúdo do Experience Manager e a nova API GraphQL para a entrega de conteúdo headless.
 
-*Thomas Morf* Consultor de treinamento / Adobe
+*Thomas Morf* Consultor de Treinamento/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343816/?quality=12&learn=on)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 A preparação é fundamental para o sucesso e, neste webinário, guiaremos você pelas práticas recomendadas para aproveitar o Adobe Commerce e maximizar as vendas e o desempenho durante esse importante período de negociação (ou qualquer outro evento de vendas que sua empresa possa ter ao longo do ano).
 
-Jason Ford, gerente de consultoria de soluções de comércio da APAC, e Sophia Gray, gerente de conta de comércio sênior, abordarão os seguintes tópicos:
+Jason Ford, gerente da Commerce Solutions Consulting APAC, e Sophia Gray, gerente de conta sênior da Commerce, abordarão os seguintes tópicos:
 
 * Preparação da campanha
 * Considerações sobre desempenho

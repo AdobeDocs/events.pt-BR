@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Participe desta sessão para saber mais sobre os conceitos principais de automatização e otimização de recursos do Adobe Target usando Direcionamento automático e Personalizações automáticas.
 
-*Matthias Kolitsch* Treinador sênior de várias soluções EMEA / Adobe
+*Matthias Kolitsch* Treinador Sênior de Várias Soluções EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)

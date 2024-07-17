@@ -8,7 +8,7 @@ duration: 4329
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 7%
+ht-degree: 5%
 
 ---
 
@@ -32,4 +32,4 @@ Peter Klassen, Gerente de produto, Adobe
 
 * [Notas de versão do AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
 * [Gerenciamento do AEM 6.0](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [Planejamento da atualização para o AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [Planejando a atualização para o AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

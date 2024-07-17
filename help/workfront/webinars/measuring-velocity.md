@@ -1,6 +1,6 @@
 ---
 title: Pergunte a um especialista - Medindo a velocidade
-description: Saiba como medir e rastrear a velocidade usando o [!DNL Workfront] relatórios. Esse workshop foi gravado em 14 de agosto de 2019.
+description: Saiba como medir e rastrear a velocidade usando os relatórios do  [!DNL Workfront] . Esse workshop foi gravado em 14 de agosto de 2019.
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
@@ -10,13 +10,13 @@ duration: 4630
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '3967'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Pergunte a um especialista - Medindo a velocidade
 
-Saiba como medir e rastrear a velocidade usando o [!DNL Workfront] relatórios. Esse workshop foi gravado em 14 de agosto de 2019.
+Saiba como medir e rastrear a velocidade usando os relatórios do [!DNL Workfront]. Esse workshop foi gravado em 14 de agosto de 2019.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341057/?quality=12)
 
@@ -29,7 +29,7 @@ Economize tempo copiando e colando os cálculos abaixo.
 >A sintaxe para cálculos de campo personalizado mudou desde que a apresentação foi feita em 2019, no entanto, os conceitos e outras instruções fornecidas na apresentação ainda são precisos.
 >**Os cálculos incluídos abaixo foram atualizados para refletir as regras de sintaxe mais recentes.**
 
-**Primeira data de compromisso**
+**Primeira data de confirmação**
 
 Formato: Data
 
@@ -39,7 +39,7 @@ Cálculo:
 IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
-**Primeira duração**
+**Primeira Duração**
 
 Formato: Texto
 
@@ -59,7 +59,7 @@ Cálculo:
 ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
-**Status da Proporção Trabalho para Confirmação**
+**Status da Taxa Trabalho para Confirmação**
 
 Formato:Texto
 
@@ -79,7 +79,7 @@ Cálculo:
 ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
-**Status da Velocidade Ajustada**
+**Status de Velocidade Ajustado**
 
 Formato:Texto
 
@@ -413,7 +413,7 @@ Sim. É necessário criar um relatório de documento. Parece que você deseja fo
 
 **Pergunta**
 
-Nos relatórios, por que os valores estão disponíveis como coluna, mas não estão disponíveis para seleção ou agrupamento. Por exemplo: Origem da ocorrência.
+Nos relatórios, por que os valores estão disponíveis como coluna, mas não estão disponíveis para seleção ou agrupamento. Por exemplo: Emita Source.
 
 **Resposta**
 

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Domine a arte da certificação de Experience Manager: Prepare-se, Prepare-se, Obtenha certificação!
 
-Este webinário foi realizado em **28 de junho**, 2023. Veja a gravação abaixo.
+Este webinário foi realizado em **28 de junho** de 2023. Veja a gravação abaixo.
 
 ## Descrição da sessão
 
@@ -45,6 +45,6 @@ Reclame seu lugar hoje e embarque em uma jornada para novos patamares com a cert
 
 >[!NOTE]
 >
->* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread contextual](https://adobe.ly/3p2CmbA)
+>* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread Contextual](https://adobe.ly/3p2CmbA)
 >
->* Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
+>* Para receber notificações sobre nossos próximos webinários, registre-se em [Grupo de usuários do AdobeAEM](https://aem-augs.adobe.com/).

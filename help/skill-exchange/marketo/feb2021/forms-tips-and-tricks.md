@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Obtenha no FORMation - As melhores dicas e truques para o seu Forms
 
-A Forms é uma parte essencial da jornada de geração de demanda de uma organização, mas geralmente há perguntas a serem respondidas para garantir que elas sejam otimizadas. Nesta sessão, [!DNL Marketo Engage] Os especialistas, Amanda e Julz, guiarão você pelas práticas recomendadas e dicas para aplicar aos formulários e aumentar a precisão dos dados coletados e as taxas de conversão.
+A Forms é uma parte essencial da jornada de geração de demanda de uma organização, mas geralmente há perguntas a serem respondidas para garantir que elas sejam otimizadas. Nesta sessão, [!DNL Marketo Engage] Campeões, Amanda e Julz, guiarão você pelas práticas recomendadas e dicas para aplicar a formulários a fim de aumentar a precisão dos dados coletados e aumentar as taxas de conversão.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340312/?quality=12&learn=on)

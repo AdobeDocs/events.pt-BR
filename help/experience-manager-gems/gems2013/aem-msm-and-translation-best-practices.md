@@ -7,7 +7,7 @@ duration: 29
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -31,4 +31,4 @@ Em vez disso, leia mais sobre as Práticas recomendadas na documentação do Ado
 
 * [Práticas recomendadas de gerenciamento de vários sites](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [Práticas recomendadas de tradução](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [Retorne à Visão geral](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Retorne à Visão Geral](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

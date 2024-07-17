@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Campaign] Série Insider
-description: Dicas e truques e inspiração para o Adobe [!DNL Campaign] para ajudar os clientes a desenvolver estratégias de marketing entre canais, aumentar as habilidades do profissional de marketing em equipe e ajudar as organizações a lançar estratégias de marketing entre canais mais avançadas.
+title: Série Adobe [!DNL Campaign] Insider
+description: Dicas, truques e inspiração para os clientes do Adobe [!DNL Campaign] a fim de ajudar a desenvolver estratégias de marketing entre canais, elevar as habilidades do profissional de marketing da equipe e ajudar as organizações a lançar estratégias de marketing entre canais mais avançadas.
 exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
 duration: 36
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Campaign] Série Insider
+# Série Adobe [!DNL Campaign] Insider
 
-Dicas e truques e inspiração para o Adobe [!DNL Campaign] para ajudar os clientes a desenvolver estratégias de marketing entre canais, aumentar as habilidades do profissional de marketing em equipe e ajudar as organizações a lançar estratégias de marketing entre canais mais avançadas.
+Dicas e truques e inspiração para clientes do Adobe [!DNL Campaign] para ajudar a desenvolver estratégias de marketing entre canais, elevar as habilidades do profissional de marketing da equipe e ajudar organizações a lançar estratégias de marketing entre canais mais avançadas.
 
 >[!TIP]
 >
->**Todas as sessões gravadas são listadas na navegação à esquerda**.
+>**Todas as sessões gravadas estão listadas na navegação à esquerda**.
 
 ## Em destaque
 
@@ -33,10 +33,10 @@ Dicas e truques e inspiração para o Adobe [!DNL Campaign] para ajudar os clien
    </td>
    <td>
       <a href="2022/integrations.md">
-      <img alt="Adobe [!DNL Campaign] integrações com um ecossistema de marketing" src="assets/integrations.png"/>
+      <img alt="Integrações Adobe [!DNL Campaign] com um ecossistema de marketing" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>Adobe [!DNL Campaign] integrações com um ecossistema de marketing</strong></a>
+         <a href="./2022/integrations.md"><strong>Integrações Adobe [!DNL Campaign] com um ecossistema de marketing</strong></a>
          <br/>
       </div>
    </td>

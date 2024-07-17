@@ -25,7 +25,7 @@ Conheça as respostas a algumas perguntas frequentes no Commerce Intelligence qu
 
 ## Principais pontos
 
-**Gerenciamento de moeda**
+**Gerenciamento de Moeda**
 
 * As moedas são gerenciadas com base em uma configuração de moeda única.
 * Os valores monetários em relatórios recebem o prefixo do símbolo da moeda.

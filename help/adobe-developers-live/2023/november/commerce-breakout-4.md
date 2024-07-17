@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Cristian Partica aborda os desafios da integração de API no Adobe Commerce nesta sessão informativa gravada ao vivo em 6 de novembro de 2023. Explore como a API Mesh auxilia no gerenciamento eficiente de vários fluxos de trabalho, garantindo a consistência dos dados e fornecendo experiências otimizadas para o usuário no cenário atual de comércio digital. Essa sessão é ideal para desenvolvedores que buscam estratégias eficazes de integração de API na esfera de rápida evolução do Adobe Commerce.
 
-Continuar a conversa em [Comunidades Experience League](https://adobe.ly/3ttN8tz).
+Continue a conversa em [Experience League Communities](https://adobe.ly/3ttN8tz).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425628/?learn=on)

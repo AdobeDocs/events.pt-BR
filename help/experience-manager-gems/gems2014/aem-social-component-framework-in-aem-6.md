@@ -8,7 +8,7 @@ duration: 3581
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -30,5 +30,5 @@ Siddharth Palaniswami, Sr. Líder de Engenharia de Software, Adobe
 
 ## Links relacionados {#related-links}
 
-* [Link do GitHub para amostra de código](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [Estrutura do componente social](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [Link do Github para amostra de código](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
+* [Estrutura de componente social](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

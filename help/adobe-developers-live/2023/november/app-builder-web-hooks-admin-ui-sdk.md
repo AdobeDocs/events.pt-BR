@@ -1,5 +1,5 @@
 ---
-title: Saiba mais sobre o Adobe App Builder, Adobe IO, Webhooks e SDK da interface do usuário do administrador
+title: Saiba mais sobre o Adobe App Builder, Adobe IO, Webhooks e SDK da interface do administrador
 description: Saiba mais sobre o Adobe App Builder, Adobe IO, webhooks, SDK de interface do usuário do administrador.  Esta é uma introdução a cada novo recurso para ajudá-lo a entender casos de uso comuns.
 solution: Commerce
 feature: App Builder
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Saiba mais sobre o Adobe App Builder, Adobe IO, Webhooks e SDK da interface do usuário do administrador
+# Saiba mais sobre o Adobe App Builder, Adobe IO, Webhooks e SDK da interface do administrador
 
 Saiba mais sobre o Adobe App Builder, Adobe IO, webhooks, SDK de interface do usuário do administrador.  Esta é uma introdução a cada novo recurso para ajudá-lo a entender casos de uso comuns.
 

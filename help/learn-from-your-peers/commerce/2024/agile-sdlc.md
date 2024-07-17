@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Simplificação do comércio eletrônico: uma abordagem focada em comunicação, requisitos e testes no SDLC ágil
+# Simplificação do E-Commerce: uma abordagem focada em comunicação, requisitos e testes no SDLC ágil
 
 Junte-se ao especialista e defensor da Adobe Commerce, Tyler Granlund, enquanto se aprofunda na simplificação do comércio eletrônico por meio de práticas de Ciclo de vida de desenvolvimento de software ágil (SDLC).
 

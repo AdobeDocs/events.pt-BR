@@ -1,6 +1,6 @@
 ---
 title: Nunca perca tempo encontrando conteúdo novamente
-description: Torne-se um autor qualificado com um aprofundamento em sites AEM e na interface do usuário de administração do Media Library com dicas e truques para aumentar a eficiência do dia a dia
+description: Torne-se um autor qualificado com um aprofundamento nos sites de AEM e na interface do usuário de administração do Media Library, com dicas e truques para aumentar a eficiência do dia a dia
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -29,7 +29,7 @@ Saiba como criar experiências completas e envolventes para o cliente no Adobe E
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Torne-se um autor qualificado com um aprofundamento em sites de AEM e na interface do usuário de administração do Media Library com dicas e truques para aumentar a eficiência do dia a dia.
+Torne-se um autor qualificado com um aprofundamento nos sites de AEM e na interface do usuário de administração do Media Library, com dicas e truques para aumentar a eficiência do dia a dia.
 
 ## Gravações em série
 

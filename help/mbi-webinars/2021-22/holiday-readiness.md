@@ -1,5 +1,5 @@
 ---
-title: Disponibilidade para férias com o Commerce Intelligence
+title: Disponibilidade para feriados com o Commerce Intelligence
 description: Assista a este webinário para saber como usar seus dados de comércio eletrônico para obter sucesso durante a temporada de festas.
 landing-page-description: Assista a este webinário gravado para saber como usar seus dados de comércio eletrônico para obter sucesso durante a temporada de festas.
 short-description: Assista a este webinário gravado para saber como usar seus dados de comércio eletrônico para obter sucesso durante a temporada de festas.
@@ -13,11 +13,11 @@ duration: 3197
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Disponibilidade para férias com o Commerce Intelligence
+# Disponibilidade para feriados com o Commerce Intelligence
 
 >[!NOTE]
 >
@@ -34,11 +34,11 @@ Use os dados de comércio eletrônico para obter sucesso durante a temporada de 
 - Usuários empresariais
 - Analistas de dados
 
-## Conteúdo em vídeo
+## Conteúdo de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/342496?quality=12&learn=on)
 
 ## Recursos úteis
 
-[Guia do usuário do Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=pt-BR)
-[Suporte ao Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Guia do Usuário do Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=pt-BR)
+[Suporte da Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

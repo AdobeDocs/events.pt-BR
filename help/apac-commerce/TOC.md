@@ -37,7 +37,7 @@ ht-degree: 2%
    + [Aumento das conversões de comércio eletrônico](2023/ecommerce-conversions.md)
    + [Estratégias de comércio combináveis](2023/composable-commerce.md)
    + [Mercados como força de crescimento](2023/marketplaces.md)
-   + [Preparação da temporada de pico](2023/peak-season-prep.md)
+   + [Preparação da Temporada de Pico](2023/peak-season-prep.md)
 + 2022 {#2022}
    + [Disponibilidade para férias 2022](2022/holiday.md)
    + [New Relic Masterclass](2022/new-relic.md)

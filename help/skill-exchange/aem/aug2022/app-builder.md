@@ -1,6 +1,6 @@
 ---
-title: Extensão do Adobe Experience Manager Headless com o Construtor de aplicativos do Adobe
-description: De integrações orientadas por eventos, processamento escalável sem servidor para aplicativos de página única (SPA), o App Builder traz recursos avançados para integrar o Adobe Experience Manager a sistemas de terceiros de forma headless. Obtenha uma visualização de alguns casos de uso reais e padrões comuns em que o App Builder foi usado para estender o Adobe Experience Manager.
+title: Extensão do Adobe Experience Manager sem periféricos com o Adobe App Builder
+description: De integrações orientadas por eventos, processamento escalável sem servidor a aplicativos de página única (SPA), a App Builder oferece recursos avançados para integrar o Adobe Experience Manager a sistemas de terceiros de forma headless. Obtenha uma visualização de alguns casos de uso reais e padrões comuns em que o App Builder foi usado para estender o Adobe Experience Manager.
 solution: Experience Manager
 topic: Headless
 role: User
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Extensão do Adobe Experience Manager Headless com o Construtor de aplicativos do Adobe
+# Extensão do Adobe Experience Manager sem periféricos com o Adobe App Builder
 
-De integrações orientadas por eventos, processamento escalável sem servidor para aplicativos de página única (SPA), o App Builder traz recursos avançados para integrar o Adobe Experience Manager a sistemas de terceiros de forma headless. Obtenha uma visualização de alguns casos de uso reais e padrões comuns em que o App Builder foi usado para estender o Adobe Experience Manager.
+De integrações orientadas por eventos, processamento escalável sem servidor a aplicativos de página única (SPA), a App Builder oferece recursos avançados para integrar o Adobe Experience Manager a sistemas de terceiros de forma headless. Obtenha uma visualização de alguns casos de uso reais e padrões comuns em que o App Builder foi usado para estender o Adobe Experience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346385/?quality=12&learn=on)

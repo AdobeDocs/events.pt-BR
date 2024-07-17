@@ -8,7 +8,7 @@ duration: 3565
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 1%
 
 Gabriel Walt, gerente de produto, Adobe
 
-**Apresentação de slides**
+**Apresentação de Slides**
 
 [Obter arquivo](assets/aem-spa-editor.pdf)
 
 ## Recursos {#resources}
 
-[Documentação: SPA Editor de AEM](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
+AEM [Documentação: SPA Editor](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

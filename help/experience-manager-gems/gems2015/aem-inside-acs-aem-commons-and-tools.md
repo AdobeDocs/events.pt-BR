@@ -8,7 +8,7 @@ duration: 3249
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 1%
 
 Nesta sessão, Justin Edelson, Global Evangelist for AEM e coprojeto líder do ACS AEM Commons e ACS AEM Tools fornecerão um histórico sobre a meta e os processos usados por esses projetos de código aberto para o AEM e apresentarão algumas das principais características, incluindo:
 
-* [!UICONTROL Regras de limpeza do Dispatcher]
+* [!UICONTROL Regras de liberação do Dispatcher]
 * [!UICONTROL Gerador de mapas do site]
-* [!UICONTROL AEM Fiddle]
+* [!UICONTROL Enigma do AEM]
 * [!UICONTROL Listas genéricas]
-* [!UICONTROL Cloud Service Typekit]
+* [!UICONTROL Cloud Service do TypeKit]
 
 >[!VIDEO](https://video.tv.adobe.com/v/19374/?quality=9)
 

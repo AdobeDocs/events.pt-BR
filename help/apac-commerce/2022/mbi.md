@@ -27,7 +27,7 @@ Você ouvirá Daniel Rios (Gerente sênior, Gerenciamento de produtos), que abor
 
 * Transformação de dados em valor
 * Construindo uma base de dados forte
-* Combinação de MBI e [!DNL Analytics] dados
+* Combinando dados do MBI e do [!DNL Analytics]
 
 Você também verá uma demonstração ao vivo da plataforma para dar vida a esses conceitos.
 

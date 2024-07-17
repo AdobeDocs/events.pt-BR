@@ -1,6 +1,6 @@
 ---
 title: Criar vitrines no Edge Delivery Services com o Adobe Commerce
-description: Este webinário de GEMs de AEM ensinará você a criar uma vitrine de alto desempenho no Edge Delivery Services para o Adobe Commerce. Guiaremos você pelo processo de configuração de seu projeto com o modelo do Commerce e como conectá-lo aos novos serviços SaaS do Commerce para uma integração de catálogo de produtos rápida e aprimorada pela interface do Sensei. Introduzimos componentes iniciais, um conjunto de componentes front-end personalizáveis que aceleram o desenvolvimento da loja. Você aprenderá as práticas recomendadas sobre como estendê-las e estilizá-las. Por fim, destacaremos os novos recursos de criação do Edge Delivery para enriquecer suas experiências do Commerce com conteúdo criado.
+description: Este webinário de GEMs de AEM ensinará você a criar uma vitrine de alto desempenho no Edge Delivery Services para o Adobe Commerce. Guiaremos você pelo processo de configuração de seu projeto com a matriz da Commerce e como conectá-la aos novos serviços SaaS da Commerce para uma integração rápida e aprimorada do catálogo de produtos com a interface do usuário da Sensei. Introduzimos componentes iniciais, um conjunto de componentes front-end personalizáveis que aceleram o desenvolvimento da loja. Você aprenderá as práticas recomendadas sobre como estendê-las e estilizá-las. Por fim, destacaremos os novos recursos de criação do Edge Delivery para enriquecer suas experiências de Commerce com conteúdo criado.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -12,7 +12,8 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+exl-id: 6294fa1b-4807-484b-ac51-f01bb1dd9656
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -21,11 +22,12 @@ ht-degree: 0%
 
 # Data do webinário: 6 de março de 2024
 
-Hora: 17h CET / 9h PDT / 21h30 IST Este webinário foi concluído. Veja a gravação abaixo.
+Hora: 17h CET / 9h PDT / 21h IST
+Este webinário foi concluído. Veja a gravação abaixo.
 
 ## Criar vitrines no Edge Delivery Services com o Adobe Commerce
 
-Este webinário de GEMs de AEM ensinará você a criar uma vitrine de alto desempenho no Edge Delivery Services para o Adobe Commerce. Guiaremos você pelo processo de configuração de seu projeto com o modelo do Commerce e como conectá-lo aos novos serviços SaaS do Commerce para uma integração de catálogo de produtos rápida e aprimorada pela interface do Sensei. Introduzimos componentes iniciais, um conjunto de componentes front-end personalizáveis que aceleram o desenvolvimento da loja. Você aprenderá as práticas recomendadas sobre como estendê-las e estilizá-las. Por fim, destacaremos os novos recursos de criação do Edge Delivery para enriquecer suas experiências do Commerce com conteúdo criado.
+Este webinário de GEMs de AEM ensinará você a criar uma vitrine de alto desempenho no Edge Delivery Services para o Adobe Commerce. Guiaremos você pelo processo de configuração de seu projeto com a matriz da Commerce e como conectá-la aos novos serviços SaaS da Commerce para uma integração rápida e aprimorada do catálogo de produtos com a interface do usuário da Sensei. Introduzimos componentes iniciais, um conjunto de componentes front-end personalizáveis que aceleram o desenvolvimento da loja. Você aprenderá as práticas recomendadas sobre como estendê-las e estilizá-las. Por fim, destacaremos os novos recursos de criação do Edge Delivery para enriquecer suas experiências de Commerce com conteúdo criado.
 
 ## Apresentadores
 
@@ -38,6 +40,6 @@ Este webinário de GEMs de AEM ensinará você a criar uma vitrine de alto desem
 
 >[!NOTE]
 > 
->* Para interações da comunidade específicas da sessão no Experience League, visite nosso [thread contextual](https://adobe.ly/48m4dEm).
+>* Para ver as interações da comunidade específicas da sessão no Experience League, visite nosso [thread contextual](https://adobe.ly/48m4dEm).
 >
->* Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
+>* Para receber notificações sobre nossos próximos webinários, registre-se em [Grupo de usuários do AdobeAEM](https://aem-augs.adobe.com/).

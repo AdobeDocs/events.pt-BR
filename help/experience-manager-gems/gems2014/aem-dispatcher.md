@@ -8,7 +8,7 @@ duration: 3623
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -30,11 +30,11 @@ Dominique Pfister, cientista da computação sênior, Adobe
 
 ## Recursos {#resources}
 
-[Mais sobre cache do Dispatcher](https://github.com/cqsupport/webinar-dispatchercache)
+[Mais no Cache do Dispatcher](https://github.com/cqsupport/webinar-dispatchercache)
 
-[Abuso de JSONP com Flash Rosetta](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
+[Abusando de JSONP com Flash Rosetta](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 
-[Mais informações](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
+[Mais Informações](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

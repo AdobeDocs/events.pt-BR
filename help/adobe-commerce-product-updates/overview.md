@@ -7,13 +7,13 @@ duration: 105
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 7%
 
 ---
 
 # Atualizações de produto do Adobe Commerce
 
-Participe do Webinário de atualização de produto do Adobe Commerce para saber como estamos transformando a plataforma com muitos recursos novos e interessantes! Mostraremos as mais recentes inovações do Commerce e como elas ajudarão você a aumentar as vendas, simplificar o desenvolvimento e aumentar o desempenho.
+Participe do Webinário de atualização de produto do Adobe Commerce para saber como estamos transformando a plataforma com muitos recursos novos e interessantes! Mostraremos as mais recentes inovações da Commerce e como elas ajudarão você a aumentar as vendas, dinamizar o desenvolvimento e aumentar o desempenho.
 
 ## Última atualização
 
@@ -25,7 +25,7 @@ Participe do Webinário de atualização de produto do Adobe Commerce para saber
       </a>
       <div>
         <a href="2023/nov2023.md">
-          <strong>Novembro de 2023</strong>
+          <strong>novembro de 2023</strong>
           <br/>
         </a>
           <!-- <em>Release date June 2023 </em> -->

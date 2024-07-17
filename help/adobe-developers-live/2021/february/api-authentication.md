@@ -15,7 +15,7 @@ exl-id: 0f0c18f7-d4ef-4391-a9f8-5a3c38d779c6
 duration: 1642
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Como os novos mecanismos no Adobe Experience Manager Dev Console permitem autenticação para instâncias do Adobe Experience Manager na nuvem, tanto como desenvolvedor quanto de aplicativos de terceiros.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331768/?quality=12&learn=on&hidetitle=true)
 
-Clique em **[aqui](/help/adobe-developers-live/assets/api-authentication.pdf)** para os slides da sessão.
+Clique **[aqui](/help/adobe-developers-live/assets/api-authentication.pdf)** para ver os slides da sessão.

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Desenvolvimento eficiente no Adobe Experience Manager as a Cloud Service
 
-O Cloud Manager fornece diferentes tipos de pipelines para melhorar a experiência do desenvolvedor e simplificar o fluxo de trabalho, incluindo um pipeline de implantação de código de front-end.
+O Cloud Manager fornece diferentes tipos de pipelines para melhorar a experiência do desenvolvedor e simplificar o fluxo de trabalho, incluindo um pipeline de implantação de código front-end.
 
 Nesta sessão, você aprenderá a configurar um site existente para implantação rápida do código de front-end.
 

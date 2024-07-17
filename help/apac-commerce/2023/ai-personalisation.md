@@ -1,6 +1,6 @@
 ---
 title: Personalização alimentada por IA
-description: A inteligência artificial está ao nosso redor e começando a permear muitas de nossas interações diárias. Quando aproveitada da maneira certa, a IA pode ajudar você a fornecer uma experiência hiper relevante e memorável para seus clientes. A Adobe investiu pesado em IA por muitos anos e, mais recentemente, vimos recursos de IA serem trazidos à tona no Commerce. Neste webinário, Jason Ford, gerente da Commerce Solutions Consulting APAC, se juntará a nós para saber mais sobre como aproveitar o kit de ferramentas Adobe para sobrecarregar sua estratégia de personalização.
+description: A inteligência artificial está ao nosso redor e começando a permear muitas de nossas interações diárias. Quando aproveitada da maneira certa, a IA pode ajudar você a fornecer uma experiência hiper relevante e memorável para seus clientes. A Adobe investiu pesado em IA por muitos anos e, mais recentemente, vimos recursos de IA serem trazidos à tona no Commerce. Neste webinário, Jason Ford, gerente da Commerce Solutions Consulting APAC, irá juntar-se a nós para aprender mais sobre como aproveitar o kit de ferramentas Adobe para sobrecarregar sua estratégia de personalização.
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Personalização alimentada por IA
 
-A inteligência artificial está ao nosso redor e começando a permear muitas de nossas interações diárias. Quando aproveitada da maneira certa, a IA pode ajudar você a fornecer uma experiência hiper relevante e memorável para seus clientes. A Adobe investiu pesado em IA por muitos anos e, mais recentemente, vimos recursos de IA serem trazidos à tona no Commerce. Neste webinário, Jason Ford, gerente da Commerce Solutions Consulting APAC, se juntará a nós para saber mais sobre como aproveitar o kit de ferramentas Adobe para sobrecarregar sua estratégia de personalização.
+A inteligência artificial está ao nosso redor e começando a permear muitas de nossas interações diárias. Quando aproveitada da maneira certa, a IA pode ajudar você a fornecer uma experiência hiper relevante e memorável para seus clientes. A Adobe investiu pesado em IA por muitos anos e, mais recentemente, vimos recursos de IA serem trazidos à tona no Commerce. Neste webinário, Jason Ford, gerente da Commerce Solutions Consulting APAC, irá juntar-se a nós para aprender mais sobre como aproveitar o kit de ferramentas Adobe para sobrecarregar sua estratégia de personalização.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419107/?learn=on)

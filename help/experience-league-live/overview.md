@@ -27,7 +27,7 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 <tr>
 
 <td style="vertical-align: top;">
-      <b>Volte em breve para saber mais sobre os próximos shows! Enquanto isso, visualize nossos episódios anteriores clicando nos links abaixo ou na navegação à esquerda.</b>
+      <b>Volte em breve para saber mais sobre novos programas futuros! Enquanto isso, visualize nossos episódios anteriores clicando nos links abaixo ou na navegação à esquerda.</b>
   </td>
 </tr>
 </table>
@@ -68,7 +68,7 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
       <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - O furo interno</strong></a>
+      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - O Scoop Interno</strong></a>
       <br/><em>com Trevor Paulsen, Rohit Gossain, Alex Strawn</em>
       <br/><em>25 de janeiro de 2021</em>
     </div>
@@ -93,4 +93,4 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 
 >[!TIP]
 >
->Para obter métodos adicionais de aprendizado, consulte nossa [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) bem como as pessoas [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR).
+>Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.

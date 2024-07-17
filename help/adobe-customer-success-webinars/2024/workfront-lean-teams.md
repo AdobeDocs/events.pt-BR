@@ -32,13 +32,13 @@ Estratégias relevantes e abordagens práticas para organizações com o objetiv
 
 A reunião focou em Equipes simples e na maximização da eficiência com o Adobe Workfront. Aqui está um resumo dos pontos principais discutidos,
 
-**Equipes enxutas e eficiência**
+**Equipes de aprendizagem e eficiência**
 
 * Discutimos os desafios enfrentados pelas equipes do Lean.
 * Metas e benefícios destacados do gerenciamento enxuto.
 * Enfatizou os princípios associados ao gerenciamento Lean.
 
-**Estratégias para a eficiência**
+**Estratégias para Eficiência**
 
 * Importância do aprimoramento contínuo.
 * Simplificação da comunicação.

@@ -8,13 +8,13 @@ duration: 2499
 last-substantial-update: 2024-03-11T00:00:00Z
 jira: KT-15114
 thumbnail: 3427800.jpeg
-source-git-commit: 2489f9e31da2de8e7955843baed3ff05d5cc7b64
+exl-id: 1dc9fcb7-66d8-4394-a97f-deff20813794
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
 
 ---
-
 
 # Capacitar equipes enxutas
 
@@ -42,7 +42,7 @@ Este webinário discute os desafios enfrentados pelas equipes enxutas e fornece 
 
 * Processo criativo simplificado: as bibliotecas Creative Cloud permitem que os usuários arrastem e soltem ativos diretamente em seus projetos. Isso simplifica o processo de criação e reduz o tempo necessário para concluir tarefas, como adicionar imagens ou aplicar cores ou estilos de texto específicos.
 
-* Colaboração e atualizações em tempo real: as bibliotecas Creative Cloud facilitam a colaboração entre os membros da equipe, permitindo que os usuários compartilhem bibliotecas ou ativos com outras pessoas. Isso garante que todos trabalhem com o mesmo conjunto de materiais e permite atualizações em tempo real. Quando um membro da equipe atualiza um ativo em uma biblioteca compartilhada, a alteração é disponibilizada automaticamente para todos que acessam.
+* Atualizações do Collaboration e em tempo real: as bibliotecas Creative Cloud facilitam a colaboração entre os membros da equipe, permitindo que os usuários compartilhem bibliotecas ou ativos com outras pessoas. Isso garante que todos trabalhem com o mesmo conjunto de materiais e permite atualizações em tempo real. Quando um membro da equipe atualiza um ativo em uma biblioteca compartilhada, a alteração é disponibilizada automaticamente para todos que acessam.
 
 * Controle de versão: as bibliotecas Creative Cloud facilitam o gerenciamento de diferentes versões dos ativos. Isso reduz o risco de inconsistências com os ativos e garante que os membros da equipe estejam sempre usando a versão mais recente.
 
@@ -58,7 +58,7 @@ Os desafios enfrentados ao operar com uma equipe enxuta incluem:
 
 * Gerenciamento de burnout e carga de trabalho: com uma equipe enxuta, cada membro da equipe geralmente acaba vestindo vários chapéus, resultando em cargas de trabalho maiores, alta pressão e um maior risco de burnout. O equilíbrio entre a qualidade da vida profissional e pessoal torna-se um desafio e pode afetar o moral e a produtividade ao longo do tempo.
 
-* Colaboração e comunicação: colaboração e comunicação eficazes são essenciais para que equipes enxutas funcionem com eficiência. No entanto, coordenar entre diferentes projetos e garantir que todos os membros da equipe estejam alinhados pode ser desafiador sem pessoal suficiente para gerenciar fluxos de trabalho diferentes. Esse desafio será maior se a equipe estiver distribuída ou trabalhando remotamente.
+* Collaboration e comunicação: colaboração e comunicação eficazes são essenciais para que equipes enxutas funcionem com eficiência. No entanto, coordenar entre diferentes projetos e garantir que todos os membros da equipe estejam alinhados pode ser desafiador sem pessoal suficiente para gerenciar fluxos de trabalho diferentes. Esse desafio será maior se a equipe estiver distribuída ou trabalhando remotamente.
 
 * Esses desafios podem ser superados com a simplificação de tarefas, o aumento da eficiência, a melhoria da qualidade de vida, a redução de lacunas de habilidades e o aproveitamento dos principais recursos e integrações dos produtos fornecidos pelas Soluções Adobe.
 

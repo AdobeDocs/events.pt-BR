@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Saiba como a estrutura do Blueprint da Digital Foundation permite implementar rapidamente um design com funcionalidade de OOTB e personalização mínima.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331735/?quality=12&learn=on&hidetitle=true)
 
-Clique em **[aqui](/help/adobe-developers-live/assets/time-to-value-aem-sites.pdf)** para os slides da sessão.
+Clique **[aqui](/help/adobe-developers-live/assets/time-to-value-aem-sites.pdf)** para ver os slides da sessão.

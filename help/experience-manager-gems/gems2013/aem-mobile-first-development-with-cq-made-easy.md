@@ -26,4 +26,4 @@ Bruce Lefebvre, Cientista da Computação, Adobe
 
 ## Links relacionados {#related-links}
 
-[Slides e recursos do apresentador](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)
+[Recursos e slides do apresentador](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)

@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Saiba como implantar seu código na produção com confiança graças aos testes funcionais personalizados. A qualidade não deve ser difícil, mesmo em uma tarde movimentada de sexta-feira.
 
-Continuar a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 
-Clique em **[aqui](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** para os slides da sessão.
+Clique **[aqui](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** para ver os slides da sessão.

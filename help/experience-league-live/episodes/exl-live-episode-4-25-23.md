@@ -19,7 +19,7 @@ ht-degree: 24%
 
 # Coloque a coleta de dados e o encaminhamento de eventos em funcionamento com apenas alguns cliques!
 
-**Introdução a novos workflows de início rápido na coleta de dados do Adobe Experience Platform**
+**Introdução a novos fluxos de trabalho de início rápido na coleção de dados do Adobe Experience Platform**
 
 Se você não estiver familiarizado com as ferramentas modernas de coleção de dados da Adobe e estiver nervoso em ir fundo nisso, agora é possível começar a trabalhar com uma instalação básica mais rapidamente do que nunca, incluindo o envio de dados de evento para a Meta no lado do servidor. Com alguns cliques, os workflows de início rápido da coleta de dados do Adobe configurarão vários itens no back-end para economizar seu tempo e garantir que sua configuração esteja correta.
 
@@ -27,5 +27,5 @@ Se você não estiver familiarizado com as ferramentas modernas de coleção de 
 
 Inicie o vídeo acima para exibir uma reprodução deste evento de transmissão ao vivo.
 
-Dúvidas sobre isso? Prossiga com a discussão sobre esse tópico no Adobe Experience League [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+Dúvidas sobre isso? Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476) do Adobe Experience League.
 

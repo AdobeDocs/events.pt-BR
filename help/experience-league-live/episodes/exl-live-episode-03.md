@@ -24,5 +24,5 @@ Junte-se a nós para uma discussão ao vivo com três especialistas da Adobe que
 
 >[!VIDEO](https://video.tv.adobe.com/v/337219/?quality=12&learn=on)
 
-Para discutir essa sessão, visite o [discussão na comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"}.
+Para discutir esta sessão, visite a [discussão na Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"}.
 
