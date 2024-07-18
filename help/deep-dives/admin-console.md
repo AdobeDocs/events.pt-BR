@@ -9,9 +9,9 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: 06283989c8d9da03fca8af3d8ceec65097732be4
+source-git-commit: c1716eac12bc496f866db8dce1f67235dc75c319
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,8 @@ ht-degree: 0%
 
 # Preparando para o Marketo Engage na identidade do Adobe
 
-Um treinamento exclusivo sobre a migração futura do Adobe Admin Console. Esta reunião terá o formato de &quot;Treinamento do instrutor&quot;, para que você possa receber o que aprendeu e educar seus capítulos sobre essa mudança futura.
-
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Visão geral
 
-A sessão de treinamento focou principalmente na migração de Marketo Engage para a Identidade do Adobe usando o Admin Console do Adobe. Abordou aspectos essenciais como migração de usuários, funções, permissões, gerenciamento de espaço de trabalho e transição de suporte. A sessão detalhou o processo de migração, incluindo migração por assinatura, verificação de usuários, funções de administrador do sistema e gerenciamento de usuários no novo console. A ênfase foi colocada na verificação de email, no gerenciamento de acesso do usuário e nas funções de diferentes administradores envolvidos na migração. Também foram abordadas consultas comuns sobre usuários desativados, configuração do espaço de trabalho e suporte na comunidade do Marketo Engage durante a migração.
+O foco principal desta sessão de treinamento é a migração do Marketo Engage Adobe para o Admin Console de identidade e Adobe. Ela abrange aspectos essenciais em cada estágio (transição de produto, usuário e suporte) do jornada de migração, com maior ênfase na migração de usuários: o que muda ou não muda, as ações necessárias para administradores ou usuários da organização e as comunicações do Adobe em cada marco. Ele detalha áreas fundamentais, como o agendamento de uma data de migração na fase de pré-migração, o que esperar durante a migração do usuário e como navegar no console de migração durante a automigração. Complete com os links para recursos úteis e quatro etapas principais para preparar sua organização.
