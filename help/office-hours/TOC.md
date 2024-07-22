@@ -2,9 +2,9 @@
 user-guide-title: Adobe Office Hours
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: O Office Hours é uma abordagem proativa para o desvio de casos, oferecendo aos clientes webinários com soluções específicas.
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 3853bd9eb1464cf41b54d09ffb7c5b6a466a5dcd
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 14%
 
 ---
@@ -36,3 +36,6 @@ ht-degree: 14%
       + [Visão geral da biblioteca JavaScript, dicas e truques de depuração](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [Corrigir Contatos Duplicados](2023/workfront-fix-duplicate-contacts.md)
+      + [Relatórios de aprovação de provas](2023/workfront-proof-approval-reports.md)
+
+
