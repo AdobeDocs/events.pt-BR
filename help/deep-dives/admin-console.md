@@ -9,18 +9,27 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: c1716eac12bc496f866db8dce1f67235dc75c319
+exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
+source-git-commit: 7358d62eee1468e65b4ec073de1344a54dac41ce
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-
 # Preparando para o Marketo Engage na identidade do Adobe
+
+Este é um treinamento sobre a migração para [assinaturas do Adobe Marketo Engage para integração com o Adobe Identity Management System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). O conteúdo é mais apropriado para administradores de Marketo Engage. Este treinamento fornecerá o conhecimento essencial para preparar sua organização além das funções e educar usuários internos sobre essa mudança futura.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Visão geral
 
-O foco principal desta sessão de treinamento é a migração do Marketo Engage Adobe para o Admin Console de identidade e Adobe. Ela abrange aspectos essenciais em cada estágio (transição de produto, usuário e suporte) do jornada de migração, com maior ênfase na migração de usuários: o que muda ou não muda, as ações necessárias para administradores ou usuários da organização e as comunicações do Adobe em cada marco. Ele detalha áreas fundamentais, como o agendamento de uma data de migração na fase de pré-migração, o que esperar durante a migração do usuário e como navegar no console de migração durante a automigração. Complete com os links para recursos úteis e quatro etapas principais para preparar sua organização.
+Esta sessão de treinamento se concentra em migrar assinaturas de Marketo Engage para o Adobe Identity e o Adobe Admin Console. Ele aborda aspectos essenciais em cada estágio (transição de produto, usuário e suporte) da jornada de migração, com foco principal na migração do usuário.
+
+## Nesta sessão, você ouvirá:
+
+1. Visão geral do que muda ou não, ações de migração necessárias para os administradores ou usuários da organização e comunicações do Adobe em cada marco.
+1. As principais ações de migração incluem o agendamento de uma data de migração durante a pré-migração, o que esperar durante a migração do usuário e a navegação no console de migração para instâncias qualificadas para automigração.
+1. Recursos úteis e quatro etapas principais que os administradores devem tomar para preparar sua organização para as alterações futuras.
