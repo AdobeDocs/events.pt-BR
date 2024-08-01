@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
+source-git-commit: 4382796f5fa84ca4ceecd49b8138a45a3da16a8d
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 4%
+source-wordcount: '176'
+ht-degree: 3%
 
 ---
 
@@ -51,39 +51,39 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 <table style="max-width: 1214px;">
 
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-21-22.md">
-      <img alt="Experience League LIVE 21 de abril" src="assets/youtube-thumbnails/april-21-yt.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
+      <img alt="Experience League LIVE 21 de abril" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>AEM de Headful a Headless</strong>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>Como as versões mais recentes do Adobe Real-Time CDP podem ajudar a sua empresa</strong>
       </a>
-      <br/><em>com Danny Gordon, Amol Anand, Sachin Mali e Sean Steimer</em>
-      <br/><em>21 de abril de 2022</em>
+      <br/><em>com Nina Caruso, Rudi Shumpert e Doug Moore</em>
+      <br/><em>26 de junho de 2024</em>
     </div>
   </td>
 
 <td style="vertical-align: top;">
-    <a href="episodes/exl-live-episode-08.md">
-      <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
+    <a href="episodes/exl-live-episode-05-16-24.md">
+      <img alt="Experience League LIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - O Scoop Interno</strong></a>
-      <br/><em>com Trevor Paulsen, Rohit Gossain, Alex Strawn</em>
-      <br/><em>25 de janeiro de 2021</em>
+      <a href="episodes/exl-live-episode-05-16-24.md"><strong>Esta é a maneira...de migrar o Analytics para o SDK da Web</strong></a>
+      <br/><em>com Mitch Rice, Joe Khoury e Doug Moore</em>
+      <br/><em>16 de maio de 2024</em>
     </div>
   </td>
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="Experience League LIVE 26 de maio" src="assets/May26_exl_live_banner_web_1920_WebBanner.png">
+      <img alt="Experience League LIVE 26 de maio" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>Pergunte aos especialistas: noções básicas do SDK da Web</strong>
+      <a href="episodes/exl-live-episode-04-24-24.md">
+        <strong>Novo canal de experiência baseado em código no Journey Optimizer</strong>
       </a>
-      <br/><em>com Rudi Shumpert, Jeff Chasin e Eric Matisoff</em>
-      <br/><em>26 de maio de 2022</em>
+      <br/><em>com Sandra Hausmann, Robert Calangiu e Brent Kostak</em>
+      <br/><em>24 de abril de 2024</em>
     </div>
   </td>
   </tr>
