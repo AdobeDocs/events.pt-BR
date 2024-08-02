@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessões GEM com AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="Experiências digitais" src="./assets/ADX_Gems.png"/>
 
-## Futuro webinário de GEMs do AEM - Integração de repositórios privados do GitHub na AEM Cloud Manager
+## Futuro webinário de GEMs do AEM - Integração do AEM Assets com o Edge Delivery Services
 
-Este webinário será realizado na quarta-feira, de 31 de julho a 17h00 CEST / 8h00 PDT / 20h30 IST. Observe que somente o registro é necessário para este webinário - registre [aqui](https://adobe.ly/3LmXfGk).
+Este webinário será realizado na quarta-feira, 21 de agosto - 17h00 CEST / 8h00 PDT / 20h30 IST. Observe que somente o registro é necessário para este webinário - registre [aqui](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -48,11 +48,11 @@ Este webinário será realizado na quarta-feira, de 31 de julho a 17h00 CEST / 8
 
 -->
 
-## Evento anterior de GEMs AEM
+## Webinários anteriores de GEMs com AEM
 
-Nosso último webinário de GEMs do AEM em **A melhoria da experiência do desenvolvedor para o AEM Assets com nossas novas APIs e eventos** foi realizada em *19 de junho de 2024*.
+Nosso último webinário de GEMs do AEM em **Integrando repositórios privados do GitHub na AEM Cloud Manager** foi realizado em *31 de julho de 2024*.
 A **gravação** pode ser encontrada aqui:
-[Aprimoramento da experiência do desenvolvedor do AEM Assets com nossas novas APIs e eventos](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+[Integração de repositórios GitHub privados em gerentes de nuvem AEM](gems2024/private-github-for-aem-cloud-manager.md)
 
 >[!NOTE]
 >
