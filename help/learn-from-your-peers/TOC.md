@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Coleção de gravações de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: aa6147e16b48c10fa163e3a939d1edde30f7989c
+source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '292'
 ht-degree: 4%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 4%
       + [Dominar o conteúdo e os fragmentos de experiência](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
    + Julho de 2024 {#july2024}
-      + [O mapa do profissional de marketing - um guia abrangente para a estratégia, construção e análise de campanhas do Marketo](marketo/july2024/marketers-map-marketo-campaigns.md)
+      + [O mapa do profissional de marketing: criar, organizar e analisar campanhas do Marketo](marketo/july2024/marketers-map-marketo-campaigns.md)
    + Abril de 2024 {#april2024}
       + [Aplicativos práticos da API REST do Marketo Engage](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + Janeiro de 2024 {#jan2024}
