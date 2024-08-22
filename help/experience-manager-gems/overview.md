@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessões GEM com AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,10 @@ ht-degree: 0%
 
 <img alt="Experiências digitais" src="./assets/ADX_Gems.png"/>
 
-## Futuro webinário de GEMs do AEM - Integração do AEM Assets com o Edge Delivery Services
+## Futuro webinário de GEMs AEM - Novidades em Ambientes de desenvolvimento rápido para AEM?
 
-Este webinário será realizado na quarta-feira, 21 de agosto - 17h00 CEST / 8h00 PDT / 20h30 IST. Observe que somente o registro é necessário para este webinário - registre [aqui](https://adobe.ly/3LTT3hg).
+Este webinário será realizado na quarta-feira, 4 de setembro - 17h00 CEST / 8h00 PDT / 20h30 IST. Observe que somente o registro é necessário para esse webinário.
+Se você estiver interessado, inscreva-se [aqui](https://adobe.ly/3LTT3hg).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,9 +51,9 @@ Este webinário será realizado na quarta-feira, 21 de agosto - 17h00 CEST / 8h0
 
 ## Webinários anteriores de GEMs com AEM
 
-Nosso último webinário de GEMs do AEM em **Integrando repositórios privados do GitHub na AEM Cloud Manager** foi realizado em *31 de julho de 2024*.
+Nosso último webinário de GEMs do AEM em **Integrando o AEM Assets com o Edge Delivery Services** foi realizado em *21 de agosto de 2024*.
 A **gravação** pode ser encontrada aqui:
-[Integração de repositórios GitHub privados em gerentes de nuvem AEM](gems2024/private-github-for-aem-cloud-manager.md)
+[Integrando o AEM Assets com o Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
 
 >[!NOTE]
 >

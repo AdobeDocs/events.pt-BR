@@ -9,18 +9,16 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
 # Data do webinário: 21 de agosto de 2024
 
-Este webinário será realizado em 21 de agosto de 2024 - 17h00 CEST / 8h00 PDT / 20h30 IST.
-O webinário é gratuito. Somente o registro é necessário.
-Para ingressar, registre [aqui](https://adobe.ly/3LTT3hg).
+Este webinário foi concluído. Veja a gravação abaixo.
 
 ## Integração do AEM Assets com o Edge Delivery Services
 
@@ -31,8 +29,10 @@ Durante esse webinário de GEMs do AEM, mostraremos como você pode usar o AEM A
 * Satya Deep Maheshwari, cientista-chefe, Adobe
 * Ashutosh Shroti, cientista da computação sênior, Adobe
 
-## Interação da comunidade de webinários
+## Gravação do webinário
 
+>[!VIDEO](https://video.tv.adobe.com/v/3433046/)
+>
 >[!NOTE]
 >
 >* Para ver as interações da comunidade específicas da sessão no Experience League, visite o respectivo [Thread Contextual](https://adobe.ly/4aCz0OE).
