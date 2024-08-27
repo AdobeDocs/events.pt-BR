@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários Adobe Customer Success-led projetados para capacitá-lo na otimização do seu investimento no Adobe Experience Cloud. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções Adobe.
-source-git-commit: 3bcce2d2a01f5ed1abbc8fccd59512fe8a070fae
+source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 1%
 
 ---
@@ -14,17 +14,20 @@ ht-degree: 1%
 
 + [Webinários de sucesso do cliente do Adobe](overview.md)
 + 2024 {#2024}
+   + [Integrações dos serviços de aplicativo da AEP para casos de uso do cliente](2024/aep-apps-services-integrations.md)
+   + [Planejamento de caso de uso da AEP](2024/aep-use-case-planning.md)
    + [Adobe Workfront - Equipes de lean manufacturing](2024/workfront-lean-teams.md)
    + [Priorização do fluxo de dados](2024/data-stream-prioritization.md)
    + [Gerenciamento eficaz de alterações](2024/effective-change-management.md)
    + [Capacitar equipes enxutas](2024/empowering-lean-teams.md)
    + [A Expedia muda do Adobe Analytics para o Customer Journey Analytics](2024/expedia-aa-to-cja.md)
+   + [Princípios básicos do sistema da Workfront e tutela do administrador de grupo](2024/workfront-admin-guardianship.md)
    + [Hiperpersonalização](2024/hyperpersonalization.md)
+   + [Recursos do Journey Optimizer Mobile](2024/journey-optimizer-mobile-capabilities.md)
    + [Liderança estratégica](2024/strategic-leadership.md)
    + [Mapeamento de casos de uso para recursos da solução](2024/use-case-mapping.md)
    + [Fundamentos para migração do SDK da Web](2024/web-sdk-migration.md)
-   + [Integrações dos serviços de aplicativo da AEP para casos de uso do cliente](2024/aep-apps-services-integrations.md)
-   + [Marketo Measure &amp; Mochas: atividades e modelos personalizados](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
+
 + 2023 {#2023}
    + [Criando a base para o Personalization em escala](2023/personalization-at-scale.md)
    + [Gerenciamento de alterações](2023/change-management.md)
