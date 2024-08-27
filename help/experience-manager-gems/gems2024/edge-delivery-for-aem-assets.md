@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 9dc54b9034ffa5e533df2c026b9d6518f50c6531
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -35,6 +35,6 @@ Durante esse webinário de GEMs do AEM, mostraremos como você pode usar o AEM A
 >
 >[!NOTE]
 >
->* Para ver as interações da comunidade específicas da sessão no Experience League, visite o respectivo [Thread Contextual](https://adobe.ly/4aCz0OE).
+>* Para ver as interações da comunidade específicas da sessão no Experience League, visite o respectivo [Thread Contextual](https://adobe.ly/3LSCVfX).
 >
 >* Para receber notificações sobre nossos próximos webinários, registre-se em [Grupo de usuários do AdobeAEM](https://aem-augs.adobe.com/).
