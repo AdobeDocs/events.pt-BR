@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
+source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 5%
+source-wordcount: '444'
+ht-degree: 4%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 5%
 
 + [Visão geral](overview.md)
 + Episódios {#episodes}
+   + [Ep 39: Você está pronto para elevar o nível do seu aplicativo de análise móvel?](episodes/exl-live-episode-09-18-24.md)
    + [Ep 38: Destaque de verão - Três recursos que devem ser experimentados no Adobe Journey Optimizer](episodes/exl-live-episode-08-28-24.md)
    + [Ep 37: Como as versões mais recentes do Adobe Real-Time CDP podem ajudar a sua empresa](episodes/exl-live-episode-06-26-24.md)
    + [Ep 36: Esta é a maneira... de migrar o Analytics para o SDK da Web](episodes/exl-live-episode-05-16-24.md)
