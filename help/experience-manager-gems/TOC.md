@@ -2,9 +2,9 @@
 user-guide-title: Eventos de GEMS do Adobe Experience Manager
 user-guide-description: Saiba mais sobre AEM Gems, uma série de aprofundamentos técnicos fornecidos por especialistas da Adobe Experience Manager.
 breadcrumb-title: Eventos AEM GEMs
-source-git-commit: 06d87b13be213513469f77fd44782f6ae27ffc30
+source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '752'
 ht-degree: 1%
 
 ---
@@ -14,6 +14,7 @@ ht-degree: 1%
 
 + [Visão geral](overview.md)
 + 2024 {#gems2024}
+   + [Desbloquear a capacidade do AEM Sites: domine as APIs de gerenciamento de conteúdo](gems2024/aem-sites-and-apis.md)
    + [O que há de novo em Ambientes de desenvolvimento rápido para AEM?](gems2024/rapid-development-environment-news.md)
    + [Integração do AEM Assets com o Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
    + [Integração de repositórios GitHub privados no AEM Cloud Manager](gems2024/private-github-for-aem-cloud-manager.md)
