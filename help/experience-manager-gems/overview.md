@@ -12,7 +12,7 @@ type: Event
 user-guide-description: Sessões GEM com AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 ## Futuro webinário de GEMs AEM - Novidades em Ambientes de desenvolvimento rápido para AEM?
 
 Este webinário será realizado na quarta-feira, 4 de setembro - 17h00 CEST / 8h00 PDT / 20h30 IST. Observe que somente o registro é necessário para esse webinário.
-Se você estiver interessado, inscreva-se [aqui](https://adobe.ly/3LTT3hg).
+Se você estiver interessado, inscreva-se [aqui](https://adobe.ly/3yWr9OY).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
