@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessões GEM com AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
+source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <img alt="Experiências digitais" src="./assets/ADX_Gems.png"/>
 
-## Futuro webinário de GEMs do AEM - Desbloqueando o poder do AEM Sites: Domine as APIs de gerenciamento de conteúdo
+## Futuro webinário de GEMs do AEM - AEM Sites: Domine as APIs de gerenciamento de conteúdo
 
 Este webinário será realizado na quarta-feira, 9 de outubro - 17h CEST / 8h PDT / 20h IST. Observe que somente o registro é necessário para esse webinário.
 Se você estiver interessado, inscreva-se [**aqui**](https://adobe.ly/4g6TYck).
