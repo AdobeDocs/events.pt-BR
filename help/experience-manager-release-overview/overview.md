@@ -4,10 +4,10 @@ description: Obtenha uma visão geral rápida dos recursos mais recentes no Adob
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: 259d6cf68792ea0f1aa9140b48006a747b63a89c
+source-git-commit: b6a23208f526ff5f32f7ac2b6cf4259cbfd4c39f
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 3%
+source-wordcount: '183'
+ht-degree: 4%
 
 ---
 
@@ -16,6 +16,27 @@ ht-degree: 3%
 Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience Manager as a Cloud Service. São vídeos curtos, de aproximadamente 10 minutos, disponibilizados pela equipe de produtos AEM que compartilham os destaques da versão mais recente.
 
 ## Última atualização
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
+      <a href="2024/2024-8-0.md">
+        <img alt="Versão 2024.8.0" src="https://video.tv.adobe.com/v/3433381?format=jpeg" />
+      </a>
+      <div>
+        <a href="2024/2024-8-0.md">
+          <strong>Versão | 2024.8.0</strong>
+        </a>
+      </div>
+      <em>Data de lançamento: agosto de 2024 </em>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
+      </p>
+    </td>
+  </tr>  
+</table>
+
+## Atualizações anteriores
 
 <table style="max-width: 50%;">
   <tr>
@@ -32,14 +53,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
       </p>
-    </td>
-  </tr>  
-</table>
-
-## Atualizações anteriores
-
-<table style="max-width: 50%;">
-  <tr>
+    </td> 
      <td>
       <a href="2024/2024-6-0.md">
         <img alt="Versão 2024.6.0" src="https://video.tv.adobe.com/v/3430779?format=jpeg" />
@@ -66,6 +80,8 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
       </div>
       <em>Data de lançamento: maio de 2024 </em>
     </td>
+  </tr>
+  <tr> 
     <td>
       <a href="2024/2024-4-0.md">
         <img alt="Versão 2024.4.0" src="2024/assets/2024-4-0-thumb.png" />
@@ -78,8 +94,6 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
       </div>
       <em>Data de lançamento: abril de 2024 </em>
     </td>
-  </tr>
-  <tr> 
     <td>
       <a href="2024/2024-3-0.md">
         <img alt="Versão 2024.3.0" src="2024/assets/2024-3-0-thumb.png" />
@@ -104,6 +118,8 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
           <em>Data de lançamento: janeiro de 2024 </em>
       </div>
     </td>
+  </tr>
+  <tr>     
     <td>
       <a href="2023/2023-11-0.md">
         <img alt="Versão 2023.11.0" src="2023/assets/2023-11-0-thumb.png" />
@@ -116,8 +132,6 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
           <em>Data de lançamento: novembro de 2023 </em>
       </div>
     </td>
-  </tr>
-  <tr>     
     <td>
       <a href="2023/2023-10-0.md">
         <img alt="Versão 2023.10.0" src="2023/assets/2023-10-0-thumb.png" />
@@ -140,18 +154,6 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
           <br/>
         </a>
           <em>Data de lançamento: setembro de 2023 </em>
-      </div>
-    </td>
-    <td>
-      <a href="2023/2023-8-0.md">
-        <img alt="Versão 2023.8.0" src="2023/assets/2023-8-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-8-0.md">
-          <strong>Versão | 2023.8.0</strong>
-          <br/>
-        </a>
-          <em>Data de lançamento: agosto de 2023 </em>
       </div>
     </td>
   </tr>
