@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: ac811378b605024bc49232b84932b029fe783c45
+source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -33,3 +33,11 @@ Esta sessão Aprenda com seus colegas discutiu a configuração e o gerenciament
 * Estratégias de transição: usar campanhas inteligentes para transição entre fluxos em um programa de envolvimento fornece controle e automação. &#x200B; Entender quando e como fazer a transição de leads com base em fatores como estágios do ciclo de vida ou esgotamento de conteúdo é essencial para a promoção eficaz da liderança.
 
 * Métricas de sucesso do programa: definir métricas de sucesso claras para programas de envolvimento é essencial para medir a eficácia. &#x200B; Cliques de email, visitas a sites ou outras ações, ter definido critérios de sucesso ajuda a avaliar com precisão o desempenho e o impacto dos programas de engajamento. &#x200B;
+
+## Recursos referenciados nesta apresentação
+
+* [Noções Básicas sobre Programas de Participação](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [Noções básicas sobre a pontuação de engajamento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Adicionando um Programa a um Fluxo de Programa de Envolvimento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Visão Geral da Biblioteca de Importação de Programas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Thread de discussão da Comunidade da Nação de Marketing](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
