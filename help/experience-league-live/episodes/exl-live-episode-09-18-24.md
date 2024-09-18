@@ -1,6 +1,6 @@
 ---
 title: Você está pronto para elevar o nível do seu aplicativo de análise para dispositivos móveis?
-description: Nesta sessão, você aprenderá a usar a extensão do Edge Bridge para preencher a lacuna da migração. Forneceremos instruções passo a passo sobre como configurar suas propriedades móveis e atualizar sua implementação do lado do cliente para usar o Edge Bridge.
+description: Nesta sessão, você aprenderá a usar a extensão do Edge Bridge para preencher a lacuna da migração. Você recebe instruções passo a passo sobre como configurar suas propriedades móveis e atualizar sua implementação do lado do cliente para usar o Edge Bridge.
 kt: KT-16047
 solution: Analytics, Customer Journey Analytics
 feature: Data Configuration and Collection
@@ -9,21 +9,21 @@ event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
 exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
-source-git-commit: facc08465a1a13b3b4ca1bfaa8f993bdbeff8c6b
+source-git-commit: dd6f30d6c664992770f473d0ab80de561defcb35
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
 # Você está pronto para elevar o nível do seu aplicativo de análise para dispositivos móveis?
 
-Nesta sessão, você aprenderá a usar a extensão do Edge Bridge para preencher a lacuna da migração. Forneceremos instruções passo a passo sobre como configurar suas propriedades móveis e atualizar sua implementação do lado do cliente para usar o Edge Bridge.
+Saiba como usar a extensão Edge Bridge para preencher a lacuna da migração. Você recebe instruções passo a passo sobre como configurar suas propriedades móveis e atualizar sua implementação do lado do cliente para usar o Edge Bridge.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
+**Para continuar a discussão, visite a [discussão na Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
-**Para continuar a discussão, visite nossa [discussão na Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
 **Exibir detalhes**:
 Você tem usado o Adobe Analytics em seu aplicativo móvel para obter insights sobre sua empresa digital e entender como seus clientes usam seu aplicativo.
