@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
+source-git-commit: 33ed1cb1bc4a5a62fb590ac07ae788a6df812ef4
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Aprenda a engajar e nutrir sistematicamente os relacionamentos com os clientes c
 
 ## Resumo
 
-Esta sessão Aprenda com seus colegas discutiu a configuração e o gerenciamento de programas de engajamento no Marketo. Ele abordou tópicos como planejamento, criação e relatórios dentro dos programas de engajamento. Os pontos principais incluíram a escolha entre programas de envolvimento e nutrição de viagem, o uso de campanhas inteligentes para transições, a decisão entre emails e programas padrão e a compreensão das métricas de sucesso do programa. &#x200B; A discussão também abordou tópicos como transição de conteúdo, gerenciamento de diferentes idiomas, utilização de conteúdo dinâmico e configuração de vários fluxos com base em estágios do ciclo de vida ou famílias de produtos. O webinário enfatizou a importância dos testes, da disponibilidade do programa e da utilização das pontuações de engajamento para fins de relatório. &#x200B;
+Esta sessão Aprenda com seus colegas discutiu a configuração e o gerenciamento de programas de engajamento no Marketo Engage. Ele abordou tópicos como planejamento, criação e relatórios dentro dos programas de engajamento. Os pontos principais incluíram escolher entre programas de criação e engajamento, usar campanhas inteligentes para transições, decidir entre emails e programas padrão e entender as métricas de sucesso do programa. &#x200B; A discussão também abordou tópicos como transição de conteúdo, gerenciamento de diferentes idiomas, utilização de conteúdo dinâmico e configuração de vários fluxos com base em estágios do ciclo de vida ou famílias de produtos. O webinário enfatizou a importância dos testes, da disponibilidade do programa e da utilização das pontuações de engajamento para fins de relatório. &#x200B;
 
 ## Principais aprendizados
 
-* Escolha do tipo certo de programa: entender a diferença entre programas de viagem e de engajamento é crucial. &#x200B; Os programas de engajamento oferecem mais flexibilidade e complexidade para promover leads com eficiência em comparação aos programas de turismo. &#x200B;
+* Escolher o tipo certo de programa: entender a diferença entre programas de nutrição e engajamento é crucial. &#x200B; Os programas de engajamento oferecem mais flexibilidade e complexidade para promover leads de maneira eficaz em comparação aos programas de nutrição direta. &#x200B;
 
 * Estratégias de transição: usar campanhas inteligentes para transição entre fluxos em um programa de envolvimento fornece controle e automação. &#x200B; Entender quando e como fazer a transição de leads com base em fatores como estágios do ciclo de vida ou esgotamento de conteúdo é essencial para a promoção eficaz da liderança.
 
