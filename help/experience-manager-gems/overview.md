@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessões GEM com AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 670b69aea8b574567487f169579d7c81db7550ad
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,16 @@ ht-degree: 0%
 
 <img alt="Experiências digitais" src="./assets/ADX_Gems.png"/>
 
-## Futuro webinário de GEMs do AEM - AEM Sites: Domine as APIs de gerenciamento de conteúdo
+## Os próximos webinários de GEMs de AEM serão anunciados em breve
 
-Este webinário será realizado na quarta-feira, 9 de outubro - 17h CEST / 8h PDT / 20h IST. Observe que somente o registro é necessário para esse webinário.
-Se você estiver interessado, inscreva-se [**aqui**](https://adobe.ly/4g6TYck).
+Registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/) para ser notificado.
 
-<!--  Remove the comment marks, and put the upcoming event in the below table
+<!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
+
+This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
+
+
 
 <table style="max-width: 1214px;">
 <tr>
@@ -51,9 +55,9 @@ Se você estiver interessado, inscreva-se [**aqui**](https://adobe.ly/4g6TYck).
 
 ## Webinários anteriores de GEMs com AEM
 
-Nosso mais recente webinário de GEMs para AEM em **Novidades em Ambientes de Desenvolvimento Rápido para AEM?** foi realizado em *4 de setembro de 2024*.
+Nosso último webinário de GEMs do AEM em **Desbloqueando o potencial do AEM Sites - Domine as APIs de gerenciamento de conteúdo** foi realizado em *9 de outubro de 2024*.
 A **gravação** pode ser exibida aqui:
-[Novidades em Ambientes de Desenvolvimento Rápido para AEM?](gems2024/rapid-development-environment-news.md)
+[Desbloqueando o potencial do AEM Sites - Domine as APIs de gerenciamento de conteúdo](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
