@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: aeef8e994a4c54f6884e3090fba028a9888abe4d
+source-git-commit: 645f97a48747f22008ca12a6cb832dfb89bb67e2
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '197'
 ht-degree: 3%
 
 ---
@@ -26,14 +26,14 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-40-2024-10-24.md">
-      <img alt="Experience League LIVE 24 de outubro" src="episodes/assets/ep41-web-banner.png">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
+      <img alt="Experience League LIVE 24 de outubro" src="episodes/assets/30Oct24-webbanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong>Saiba mais sobre como a Composição de Público-Alvo Federado fornece uma abordagem abrangente para a curadoria e ativação de público-alvo com o Real-Time CDP e o Journey Optimizer. </strong></a>
-      <br/><em>com Alyssa Espiritu, Abhijit Ghosh e Arthur Lacroix</em>
-      <br/><em>24 de outubro de 2024 às 8:30 PT</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241024.html">Registrar-se neste evento</a>
+      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong>Saiba mais sobre os Cartões de Conteúdo, um novo canal de mensagens versátil para o Adobe Journey Optimizer, projetado para aprimorar o engajamento do usuário e impulsionar conversas em aplicativos móveis e da Web. </strong></a>
+      <br/><em>com Don Huyhn e Pravin Kumar</em>
+      <br/><em>30 de outubro de 2024 às 8:30 PT</em>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=">Registrar-se neste evento</a>
     </div>
   </td>
 </tr>
