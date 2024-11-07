@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 637f0256c1033c6ad016c5289103b09304ae5002
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '214'
 ht-degree: 3%
 
 ---
@@ -26,14 +26,14 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
-      <img alt="Experience League LIVE 24 de outubro" src="assets/WebBanner-Nov-6-2024.jpg">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-13-24.md">
+      <img alt="Experience League LIVE 24 de outubro" src="episodes/assets/WebBanner_nov13_2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-30-24.md"><strong>Saiba mais sobre os Cartões de Conteúdo, um novo canal de mensagens versátil para o Adobe Journey Optimizer, projetado para aprimorar o engajamento do usuário e impulsionar conversas em aplicativos móveis e da Web. </strong></a>
-      <br/><em>com Don Huyhn e Pravin Kumar</em>
-      <br/><em>6 de novembro de 2024 às 8:30 PT</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=">Registrar-se neste evento</a>
+      <a href="episodes/exl-live-episode-11-13-24.md"><strong>Junte-se a nós para assistir a uma emocionante sessão ao vivo onde os especialistas em produtos e engenharia de Adobe darão a você uma emocionante apresentação sobre nossa mais recente inovação revolucionária - Assistente de IA para públicos-alvo, chegando em breve à Adobe Real-Time CDP para sobrecarregar os insights e as ações do público-alvo. </strong></a>
+      <br/><em>com Shivakumar Vaithyanathan, Ali Nazer e Horia Galatanu</em>
+      <br/><em>13 de novembro de 2024 às 9:00 PT</em>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241113.html">Registrar-se neste evento</a>
     </div>
   </td>
 </tr>
