@@ -7,22 +7,20 @@ feature: Audiences
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: fe04eef54d34f1bcc0ce9d164d4d212096908f0a
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Revelação de cartões de conteúdo para o Adobe Journey Optimizer
 
-**Revolucione sua estratégia de engajamento com mensagens contínuas e não intrusivas**
+Saiba como revolucionar sua estratégia de engajamento com mensagens contínuas e não intrusivas usando Cartões de conteúdo no Adobe Journey Optimizer.
 
-Nesta sessão, Don Huynh e Pravin Prakash Kumar apresentam o Content Cards, um novo canal de mensagens versátil para o Adobe Journey Optimizer, projetado para melhorar o engajamento do usuário e impulsionar conversas em aplicativos móveis e da Web. Diferentemente das notificações por push e no aplicativo tradicionais, os Cartões de conteúdo fornecem atualizações, promoções e mensagens importantes com perfeição no seu aplicativo ou site, garantindo uma experiência do usuário não intrusiva.
+>[!VIDEO](https://video.tv.adobe.com/v/3436281/?quality=12&learn=on)
 
+**Exibir detalhes**:
 
-![experience league live](/help/experience-league-live/assets/WebBanner-Nov-6-2024.jpg)
-
-[Registrar-se neste evento](https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=)
-
+Nesta sessão, Don Huynh e Pravin Prakash Kumar apresentam e demonstram os Cartões de conteúdo, um canal de mensagens versátil para o Adobe Journey Optimizer, projetado para aprimorar o engajamento do usuário e impulsionar as conversas em aplicativos móveis e da Web. Diferentemente das notificações por push e no aplicativo tradicionais, os Cartões de conteúdo fornecem atualizações, promoções e mensagens importantes com perfeição no seu aplicativo ou site, garantindo uma experiência do usuário não intrusiva.
 
