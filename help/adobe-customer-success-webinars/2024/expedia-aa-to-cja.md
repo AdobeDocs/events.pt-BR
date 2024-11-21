@@ -1,6 +1,6 @@
 ---
 title: Marcas Expedia e Líderes Evoluem sua Organização da Adobe Analytics para a Customer Journey Analytics
-description: explore a próxima evolução da análise, com Jake Winter, líder principal da Adswerve, Erika Ulmer, gerente sênior, Gerenciamento de produtos de dados da Expedia, Ben Gaines, Director de Gerenciamento de produtos da Adobe e Trevor Paulsen, Director de Gerenciamento de produtos da Adobe, que compartilharão sua experiência em primeira mão de nivelamento de suas organizações com a Adobe Customer Journey Analytics. Discutiremos as tendências mais recentes e as práticas recomendadas na análise, bem como os desafios e as oportunidades que surgem com o aproveitamento do Customer Journey Analytics. Seja você um profissional de análise ou um líder de negócios que busca melhorar os recursos de análise de sua organização, este webinário não deve ser perdido.
+description: Junte-se aos líderes do setor da Adobe, Expedia e Adobe enquanto compartilham insights, tendências e práticas recomendadas para aproveitar o Adobe Customer Journey Analytics para transformar a análise organizacional neste webinário obrigatório.
 solution: Analytics, Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Adobe Analytics Integration
@@ -12,9 +12,9 @@ duration: 3933
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15435
 exl-id: a6bb36bb-6bea-4ee0-b5e3-021d02d3de20
-source-git-commit: 1ee9b50eca2e167af477bd17bceb6c1d4b59311b
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ Discutiremos as tendências mais recentes e as práticas recomendadas na anális
 
 
 ## Principais aprendizados
-
 
 * Obter uma compreensão profunda dos dados, incluindo a modelagem de dados com grupos de campos e a compreensão da identidade e do escopo do evento.
 * Comunique excessivamente a finalidade e os benefícios do Customer Journey Analytics (CJA) às partes interessadas e ofereça treinamento para capacitar os indivíduos a tomar decisões orientadas por dados.

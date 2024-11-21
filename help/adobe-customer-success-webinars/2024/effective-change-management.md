@@ -1,6 +1,6 @@
 ---
 title: Navegando pela mudança - um webinário de liderança sênior sobre gerenciamento eficiente de alterações
-description: Aprofunde-se nas nuances do gerenciamento de alterações e forneça insights estratégicos para orientar sua organização por meio de jornadas de transformação.Pontos principais de discussão - Saiba como alinhar os esforços de alteração com metas e objetivos organizacionais abrangentes Domine a arte de comunicar mudanças a várias partes interessadas Implemente estratégia e planejamento de ativação eficientes Aprenda estratégias proativas para mitigar riscos e garantir transições tranquilas
+description: Aprofunde-se nas nuances do gerenciamento de alterações e forneça insights estratégicos para capacitar você a orientar sua organização por jornadas transformacionais.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
 exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

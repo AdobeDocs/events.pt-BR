@@ -1,6 +1,6 @@
 ---
 title: Real-Time CDP - Mapeamento de casos de uso para recursos da solução
-description: Este webinário explora as principais maneiras de explorar e priorizar casos de uso, mapeá-los para recursos específicos da RTCDP e garantir o alinhamento aos resultados e ao valor dos negócios. Principais pontos de discussão - Casos de uso que a RT-CDP soluciona e prioriza os específicos aos resultados dos negócios​Alinhamento dos recursos da RT-CDP com os casos de uso priorizados
+description: Este webinário explora as principais maneiras de explorar e priorizar casos de uso, mapeá-los para recursos específicos da CDP em tempo real e garantir o alinhamento aos resultados e ao valor dos negócios.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---

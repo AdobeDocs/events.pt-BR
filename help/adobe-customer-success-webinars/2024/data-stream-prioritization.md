@@ -1,6 +1,6 @@
 ---
 title: Priorização do fluxo de dados
-description: Saiba como gerenciar a priorização de fluxo de dados para a orquestração de campanhas para sobrecarregar a capacidade de sua organização de executar a Personalization orientada por dados - Controlar a orquestração de campanhas com dados do cliente - Entender a importância e as práticas recomendadas da priorização de fluxo de dados - Otimizar campanhas de marketing em tempo real
+description: Saiba como gerenciar a priorização de fluxo de dados para a orquestração de campanhas, a fim de sobrecarregar a capacidade de sua organização executar o Personalization orientado por dados.
 solution: Experience Platform
 feature-set: Experience Platform
 feature: Personalization
@@ -13,9 +13,9 @@ last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14961
 thumbnail: 3427302.jpeg
 exl-id: 5ff79483-66ed-4023-8d49-0ee877120383
-source-git-commit: e3eb0d9e8c3de2c56b12e10bcbf3cb1ecaf2a6f3
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---

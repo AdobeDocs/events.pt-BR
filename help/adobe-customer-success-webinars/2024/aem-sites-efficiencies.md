@@ -1,6 +1,6 @@
 ---
 title: Eficiência da AEM Sites - otimização de desempenho, configuração e solução de problemas
-description: fundamentos para a solução de problemas do Adobe Experience Manager (AEM) Sites. Quer você esteja enfrentando problemas de desempenho ou lidando com configurações complexas, esta sessão fornecerá habilidades práticas para manter e otimizar seu ambiente AEM. Priorizaremos demonstrações ao vivo em vez de slides, oferecendo experiência prática para enfrentar desafios do mundo real​Principais pontos para discussão:- Configuração de host virtual e mapeamento de domínio- Problemas de desempenho- Autorização, identificação, permissões de usuário
+description: Essa sessão aborda habilidades essenciais de solução de problemas para o Adobe Experience Manager (AEM) Sites, com foco em soluções práticas para problemas de desempenho, configurações complexas e permissões de usuário.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -9,13 +9,13 @@ doc-type: Event
 duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # Eficiência da AEM Sites: otimização de desempenho, configuração e solução de problemas
 

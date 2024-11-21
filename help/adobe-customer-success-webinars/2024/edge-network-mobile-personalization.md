@@ -1,19 +1,19 @@
 ---
 title: Insights sobre Edge Network e Personalization móvel com soluções de Adobe
-description: Entenda como a arquitetura do Edge funciona e como depurar implementações usando o AssuranceOrientação técnica sobre como configurar o SDK para dispositivos móveisComo fornecer experiências personalizadas com o Target e o AJO
+description: Entenda como aprimorar as estratégias móveis, melhorar o engajamento do usuário e fornecer experiências personalizadas com eficiência usando as Soluções Adobe.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3460
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-16137
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+exl-id: 235124fa-ff68-44d7-8e8e-70ce67a19134
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
-
 
 # Insights sobre o Edge Network e Personalization móvel com soluções do Adobe
 
@@ -41,6 +41,6 @@ Como fornecer experiências personalizadas com o Target e o AJO
 
 * Implementar extensões específicas como Consentimento, Identidade e Analytics para funcionalidades personalizadas.
 * Configuração de extensões para Campaign Classic e Mensagens de mídia.
-* Uso da garantia para depuração, validação e simulação de processos de coleta de dados.
+* Uso do Assurance para depuração, validação e simulação de processos de coleta de dados.
 
 Ao se concentrarem nesses pontos-chave, as empresas podem aprimorar suas estratégias móveis, melhorar o engajamento do usuário e fornecer experiências personalizadas com eficiência usando as Soluções Adobe.

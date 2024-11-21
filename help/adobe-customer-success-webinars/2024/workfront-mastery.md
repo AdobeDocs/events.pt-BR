@@ -1,6 +1,6 @@
 ---
 title: Workfront Master - estratégias para o sucesso
-description: Capacite sua equipe com estratégias para aproveitar ao máximo o Adobe Workfront. Nesta sessão, nossos especialistas guiarão você pelas práticas recomendadas que agregam valor, simplificam a governança e impulsionam a adoção.Pontos principais de discussão:Fornecer valor aos negócios - Considerações para alinhar o trabalho aos objetivos estratégicosChaves para a governança da Workfront - Saiba como fornecer valor incremental enquanto amadurece a adoçãoMaximizar a adoção através da otimização da experiência do usuário final - Descubra como a Workfront oferece uma experiência simplificada para o usuário final
+description: Capacite sua equipe com estratégias para aproveitar ao máximo o Adobe Workfront. Nesta sessão, nossos especialistas guiarão você pelas práticas recomendadas que agregam valor, simplificam a governança e impulsionam a adoção.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2132
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16415
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: d14b344c-5b41-4e9c-bae1-02db12771b48
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Master: estratégias para o sucesso
 
