@@ -1,19 +1,19 @@
 ---
 title: Marketo & Mochas - Maturidade Parte 1 - Estabelecendo a Base
-description: Junte-se a Adobe Business Advisors, Cynthia Chang e Carly Gaver, pois eles compartilham insights inestimáveis sobre a curva de maturidade do Marketo para orientar a expansão do uso do Marketo em sua organização.
+description: Junte-se a Adobe Business Advisors, Cynthia Chang e Carly Gaver, enquanto exploram a Curva de maturidade do Marketo, oferecendo insights sobre como otimizar as configurações técnicas, implementar práticas recomendadas e manter a documentação eficaz e o controle da plataforma, com uma demonstração em tempo real da biblioteca de modelos de programa.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3512
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15907
-source-git-commit: 6c14ae9f4f638b202afa922fe814429a8742160e
+exl-id: fc39cc75-a8b9-4398-a059-7a5fe947e296
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mochas: Maturidade Parte 1 - Estabelecendo a Base
 

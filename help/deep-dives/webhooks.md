@@ -1,6 +1,6 @@
 ---
 title: Adobe Marketo Engage Champion Deep Dive - Uso de webhooks para transferir dados
-description: Às vezes, a função rígida de obter uma API criada, testada e implantada não é necessária. Em vez disso, você pode usar o autoatendimento com um webhook para executar uma variedade de transferências de dados no CRM ou em outros sistemas integrados. Junte-se a Darshil Shah e Josh Arrington para saber como usar esse recurso e impulsionar-se para a eficiência rapidamente! Moderado por John Grundy.
+description: Saiba como transferir dados com eficiência usando webhooks no Marketo com Darshil Shah e Josh Arrington, que abrangem manuseio de dados estruturados, gerenciamento de erros, métodos de autenticação e casos de uso práticos, como integração de CRM e comércio eletrônico, moderados por John Grundy.
 feature: Webhooks, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,9 +9,9 @@ duration: 3185
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15385
 exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
-source-git-commit: 0dfaa269fd25df0845c4eeee442fb2859492b543
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---

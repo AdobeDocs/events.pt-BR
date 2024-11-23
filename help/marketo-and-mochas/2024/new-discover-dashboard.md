@@ -1,6 +1,6 @@
 ---
 title: Novos painéis do Discover
-description: Saiba mais sobre os 9 novos Painéis do Discover agora disponíveis para todas as instâncias do Marketo Measure. Esses painéis recém-lançados oferecem perspectivas dinâmicas e insights aprimorados em métricas cruciais como Receita, Receita atribuída, ROI, Envolvimento, Velocidade do lead, Velocidade da oportunidade e Tráfego da Web.
+description: Adobe Junte-se a Kate Colbert, consultora sênior de negócios, e a James Leedom, assessora técnica, enquanto exploram os 9 novos painéis do Discover no Marketo Measure, oferecendo insights dinâmicos sobre métricas como Receita, ROI, Envolvimento e Velocidade líder, com uma demonstração em tempo real e uma sessão de perguntas e respostas.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3619
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15339
 exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -30,5 +30,5 @@ Durante esta sessão, demonstraremos como incorporar com mais eficiência esses 
 * Os novos painéis incluem recursos como segmentação de dados, supressão de pontos de contato e várias métricas e visualizações para analisar e rastrear o desempenho de marketing.
 * Os painéis abrangem uma variedade de áreas, incluindo visão geral da receita, receita atribuída, ROI, passaporte de lead, passaporte de oportunidade, velocidade, tráfego da Web, envolvimento e muito mais.
 * Configurar os painéis com base em necessidades comerciais específicas e na precisão dos dados é crucial para obter insights precisos e significativos.
-* O Painel do Discover é melhor para análise de tendências de alto nível e ROI, enquanto os relatórios do Salesforce são mais granulares e focados em indivíduos e registros específicos.
+* O painel Discover é melhor para a análise de tendências de alto nível e o ROI, enquanto os relatórios do Salesforce são mais granulares e focados em indivíduos e registros específicos.
 * A opção Data Warehouse fornece recursos mais avançados de análise e visualização de dados.

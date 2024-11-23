@@ -1,19 +1,19 @@
 ---
 title: Estratégias do Commerce e Coffee para comércio eletrônico B2B
-description: Nesta sessão, Corey Gelato, consultor sênior de estratégias da Commerce, explora estratégias para aproveitar totalmente a funcionalidade B2B nativa da Adobe Commerce.
+description: Corey Gelato destaca estratégias para maximizar os recursos nativos B2B da Adobe Commerce, incluindo opções de autoatendimento, Catálogo compartilhado, Cotações e pedido rápido, enquanto explora as principais tendências de comércio eletrônico para impulsionar o crescimento e posicionar os negócios B2B para o sucesso.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3568
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15908
-source-git-commit: 332855765dd58d837ae0daaf73a5227ee44153ec
+exl-id: 3b43fbb1-cc8f-4ac7-85bb-e1f410722edc
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; Coffee: estratégias de comércio eletrônico B2B
 

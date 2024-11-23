@@ -1,6 +1,6 @@
 ---
 title: Investindo em si mesmo - Adobe [!DNL Marketo Engage] Certificação
-description: Você se interessou pelo processo de certificação e como ele pode ajudar na sua carreira de marketing? Ou talvez você esteja interessado no processo de estudo, preparação e realização do exame? Junte-se aos Adobe [!DNL Marketo Engage] Campeões enquanto discutem sua jornada de se tornar um Especialista Certificado ou Arquiteto da Marketo.
+description: Quer saber como a certificação pode impulsionar sua carreira de marketing? Junte-se aos Adobe Marketo Engage Champions enquanto compartilham suas experiências e dicas para estudar, preparar e fazer o exame para se tornar um Marketo Certified Expert ou Arquiteto!
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +9,9 @@ jira: KT-12941
 thumbnail: 3416760.jpeg
 exl-id: aea1f3e5-3b28-432f-95df-a4eb300830c8
 duration: 3331
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---

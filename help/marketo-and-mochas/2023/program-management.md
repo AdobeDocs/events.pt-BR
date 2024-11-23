@@ -1,6 +1,6 @@
 ---
 title: Marketo e Mochas - Práticas recomendadas de gerenciamento de programas
-description: Os programas são um dos elementos mais importantes no Marketo. Se você está configurando pastas, trabalhando em convenções de nomenclatura, procurando membros, verificando o status do programa ou apenas interessado em gerenciar práticas recomendadas.  Atualizações mais recentes nos modelos e ativos criativos da Biblioteca de programas, juntamente com o compartilhamento de práticas recomendadas de gerenciamento de programas e uma demonstração.
+description: Explore os elementos essenciais dos programas do Marketo, incluindo configuração de pastas, convenções de nomenclatura, pesquisas de membros e verificações de status do programa, com as atualizações mais recentes dos modelos da Biblioteca de programas, ativos criativos e demonstrações de práticas recomendadas.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
@@ -12,9 +12,9 @@ jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 duration: 3501
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---

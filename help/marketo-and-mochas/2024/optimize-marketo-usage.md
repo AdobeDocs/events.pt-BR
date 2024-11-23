@@ -1,6 +1,6 @@
 ---
 title: Marketo & Mochas - Maturidade Parte 2 - Otimizar o uso do Marketo
-description: insights sobre como otimizar o uso do Marketo na Parte 2 de nossa série de 3 partes sobre a maturidade do Marketo. Esta sessão começará com práticas recomendadas para gerenciamento de dados, com foco em ferramentas como um dicionário de dados e Smart Lists de sistema para aprimorar a normalização de dados e o gerenciamento de registros. Em seguida, forneceremos uma visão geral das práticas recomendadas de integração, enfatizando as integrações nativas de CRM e os plug-ins de terceiros. Nossos consultores de negócios também compartilharão dicas de otimização de programa para melhorar a personalização e expandir seus públicos-alvo.
+description: Junte-se a Adobe Business Advisors, Cynthia Chang e Carly Gaver, na Parte 2 da série Marketo Maturity, com foco no gerenciamento de dados, integrações de CRM e otimização de campanha para aprimorar o uso do Marketo, com perguntas e respostas ao vivo.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mochas: Maturidade, Parte 2 - Otimizar o uso do Marketo
 

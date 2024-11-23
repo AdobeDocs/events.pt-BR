@@ -1,6 +1,6 @@
 ---
 title: Canais online vs. offline
-description: Veja mais de perto a configuração estratégica de Canais e Subcanais, a visão geral instrutiva do gerenciamento de canais online e offline, como eles funcionam, a sessão mostra demonstrações no produto e analisa as práticas recomendadas usadas por especialistas em atribuição
+description: Junte-se aos consultores de negócios de automação de marketing da Adobe, Kate Colbert e Elizabeth Lundberg, para uma sessão detalhada de 90 minutos sobre otimização de canais online e offline com a atribuição do Marketo Measure, que apresenta configurações estratégicas, práticas recomendadas e perguntas e respostas ao vivo.
 solution: Marketo Measure
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +10,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

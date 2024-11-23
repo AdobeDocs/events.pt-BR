@@ -1,6 +1,6 @@
 ---
 title: Marketo & Mochas - Estabelecendo a base para o sucesso da criação de leads
-description: Junte-se a consultores de negócios, Cynthia Chang e Carly Gaver, já que eles compartilham insights sobre como maximizar a criação de leads no Adobe Marketo Engage. Com a criação de leads, os profissionais de marketing podem se comunicar de forma consistente entre os canais, preenchendo a lacuna entre a interação inicial e a compra. Também exploraremos o tipo de programa de engajamento, que permite a distribuição de conteúdo para públicos-alvo nomeados em uma programação definida. Os Programas do Marketo Engage capacitam os profissionais de marketing a criar campanhas sempre ativas, envolvendo clientes potenciais e clientes por meio de conteúdo e experiências personalizadas. Carly também conduzirá uma demonstração ao vivo, orientando você pela configuração de um programa de envolvimento usando o modelo de práticas recomendadas da biblioteca de programas da Marketo. Como sempre, também responderemos suas perguntas ao vivo durante as perguntas e respostas.
+description: Junte-se aos consultores de negócios Cynthia Chang e Carly Gaver para saber como maximizar a criação de clientes potenciais no Adobe Marketo Engage, explorar Programas de engajamento para distribuição de conteúdo e ver uma demonstração ao vivo sobre como configurar um Programa de engajamento usando o Modelo de práticas recomendadas, com perguntas e respostas ao vivo.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
 exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---

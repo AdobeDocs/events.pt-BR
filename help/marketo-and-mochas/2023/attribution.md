@@ -1,6 +1,6 @@
 ---
 title: Marketo e Mochas - Atribuição do Marketo Measure
-description: Esta sessão do Marketo & Mochas apresenta os consultores de negócios de automação de marketing, Elizabeth Lundberg e Kate Colbert. Nesta sessão, Liz e Kate mergulham na atribuição dentro do Marketo Measure (fka Bizible). Eles discutem o que é atribuição e por que ela é útil, os diferentes modelos de estoque de atribuição no Marketo Measure, bem como as práticas recomendadas para escolher o(s) correto(s) para sua empresa. A apresentação é acompanhada por perguntas e respostas, onde Liz e Kate respondem ao vivo as perguntas dos inscritos e participantes.
+description: Junte-se a Elizabeth Lundberg e Kate Colbert nesta sessão do Marketo & Mochas para explorar a atribuição no Marketo Measure, incluindo modelos de ações, práticas recomendadas para selecionar a correta e perguntas e respostas ao vivo para aprimorar seus insights de marketing.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +10,9 @@ thumbnail: 3413506.jpeg
 event-start-time: 2023-1-24 08:30-8
 exl-id: 6f3b1c89-0176-4495-8e28-c265da3581d5
 duration: 3493
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---

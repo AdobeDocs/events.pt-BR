@@ -1,6 +1,6 @@
 ---
 title: Commerce & Coffee - Preparação da temporada de pico
-description: tudo o que você precisa saber para preparar adequadamente seu site para uma temporada de pico a qualquer hora do ano. estratégias eficazes para não só se manterem competitivas, mas antes da concorrência. Saiba como otimizar o desempenho do site, gerenciar o inventário e incrementar proativamente o suporte ao cliente. Corey também abordará as práticas recomendadas para o planejamento de campanhas de marketing eficazes que impulsionem conversões, atendam a pedidos e analisem suas campanhas com análises e relatórios após a temporada de pico.
+description: A sessão de Corey Gelato fornece estratégias para que as empresas de comércio eletrônico se destaquem durante as temporadas de pico, otimizando o desempenho do site, gerenciando o inventário, aprimorando o engajamento do cliente com ferramentas de IA e aproveitando a análise pós-temporada para melhorar a retenção e a fidelidade.
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3436
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16235
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; Coffee: Preparação da temporada de pico
 

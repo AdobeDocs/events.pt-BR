@@ -1,6 +1,6 @@
 ---
 title: Preparação da temporada de pico
-description: Corey Gelato aprofunda-se nas práticas e estratégias recomendadas para a época de pico, aprenda a promover com sucesso e de forma eficaz seus bens e/ou serviços em seu(s) site(s) e se manter competitivo durante uma época de pico a qualquer momento do ano. Após uma demonstração de recursos, incluindo preparo e pré-visualização de conteúdo, promoções, catálogos e regras de preço do carrinho e muito mais, Corey responde a perguntas durante uma sessão de perguntas e respostas ao vivo.
+description: Junte-se a Corey Gelato para explorar as estratégias de pico da temporada, incluindo promoções, estágios de conteúdo e regras de preços, com demonstrações ao vivo e dicas de especialistas para ajudar seu site de comércio eletrônico a permanecer competitivo o ano todo.
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
@@ -12,9 +12,9 @@ jira: KT-13992
 thumbnail: 3424390.jpeg
 exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
 duration: 3580
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

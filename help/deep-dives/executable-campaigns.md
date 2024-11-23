@@ -1,6 +1,6 @@
 ---
 title: Campanhas executáveis - Saiba como os executáveis podem impulsionar a eficiência e o impacto
-description: Esta sessão é adaptada para admins e profissionais de operação de campanhas do Marketo, e concentra-se na compreensão e implantação de campanhas executáveis para agregar valor a campanhas e programas, aumentar a eficiência e impulsionar o crescimento.
+description: Junte-se a Chris Willis, Courtny Edwards-Jones e Jane Musatova neste Adobe Champion Deep Dive para saber como as campanhas executáveis no Marketo podem simplificar processos, garantir a precisão dos dados e automatizar fluxos de trabalho complexos, com exemplos práticos e foco na minimização de erros e registros pendentes.
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,10 +9,10 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 6%
+source-wordcount: '479'
+ht-degree: 0%
 
 ---
 

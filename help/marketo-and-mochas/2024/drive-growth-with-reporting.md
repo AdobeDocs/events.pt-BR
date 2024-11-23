@@ -1,6 +1,6 @@
 ---
 title: Marketo & Mochas - Impulsionando o crescimento com a geração de relatórios (Pt 3 de maturidade)
-description: Junte-se aos consultores de negócios da Adobe, Cynthia Chang e Carly Gaver, para a Parte 3 da nossa série de webinários Marketo Maturity sobre como impulsionar o crescimento dos negócios com as ferramentas de relatório da Marketo. Em nosso último webinário da série, discutimos como usar os recursos de relatórios do Marketo para ajudar você a amadurecer no uso do Marketo. Começamos com dicas sobre como você pode aproveitar os recursos nativos e os relatórios do Marketo para monitorar o desempenho da sua instância. Em seguida, abordamos como navegar pelos relatórios básicos e avançados do Marketo para fornecer métricas precisas e de impacto, que aprimoram seu processo de tomada de decisões e ajudam a alcançar seus objetivos comerciais. Não perca esta oportunidade para maximizar o potencial de seus relatórios e análises de marketing. Como sempre, respondemos suas perguntas ao vivo durante a sessão de perguntas e respostas.
+description: Junte-se a Adobe Business Advisors, Cynthia Chang e Carly Gaver, na Parte 3 da série de webinários Marketo Maturity, explorando como aproveitar as ferramentas de relatórios da Marketo para impulsionar o crescimento dos negócios, monitorar o desempenho e fornecer métricas de impacto, com perguntas e respostas ao vivo.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mochas: Impulsionando o crescimento com a geração de relatórios (Pt 3 de maturidade)
 
