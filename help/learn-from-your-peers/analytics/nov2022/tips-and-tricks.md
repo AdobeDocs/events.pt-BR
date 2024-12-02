@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Adobe Analytics] Dicas e truques do especialista'
+title: Dicas e truques do especialista [!DNL Adobe Analytics]
 description: Junte-se a cinco [!DNL Adobe Analytics] Campeões do mundo inteiro enquanto eles compartilham dicas e truques que os ajudaram a dominar [!DNL Adobe Analytics].
 role: User
 doc-type: Event

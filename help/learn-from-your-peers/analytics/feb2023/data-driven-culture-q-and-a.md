@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Adobe Analytics] Criando uma Cultura Orientada por Dados Acompanhando Perguntas e Respostas'
+title: '[!DNL Adobe Analytics] Criação de uma cultura orientada por dados Acompanhamento de perguntas e respostas'
 description: Durante o  [!DNL Adobe Analytics] Webinar Criação de uma Cultura Orientada por Dados, mais de 35 perguntas foram feitas por [!DNL Adobe Analytics] usuários em todo o mundo. Como nosso [!DNL Adobe Analytics] Especialista não pôde responder todas essas perguntas durante as perguntas e respostas ao vivo, nós as trouxemos de volta e hospedamos uma sessão de perguntas e respostas de acompanhamento para responder SUAS perguntas e compartilhamos ainda mais conhecimento especializado.
 role: User
 doc-type: Event

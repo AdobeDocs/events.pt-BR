@@ -1,5 +1,5 @@
 ---
-title: Perguntas e respostas de acompanhamento sobre dicas e truques do especialista [!DNL Adobe Analytics]
+title: Perguntas e respostas de acompanhamento de [!DNL Adobe Analytics] dicas e truques dos especialistas
 description: Nós reunimos cinco [!DNL Adobe Analytics] Campeões de todo o mundo para compartilhar dicas e truques que os ajudaram a dominar [!DNL Adobe Analytics]. During the event, over 90 questions were asked by [!DNL Adobe Analytics]  usuários em todo o mundo. Como nossos especialistas do  [!DNL Adobe Analytics]  não puderam responder todas essas perguntas durante as perguntas e respostas ao vivo, nós reunimos o grupo novamente e hospedamos uma sessão de perguntas e respostas de acompanhamento, onde os especialistas responderam SUAS perguntas e compartilharam ainda mais dicas e truques de especialistas.
 role: User
 doc-type: Event
