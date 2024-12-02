@@ -4,10 +4,10 @@ description: Uma coleção de gravações de sessão do Adobe Developers Live
 solution: Experience Cloud, Experience Manager
 exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
 duration: 156
-source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
+source-git-commit: a27c81e245b1dae18bb62135ed2c9e4a60bc0694
 workflow-type: tm+mt
-source-wordcount: '1166'
-ht-degree: 3%
+source-wordcount: '1259'
+ht-degree: 2%
 
 ---
 
@@ -33,6 +33,33 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
 
 * 2024/nov/keynote.md
 -->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Keynote - Adobe Experience Manager Update">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/keynote.md" title="Palestra - Atualização do Adobe Experience Manager" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439437/?format=jpeg&nocache=1733162924376" alt="Palestra - Atualização do Adobe Experience Manager"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/nov/keynote.md" target="_blank" rel="referrer" title="Palestra - Atualização do Adobe Experience Manager">Palestra - Atualização do Adobe Experience Manager</a>
+                    </p>
+                    <p class="is-size-6">O Adobe enfatiza o papel crucial dos desenvolvedores em seus negócios de Experience Manager e Commerce, destaca o formato de evento híbrido, comemora marcos e se concentra em inovação, desempenho, envolvimento da comunidade e desenvolvimentos futuros em desempenho da Web, interface do usuário gerativa e funcionalidades de pesquisa avançadas.</p>
+                </div>
+                <a href="2024/nov/keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ### Cloud Service Adobe Experience Manager
 
@@ -53,7 +80,7 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/ai-and-personalization.md" title="Levando a IA e o Personalization para o Adobe Experience Manager Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1732728214510" alt="Levando a IA e o Personalization para o Adobe Experience Manager Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1733162925381" alt="Levando a IA e o Personalization para o Adobe Experience Manager Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,7 +103,7 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/apis-eventing.md" title="APIs e eventos modernos do Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440203/?format=jpeg&nocache=1732728214493" alt="APIs e eventos modernos do Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440203/?format=jpeg&nocache=1733162925370" alt="APIs e eventos modernos do Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -99,7 +126,7 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/cdn-waf-aemcs.md" title="Configuração de CDN e WAF no Adobe Experience Manager as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1732728214505" alt="Configuração de CDN e WAF no Adobe Experience Manager as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1733162925358" alt="Configuração de CDN e WAF no Adobe Experience Manager as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,12 +144,35 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Magic Buttons and How to Build Them">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/magic-buttons.md" title="Botões mágicos e como criá-los" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440037/?format=jpeg&nocache=1733162925377" alt="Botões mágicos e como criá-los"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/nov/magic-buttons.md" target="_blank" rel="referrer" title="Botões mágicos e como criá-los">Botões Mágico e Como Criá-los</a>
+                    </p>
+                    <p class="is-size-6">Melhore os fluxos de trabalho e as experiências do usuário com a extensibilidade da UI do Adobe, permitindo integrações personalizadas por meio do Adobe App Builder, simplificando tarefas complexas com um "botão mágico" e oferecendo suporte à integração perfeita com sistemas empresariais, com expansões futuras para mais serviços da Adobe.</p>
+                </div>
+                <a href="2024/nov/magic-buttons.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Experience Manager Rapid Development Environments">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/rapid-development-environments.md" title="Ambientes de desenvolvimento rápido da Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440397/?format=jpeg&nocache=1732728214500" alt="Ambientes de desenvolvimento rápido da Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440397/?format=jpeg&nocache=1733162925364" alt="Ambientes de desenvolvimento rápido da Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -164,7 +214,7 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/edge-delivery-services.md" title="Edge Delivery Services - Um Ano Depois, Seis Maneiras Melhor" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439436/?format=jpeg&nocache=1732728215691" alt="Edge Delivery Services - Um Ano Depois, Seis Maneiras Melhor"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439436/?format=jpeg&nocache=1733162926503" alt="Edge Delivery Services - Um Ano Depois, Seis Maneiras Melhor"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -187,7 +237,7 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/extension-manager.md" title="Extension Manager para Adobe Experience Manager Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1732728215711" alt="Extension Manager para Adobe Experience Manager Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1733162926516" alt="Extension Manager para Adobe Experience Manager Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -205,12 +255,35 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="How Adobe Experience Manager Sites Leverages GenAI">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/aem-sites-gen-ai.md" title="Como o Adobe Experience Manager Sites utiliza a GenAI" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439637/?format=jpeg&nocache=1733162926523" alt="Como o Adobe Experience Manager Sites utiliza a GenAI"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/nov/aem-sites-gen-ai.md" target="_blank" rel="referrer" title="Como o Adobe Experience Manager Sites utiliza a GenAI">Como o Adobe Experience Manager Sites utiliza a GenAI</a>
+                    </p>
+                    <p class="is-size-6">Melhore a experiência do cliente e impulsione os resultados de negócios com o Adobe Experience Manager (AEM) Sites, aproveitando a JNI para experiências com base em intenções, descoberta de conteúdo inteligente, ativação rápida, otimização de autoaprendizado e teste de privacidade, com recursos futuros para experimentação dinâmica e pontuação de marca.</p>
+                </div>
+                <a href="2024/nov/aem-sites-gen-ai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Roll Your Own HTML with Web Components">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/html-and-web-components.md" title="Coloque seu próprio HTML com os Componentes Web" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440406/?format=jpeg&nocache=1732728215715" alt="Coloque seu próprio HTML com os Componentes Web"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440406/?format=jpeg&nocache=1733162926520" alt="Coloque seu próprio HTML com os Componentes Web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -233,7 +306,7 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/journey-to-edge-delivery-services.md" title="Uma Jornada de verdade para o Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439421/?format=jpeg&nocache=1732728215707" alt="Uma Jornada de verdade para o Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439421/?format=jpeg&nocache=1733162926508" alt="Uma Jornada de verdade para o Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -256,7 +329,7 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/tales-200-trenches.md" title="Contos de 200 trincheiras" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439424/?format=jpeg&nocache=1732728215698" alt="Contos de 200 trincheiras"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439424/?format=jpeg&nocache=1733162926498" alt="Contos de 200 trincheiras"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -279,7 +352,7 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/universal-editor-eds.md" title="Editor universal, Criação e Edge Delivery Services do Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439423/?format=jpeg&nocache=1732728215703" alt="Editor universal, Criação e Edge Delivery Services do Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439423/?format=jpeg&nocache=1733162926527" alt="Editor universal, Criação e Edge Delivery Services do Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -317,7 +390,7 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/asset-migration-blueprint.md" title="Blueprint de migração do Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1732728216966" alt="Blueprint de migração do Assets"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1733162927528" alt="Blueprint de migração do Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -340,7 +413,7 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/performant-delivery.md" title="Práticas recomendadas para entrega eficiente" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1732728216971" alt="Práticas recomendadas para entrega eficiente"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1733162927540" alt="Práticas recomendadas para entrega eficiente"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -363,7 +436,7 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/dynamic-media-open-api.md" title="Entrega dimensionável otimizada para a Web e transformação de conteúdo usando o Dynamic Media com API aberta por meio do Seletor de ativos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440336/?format=jpeg&nocache=1732728216958" alt="Entrega dimensionável otimizada para a Web e transformação de conteúdo usando o Dynamic Media com API aberta por meio do Seletor de ativos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440336/?format=jpeg&nocache=1733162927536" alt="Entrega dimensionável otimizada para a Web e transformação de conteúdo usando o Dynamic Media com API aberta por meio do Seletor de ativos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -392,6 +465,33 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
 
 * 2024/nov/forms-on-the-edge.md
 -->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms on the Edge!">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/forms-on-the-edge.md" title="Forms na Edge!" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439704/?format=jpeg&nocache=1733162927779" alt="Forms na Edge!"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/nov/forms-on-the-edge.md" target="_blank" rel="referrer" title="Forms na Edge!">Forms na Edge!</a>
+                    </p>
+                    <p class="is-size-6">Transforme formulários em experiências envolventes que convertem visitantes em clientes, aproveitando a personalização de borda, a integração com o Adobe Experience Manager, a criação baseada em documentos e a assistência de IA, enquanto aprimora a funcionalidade com componentes personalizados e otimiza por meio de experimentação.</p>
+                </div>
+                <a href="2024/nov/forms-on-the-edge.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ### Adobe Experience Manager Cloud Manager
 
@@ -403,26 +503,13 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-
-### Adobe Commerce
-
-<!-- CARDS
-
-{cta = Watch}
-
-* 2024/nov/back-office-integrations.md
-* 2024/nov/commerce-aem-assets-gen-ai.md
-* 2024/nov/commerce-storefront-eds.md
-* 2024/nov/commerce-api-headless.md
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Accelerate Back-Office Integrations in Adobe Commerce with the Integration Starter Kit">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Streamlining DevOps with Cloud Manager">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/nov/back-office-integrations.md" title="Acelere as integrações de back-office no Adobe Commerce com o kit inicial de integração" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440398/?format=jpeg&nocache=1732728218295" alt="Acelere as integrações de back-office no Adobe Commerce com o kit inicial de integração"
+                    <a href="2024/nov/dev-ops-cloud-manager.md" title="Simplificação de DevOps com o Cloud Manager" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439904/?format=jpeg&nocache=1733162928743" alt="Simplificação de DevOps com o Cloud Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -430,57 +517,11 @@ As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creativ
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/nov/back-office-integrations.md" target="_blank" rel="referrer" title="Acelere as integrações de back-office no Adobe Commerce com o kit inicial de integração">Acelere as integrações de back-office no Adobe Commerce com o Integration Starter Kit</a>
+                        <a href="2024/nov/dev-ops-cloud-manager.md" target="_blank" rel="referrer" title="Simplificação de DevOps com o Cloud Manager">Dinamizando DevOps com Cloud Manager</a>
                     </p>
-                    <p class="is-size-6">Simplifique e aprimore as integrações do Adobe Commerce com kits iniciais que reduzem o tempo de desenvolvimento em até 50%, oferecem suporte a personalizações em tempo real e fornecem ferramentas e estruturas abrangentes, conforme demonstrado em sessões práticas e aplicativos reais.</p>
+                    <p class="is-size-6">Otimize os fluxos de trabalho de implantação com o novo recurso "Traga seu próprio Git" do Adobe no AMP Cloud Manager, permitindo a integração direta de repositórios Git externos, dando suporte a uma estratégia de deslocamento para as verificações antecipadas de qualidade do código e melhorando a eficiência e a adaptabilidade.</p>
                 </div>
-                <a href="2024/nov/back-office-integrations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Energizing Adobe Commerce with Adobe Experience Manager Assets and GenAI">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2024/nov/commerce-aem-assets-gen-ai.md" title="Energização do Adobe Commerce com Adobe Experience Manager Assets e GenAI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440400/?format=jpeg&nocache=1732728218286" alt="Energização do Adobe Commerce com Adobe Experience Manager Assets e GenAI"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/nov/commerce-aem-assets-gen-ai.md" target="_blank" rel="referrer" title="Energização do Adobe Commerce com Adobe Experience Manager Assets e GenAI">Energizando o Adobe Commerce com Adobe Experience Manager Assets e GenAI</a>
-                    </p>
-                    <p class="is-size-6">Melhore as lojas da Adobe Commerce integrando o Adobe Experience Manager Assets e a GenAI com o Adobe Express para aproveitar as referências de imagem aprovadas na marca, melhorar a qualidade do conteúdo de mídia e elevar o desempenho do comércio eletrônico.</p>
-                </div>
-                <a href="2024/nov/commerce-aem-assets-gen-ai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Orchestrating Commerce APIs for Headless Implementations">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2024/nov/commerce-api-headless.md" title="Orquestração de APIs do Commerce para implementações headless" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440402/?format=jpeg&nocache=1732728218291" alt="Orquestração de APIs do Commerce para implementações headless"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/nov/commerce-api-headless.md" target="_blank" rel="referrer" title="Orquestração de APIs do Commerce para implementações headless">Orquestrando APIs do Commerce para implementações headless</a>
-                    </p>
-                    <p class="is-size-6">Saiba como a Revanth Kumar, engenheira de software da Adobe, usa a API Mesh para integrar e gerenciar várias fontes de dados e oferecer experiências de comércio headless de alto desempenho, com benefícios como segurança aprimorada, desempenho e desenvolvimento simplificado.</p>
-                </div>
-                <a href="2024/nov/commerce-api-headless.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="2024/nov/dev-ops-cloud-manager.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
                 </a>
             </div>
