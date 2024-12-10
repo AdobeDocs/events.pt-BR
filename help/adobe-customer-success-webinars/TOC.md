@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários Adobe Customer Success-led projetados para capacitá-lo na otimização do seu investimento no Adobe Experience Cloud. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções Adobe.
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 0%
 + [Webinários de sucesso do cliente do Adobe](overview.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
+   + [Personalization orientado por IA da Adobe Target](2024/ai-personalization.md)
    + [Adobe Workfront - Equipes de lean manufacturing](2024/workfront-lean-teams.md)
    + [Adobe Workfront Master](2024/workfront-mastery.md)
    + [Principais conceitos de criação do AEM](2024/aem-authoring-concepts.md)
@@ -22,6 +23,7 @@ ht-degree: 0%
    + [Integrações dos serviços de aplicativo da AEP para casos de uso do cliente](2024/aep-apps-services-integrations.md)
    + [Planejamento de caso de uso da AEP](2024/aep-use-case-planning.md)
    + [Redação com recursos de IA](2024/ai-copywriting.md)
+   + [Recursos de análise básicos a intermediários](2024/basic-to-intermediate-analysis-capabilities.md)
    + [Priorização do fluxo de dados](2024/data-stream-prioritization.md)
    + [Edge Network e Personalization móvel](2024/edge-network-mobile-personalization.md)
    + [Gerenciamento eficaz de alterações](2024/effective-change-management.md)
@@ -31,16 +33,17 @@ ht-degree: 0%
    + [Introdução à análise do Adobe Journey Optimizer](2024/getting-started-ajo-analysis.md)
    + [Introdução ao Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
    + [Aproveitamento da IA para a experiência do cliente](2024/ai-customer-experience.md)
+   + [Hiperpersonalização](2024/hyperpersonalization.md)
+   + [Recursos do Journey Optimizer Mobile](2024/journey-optimizer-mobile-capabilities.md)
    + [Equipes de lean manufacturing e Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Dominar a Adobe Admin Console](2024/adobe-admin-console.md)
    + [Dominar cookies e privacidade de dados](2024/mastering-cookies-data-privacy.md)
-   + [Personalization do Target](2024/target-personalization.md)
-   + [Hiperpersonalização](2024/hyperpersonalization.md)
-   + [Recursos do Journey Optimizer Mobile](2024/journey-optimizer-mobile-capabilities.md)
+   + [Disponibilidade organizacional para a cadeia de fornecimento de conteúdo](2024/organizational-readiness-content-supply-chain.md)
    + [Integração do Real-time Customer Data Platform e da Marketo](2024/aep-marketo-integration.md)
    + [Disponibilidade para migração do Real-time Customer Data Platform](2024/rtcdp-migration-readiness.md)
    + [Liderança estratégica](2024/strategic-leadership.md)
    + [Autenticação simplificada](2024/streamline-authentication.md)
+   + [Personalization do Target](2024/target-personalization.md)
    + [Transformando Dados em Ação](2024/turning-data-into-action.md)
    + [Como explorar o potencial dos serviços da Edge](2024/edge-delivery-services.md)
    + [Mapeamento de casos de uso para recursos da solução](2024/use-case-mapping.md)

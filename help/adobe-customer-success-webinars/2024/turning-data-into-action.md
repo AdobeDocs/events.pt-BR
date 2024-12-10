@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
-
 
 # O poder estratégico da medição: transformar dados em ação
 
@@ -29,7 +29,7 @@ Conheça os elementos essenciais da criação de uma estratégia de medição ho
 * O envolvimento regular das partes interessadas no fornecimento dos seus dados garante a familiaridade com os dados capturados.
 * Capacitar as partes interessadas a sentirem-se confiantes na condução de relatórios e na tomada de decisões por conta própria reduz a hesitação.
 
-**Confiança
+**Confiança**
 
 * A confiança é criada por meio de envolvimento pró-ativo, transparência, governança de dados e controle de qualidade.
 * O alinhamento das partes interessadas e o envolvimento no planeamento estratégico são cruciais.
@@ -52,4 +52,3 @@ Conheça os elementos essenciais da criação de uma estratégia de medição ho
 * Preparação de recursos para novos usuários e personas que não são de analistas.
 * Realizar sessões de dicas rápidas e sessões regulares de compartilhamento de conhecimento.
 * Usar informativos e comunicações internas para compartilhar insights e atualizações.
-
