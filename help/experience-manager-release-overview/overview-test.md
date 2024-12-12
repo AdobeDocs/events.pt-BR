@@ -5,7 +5,7 @@ user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 49b386b6729419261265a3d022a87df77f294137
+source-git-commit: ee8aede121140f6a4ce9f5da2656b3e3cc0e0137
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops" title="Visão geral da versão 2024.11.0 do AEM" target="_blank" rel="referrer">
+                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="Visão geral da versão 2024.11.0 do AEM" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="2024/assets/2024-11-play-button.png" alt="Visão geral da versão 2024.11.0 do AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -86,7 +86,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="Visão geral da versão 2024.10.0 do AEM">Visão geral da versão 2024.10.0 do AEM</a>
                     </p>
-                    <p class="is-size-6">Os recursos nesta versão enfocam as inovações da Experience Manager Assets e do Cloud Service e incluem o seguinte:Novos preços e pacotes da AEM Assets para o AEM Assets com Assets Ultimate e Asset PrimeAEM Cloud Service AEM Encaminhe logs para mais destinos Redirecionamentos de URL sem pipeline para usuários empresariais ​ RDEs suportam Pipeline de configuração YAMLs​ interativo Developer Console</p>
+                    <p class="is-size-6">Os recursos nesta versão enfocam as inovações do Experience Manager Assets e do Cloud Service e incluem o seguinte: AEM Assets Novos preços e pacotes para o AEM Assets com Assets Ultimate e Asset PrimeAEM Cloud Service Encaminhar logs para mais destinos Redirecionamentos de URL sem pipeline para usuários empresariais ​ RDEs suportam Pipeline de configuração YAMLs​ Interativo AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mais detalhes</span>
