@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários Adobe Customer Success-led projetados para capacitá-lo na otimização do seu investimento no Adobe Experience Cloud. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções Adobe.
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 0%
    + [Equipes de lean manufacturing e Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Dominar a Adobe Admin Console](2024/adobe-admin-console.md)
    + [Dominar cookies e privacidade de dados](2024/mastering-cookies-data-privacy.md)
+   + [Dominar a lógica sequencial](2024/sequential-logic.md)
    + [Disponibilidade organizacional para a cadeia de fornecimento de conteúdo](2024/organizational-readiness-content-supply-chain.md)
    + [Integração do Real-time Customer Data Platform e da Marketo](2024/aep-marketo-integration.md)
    + [Disponibilidade para migração do Real-time Customer Data Platform](2024/rtcdp-migration-readiness.md)
@@ -47,7 +48,7 @@ ht-degree: 0%
    + [Transformando Dados em Ação](2024/turning-data-into-action.md)
    + [Como explorar o potencial dos serviços da Edge](2024/edge-delivery-services.md)
    + [Mapeamento de casos de uso para recursos da solução](2024/use-case-mapping.md)
-   + [Fundamentos para migração do SDK da Web](2024/web-sdk-migration.md)
+   + [Fundamentos para migração do Web SDK](2024/web-sdk-migration.md)
 
 + 2023 {#2023}
    + [Criando a base para o Personalization em escala](2023/personalization-at-scale.md)

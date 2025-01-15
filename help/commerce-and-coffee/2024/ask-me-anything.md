@@ -8,17 +8,18 @@ doc-type: Event
 duration: 3153
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16471
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+exl-id: 0e765a3e-9ff8-4a4a-8987-e56631adfc58
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
 # Pergunte-me qualquer coisa
 
 Corey e Agbi responderam perguntas ao vivo, bem como de registros, compartilhando suas práticas recomendadas e demonstrando recursos no Adobe Commerce para ajudar os clientes a terem sucesso a qualquer momento do ano.
+
 >[!VIDEO](https://video.tv.adobe.com/v/3437034/?learn=on&enablevpops)
 
 ## Pontos principais
