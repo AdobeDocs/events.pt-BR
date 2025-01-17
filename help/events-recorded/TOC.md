@@ -2,10 +2,10 @@
 user-guide-title: Gravações de evento do Adobe Experience League
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Uma coleção de gravações de eventos forçadas a usar os produtos Adobe Enterprise
-source-git-commit: 5cfca96daa651cd2d2c8860c1217acbec1e6168e
+source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 11%
+source-wordcount: '412'
+ht-degree: 10%
 
 ---
 
@@ -23,9 +23,12 @@ ht-degree: 11%
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [Horário comercial do AEM](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [Eventos do APAC Commerce](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+   + [Atrás do Brew](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Commerce e Café](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [Vozes do gerenciamento de dados do cliente](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=pt-BR)
+   + [Controle de Dados](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Aprofundamento](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [Expressos e Experience Manager](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Sessões técnicas do Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
@@ -35,6 +38,7 @@ ht-degree: 11%
    + [Marketo e Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [Construtor de habilidades](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
+   + [Ativar com o Workfront](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + Por solução {#solution}
    + Acrobat Sign {#as}
