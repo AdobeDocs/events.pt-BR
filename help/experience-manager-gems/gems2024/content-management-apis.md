@@ -11,19 +11,20 @@ doc-type: Technical Video
 duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
 
 ---
 
-
 # GEMs AEM - Desbloquear o poder do AEM Sites: dominar as APIs de gerenciamento de conteúdo
 
 As maneiras de usar o AEM Sites estão evoluindo rapidamente, adicionando padrões de API-first às interações tradicionais do usuário. Seja para simplificar suas operações ou aprimorar sua automação, é fundamental estar à frente dessas tendências. Junte-se a nós para uma sessão detalhada onde exploramos atualizações de última geração relacionadas ao AEM Sites e como elas podem potencializar sua estratégia de gerenciamento de conteúdo.
 
 Nesta sessão, você descobrirá:
+
 * **Padrões avançados de OpenAPI** Explore as implementações mais recentes de OpenAPI para operações CRUD simples em conteúdo estruturado com AEM.
 * **Eventos e webhooks** Saiba como os recursos de eventos e webhooks do Adobe I/O podem automatizar processos com base em alterações de conteúdo e estado no AEM.
 * **Novas APIs REST para automação de tradução** Conheça as novas APIs REST que simplificam e simplificam os fluxos de trabalho de tradução de conteúdo no AEM.
