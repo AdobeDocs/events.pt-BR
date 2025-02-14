@@ -1,6 +1,6 @@
 ---
-title: O que há de novo em Ambientes de desenvolvimento rápido para AEM?
-description: As RDEs permitem que os desenvolvedores implantem e revisem alterações rapidamente, minimizando o tempo necessário para testar recursos que comprovadamente funcionam em um ambiente de desenvolvimento local. Nesta sessão, mostraremos como você pode usar os RDEs para reduzir os tempos de inversão durante o desenvolvimento e obter feedback quase instantâneo para alterações de código. Além disso, apresentaremos os recursos mais recentes, como o registro aprimorado e o suporte de front-end. Junte-se a nós para saber mais sobre o que você pode fazer com os RDEs e informe-nos sobre o que você gostaria de ver adicionado a seguir.
+title: O que há de novo nos ambientes de desenvolvimento rápido para AEM?
+description: A sessão demonstrará como os RDEs permitem a implantação e a revisão rápidas das alterações, reduzindo os tempos de resposta do desenvolvimento e fornecendo feedback quase instantâneo. Ele também introduzirá novos recursos como registro aprimorado e suporte de front-end.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 3cf88775-de57-4d1a-aa86-b6e93b47cfcf
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -22,15 +22,15 @@ ht-degree: 0%
 Este webinário foi concluído em 4 de setembro de 2024 - 17h00 CEST / 8h00 PDT / 20h30 IST.
 Veja a gravação abaixo.
 
-## O que há de novo em Ambientes de desenvolvimento rápido para AEM?
+## O que há de novo nos ambientes de desenvolvimento rápido para AEM?
 
 As RDEs permitem que os desenvolvedores implantem e revisem alterações rapidamente, minimizando o tempo necessário para testar recursos que comprovadamente funcionam em um ambiente de desenvolvimento local. Nesta sessão, mostraremos como você pode usar os RDEs para reduzir os tempos de inversão durante o desenvolvimento e obter feedback quase instantâneo para alterações de código. Além disso, apresentaremos os recursos mais recentes, como o registro aprimorado e o suporte de front-end. Junte-se a nós para saber mais sobre o que você pode fazer com os RDEs e informe-nos sobre o que você gostaria de ver adicionado a seguir.
 
 ## Apresentadores
 
-* Natalia Angulo Herrera, Engenheira de Desenvolvimento de Software, Adobe
+* Natalia Angulo Herrera, engenheira de desenvolvimento de software, Adobe
 * Karl Pauls, cientista da computação sênior, Adobe
-* Remo Liechtenstein, Engenheiro de Desenvolvimento de Software, Adobe
+* Remo Liechtenstein, Engenheiro de desenvolvimento de software, Adobe
 * Julian Sedding, Engenheiro de desenvolvimento de software, Adobe
 
 ## Gravação do webinário
@@ -41,6 +41,6 @@ As RDEs permitem que os desenvolvedores implantem e revisem alterações rapidam
 
 >[!NOTE]
 >
->* Para ver as interações da comunidade específicas da sessão no Experience League, visite o respectivo [Thread Contextual](https://adobe.ly/3M8MFTE).
+>* Para ver as interações da comunidade específicas da sessão no Experience League, visite o respectivo [Thread contextual](https://adobe.ly/3M8MFTE).
 >
->* Para receber notificações sobre nossos próximos webinários, registre-se em [Grupo de usuários do AdobeAEM](https://aem-augs.adobe.com/).
+>* Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de usuários do AEM da Adobe](https://aem-augs.adobe.com/).

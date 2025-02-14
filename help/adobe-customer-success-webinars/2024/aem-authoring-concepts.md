@@ -1,6 +1,6 @@
 ---
-title: Noções básicas do AEM Introdução ao AEM Criação de conceitos e recursos principais
-description: Descubra como o AEM oferece um ambiente de criação robusto e flexível que oferece suporte a várias metodologias de criação de conteúdo, desde páginas da Web tradicionais até configurações headless do CMS.Pontos principais de discussão:Criação incluindo editor universalFragmento de conteúdoRecursos colaborativos
+title: 'Noções básicas do AEM Introdução à criação no AEM: principais conceitos e recursos'
+description: A sessão de Noções básicas de criação do AEM abordou os principais conceitos, o modelo de ambiente duplo, os desafios de criação de conteúdo, as ferramentas de criação, os recursos de colaboração e tradução e os serviços de entrega de borda.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -9,15 +9,15 @@ doc-type: Event
 duration: 3248
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16416
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 5966c14a-7adb-48d8-bf20-9fb4a350745f
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '315'
 ht-degree: 1%
 
 ---
 
-
-# Noções básicas do AEM Introdução ao AEM Criação de conceitos e recursos principais
+# Noções básicas do AEM Introdução à criação no AEM: principais conceitos e recursos
 
 Descubra como o AEM oferece um ambiente de criação robusto e flexível que oferece suporte a várias metodologias de criação de conteúdo, desde páginas da Web tradicionais até configurações headless do CMS.
 
@@ -49,12 +49,12 @@ Visão geral das diferentes ferramentas de criação no AEM,
 
 * **Editor de páginas** Editor tradicional do WYSIWYG para criar e editar páginas da Web. &#x200B;
 * **Editor de Fragmento de Conteúdo** para criar conteúdo headless que pode ser reutilizado em diferentes canais. &#x200B;
-* **Editor Universal** Uma interface de usuário moderna para a criação de conteúdo que oferece suporte a conteúdo AEM e a conteúdo externo instrumentado corretamente. &#x200B;
-* **Criação baseada em documento** Permite a criação de conteúdo usando ferramentas familiares, como o Microsoft Word ou o Google Docs, integrados aos fluxos de trabalho do AEM. &#x200B;
+* **Editor Universal** Uma interface de usuário moderna para criação de conteúdo que oferece suporte ao conteúdo do AEM e ao conteúdo externo instrumentado corretamente. &#x200B;
+* **Criação baseada em documento** Permite a criação de conteúdo usando ferramentas familiares, como o Microsoft Word ou o Google Docs, integradas aos fluxos de trabalho do AEM. &#x200B;
 
 ### Recursos colaborativos
 
-Os recursos colaborativos do AEM incluem revisões simultâneas, revisões em linha, gerenciamento de projetos e fluxos de trabalho e delegação de tarefas para simplificar os processos de criação e revisão de conteúdo.
+Os recursos colaborativos da AEM incluem revisões simultâneas, revisões em linha, gerenciamento de projetos e fluxos de trabalho e delegação de tarefas para simplificar os processos de criação e revisão de conteúdo.
 
 ### Recursos de tradução
 
@@ -62,4 +62,4 @@ O AEM oferece suporte ao gerenciamento de conteúdo multilíngue por meio de flu
 
 ### Edge Delivery Services
 
-Mencione os serviços de entrega de borda como parte da Nuvem do AEM, que melhora o processo de criação e publicação de conteúdo.
+Mencione os serviços de entrega de borda como parte da AEM Cloud, o que melhora o processo de criação e publicação de conteúdo.

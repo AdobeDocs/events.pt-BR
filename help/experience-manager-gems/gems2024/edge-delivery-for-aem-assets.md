@@ -1,6 +1,6 @@
 ---
 title: Integração do AEM Assets com o Edge Delivery Services
-description: Durante esse webinário de GEMs do AEM, mostraremos como você pode usar o AEM Assets em seu site criado no Edge Delivery Services do AEM.  Começaremos com as etapas de integração, que permitirão aos desenvolvedores integrar o repositório do AEM Assets ao fluxo de criação do site. Em seguida, demonstraremos como os desenvolvedores podem personalizar a integração com base nos requisitos de criação específicos do site. Também mostraremos como os ativos podem ser entregues usando o AEM Dynamic Media com API aberta, permitindo que você aproveite os recursos da API aberta do Dynamic Media. Além disso, analisaremos os casos de uso práticos e as práticas recomendadas, fornecendo uma compreensão abrangente de como essa integração ajuda a aproveitar a solução de gerenciamento de ativos nos fluxos de criação do site.
+description: O webinar de GEMs do AEM demonstrará a integração do AEM Assets em sites criados no AEM Edge Delivery Services, personalizando a integração, fornecendo ativos usando o AEM Dynamic Media com a API aberta e explorando casos de uso práticos e práticas recomendadas.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: cb32ddba-b105-4a85-9cb1-af2ff16dc037
-source-git-commit: 866d6e9338d485ee48f526ec035574454090378e
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -31,8 +31,8 @@ Este webinário foi concluído. Veja a gravação abaixo.
 
 ## Integração do AEM Assets com o Edge Delivery Services
 
-Durante esse webinário de GEMs do AEM, mostraremos como você pode usar o AEM Assets em seu site criado no Edge Delivery Services do AEM.  Começaremos com as etapas de integração, que permitirão aos desenvolvedores integrar o repositório do AEM Assets ao fluxo de criação do site. Em seguida, demonstraremos como os desenvolvedores podem personalizar a integração com base nos requisitos de criação específicos do site. Também mostraremos como os ativos podem ser entregues usando o AEM Dynamic Media com API aberta, permitindo que você aproveite os recursos da API aberta do Dynamic Media. Além disso, analisaremos os casos de uso práticos e as práticas recomendadas, fornecendo uma compreensão abrangente de como essa integração ajuda a aproveitar a solução de gerenciamento de ativos nos fluxos de criação do site.
+Durante este webinário de GEMs do AEM, mostraremos como você pode usar o AEM Assets em seu site integrado ao AEM Edge Delivery Services.  Começaremos com as etapas de integração, que permitirão aos desenvolvedores integrar o repositório do AEM Assets ao fluxo de criação do site. Em seguida, demonstraremos como os desenvolvedores podem personalizar a integração com base nos requisitos de criação específicos do site. Também mostraremos como os ativos podem ser entregues usando o AEM Dynamic Media com API aberta, permitindo que você aproveite os recursos da API aberta do Dynamic Media. Além disso, analisaremos os casos de uso práticos e as práticas recomendadas, fornecendo uma compreensão abrangente de como essa integração ajuda a aproveitar a solução de gerenciamento de ativos nos fluxos de criação do site.
 
 Para ver as interações da comunidade específicas da sessão no Experience League, visite o respectivo [Thread Contextual](https://adobe.ly/3LSCVfX).
 
-Para receber notificações sobre nossos próximos webinários, registre-se em [Grupo de usuários do AdobeAEM](https://aem-augs.adobe.com/).
+Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de usuários do AEM da Adobe](https://aem-augs.adobe.com/).

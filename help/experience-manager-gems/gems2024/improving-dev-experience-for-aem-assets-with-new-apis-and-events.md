@@ -1,6 +1,6 @@
 ---
 title: Melhoria na experiência do desenvolvedor para o AEM Assets com nossas novas APIs e eventos
-description: Os desenvolvedores do AEM terão a oportunidade de explorar as recém-introduzidas APIs abertas do Assets e os eventos de E/S nativos em nuvem que estamos oferecendo. Esses avanços permitem a criação de extensões AEM fora do processo. Durante esta sessão, demonstraremos como implementar efetivamente essas ferramentas. Esta demonstração mostrará aos desenvolvedores como eles podem simplificar seus fluxos de trabalho, melhorar a velocidade de desenvolvimento e reduzir os esforços de manutenção contínua. Além disso, analisaremos casos de uso práticos e práticas recomendadas, fornecendo um entendimento abrangente de como essas inovações podem ser aproveitadas para otimizar os processos de desenvolvimento.
+description: Os desenvolvedores do AEM podem explorar novas APIs do Assets Open e eventos de E/S nativos em nuvem para criar extensões fora de processo do AEM, simplificar fluxos de trabalho, melhorar a velocidade de desenvolvimento e reduzir a manutenção, com casos de uso práticos e práticas recomendadas demonstradas.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
-source-git-commit: e364366d7df321ebbcb598ac15e237e5626a4087
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Este webinário foi realizado na quarta-feira, 19 de junho - 17h CEST / 8h PDT /
 
 ## Melhoria na experiência do desenvolvedor para o AEM Assets com nossas novas APIs e eventos
 
-Os desenvolvedores do AEM terão a oportunidade de explorar as recém-introduzidas APIs abertas do Assets e os eventos de E/S nativos em nuvem que estamos oferecendo. Esses avanços permitem a criação de extensões AEM fora do processo. Durante esta sessão, demonstraremos como implementar efetivamente essas ferramentas. Esta demonstração mostrará aos desenvolvedores como eles podem simplificar seus fluxos de trabalho, melhorar a velocidade de desenvolvimento e reduzir os esforços de manutenção contínua. Além disso, analisaremos casos de uso práticos e práticas recomendadas, fornecendo um entendimento abrangente de como essas inovações podem ser aproveitadas para otimizar os processos de desenvolvimento.
+Os desenvolvedores do AEM terão a oportunidade de explorar as recém-introduzidas APIs abertas do Assets e os eventos de E/S nativos em nuvem que estamos oferecendo. Esses avanços permitem a criação de extensões fora do processo do AEM. Durante esta sessão, demonstraremos como implementar efetivamente essas ferramentas. Esta demonstração mostrará aos desenvolvedores como eles podem simplificar seus fluxos de trabalho, melhorar a velocidade de desenvolvimento e reduzir os esforços de manutenção contínua. Além disso, analisaremos casos de uso práticos e práticas recomendadas, fornecendo um entendimento abrangente de como essas inovações podem ser aproveitadas para otimizar os processos de desenvolvimento.
 
 ## Apresentadores
 
@@ -42,4 +42,4 @@ Os desenvolvedores do AEM terão a oportunidade de explorar as recém-introduzid
 > 
 >* Para ver as interações da comunidade específicas da sessão neste webinário no Experience League, visite o respectivo [Thread Contextual](https://adobe.ly/3UQXwFO).
 >
->* Para receber notificações sobre nossos próximos webinários, registre-se em [Grupo de usuários do AdobeAEM](https://aem-augs.adobe.com/).
+>* Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de usuários do AEM da Adobe](https://aem-augs.adobe.com/).

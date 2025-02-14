@@ -1,6 +1,6 @@
 ---
 title: Eficiência da AEM Sites - otimização de desempenho, configuração e solução de problemas
-description: Essa sessão aborda habilidades essenciais de solução de problemas para o Adobe Experience Manager (AEM) Sites, com foco em soluções práticas para problemas de desempenho, configurações complexas e permissões de usuário.
+description: O webinário sobre eficiência do site de AMP abordou otimização de desempenho, configuração do dispatcher, práticas recomendadas de gerenciamento de direitos e estratégias para resolver problemas de desempenho.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -10,16 +10,16 @@ duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
 exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # Eficiência da AEM Sites: otimização de desempenho, configuração e solução de problemas
 
-Neste webinário, analisaremos os fundamentos para solucionar problemas dos sites do Adobe Experience Manager (AEM). Quer você esteja enfrentando problemas de desempenho ou lidando com configurações complexas, esta sessão fornecerá habilidades práticas para manter e otimizar seu ambiente AEM. Priorizaremos demonstrações ao vivo em vez de slides, oferecendo experiência prática para enfrentar desafios do mundo real&#x200B;
+Neste webinário, analisaremos os fundamentos para a solução de problemas do Adobe Experience Manager (AEM) Sites. Esteja você enfrentando problemas de desempenho ou lidando com configurações complexas, esta sessão fornecerá habilidades práticas para manter e otimizar seu ambiente do AEM. Priorizaremos demonstrações ao vivo em vez de slides, oferecendo experiência prática para enfrentar desafios do mundo real&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435114/?learn=on)
 
