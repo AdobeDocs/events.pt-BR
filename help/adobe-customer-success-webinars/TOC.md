@@ -1,10 +1,10 @@
 ---
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
-user-guide-description: Webinários Adobe Customer Success-led projetados para capacitá-lo na otimização do seu investimento no Adobe Experience Cloud. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções Adobe.
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+user-guide-description: Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacitá-lo a otimizar seu investimento na Experience Cloud da Adobe. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções da Adobe.
+source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 
 + [Webinários de sucesso do cliente do Adobe](overview.md)
 + 2025 {#2025}
+   + [Fundamentos da cadeia de fornecimento de conteúdo](2025/content-supply-chain-basics.md)
+   + [Elaborando estratégias para uma medição eficaz](2025/impactful-insights.md)
    + [Impulsionando o engajamento do cliente](2025/driving-customer-engagement.md)
    + [Aprimoramento dos programas de fidelidade por meio do Personalization e de dados](2025/enhance-loyalty-programs.md)
    + [Dominar a lógica sequencial](2025/mastering-sequential-logic.md)
@@ -35,17 +37,17 @@ ht-degree: 0%
    + [A Expedia muda do Adobe Analytics para o Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Princípios básicos do sistema da Workfront e tutela do administrador de grupo](2024/workfront-admin-guardianship.md)
    + [Introdução à análise do Adobe Journey Optimizer](2024/getting-started-ajo-analysis.md)
-   + [Introdução ao Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
+   + [Introdução ao Real-Time Customer Data Platform](2024/getting-started-rtcdp.md)
    + [Aproveitamento da IA para a experiência do cliente](2024/ai-customer-experience.md)
    + [Hiperpersonalização](2024/hyperpersonalization.md)
    + [Recursos do Journey Optimizer Mobile](2024/journey-optimizer-mobile-capabilities.md)
-   + [Equipes de lean manufacturing e Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [Equipes simples e Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Dominar a Adobe Admin Console](2024/adobe-admin-console.md)
    + [Dominar cookies e privacidade de dados](2024/mastering-cookies-data-privacy.md)
    + [Dominar a lógica sequencial](2024/sequential-logic.md)
    + [Disponibilidade organizacional para a cadeia de fornecimento de conteúdo](2024/organizational-readiness-content-supply-chain.md)
-   + [Integração do Real-time Customer Data Platform e da Marketo](2024/aep-marketo-integration.md)
-   + [Disponibilidade para migração do Real-time Customer Data Platform](2024/rtcdp-migration-readiness.md)
+   + [Integração do Real-Time Customer Data Platform e da Marketo](2024/aep-marketo-integration.md)
+   + [Disponibilidade da migração da plataforma de dados do cliente em tempo real](2024/rtcdp-migration-readiness.md)
    + [Liderança estratégica](2024/strategic-leadership.md)
    + [Autenticação simplificada](2024/streamline-authentication.md)
    + [Personalization do Target](2024/target-personalization.md)
@@ -59,12 +61,12 @@ ht-degree: 0%
    + [Gerenciamento de alterações](2023/change-management.md)
    + [Conteúdo e experiências - Personalization](2023/content-experiences-personalization.md)
    + [Disponibilidade para migração do Customer Journey Analytics](2023/cja-migration-readiness.md)
-   + [Fundamentos de integração de Customer Journey Analytics](2023/cja-integration-essentials.md)
+   + [Fundamentos de integração do Customer Journey Analytics](2023/cja-integration-essentials.md)
    + [Desenvolvimento de uma estratégia de coleta e ativação de dados em tempo real](2023/data-collection-activation-strategy.md)
    + [Estratégia de medição eficaz](2023/measurement-strategy.md)
    + [Estratégia básica para a orquestração de campanhas](2023/foundational-strategy-campaign.md)
    + [Priorização de inteligência e medição](2023/intelligence-and-measurement.md)
    + [Disponibilidade dos dados da Real-time CDP](2023/rtcdp-migration-data-readiness.md)
    + [Disponibilidade da migração para a Real-time CDP](2023/rtcdp-migration-readiness.md)
-   + [Definindo uma estratégia de Audience Activation eficaz](2023/audience-activation.md)
+   + [Definir uma estratégia eficaz do Audience Activation](2023/audience-activation.md)
    + [Transição para a Real-time CDP](2023/aam-to-rtcdp.md)
