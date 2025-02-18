@@ -1,5 +1,5 @@
 ---
-title: Eventos Experience League LIVE
+title: Experience League LIVE Events
 description: Uma coleção de links para eventos Experience League LIVE anteriores
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 4%
@@ -17,22 +17,22 @@ ht-degree: 4%
 
 # Experience League LIVE 
 
-Experience League LIVE é um programa de streaming ao vivo produzido pela equipe Experience League.  É uma chance de se conectar com especialistas em produtos Adobe e aprender dicas, truques e estratégias úteis que podem ser usados com os aplicativos Adobe Experience Cloud.
+Experience League LIVE é um programa de streaming ao vivo produzido pela equipe do Experience League.  É uma chance de se conectar com especialistas em produtos da Adobe e aprender dicas, truques e estratégias úteis que podem ser usados com os aplicativos da Adobe Experience Cloud.
 
 <div id="upcoming-events">
 
-## Próximos eventos Experience League LIVE
+## Próximos eventos do Experience League LIVE
 
 <table>
 <tr>
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience League LIVE 27 de fevereiro" src="episodes/assets/WebBanner-02-27-25.jpg">
+      <img alt="Experience League LIVE 27 de fevereiro" src="episodes/assets/WebBanner-Feb-27-2025.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-27-25.md">
         <strong>Desbloqueando insights operacionais com o Assistente de IA no Adobe Experience Platform</strong>
       </a>
-      <br/><em>com Rudi Shumpert, Namita Krishnan e Huong Vu</em>
+      <br/><em>com Daniel Wright, Namita Krishnan e Huong Vu</em>
       <br/><em>27 de fevereiro de 2025</em>
     </div>
   </td>
