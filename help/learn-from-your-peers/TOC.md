@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Coleção de gravações de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '313'
 ht-degree: 4%
 
 ---
@@ -37,11 +37,11 @@ ht-degree: 4%
       + [Comunicação, requisitos e testes no Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + Novembro de {#nov2023}
-      + [Excelência do desenvolvedor com componentes principais do AEM](experience-manager/nov2023/core-components.md)
+      + [Excelência do desenvolvedor com os componentes principais do AEM](experience-manager/nov2023/core-components.md)
    + Setembro de {#sept2023}
       + [Aprofundamento das ferramentas do AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Julho de {#july2023}
-      + [Estratégias de segurança eficazes em Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [Estratégias de segurança eficazes no Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + Maio de {#may2023}
       + [Dominar o conteúdo e os fragmentos de experiência](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
@@ -54,11 +54,11 @@ ht-degree: 4%
    + Abril de 2024 {#april2024}
       + [Aplicativos práticos da API REST do Marketo Engage](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + Janeiro de 2024 {#jan2024}
-      + [Person Scoring Master with Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
+      + [Domínio da pontuação de pessoas com o Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
    + Novembro de 2023 {#nov2023}
       + [MARKETO ENGAGE e DYNAMIC CHAT](marketo/nov2023/dynamic-chat.md)
    + Setembro de 2023 {#sept2023}
-      + [Aumente a capacidade de entrega de emails com o Marketo Engage](marketo/sept2023/email-deliverability.md)
+      + [Aumente a capacidade de entrega de email com o Marketo Engage](marketo/sept2023/email-deliverability.md)
    + Junho de 2023 {#june2023}
       + [Rastrear, analisar e otimizar suas campanhas de marketing](marketo/june2023/marketing-campaigns.md)
    + Maio de 2023 {#may2023}
@@ -66,6 +66,9 @@ ht-degree: 4%
    + Março de 2023 {#mar2023}
       + [Como tornar seu  [!DNL Adobe Marketo Engage] conteúdo escalável](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
+   + 2025 {#2025}
+      + Fevereiro de {#february2025}
+         + [Impacto articulado - como medir e compartilhar o valor do Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
    + 2024 {#2024}
       + Abril de {#april2024}
          + [Equipe da prática de administração do sistema Workfront](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
@@ -107,4 +110,4 @@ ht-degree: 4%
          + [O QUE É a governança do Workfront?](workfront/2022/03/what-is-workfront-governance.md)
       + Fevereiro de {#february}
          + [Noções básicas sobre o gerenciamento de usuários](workfront/2022/02/understanding-user-management.md)
-+ [Saiba como enviar um aplicativo Adobe Champion de destaque](./adobe-champion-application.md)
++ [Saiba como enviar um Aplicativo Adobe Champion de destaque](./adobe-champion-application.md)
