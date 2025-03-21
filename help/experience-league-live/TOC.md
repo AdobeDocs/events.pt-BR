@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '514'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Visão geral](overview.md)
 + Episódios {#episodes}
+   + [Ep 45: Não espere... colabore! Apresentação do Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
    + [Ep 44: Desbloquear insights operacionais com o Assistente de IA no Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
    + [Ep 43: Introdução do assistente de IA para públicos-alvo para profissionais de marketing no Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [Ep 42: Revelação de cartões de conteúdo para o Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
@@ -57,12 +58,12 @@ ht-degree: 4%
    + [Ep 11: AAM e Real-time CDP - como gerenciar todos esses públicos?](episodes/exl-live-episode-04-28-22.md)
    + [Ep 10: AEM de Headful a Headless (e tudo mais entre eles)](episodes/exl-live-episode-04-21-22.md)
    + [Ep 9: Apresentação de todas as novas Demonstrações de Referência no AEM](episodes/exl-live-episode-02-03-22.md)
-   + [Ep 8: Customer Journey Analytics: O Scoop Interno](episodes/exl-live-episode-08.md)
+   + [Ep 8: Customer Journey Analytics: O furo por dentro](episodes/exl-live-episode-08.md)
    + [Ep 7: Estender o AEM com o Adobe App Builder](episodes/exl-live-episode-07.md)
    + [Ep 6: Medir pessoas em vez de dispositivos](episodes/exl-live-episode-06.md)
    + [Ep 5: Entre em operação ainda mais rápido com a criação rápida de sites](episodes/exl-live-episode-05.md)
    + [Ep 4: Quem clicou nisso? E então o que eles fizeram?](episodes/exl-live-episode-04.md)
    + [Ep 3: Dicas de especialistas para fazer suas campanhas de fim de ano se destacarem](episodes/exl-live-episode-03.md)
    + [Ep 2: Torne seu próximo segmento de público-alvo mais inteligente do que nunca](episodes/exl-live-episode-02.md)
-   + [Ep 1: Minhas três dicas de implementação de Adobe [!DNL Analytics]  favoritas](episodes/exl-live-episode-01.md)
+   + [Ep 1: Minhas três dicas de implementação favoritas do Adobe [!DNL Analytics] ](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
