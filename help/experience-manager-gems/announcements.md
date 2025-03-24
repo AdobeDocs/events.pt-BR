@@ -1,14 +1,14 @@
 ---
 title: Anúncios
 description: Esta página será exibida se as próximas sessões ainda não estiverem definidas.
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Release Information
 topic: Administration
 role: User
 level: Intermediate
 hidefromtoc: true
 duration: 11
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* As informações sobre as próximas sessões serão disponibilizadas a partir de novembro de 2022.
->* Registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/) para ser notificado automaticamente sobre webinários futuros.
+>* Registre-se em [Grupo de usuários do AEM](https://aem-augs.adobe.com/) da Adobe para ser notificado sobre webinários futuros automaticamente.

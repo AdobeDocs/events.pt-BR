@@ -3,7 +3,7 @@ title: Cloud Manager 2022
 description: Este webinário de GEMs do AEM incluirá uma apresentação e uma demonstração sobre o seguinte:Explore os novos recursos lançados no ano passado, uma atualização sobre os bastidores ... (as descrições devem ter entre 60 e 160 caracteres)
 solution: Experience Manager
 feature-set: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Cloud Manager
 topic: Administration
 role: Developer
@@ -11,7 +11,7 @@ level: Beginner
 kt: 10470
 exl-id: 70564929-78c2-4a3d-bcf7-8708fd458812
 duration: 3289
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -34,4 +34,4 @@ O conteúdo se aplica ao Adobe Experience Manager as a Cloud Service e ao Experi
 >[!NOTE]
 >
 >* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread Contextual](https://adobe.ly/3O0rdzd)
->* Para receber notificações automáticas sobre webinários, registre-se em [Grupo de usuários de Adobe AEM](https://aem-augs.adobe.com/).
+>* Para receber notificações automáticas sobre webinários, registre-se em [Grupo de usuários do AEM da Adobe](https://aem-augs.adobe.com/).

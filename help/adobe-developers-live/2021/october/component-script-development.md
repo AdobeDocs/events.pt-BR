@@ -6,12 +6,12 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9177
 type: Event
 exl-id: 71fa0d10-cea5-416e-a6e5-2c729c7793a6
 duration: 1899
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 3%
@@ -22,7 +22,7 @@ ht-degree: 3%
 
 Esta sessão descreve as práticas recomendadas mais recentes que os desenvolvedores do Adobe Experience Manager podem seguir para ter implantações de aplicativos mais previsíveis. Introduzidos como um recurso do Apache Sling em 2019 e usados no AEMaaCS desde 2020, os scripts agrupados pré-compilados fornecem aos desenvolvedores duas melhorias importantes em relação à maneira clássica de implantar componentes do Adobe Experience Manager: 1. os scripts podem ter versão e ter cadeias de dependência explícitas, como qualquer API 2 do Java. a compilação do script agora pode ser feita durante o processo de criação do aplicativo, permitindo descobrir possíveis erros rapidamente (por exemplo, dependências ausentes, usos incorretos da API etc.) Vamos nos concentrar em como os desenvolvedores podem configurar seus projetos para fornecer seus scripts como pacotes pré-compilados e usar analisadores de recursos do Adobe Experience Manager Sling locais para verificar se os requisitos da API estão satisfeitos, ajudando-os a detectar possíveis erros antecipadamente.
 
-Continue a conversa em **[Experience League Communities](https://adobe.ly/3zJrS0f)**.
+Continue a conversa em **[Comunidades Experience League](https://adobe.ly/3zJrS0f)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337851/?quality=12&learn=on&hidetitle=true)
 

@@ -9,12 +9,12 @@ feature: Authoring
 topic: Collaboration
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: 9655db30-bb17-4f0e-abd2-3267821c6b7e
 duration: 3667
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%

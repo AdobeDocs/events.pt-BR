@@ -1,30 +1,30 @@
 ---
-title: as a Cloud Service do Adobe Experience Manager Forms — acelere seu desenvolvimento usando APIs
-description: Saiba como usar as APIs as a Cloud Service do Adobe Experience Manager Forms para acessar serviços como entrega headless do Forms e comunicações em escala. Esta sessão abordará como criar aplicativos clientes para casos de uso síncronos e de geração de documentos em lote usando a API do Adobe Experience Manager Forms CS. Os participantes também receberão uma visualização das próximas APIs headless para o Forms, que permitem que os desenvolvedores criem facilmente aplicativos móveis ou react que contenham formulários.
+title: Adobe Experience Manager Forms as a Cloud Service - acelere seu desenvolvimento usando APIs
+description: Saiba como usar as APIs do Adobe Experience Manager Forms as a Cloud Service para acessar serviços como entrega headless do Forms e comunicações em escala. Esta sessão abordará como criar aplicativos clientes para casos de uso síncronos e de geração de documentos em lote usando a API do Adobe Experience Manager Forms CS. Os participantes também receberão uma visualização das próximas APIs headless para o Forms, que permitem que os desenvolvedores criem facilmente aplicativos móveis ou react que contenham formulários.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9189
 type: Event
 exl-id: a54293b2-a8d9-475a-b315-18c4088a2d85
 duration: 1516
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 2%
 
 ---
 
-# as a Cloud Service do Adobe Experience Manager Forms: acelere seu desenvolvimento usando APIs
+# Adobe Experience Manager Forms as a Cloud Service: acelere seu desenvolvimento usando APIs
 
-Saiba como usar as APIs as a Cloud Service do Adobe Experience Manager Forms para acessar serviços como entrega headless do Forms e comunicações em escala. 
+Saiba como usar as APIs do Adobe Experience Manager Forms as a Cloud Service para acessar serviços como entrega headless do Forms e comunicações em escala. 
 
 Esta sessão abordará como criar aplicativos clientes para casos de uso síncronos e de geração de documentos em lote usando APIs do Adobe Experience Manager Forms CS
 
 Os participantes também receberão uma visualização das próximas APIs headless para o Forms, que permitem que os desenvolvedores criem facilmente aplicativos móveis ou react que contenham formulários.
 
-Continue a conversa em **[Experience League Communities](https://adobe.ly/3zKLQrw)**.
+Continue a conversa em **[Comunidades Experience League](https://adobe.ly/3zKLQrw)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337724/?quality=12&learn=on&hidetitle=true)
 

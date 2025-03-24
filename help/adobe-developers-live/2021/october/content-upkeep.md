@@ -4,12 +4,12 @@ description: Demonstre os recursos disponíveis no conjunto de ferramentas de Mo
 solution: Experience Manager
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9135
 type: Event
 exl-id: da237121-7d66-49fc-864f-6132e3936fed
 duration: 1843
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 11%
@@ -20,7 +20,7 @@ ht-degree: 11%
 
 Demonstre os recursos disponíveis no conjunto de ferramentas de Modernização do Adobe Experience Manager. Saiba como as equipes de desenvolvimento podem usá-lo para consolidar, converter ou atualizar conteúdo para reduzir a carga sobre os autores à medida que a biblioteca de componentes evolui.
 
-Continue a conversa em **[Experience League Communities](https://adobe.ly/3zJuUBH)**.
+Continue a conversa em **[Comunidades Experience League](https://adobe.ly/3zJuUBH)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 

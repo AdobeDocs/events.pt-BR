@@ -8,13 +8,13 @@ feature: Editable Templates
 topic: Development
 role: Developer
 level: Intermediate
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7177
 type: Event
 thumbnail: 331737.jpg
 exl-id: 3365d609-70e7-404c-ad4d-c9049ed00b35
 duration: 1862
-source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Use os Modelos de site para criar novos sites com apenas alguns cliques e para trazer de volta a diversão do desenvolvimento de front-end com a rápida implantação de ativos de front-end, como CSS e JS.
 
-Continue a conversa em **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Continue a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 

@@ -2,7 +2,7 @@
 title: apm da newrelic para o aem cloud service
 description: Junte-se a nós e participe da nossa sessão, onde guiaremos você no reconhecimento e na solução de desafios que afetam seus clientes finais, garantindo uma experiência excepcional por meio do aprimoramento da eficiência do seu projeto do AEM as a Cloud Service, da medição da influência dos serviços externos para o seu sistema AEM as a Cloud Service e aproveitando ao máximo as visualizações personalizadas. Descubra o processo de acesso ao New Relic, um recurso incluído por padrão no AEM as a Cloud Service. Não hesite em interagir com suas perguntas e perguntas.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Performance
 role: Developer
@@ -13,7 +13,7 @@ jira: KT-13920
 thumbnail: KT-13920.jpeg
 exl-id: 874cb607-f622-4ef0-9835-13b640fe57f6
 duration: 3385
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -40,9 +40,9 @@ Descubra o processo de acesso ao New Relic, um recurso incluído por padrão no 
 
 * Alan Mon, arquiteto de soluções, New Relic
 * Matthew Lowe, arquiteto de soluções, New Relic
-* Adam Pazik, Desenvolvimento de software Director, Adobe
-* Luciana Surdoiu, Chefe de Automação de Nuvem, Adobe
-* Michael Campbell, Engenheiro Sênior de Confiabilidade no Local do AEM, Adobe
+* Adam Pazik, Diretor de desenvolvimento de software, Adobe
+* Luciana Surdoiu, chefe de automação de nuvem da Adobe
+* Michael Campbell, Engenheiro sênior de confiabilidade de site da AEM, Adobe
 
 ## Gravação do webinário - 20/09/2023
 
@@ -52,4 +52,4 @@ Descubra o processo de acesso ao New Relic, um recurso incluído por padrão no 
 >
 >* Para ver as interações da comunidade específicas da sessão no Experience League, visite nosso [thread contextual](https://adobe.ly/3sV67N5).
 >
->* Para receber notificações sobre nossos próximos webinários, registre-se em [Grupo de usuários do AdobeAEM](https://aem-augs.adobe.com/).
+>* Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de usuários do AEM da Adobe](https://aem-augs.adobe.com/).

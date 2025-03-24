@@ -1,26 +1,26 @@
 ---
-title: Extensão Experience Manager para PWA Studio
-description: 'O Adobe Experience Manager é uma solução líder do setor para gerenciamento de conteúdo. Essa extensão PWA adiciona o Experience Manager como um provedor de conteúdo. Isso permite que os profissionais de marketing criem experiências de comércio e conteúdo avançados com ferramentas eficientes de gerenciamento de conteúdo. Nesta sessão, você aprenderá: 1) como a extensão funciona usando os recursos headless do Experience Manager com base nos Fragmentos de conteúdo e nas APIs do GraphQL; e 2) como configurar um novo projeto PWA com essa extensão.'
+title: Extensão do Experience Manager para PWA Studio
+description: 'O Adobe Experience Manager é uma solução líder do setor para gerenciamento de conteúdo. Essa extensão do PWA adiciona o Experience Manager como um provedor de conteúdo. Isso permite que os profissionais de marketing criem experiências de comércio e conteúdo avançados com ferramentas eficientes de gerenciamento de conteúdo. Nesta sessão, você aprenderá: 1) como a extensão funciona usando os recursos headless do Experience Manager com base nos Fragmentos de conteúdo e nas APIs do GraphQL; e 2) como configurar um novo projeto do PWA com essa extensão.'
 solution: Experience Manager
 feature: GraphQL API
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9142
 type: Event
 exl-id: bc428c6e-703a-4826-b2ce-c7f79a772cb5
 duration: 1796
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 3%
 
 ---
 
-# Extensão Experience Manager para PWA Studio
+# Extensão do Experience Manager para PWA Studio
 
-O Adobe Experience Manager é uma solução líder do setor para gerenciamento de conteúdo. Essa extensão PWA adiciona o Experience Manager como um provedor de conteúdo. Isso permite que os profissionais de marketing criem experiências de comércio e conteúdo avançados com ferramentas eficientes de gerenciamento de conteúdo. Nesta sessão, você aprenderá: 1) como a extensão funciona usando os recursos headless do Experience Manager com base nos Fragmentos de conteúdo e nas APIs do GraphQL; e 2) como configurar um novo projeto PWA com essa extensão.
+O Adobe Experience Manager é uma solução líder do setor para gerenciamento de conteúdo. Essa extensão do PWA adiciona o Experience Manager como um provedor de conteúdo. Isso permite que os profissionais de marketing criem experiências de comércio e conteúdo avançados com ferramentas eficientes de gerenciamento de conteúdo. Nesta sessão, você aprenderá: 1) como a extensão funciona usando os recursos headless do Experience Manager com base nos Fragmentos de conteúdo e nas APIs do GraphQL; e 2) como configurar um novo projeto do PWA com essa extensão.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337581/?quality=12&learn=on&hidetitle=true)
 

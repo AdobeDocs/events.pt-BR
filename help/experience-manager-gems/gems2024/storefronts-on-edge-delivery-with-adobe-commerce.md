@@ -2,7 +2,7 @@
 title: Criar vitrines no Edge Delivery Services com o Adobe Commerce
 description: O webinário de GEMs do AEM ensinará você a criar uma vitrine de alto desempenho no Edge Delivery Services para o Adobe Commerce, abordando a configuração do projeto, a integração do Commerce SaaS, componentes front-end personalizáveis e novos recursos de criação para aprimorar as experiências do Commerce.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Commerce
 role: Developer
@@ -13,7 +13,7 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
 exl-id: 6294fa1b-4807-484b-ac51-f01bb1dd9656
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%

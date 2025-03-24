@@ -5,12 +5,12 @@ solution: Workfront, Experience Manager,Experience Manager Assets
 topic: Integrations
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9135
 type: Event
 exl-id: 5edbac18-6e5f-4717-a7cb-5ec2ad4b3f29
 duration: 1664
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 9%
@@ -21,7 +21,7 @@ ht-degree: 9%
 
 Saiba como o Adobe Workfront e o Adobe Experience Manager Assets trabalham juntos.
 
-Continue a conversa em **[Experience League Communities](https://adobe.ly/3kHfJED)**.
+Continue a conversa em **[Comunidades Experience League](https://adobe.ly/3kHfJED)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337578/?quality=12&learn=on&hidetitle=true)
 

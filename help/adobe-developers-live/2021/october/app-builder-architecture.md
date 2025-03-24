@@ -6,12 +6,12 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9214
 type: Event
 exl-id: c49d6c31-1b37-4c02-aa48-0dfd7362e628
 duration: 2093
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 14%
@@ -22,7 +22,7 @@ ht-degree: 14%
 
 Saiba mais sobre o App Builder enquanto abordamos a arquitetura de aplicativos do App Builder que estendem o Adobe Experience Manager.
 
-Continue a conversa em **[Experience League Communities](https://adobe.ly/3uragoI)**.
+Continue a conversa em **[Comunidades Experience League](https://adobe.ly/3uragoI)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 

@@ -6,12 +6,12 @@ feature: Developer Tools
 topic: Integrations
 role: Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9141
 type: Event
 exl-id: f1aec13d-db37-4d71-9650-9bb01a745b91
 duration: 1375
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 16%
