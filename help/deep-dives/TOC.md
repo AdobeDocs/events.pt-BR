@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 4%
+source-wordcount: '83'
+ht-degree: 3%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 4%
    + [APIs](api.md)
    + [Automatização e simplificação das operações do Campaign usando a API do Marketo](campaign-operations.md)
    + [Certificação](certification.md)
+   + [Conheça a nova Designer de email no Marketo Engage](email-designer.md)
    + [Email Nurture](email-nurture.md)
    + [Campanhas executáveis](executable-campaigns.md)
    + [Migração do IMS desempacotada](ims-migration.md)
