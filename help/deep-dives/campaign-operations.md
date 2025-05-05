@@ -33,7 +33,7 @@ Neste aprofundamento, mostraremos como começar a usar a API do Marketo e como e
 ## Principais aprendizados
 
 * **Foco** A sessão se concentrou na automatização e simplificação das operações de campanha usando a API do Marketo.
-* **Importância da API** As APIs são cruciais para automatizar tarefas repetitivas, permitir que os sistemas se comuniquem e economizar tempo e dinheiro.Noções básicas da API** Explicação do que é uma * **API, incluindo a diferença entre solicitações Get e Post e como elas funcionam.
+* **Importância da API** As APIs são cruciais para automatizar tarefas repetitivas, permitir que os sistemas se comuniquem e economizar tempo e dinheiro.Noções básicas da API **&#x200B; Explicação do que é uma * &#x200B;** API, incluindo a diferença entre solicitações Get e Post e como elas funcionam.
 
 ### Casos de uso
 
