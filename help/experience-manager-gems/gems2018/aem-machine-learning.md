@@ -29,10 +29,10 @@ Jonas Dahl, Gerente de produto, Adobe
 
 ## Recursos {#resources}
 
-[Tags inteligentes aprimoradas - AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[Tags inteligentes aprimoradas - AEM Assets](https://helpx.adobe.com/br/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

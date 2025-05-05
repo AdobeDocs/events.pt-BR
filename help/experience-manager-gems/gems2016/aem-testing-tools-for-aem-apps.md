@@ -26,5 +26,5 @@ De Teste de unidade a Teste de integração de um aplicativo de Experience Manag
 
 [Obter arquivo](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

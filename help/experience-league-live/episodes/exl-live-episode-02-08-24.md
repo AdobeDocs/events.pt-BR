@@ -24,7 +24,7 @@ Apresentação dos manuais de casos de uso - um catálogo acionável de manuais 
 
 >[!BEGINSHADEBOX &quot;Tem dúvidas?&quot;]
 
-Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488) do Adobe Experience League.
+Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=pt#M488) do Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
@@ -51,7 +51,7 @@ Um exemplo de caso de uso discutido nesta sessão é um caso de uso de navegaç�
 
 ## Recursos adicionais
 
-* **[Visão geral dos manuais de caso de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+* **[Visão geral dos manuais de caso de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=pt-BR){target="_blank"}**
   *Os manuais de casos de uso podem ajudá-lo a resolver o problema ao começar a usar o Real-Time CDP ou o Adobe Journey Optimizer, quando talvez você não saiba exatamente com o que começar ou como criar os ativos certos para obter os casos de uso desejados.*
 
 * **[Introdução aos manuais de casos de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=pt-BR){target="_blank"}**

@@ -36,12 +36,12 @@ Slides do apresentador - 21/11/18
 
 ## Links relacionados {#related-links}
 
-[Tutorial de fim de semana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[Tutorial de fim de semana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=pt-BR)
 
-[Documentação](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Documentação](https://helpx.adobe.com/br/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
 [Amostra - Diário de varejo da Web](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

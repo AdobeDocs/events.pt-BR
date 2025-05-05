@@ -28,6 +28,6 @@ Continue a conversa em **[Comunidades Experience League](https://adobe.ly/3CUkzo
 
 ## Recursos adicionais
 
-- [Documentação do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Visão geral do Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Tutoriais do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Documentação do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
+- [Visão geral do Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=pt-BR)
+- [Tutoriais do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=pt-BR)

@@ -87,5 +87,5 @@ Verifique novamente em breve para obter informações sobre o próximo programa 
 
 >[!TIP]
 >
->Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
+>Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/pt-br?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
 

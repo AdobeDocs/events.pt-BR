@@ -27,5 +27,5 @@ Se você não estiver familiarizado com as ferramentas modernas de coleção de 
 
 Inicie o vídeo acima para exibir uma reprodução deste evento de transmissão ao vivo.
 
-Dúvidas sobre isso? Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476) do Adobe Experience League.
+Dúvidas sobre isso? Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754?profile.language=pt#M476) do Adobe Experience League.
 

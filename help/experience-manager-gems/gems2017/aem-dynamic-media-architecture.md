@@ -36,5 +36,5 @@ Junte-se a Cynthia Tillo, gerente de produto principal da Adobe Digital Marketin
 
 [Obter arquivo](assets/dynamicmedia83017.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

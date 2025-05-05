@@ -51,7 +51,7 @@ _Pergunte a um especialista_ é composto por duas sessões:
 
 >[!TIP]
 >
->Se você é novo no Commerce Intelligence, a [série de vídeos Introdução](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) fornece uma visão geral completa para fornecer melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+>Se você é novo no Commerce Intelligence, a [série de vídeos Introdução](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html?lang=pt-BR) fornece uma visão geral completa para fornecer melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 
-- [Introdução ao Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Suporte da Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Introdução ao Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=pt-BR)
+- [Suporte da Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=pt-BR)

@@ -30,5 +30,5 @@ Cristine e Mathias apresentarão recursos aprimorados de integração de traduç
 [Obter arquivo](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

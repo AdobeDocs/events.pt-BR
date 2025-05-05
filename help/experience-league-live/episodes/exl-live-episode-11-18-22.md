@@ -27,5 +27,5 @@ Com tantas demandas de tempo e atenção, você precisa ser capaz de criar e ace
 
 Assista ao vídeo acima para ver este evento de transmissão ao vivo, onde os especialistas do Adobe [!DNL Analytics] deram ótimas dicas sobre como personalizar e acessar insights no Analysis Workspace e no aplicativo de Painéis do [!DNL Analytics].
 
-Dúvidas sobre isso? Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037) do Adobe Experience League.
+Dúvidas sobre isso? Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=pt#M3037) do Adobe Experience League.
 

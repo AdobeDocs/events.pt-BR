@@ -26,7 +26,7 @@ Junte-se a esta sessão Experience League ao vivo, onde os especialistas em prod
 
 >[!BEGINSHADEBOX &quot;Tem dúvidas?&quot;]
 
-Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"} do Adobe Experience League.
+Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893?profile.language=pt#M2671){target="_blank"} do Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
@@ -49,6 +49,6 @@ A nova interface da Web do Campaign é importante porque fornece uma experiênci
 * **[Interface do usuário da Web do Campaign - Recursos principais](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=pt-BR){target="_blank"}**
   *Documentação detalhada sobre o que está disponível atualmente na interface de usuário da Web do Adobe Campaign.*
 
-* **[Interface de Usuário da Web do Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+* **[Interface de Usuário da Web do Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}**
   *Vídeos e tutoriais sobre os recursos e funcionalidades da Interface Web do Adobe Campaign.*
 

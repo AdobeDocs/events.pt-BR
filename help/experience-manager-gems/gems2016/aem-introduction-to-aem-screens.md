@@ -38,6 +38,6 @@ Projeto de exemplo
 
 >[!WARNING]
 >
->O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  As versões arquivadas da documentação podem ser acessadas nesta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
+>O AEM versões 6.4 e posteriores são End of Life e não são mais vendidos pela Adobe.  A Adobe recomenda atualizar para a versão mais recente - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR).  As versões arquivadas da documentação podem ser acessadas nesta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
 >
 >Como está relacionado a esta sessão, consulte *Implantação do Screens* e *Conceito do Screens* na documentação do AEM 6.2.

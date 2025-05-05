@@ -35,5 +35,5 @@ Clint Goudie-Nice, Engenheiro sênior de software, Adobe
 
 [Obter arquivo](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

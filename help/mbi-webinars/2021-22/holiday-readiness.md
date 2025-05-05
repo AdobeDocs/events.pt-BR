@@ -41,4 +41,4 @@ Use os dados de comércio eletrônico para obter sucesso durante a temporada de 
 ## Recursos úteis
 
 [Guia do Usuário do Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=pt-BR)
-[Suporte da Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Suporte da Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=pt-BR)

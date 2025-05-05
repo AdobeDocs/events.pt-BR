@@ -28,5 +28,5 @@ Dê uma olhada no que estamos trabalhando para a próxima geração do Adobe Exp
 
 [Obter arquivo](assets/aem-technical-sneak-peek.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

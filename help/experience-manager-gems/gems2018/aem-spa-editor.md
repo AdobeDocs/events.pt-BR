@@ -30,8 +30,8 @@ Gabriel Walt, gerente de produto, Adobe
 
 ## Recursos {#resources}
 
-AEM [Documentação: SPA Editor](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
+AEM [Documentação: SPA Editor](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html?lang=pt-BR)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

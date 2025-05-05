@@ -21,4 +21,4 @@ Junte-se a nós para uma emocionante sessão ao vivo onde especialistas em produ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438012/?quality=12&learn=on)
 
-[**Continuar a discussão na Comunidade Experience League**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720)
+[**Continuar a discussão na Comunidade Experience League**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720?profile.language=pt)

@@ -30,5 +30,5 @@ Nesta sessão em tempo real do Experience League, os especialistas em produtos d
 
 **Clique na imagem acima para assistir ao programa!**
 
-Continue a discussão na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Continue a discussão na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273?profile.language=pt#M132).
 

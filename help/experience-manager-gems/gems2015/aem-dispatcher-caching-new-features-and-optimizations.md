@@ -33,5 +33,5 @@ Para maximizar sua experiência com AEM, é importante ajustar o cache do AEM Di
 
 [Obter arquivo](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -38,5 +38,5 @@ Saiba mais sobre o mecanismo de consulta do Oak e como ele se compara ao Jackrab
 [Documentação do Oak](https://jackrabbit.apache.org/oak/docs/)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

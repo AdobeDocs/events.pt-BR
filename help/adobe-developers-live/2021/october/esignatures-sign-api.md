@@ -25,6 +25,6 @@ A API de geração de documento do Adobe é um poderoso serviço de criação de
 
 ## Recursos adicionais
 
-- [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
 - [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 - [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)

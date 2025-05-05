@@ -27,11 +27,11 @@ Os tópicos são repetidos ocasionalmente para acomodar quaisquer novas pergunta
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html?lang=pt-BR">
       <img alt="Introdução ao Commerce Intelligence" src="https://video.tv.adobe.com/v/3425736?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html?lang=pt-BR">
         <strong>Introdução ao Commerce Intelligence</strong>
       </a>
     </div>
@@ -40,11 +40,11 @@ Os tópicos são repetidos ocasionalmente para acomodar quaisquer novas pergunta
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html?lang=pt-BR">
       <img alt="Gerenciamento de conjuntos de dados no Adobe Commerce Intelligence" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html?lang=pt-BR">
         <strong>Gerenciamento de Conjuntos de Dados no Adobe Commerce Intelligence</strong>
       </a>
     </div>
@@ -53,11 +53,11 @@ Os tópicos são repetidos ocasionalmente para acomodar quaisquer novas pergunta
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html?lang=pt-BR">
       <img alt="Otimizar a Data Warehouse do MBI" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html?lang=pt-BR">
         <strong>Otimizar sua Data Warehouse do MBI</strong>
       </a>
     </div>
@@ -74,5 +74,5 @@ Os tópicos são repetidos ocasionalmente para acomodar quaisquer novas pergunta
 
 ## Recursos úteis
 
-- [Vídeos e tutoriais do Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Vídeos e tutoriais do Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html?lang=pt-BR)
 - [Guia do Usuário do Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=pt-BR)

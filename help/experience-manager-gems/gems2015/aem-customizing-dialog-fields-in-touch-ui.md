@@ -34,5 +34,5 @@ Nesta sessão, explicaremos como implementar campos personalizados (ou widgets) 
 
 [Obter arquivo](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

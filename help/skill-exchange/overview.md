@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # A Experiência Faz O Intercâmbio De Habilidades {#overview}
 
-<img alt="A Experiência Faz O Intercâmbio De Habilidades" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
+<img alt="A Experiência Faz O Intercâmbio De Habilidades" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=pt-BR" />
 
 Criadores de experiências O Skill Exchange é uma série global de eventos virtuais de aprendizado para clientes, com o objetivo de aprofundar as soluções da Adobe Experience Cloud. Este programa oferece a oportunidade de aprender com especialistas em produtos Adobe e colegas especialistas através do compartilhamento de práticas recomendadas e dicas e truques.
 

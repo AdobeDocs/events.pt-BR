@@ -21,8 +21,8 @@ ht-degree: 6%
    + [Criar melhores experiências com perfis de clientes](cdm/building-better-experiences-with-customer-profiles.md)
    + [Como as equipes de marketing estão aprimorando as estratégias de gerenciamento de dados](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
 + Privacidade e governança de dados de perfil e público-alvo {#governance}
-   + [10 considerações para o gerenciamento responsável de dados do cliente](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [Elevando a Função de Profissional de Marketing como um Administrador de Dados](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+   + [10 considerações para o gerenciamento responsável de dados do cliente](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=pt-BR)
+   + [Elevando a Função de Profissional de Marketing como um Administrador de Dados](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=pt-BR)
    + [Governança e privacidade de dados do perfil de público-alvo](governance/healthcare-shield.md)
 + Discussões do setor {#industry}
    + [Crie experiências excelentes com seus dados primários](industry/build-superb-experiences-with-your-first-party-data.md)

@@ -33,12 +33,12 @@ Sandro Looser, arquiteto de soluções, Adobe
 
 [Integração com o Adobe Dynamic Tag Management](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
-[Ajuda do DTM](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
+[Ajuda do DTM](https://experienceleague.adobe.com/docs/data-collection.html?lang=pt-BR)
 
 [Solicitar acesso ao DTM](https://dtm.adobe.com/request_access)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

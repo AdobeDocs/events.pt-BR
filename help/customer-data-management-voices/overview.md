@@ -101,22 +101,22 @@ Bem-vindo ao Gerenciamento de dados do cliente Vozes seu destino como técnico d
         <br/>
    </td> 
    <td>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=pt-BR">
       <img alt="Dez considerações para o gerenciamento responsável de dados do cliente" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 considerações para o gerenciamento responsável de dados do cliente</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=pt-BR"><strong>10 considerações para o gerenciamento responsável de dados do cliente</strong></a>
          <br/>
       </div>
       <p>
         <br/>
     </td>
     <td>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=pt-BR">
       <img alt="Elevar a função do profissional de marketing como administrador de dados" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Elevação da função de profissional de marketing como administrador de dados</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=pt-BR"><strong>Elevação da função de profissional de marketing como administrador de dados</strong></a>
          <br/>
       </div>
       <p>

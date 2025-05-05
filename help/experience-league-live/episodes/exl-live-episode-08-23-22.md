@@ -96,7 +96,7 @@ Você está pensando em migrar sua implementação para o novo SDK da Web do Ado
 
 <br> 
 
-Continue a discussão sobre este tópico na [discussão da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
+Continue a discussão sobre este tópico na [discussão da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620?profile.language=pt#M240).
 <br> 
 
 ## Sessões Experience League LIVE adicionais desta série de coleta de dados

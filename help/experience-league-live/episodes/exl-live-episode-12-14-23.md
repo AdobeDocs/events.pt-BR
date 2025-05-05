@@ -25,7 +25,7 @@ Saiba como os novos recursos lançados em 2023 podem ajudar você a ativar públ
 
 >[!BEGINSHADEBOX &quot;Tem dúvidas?&quot;]
 
-Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"} do Adobe Experience League.
+Continue a discussão sobre este tópico na [Publicação da comunidade](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558?profile.language=pt#M14){target="_blank"} do Adobe Experience League.
 
 >[!ENDSHADEBOX]
 

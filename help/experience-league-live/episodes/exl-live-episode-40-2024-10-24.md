@@ -21,7 +21,7 @@ Saiba mais sobre como a Composição de público-alvo federado fornece uma abord
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**Para continuar a discussão, visite nossa [discussão na Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}.**
+**Para continuar a discussão, visite nossa [discussão na Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976?profile.language=pt#M636){target="_blank"}.**
 
 **Exibir detalhes**:
 Obtenha acesso ampliado a data warehouses empresariais para compor públicos e potencializar experiências iniciadas pela marca e no momento.

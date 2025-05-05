@@ -26,7 +26,7 @@ O Skill Builder é uma série de webinários projetada para criar sua base de co
     <p>
     <em>Crie e gerencie diversos sites, aplicativos móveis e formulários envolventes. Além disso, aprenda a criar experiências de comércio multicanal em uma única plataforma com nossa solução comercial flexível alimentada por IA.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html?lang=pt-BR" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar Sessões</span>
     </a>
   </td>
@@ -38,7 +38,7 @@ O Skill Builder é uma série de webinários projetada para criar sua base de co
     <p>
     <em>Desenvolva perfis de clientes em tempo real extraindo dados de todas as fontes para criar jornadas personalizadas entre canais.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=pt-BR" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar Sessões</span>
     </a>
   </td>
@@ -50,7 +50,7 @@ O Skill Builder é uma série de webinários projetada para criar sua base de co
     <p>
     <em>Impulsione a personalização em tempo real em qualquer canal usando insights de dados online e offline em toda a organização.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html?lang=pt-BR" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar Sessões</span>
     </a>
   </td>  

@@ -31,5 +31,5 @@ Cedric Huesler, Gerenciamento de produtos Director, Adobe
 [Obter arquivo](assets/aem64-developerupdate31418.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

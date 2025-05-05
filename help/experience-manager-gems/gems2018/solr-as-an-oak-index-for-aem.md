@@ -30,7 +30,7 @@ Data: 18/07/2018
 [Obter arquivo](assets/aem-gems-solr-oakaem-071818.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

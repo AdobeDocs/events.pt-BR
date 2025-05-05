@@ -25,5 +25,5 @@ Você está procurando práticas recomendadas para simplificar o processo de cri
 Keith Brazil, VP de Tecnologia, Translations.com
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/br/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

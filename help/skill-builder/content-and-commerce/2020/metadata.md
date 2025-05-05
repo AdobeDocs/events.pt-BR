@@ -31,12 +31,12 @@ Definir uma estratégia clara para otimizar a descoberta.
 
 ## Recursos
 
-*[Usar esquemas de metadados para gerenciar metadados de ativos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
+*[Usar esquemas de metadados para gerenciar metadados de ativos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html?lang=pt-BR)
 *[Estender esquemas de metadados](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=pt-BR)
 *[Otimizar a criação de metadados com metadados em cascata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=pt-BR)
 *[Aplicar metadados automaticamente a ativos usando Perfis de Metadados](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=pt-BR)
-*[Esquemas de metadados AEM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[Gerenciar metadados do ativo](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
+*[Esquemas de metadados AEM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=pt-BR#administer)
+*[Gerenciar metadados do ativo](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=pt-BR#RegisteringacustomnamespacewithinAEM)
 
 ## Gravações em série
 

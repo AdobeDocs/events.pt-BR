@@ -31,7 +31,7 @@ Automatize a saída de ativos para todos os canais e telas com o Dynamic Media.
 
 ## Recursos
 
-*[Vídeos do Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
+*[Vídeos do Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=pt-BR#dynamic-media)
 *[Guia de Início Rápido de Estratégia de Mídia Avançada](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Guia de Predefinição de Imagem de Estratégia de Mídia Avançada](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
 *[A Imagem é Tudo - Série de Blogs](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)

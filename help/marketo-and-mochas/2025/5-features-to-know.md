@@ -30,23 +30,23 @@ Assista à nossa primeira sessão do ano sobre Marketo e Mochas com nossos espec
    * [Cinco recursos que você deve conhecer em 2025](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **Gerenciamento de Conta de Destino**
-   * [Visão geral](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [Visão geral](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [Perguntas frequentes](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
    * [Vídeo sobre dicas e truques](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **Predictive Audiences**
-   * [Visão geral](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [Visão geral](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [Casos de uso](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **Análise de Jornada avançada**
-   * [Visão geral dos relatórios](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [Visão geral do Lifecycle Modeler](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [Visão geral dos relatórios](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [Visão geral do Lifecycle Modeler](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **Sandbox**
-   * [Visão geral](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [Visão geral](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **Espaços de Trabalho e Partições**
-   * [Visão geral](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [Visão geral](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
 ## Principais pontos
 

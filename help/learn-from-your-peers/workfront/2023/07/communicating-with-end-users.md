@@ -25,6 +25,6 @@ Neste webinário sob demanda, Lyndsy Denk, gerente de treinamento e capacitaçã
 * Dicas para decidir quais canais usar para suas comunicações
 * Como pensar em sua estratégia de comunicação de maneira iterativa, começando de onde você está e amadurecendo à medida que você vai
 
-Você também pode baixar o &quot;Guia de comunicações&quot; com ideias e exemplos de comunicações reais que seus colegas estão compartilhando com os usuários aqui: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
+Você também pode baixar o &quot;Guia de comunicações&quot; com ideias e exemplos de comunicações reais que seus colegas estão compartilhando com os usuários aqui: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=pt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

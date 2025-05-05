@@ -22,7 +22,7 @@ Saiba como usar a extensão Edge Bridge para preencher a lacuna da migração. V
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-**Para continuar a discussão, visite a [discussão na Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
+**Para continuar a discussão, visite a [discussão na Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990?profile.language=pt#M550){target="_blank"}.**
 
 
 **Exibir detalhes**:

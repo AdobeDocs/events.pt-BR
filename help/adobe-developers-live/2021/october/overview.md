@@ -20,7 +20,7 @@ Entre 4 e 5 de outubro de 2021, a Adobe Developers Live reuniu desenvolvedores d
 As equipes de produtos Adobe na Adobe Experience Cloud, Document Cloud e Creative Cloud apresentaram os últimos avanços tecnológicos e ferramentas de desenvolvedores que fortalecem o design, os fluxos de trabalho de criação de conteúdo, os serviços de documento e o gerenciamento da experiência do cliente em todos os setores.
 
 Conecte-se com outros desenvolvedores e participe das conversas de sessão nas comunidades do Experience League.
-* [Lista de sessões concluídas do Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
+* [Lista de sessões concluídas do Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779?profile.language=pt)
 * [Lista de sessões de AEM](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=pt#M120517) concluída
 
 ## Destaques
@@ -78,19 +78,19 @@ Conecte-se com outros desenvolvedores e participe das conversas de sessão nas c
 
 ### AEM
 
-* [Experience League - Explorar AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [Documentação de criação do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [Documentação de Desenvolvimento do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [Documentação de administração do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [Experience League - Explorar AEM](https://experienceleague.adobe.com/pt-br#recommended/solutions/experience-manager)
+* [Documentação de criação do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=pt-BR)
+* [Documentação de Desenvolvimento do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=pt-BR)
+* [Documentação de administração do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=pt-BR)
 * [Documentação de Implantação do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=pt-BR)
 * [Tutorials do AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=pt-BR)
 * [Tutoriais do AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=pt-BR)
-* [Tutoriais do AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [Tutoriais da AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [Tutoriais do AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=pt-BR)
+* [Tutoriais da AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=pt-BR)
 
 ### Adobe Experience Platform
 
-* [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+* [Documentação do Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR)
 * [Visão geral da Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR)
 * [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)
 

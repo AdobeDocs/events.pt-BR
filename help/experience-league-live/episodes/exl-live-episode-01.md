@@ -21,5 +21,5 @@ Você o viu no palco da Summit. Você o ouviu compartilhar conselhos de especial
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 
-Para discutir esta sessão, visite a [discussão na Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}.
+Para discutir esta sessão, visite a [discussão na Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498?profile.language=pt){target="_blank"}.
 
