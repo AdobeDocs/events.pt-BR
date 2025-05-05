@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Saiba mais sobre as análises e os relatórios disponíveis no Acrobat Sign e veja como visualizar dados para ajudar a fornecer os insights necessários para impulsionar seus negócios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428191/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454410/?learn=on&captions=por_br)
 
 ## Novos recursos de relatório e exportação
 

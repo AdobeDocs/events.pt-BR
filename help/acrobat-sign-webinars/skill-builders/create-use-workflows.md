@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Chamar todos os administradores do Acrobat Sign e usuários finais/colaboradores individuais. Esta sessão abordará a criação e o uso de workflows. Como administrador de conta ou grupo do Acrobat Sign, saiba como definir fluxos de trabalho predefinidos para rotear automaticamente documentos para assinatura às partes corretas e, em seguida, conceder acesso a todo o grupo do Acrobat Sign. E como usuário final, saiba como usar esses fluxos de trabalho para garantir que os documentos sejam assinados logo na primeira vez — e sempre.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454907/?learn=on&captions=por_br)
 
 ## Tópicos abordados
 

@@ -24,4 +24,4 @@ ht-degree: 0%
 
 O excelente desempenho da experiência é fundamental para o sucesso da experiência. Nesta sessão, compartilharemos com você nossas 10 principais dicas de práticas recomendadas para ajudar seus desenvolvedores a agilizar os sites do Adobe Experience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457180/?quality=12&learn=on&captions=por_br)

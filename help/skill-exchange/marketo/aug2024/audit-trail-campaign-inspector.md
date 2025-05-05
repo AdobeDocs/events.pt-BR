@@ -26,4 +26,4 @@ Nesta sessão, você aprenderá:,
 * Práticas recomendadas para usar a trilha de auditoria, incluindo o que verificar, com que frequência e por que ela é importante, juntamente com os benefícios adicionais da versão mais recente de junho de 2024.
 * Como usar o Inspetor de campanha para revisar regularmente Campanhas inteligentes, incluindo o que procurar (volume, lote vs. acionador, campanhas de acionador de alta latência que podem retardar sua instância etc.).
 
->[!VIDEO](https://video.tv.adobe.com/v/3432944/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456956/?learn=on&captions=por_br)

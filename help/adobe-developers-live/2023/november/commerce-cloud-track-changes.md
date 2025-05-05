@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Acompanhe os eventos de implantação de projeto do Commerce no New Relic criando uma integração de script. Ative facilmente o recurso Rastrear alterações da New Relic para monitorar eventos de implantação no seu projeto do Commerce na infraestrutura em nuvem. A coleta de dados de Implantações ajuda a analisar o impacto das alterações de implantação no desempenho geral, como CPU, memória, tempos de resposta de transação e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456449/?learn=on&captions=por_br)

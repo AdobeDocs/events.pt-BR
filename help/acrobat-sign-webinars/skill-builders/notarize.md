@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Notarizar integração - a maneira mais rápida e fácil de autenticar seus documentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454377/?learn=on&captions=por_br)
 
 ## Principais tópicos abordados
 

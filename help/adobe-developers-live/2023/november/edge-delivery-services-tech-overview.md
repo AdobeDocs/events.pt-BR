@@ -25,4 +25,4 @@ ht-degree: 5%
 
 Talvez O mais falado sobre mudança no mundo AEM, venha ver uma visão geral técnica detalhada do novo Edge Delivery Services ingressando na família AEM.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426339/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455927/?learn=on&captions=por_br)

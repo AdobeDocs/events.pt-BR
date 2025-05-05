@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Tudo sobre Segmentos - Como fatiar e corrigir seus dados para obter insights
 
->[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456612/?learn=on&captions=por_br)

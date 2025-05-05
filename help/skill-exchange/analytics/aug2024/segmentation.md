@@ -26,4 +26,4 @@ Os segmentos no Adobe Analytics podem ser muito eficientes, mas com esse poder s
 * O poder da lógica de exclusão
 * Escolha da configuração correta para ser bem-sucedida
 
->[!VIDEO](https://video.tv.adobe.com/v/3432748/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456934/?learn=on&captions=por_br)

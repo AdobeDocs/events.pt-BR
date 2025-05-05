@@ -27,6 +27,6 @@ Esta sessão ajuda os desenvolvedores a começar a usar o Commerce no Adobe Expe
 
 Continue a conversa em **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
 
->[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454399/?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 Clique **[aqui](/help/adobe-developers-live/assets/content-commerce.pdf)** para ver os slides da sessão.

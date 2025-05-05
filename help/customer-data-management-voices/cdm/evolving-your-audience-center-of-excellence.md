@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Como as plataformas que facilitam o gerenciamento de dados do cliente, os públicos-alvo e os programas de ativação também devem evoluir. Assim como as pessoas e processos que suportam estas plataformas. Um modelo de Centro de excelência de público-alvo (COE) foi estabelecido há muito tempo como a maneira ideal de oferecer suporte às Plataformas de gerenciamento de dados (DMPs).
 
->[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457361/?quality=12&learn=on&captions=por_br)
 
 Para complementar este vídeo, você também pode [baixar um documento](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)

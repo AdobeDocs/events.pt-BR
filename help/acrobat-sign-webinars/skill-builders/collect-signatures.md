@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Saiba como o recurso Enviar em massa no Acrobat Sign pode economizar seu tempo. Se você precisar que vários indivíduos assinem cópias exclusivas de uma atualização de política em toda a empresa, um NDA ou qualquer outro documento, Enviar em massa permite preparar o arquivo uma vez, enviar para vários signatários com um clique e rastrear respostas facilmente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454896/?learn=on&captions=por_br)
 
 ## Pontos principais
 

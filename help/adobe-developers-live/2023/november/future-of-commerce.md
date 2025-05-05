@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Libere o futuro do Adobe Commerce! Explore nossa apresentação de última geração sobre os últimos aprimoramentos da plataforma Commerce, alimentada por IA generativa e tecnologia 3D. Saiba como essas inovações redefinem o engajamento do cliente e impulsionam o sucesso dos negócios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456461/?learn=on&captions=por_br)

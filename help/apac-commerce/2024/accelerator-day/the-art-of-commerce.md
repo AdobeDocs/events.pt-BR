@@ -24,6 +24,6 @@ Exibição de exemplos de clientes ao vivo no Adobe Commerce, demonstrando a van
 
 + Apresentado por Carl Screwvala, engenheiro de soluções sênior - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455493/?learn=on&captions=por_br)
 
 [&lt; Voltar ao Adobe Commerce Accelerator Day](./overview.md)

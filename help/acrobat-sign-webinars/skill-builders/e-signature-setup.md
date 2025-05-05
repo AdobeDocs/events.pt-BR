@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Conheça três maneiras fáceis de configurar seus documentos para assinatura eletrônica. Quer sejam arquivos PDF, Microsoft 365 ou até mesmo um simples arquivo de imagem, esta sessão fornecerá as ferramentas necessárias para assinar esse documento. Abordaremos três métodos: Ambiente simples de criação de arrastar e soltar do Adobe Acrobat Sign Configure um formulário PDF no Adobe Acrobat Use tags de texto para criar documentos rapidamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455950/?learn=on&captions=por_br)
 
 ## Qual é a vantagem de usar tags de texto em conjunto com o Microsoft Word?
 

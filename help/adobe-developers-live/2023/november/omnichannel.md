@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Pode ser difícil organizar o alinhamento do conteúdo entre canais de entrada e de saída. O Adobe Experience Manager permite criar conteúdo de entrada e de saída e utilizar esse conteúdo na jornada do cliente. Essa sessão aborda os padrões de integração com o Adobe Target, Adobe Campaign, Adobe Journey Optimizer e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426337/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455018/?learn=on&captions=por_br)

@@ -27,7 +27,7 @@ Este webinário fornece uma compreensão mais profunda de como o Acelerador de c
 * Experimentos e otimização de conteúdo
 * IA gerativa
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444464/?learn=on&enablevpops&captions=por_br)
 
 ## Principais pontos
 

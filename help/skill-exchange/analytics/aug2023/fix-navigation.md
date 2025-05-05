@@ -20,4 +20,4 @@ ht-degree: 0%
 
 A navegação é fundamental para que seus visitantes encontrem o caminho ao redor do site e acessem seus funis de conversão. Saiba como rastrear a eficácia da navegação e como melhorá-la com o Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457372/?learn=on&captions=por_br)

@@ -24,4 +24,4 @@ Adquirir as táticas para atingir efetivamente metas organizacionais por meio de
 - Definição do curso para o sucesso a longo prazo
 - Impulsionar iniciativas estratégicas com eficiência
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456788/?learn=on&captions=por_br)

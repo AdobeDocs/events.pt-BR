@@ -25,6 +25,6 @@ Uma visão geral e demonstração da personalização do Commerce utilizando a C
 
 + Apresentado por Mike Lynch, especialista em Commerce Empresarial - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454443/?learn=on&captions=por_br)
 
 [&lt; Voltar ao Adobe Commerce Accelerator Day](./overview.md)

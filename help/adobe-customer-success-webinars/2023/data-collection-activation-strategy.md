@@ -25,4 +25,4 @@ Aproveite e ative sua estratégia de coleta de dados para fornecer interação m
 * Visão geral da arquitetura de alto nível
 * Considerações para sua coleção de dados e estratégia de ativação
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456229/?learn=on&captions=por_br)

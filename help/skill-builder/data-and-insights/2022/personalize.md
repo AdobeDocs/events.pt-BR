@@ -21,4 +21,4 @@ Participe desta sessão para saber mais sobre os conceitos principais de automat
 
 *Matthias Kolitsch* Treinador Sênior de Várias Soluções EMEA/Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457383/?quality=12&learn=on&captions=por_br)

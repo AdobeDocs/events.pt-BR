@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Ouça Nicholas Twillie e Alma Martinez da Walgreens falarem sobre o rastreamento do tempo, através de planilhas de horas, no Workfront. Em seguida, assista como Christian Barnes mostra-lhe o lado técnico das folhas de horas.
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457336/?quality=12&learn=on&captions=por_br)

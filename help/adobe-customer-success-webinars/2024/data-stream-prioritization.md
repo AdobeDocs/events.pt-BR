@@ -28,4 +28,4 @@ Saiba como gerenciar a priorização de fluxo de dados para a orquestração de 
 - Entender a importância das práticas &amp; recomendadas de priorização de fluxo de dados
 - Otimizar campanhas de marketing em tempo real
 
->[!VIDEO](https://video.tv.adobe.com/v/3427302/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456810/?learn=on&captions=por_br)

@@ -31,4 +31,4 @@ Como eles evoluíram seu processo e sua infraestrutura ao longo do tempo
 Conselhos práticos para integrar o Workfront à sua pilha de tecnologia mais ampla e amadurecer fluxos de trabalho importantes
 Como o IPG está preparando a base para a Cadeia de fornecimento de conteúdo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456665/?learn=on&captions=por_br)

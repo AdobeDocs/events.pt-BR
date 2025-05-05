@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Saiba mais sobre os serviços de Pesquisa e Catálogo para aprimorar e otimizar suas experiências de loja.  Esta demonstração explica o conector de serviços de comércio e como aproveitá-los com sua loja usando o GraphQL.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454733/?learn=on&captions=por_br)

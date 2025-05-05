@@ -30,4 +30,4 @@ Nesta sessão, Tia Calvert, gerente de produtos, e Erin Kuchera, gerente de oper
 * Como incorporar o rastreamento de folga
 * Exemplos de como a Clínica Mayo usa o Analytics e o Gerenciador de Recursos para fornecer transparência às equipes e planejar novos trabalhos
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457101/?learn=on&captions=por_br)

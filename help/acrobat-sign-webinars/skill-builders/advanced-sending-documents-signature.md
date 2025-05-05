@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Saiba mais sobre todas as opções disponíveis ao enviar contratos para assinatura. Nesta sessão, você aprenderá sobre: Envio para vários recipients Funções de recipient disponíveis (signatário, preenchimento de formulário, delegador e outros) Adição de um campo CC Proteção por senha e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454885/?learn=on&captions=por_br)
 
 O webinário fornece informações sobre os recursos avançados do Acrobat Sign para configurar fluxos de trabalho de vários participantes, configurar funções de recipient e utilizar grupos de recipients e mensagens privadas. Este aprendizado pode ajudar a simplificar o processo de envio de documentos para assinatura e melhorar a colaboração entre os participantes signatários.
 

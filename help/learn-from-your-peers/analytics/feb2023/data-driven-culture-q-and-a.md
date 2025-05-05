@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Durante o webinário [!DNL Adobe Analytics] Building a Data Driven Culture, mais de 35 perguntas foram feitas por [!DNL Adobe Analytics] usuários em todo o mundo. Como o nosso especialista do [!DNL Adobe Analytics] não pôde responder a todas essas perguntas durante as perguntas e respostas ao vivo, nós as trouxemos de volta e hospedamos uma sessão de perguntas e respostas de acompanhamento para responder às SUAS perguntas e compartilhamos ainda mais conhecimento especializado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455128/?quality=12&learn=on&captions=por_br)

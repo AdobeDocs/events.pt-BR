@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Aproveite todos os recursos de automação com a solução de baixo código/sem código da Microsoft, o Power Automate, diretamente na Adobe Acrobat Sign. Saiba como os não desenvolvedores têm o poder e a flexibilidade para criar workflows da próxima geração. Nesta sessão, você aprenderá a: configurar a integração do fluxo de trabalho para começar Impulsione sua criação de fluxo de trabalho com modelos pré-fabricados Aproveite um vasto ecossistema de conectores para integrar o Acrobat Sign aos seus aplicativos em pacotes e personalizados Aumente a produtividade e estenda os recursos do Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454929/?learn=on&captions=por_br)
 
 ## Mais detalhes sobre o Power Automate
 

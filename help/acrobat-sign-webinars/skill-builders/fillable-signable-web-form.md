@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Saiba como criar um formulário web que permita a qualquer pessoa preencher e assinar — sem precisar iniciar a transação ou até mesmo saber o endereço de email do signatário. Você também verá como preparar um modelo de documento que pode ser usado para transações de assinatura individuais, bem como para postagem em um URL exclusivo para compartilhamento amplo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455451/?learn=on&captions=por_br)
 
 ## Pontos principais
 

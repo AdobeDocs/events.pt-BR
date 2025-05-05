@@ -33,4 +33,4 @@ Você também verá uma demonstração ao vivo da plataforma para dar vida a ess
 
 O MBI simplifica os relatórios com painéis exibindo tudo, desde o valor médio de pedido até o valor vitalício do cliente e as taxas de retenção. Com esses insights avançados, você pode ser capacitado a tomar medidas e agregar valor aos seus negócios online.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410646/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418956/?quality=12&learn=on&captions=por_br)

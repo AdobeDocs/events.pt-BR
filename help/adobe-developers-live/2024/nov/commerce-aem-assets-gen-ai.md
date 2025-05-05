@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Descubra como Ankush Malhotra, cientista da computação sênior da Adobe, e Pablo Moreno, engenheiro de software sênior da Adobe, integram a Adobe Experience Manager Assets e a GenAI com a Adobe Express para aprimorar as lojas Adobe Commerce. Aproveite as referências de imagem aprovadas pela marca, melhore a qualidade do conteúdo de mídia e melhore o desempenho do comércio eletrônico com essa combinação avançada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440400/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440554/?learn=on&enablevpops&captions=por_br)
 
 ## Discussão da comunidade
 

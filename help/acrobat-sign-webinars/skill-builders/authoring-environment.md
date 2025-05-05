@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Saiba mais sobre as opções disponíveis no Ambiente de criação do Acrobat Sign. Os tópicos abordados incluem: Visão geral da preparação de modelos de documento do Acrobat Sign usando o Acrobat, marcação de texto e o Ambiente de criação do Acrobat Sign. Mergulhe fundo no Ambiente de criação, abrangendo a clonagem versus a cópia de campos, a adição de campos especializados, a atribuição de campos e a configuração de campos condicionais e de cálculo. Como enviar seus modelos para assinatura, comparando o modelo de documento vs. o modelo de campo de formulário.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455905/?learn=on&captions=por_br)
 
 ## Pontos principais
 

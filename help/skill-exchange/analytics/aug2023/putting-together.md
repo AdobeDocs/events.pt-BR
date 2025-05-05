@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Esta sessão concluirá entendendo como o Adobe Analytics rastreia os dados do site e utiliza as Visualizações para obter mais informações.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425988/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456722/?learn=on&captions=por_br)

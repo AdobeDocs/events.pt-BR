@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Aprenda os conceitos básicos do Acrobat Sign para começar a assinar documentos rapidamente. Mostraremos como: Preparar e enviar seus documentos para assinatura eletrônica Exibir o que seus signatários veem Gerenciar e acompanhar o progresso dos contratos Criar sua própria assinatura e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455470/?learn=on&captions=por_br)
 
 ## Pontos principais
 

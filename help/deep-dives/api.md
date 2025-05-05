@@ -21,4 +21,4 @@ ht-degree: 1%
 
 Junte-se a nós para saber como aproveitar a API do Adobe Marketo e aprimorar o verdadeiro poder da automação de marketing. Descubra como formar conexões de linha de base, utilizar extensões de movimentação em montanhas e fazer suas primeiras chamadas de API. Explore as nuances entre funções que podem parecer semelhantes, como webhooks versus API, para saber qual ferramenta é melhor aplicada na solução. Proteja melhor seus dados aprendendo as práticas recomendadas de segurança, como a importância de minimizar seus conjuntos de permissões. Integre-se à nuvem, aproveite o armazenamento e aproveite o potencial da API em massa para tarefas de importação/exportação. As possibilidades são infinitas. Não perca esta oportunidade de revolucionar seu marketing. Registre-se agora para descobrir o potencial da API do Marketo e ajudar a transformar realmente suas estratégias de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422479/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430733/?learn=on&captions=por_br)
