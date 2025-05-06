@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacitá-lo a otimizar seu investimento na Experience Cloud da Adobe. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções da Adobe.
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 0%
    + [Modelo operacional do GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
    + [Dominar a lógica sequencial](2025/mastering-sequential-logic.md)
    + [Otimização do desempenho do AEM](2025/optimize-aem-performance.md)
+   + [Marketing mais inteligente começa aqui - Integração entre o Google e o Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Personalization orientado por IA da Adobe Target](2024/ai-personalization.md)
@@ -36,7 +37,7 @@ ht-degree: 0%
    + [Principais conceitos de criação do AEM](2024/aem-authoring-concepts.md)
    + [Eficiência do AEM Sites](2024/aem-sites-efficiencies.md)
    + [Integrações dos serviços de aplicativo da AEP para casos de uso do cliente](2024/aep-apps-services-integrations.md)
-   + [Planejamento de caso de uso da AEP](2024/aep-use-case-planning.md)
+   + [Planejamento de caso de uso do AEP](2024/aep-use-case-planning.md)
    + [Redação com recursos de IA](2024/ai-copywriting.md)
    + [Recursos de análise básicos a intermediários](2024/basic-to-intermediate-analysis-capabilities.md)
    + [Priorização do fluxo de dados](2024/data-stream-prioritization.md)
