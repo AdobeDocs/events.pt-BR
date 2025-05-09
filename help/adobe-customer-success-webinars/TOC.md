@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacitá-lo a otimizar seu investimento na Experience Cloud da Adobe. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções da Adobe.
-source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
+source-git-commit: 26c495842dbfdc6db8b81fd61ed84a3e3593b396
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,10 @@ ht-degree: 0%
 + [Webinários de sucesso do cliente do Adobe](overview.md)
 + 2025 {#2025}
    + [Insights digitais da Adobe](2025/adobe-digital-insights.md)
+   + [AEM com GenAI](2025/aem-genai.md)
    + [Integração do AEM e do Workfront](2025/aem-workfront-integration.md)
+   + [IA e ADOBE TARGET](2025/ai-adobe-target.md)
+   + [Práticas recomendadas e insights para modelagem de esquemas XDM](2025/model-xdm-schemas.md)
    + [Criação de páginas da Web eficazes](2025/build-effective-web-pages.md)
    + [Fundamentos da cadeia de fornecimento de conteúdo](2025/content-supply-chain-basics.md)
    + [Elaborando estratégias para uma medição eficaz](2025/impactful-insights.md)
@@ -26,8 +29,11 @@ ht-degree: 0%
    + [Aprimoramento do Personalization](2025/enhancing-personalization.md)
    + [Experimento GenAI](2025/gen-ai-experimentation.md)
    + [Modelo operacional do GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
-   + [Dominar a lógica sequencial](2025/mastering-sequential-logic.md)
+   + [Dominando Lógica Sequencial - Estrutura Visual](2025/mastering-sequential-logic.md)
+   + [Dominando Lógica Sequencial - Iniciar Paradas](2025/sequential-logic-start-stop.md)
    + [Otimização do desempenho do AEM](2025/optimize-aem-performance.md)
+   + [Patrocínio executivo vencedor para projetos da AEP](2025/exec-sponsorship-aep-projects.md)
+   + [Noções básicas e práticas recomendadas do Workfront Fusion](2025/adobe-workfront-fusion-best-practices.md)
    + [Marketing mais inteligente começa aqui - Integração entre o Google e o Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
