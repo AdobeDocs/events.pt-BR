@@ -9,9 +9,9 @@ duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
 exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
-source-git-commit: 59fbdc672cf8faee7d18d0922eb90268e7202490
+source-git-commit: db8e0b36dff5abf5665e3a75e9dcda4f9a84e044
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Descubra como a AEM Forms pode ajudar as organizações de serviços financeiros
    * O processamento presencial é 42 vezes mais caro do que o digital.
    * A integração de um cliente em pessoa custa US$ 55 a mais do que online.
 
-* **Recursos do AEM Forms** O AEM Forms é uma solução completa que impulsiona a eficiência operacional e experiências excepcionais do usuário. Os principais recursos incluem formulários omnicanal, fluxos de trabalho automatizados, comunicações personalizadas com o cliente e integração com o Adobe Experience Cloud e o AEM Sights. Esses recursos ajudam as organizações a reduzir o abandono de formulários em 63%, aumentar o autoatendimento em 113% e melhorar a velocidade de conclusão de formulários em 58%.
+* **Recursos do AEM Forms** O AEM Forms é uma solução completa que impulsiona a eficiência operacional e experiências excepcionais do usuário. Os principais recursos incluem formulários omnicanal, fluxos de trabalho automatizados, comunicações personalizadas com o cliente e integração com o ecossistema do Adobe Experience Cloud. Esses recursos ajudam as organizações a reduzir o abandono de formulários em 63%, aumentar o autoatendimento em 113% e melhorar a velocidade de conclusão de formulários em 58%.
 
 * **Inovações no Design do Formulário** A introdução de um designer baseado em nuvem simplifica a criação de formulários com a funcionalidade arrastar e soltar, fragmentos para conteúdo reutilizável e integração com modelos de dados. Essa ferramenta modernizada reduz a dependência da TI e permite atualizações mais rápidas, atendendo ao tempo de retorno de oito semanas para alterações de formulários em algumas organizações.
 
