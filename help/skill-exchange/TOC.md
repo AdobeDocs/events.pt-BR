@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Coleção de gravações do Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: e3f251f2b3030f4d9fdf072aee05be25f06d89b4
+source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 5%
+source-wordcount: '659'
+ht-degree: 9%
 
 ---
 
@@ -84,7 +84,7 @@ ht-degree: 5%
       + [Dicas e truques do Adobe Analytics](analytics/sept2021/tips-and-tricks.md)
       + [Análise de dados](analytics/sept2021/analyze-data.md)
       + [Introdução](analytics/sept2021/getting-started.md)
-      + [Enfrentando desafios do SPA em compilações e análises de teste](analytics/sept2021/navigate-spa.md)
+      + [Enfrentando desafios de SPA em compilações e análises de teste](analytics/sept2021/navigate-spa.md)
       + [Tudo junto na prática](analytics/sept2021/putting-all-together.md)
    + Junho de 2021 {#jun2021}
       + [Dicas e truques do Adobe Analytics](analytics/jun2021/tips-and-tricks.md)
@@ -97,20 +97,20 @@ ht-degree: 5%
    + Agosto de 2024 {#aug2024}
       + [Abrindo Palestra](aem/aug2024/keynote.md)
       + [AEM Sites com Universal Editor](aem/aug2024/universal-editor.md)
-      + [Experiências coesas com personalização e governança do AEM](aem/aug2024/customize-elements.md)
+      + [Experiências coesas com a personalização e a governança do AEM](aem/aug2024/customize-elements.md)
       + [Estratégias de gerenciamento de ativos digitais](aem/aug2024/spotlight-dam-strategies.md)
       + [Gerenciamento de ativos Dynamic Media Classic](aem/aug2024/dmc-asset-management.md)
       + [Aprimorando a cadeia de fornecimento de conteúdo](aem/aug2024/spotlight-content-supply-chain.md)
-      + [Abordagens do Editor Master Headless e SPA](aem/aug2024/headless-spa-editor.md)
+      + [Abordagens Master Headless e SPA Editor](aem/aug2024/headless-spa-editor.md)
       + [Metadados, estrutura de conteúdo e taxonomia](aem/aug2024/dam-performance.md)
-      + [Print Production](aem/aug2024/print-production.md)
+      + [Produção de impressão](aem/aug2024/print-production.md)
    + Agosto de 2023 {#aug2023}
       + Faixa do desenvolvedor {#developer-track}
-         + [Kit inicial para desenvolvedores de AEM](aem/aug2023/deploy-new-project.md)
+         + [Kit inicial do desenvolvedor do AEM](aem/aug2023/deploy-new-project.md)
          + [Construindo um sistema de estilo eficiente e escalável](aem/aug2023/scalable-style-system.md)
          + [Migrar para o AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
          + [Emails de marketing personalizados](aem/aug2023/personalized-marketing-emails.md)
-      + Faixa da Web {#webtrack}
+      + Rastreamento na Web {#webtrack}
          + [Introdução ao AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Aproveitar um DAM colaborativo](aem/aug2023/collaborative-dam.md)
          + [Dimensionar para disponibilidade de IA](aem/aug2023/metadata.md)
@@ -118,13 +118,13 @@ ht-degree: 5%
    + Agosto de 2022 {#aug2022}
       + Faixa do desenvolvedor {#developer-track}
          + [Destaques do Experience Makers](aem/aug2022/spotlight.md)
-         + [Multilocação da sessão de campeão AEM](aem/aug2022/multi-tenancy.md)
+         + [Multilocação da sessão do AEM Champion](aem/aug2022/multi-tenancy.md)
          + [Componentes principais e sistemas de estilo do AEM](aem/aug2022/core-components.md)
-         + [Extensão do AEM headless com o App Builder](aem/aug2022/app-builder.md)
-      + Profissional de marketing/produtor da Web {#marketer}
+         + [Extensão do AEM Headless com o App Builder](aem/aug2022/app-builder.md)
+      + Profissional de marketing / produtor da Web {#marketer}
          + [O poder da reutilização](aem/aug2022/reusability.md)
          + [Impulsionar o valor dos negócios com a personalização de conteúdo no AEM](aem/aug2022/personalization.md)
-         + [Maximize a sua implementação do AEM](aem/aug2022/implementation.md)
+         + [Maximize sua implementação do AEM](aem/aug2022/implementation.md)
 + Marketo {#marketo}
    + Agosto de 2024 {#aug2024}
       + [Abrindo Palestra](marketo/aug2024/keynote.md)
@@ -153,11 +153,11 @@ ht-degree: 5%
       + [Seu roteiro do Marketo](marketo/aug2021/marketo-roadmap.md)
    + Fevereiro de 2021 {#feb2021}
       + [Um mergulho de corda nos objetos personalizados e na velocidade](marketo/feb2021/custom-objects.md)
-      + [Adobe [!DNL Marketo Engage] Segmento Rockstar](marketo/feb2021/rockstar.md)
+      + [Segmento Adobe [!DNL Marketo Engage] Rockstar](marketo/feb2021/rockstar.md)
       + [Criando Programas no Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [O poder de uma campanha inteligente](marketo/feb2021/power-of-smart-campaign.md)
       + [Relatório em  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
-      + [Dicas e truques mais recentes para o seu Forms](marketo/feb2021/forms-tips-and-tricks.md)
+      + [Dicas e truques do Ultimate para sua Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Agosto de 2024 {#aug2024}
       + [Abrindo Palestra](workfront/aug2024/keynote.md)
@@ -186,9 +186,8 @@ ht-degree: 5%
       + [O futuro da prova do Adobe Workfront](workfront/apr2022/workfront-proof.md)
       + [Destaques do Experience Makers de faixa crescente](workfront/apr2022/grow-track-spotlight.md)
       + [Saiba Mais Sobre O Destaque Dos Criadores De Experiência](workfront/apr2022/learn-track-spotlight.md)
-      + [Especialização em datas e linhas do tempo de projetos](workfront/apr2022/projects-dates-timelines.md)
       + [Noções básicas sobre objetos no Workfront](workfront/apr2022/understanding-objects.md)
-+ Bites Digitais {#digital-bites}
++ Mordidas digitais {#digital-bites}
    + [Libere a eficiência operacional com o melhor modelo operacional da categoria](digital-bites/operational-model.md)
    + [Um roteiro para o mapeamento de valores e a realização de valores](digital-bites/roadmap.md)
    + [Como explorar o valor comercial na jornada do cliente](digital-bites/business-value.md)
