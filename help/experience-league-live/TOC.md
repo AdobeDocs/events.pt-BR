@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
+source-git-commit: f7a4b6f56c7edcb895773f2e377f96f710b5c29b
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '532'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Visão geral](overview.md)
 + Episódios {#episodes}
+   + [Ep 47: Fluxos de trabalho ágeis para conteúdo personalizado em escala](episodes/exl-live-episode-47-2025-06-05.md)
    + [Ep 46: Content Analytics: otimizar o desempenho com insights de IA](episodes/exl-live-episode-05-22-25.md)
    + [Ep 45: Não espere... colabore! Apresentação do Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
    + [Ep 44: Desbloquear insights operacionais com o Assistente de IA no Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
