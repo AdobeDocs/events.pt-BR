@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacitá-lo a otimizar seu investimento na Experience Cloud da Adobe. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções da Adobe.
-source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
+source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 + [Webinários de sucesso do cliente do Adobe](overview.md)
 + 2025 {#2025}
-   + [Insights digitais da Adobe](2025/adobe-digital-insights.md)
+   + [Situação da adoção digital e da GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + [Resultados das férias de 2024 e tendências para 2025](2025/adobe-digital-insights.md)
    + [AEM com GenAI](2025/aem-genai.md)
    + [Integração do AEM e do Workfront](2025/aem-workfront-integration.md)
    + [IA e ADOBE TARGET](2025/ai-adobe-target.md)
