@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
+source-git-commit: a5ee0817798a0acba48c48191128c5f0b913213d
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 4%
+source-wordcount: '193'
+ht-degree: 3%
 
 ---
 
@@ -34,6 +34,19 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
               </a>
               <br/><em>com Shay O'Reilly, Jennifer Werkmeister e Doug Moore</em>
               <br/><em>22 de maio de 2025</em>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
+              <img alt="Experience League LIVE 22 de maio" src="assets/WebBannerExLLive-June05-2025.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-47-2025-06-05.md">
+                <strong>Fluxos de Trabalho Ágeis para Conteúdo Personalizado em Escala</strong>
+              </a>
+              <br/><em>com Amarnath Vannarath, Chris Ivory e Rohan Bhatt</em>
+              <br/><em>5 de junho de 2025</em>
             </div>
         </td>
     </tr>
@@ -101,5 +114,5 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 
 >[!TIP]
 >
->Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/pt-br?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
+>Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
 
