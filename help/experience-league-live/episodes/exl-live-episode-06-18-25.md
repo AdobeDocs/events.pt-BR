@@ -8,9 +8,9 @@ event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
 exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
-source-git-commit: 2202e181d4adeb189bdda54c826b657b09de4522
+source-git-commit: f65e18ca681f16f1158243cc3d0b39fe5c85c5a3
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Essa sessão é ideal para profissionais de marketing, equipes de operações e 
 
 Não perca esta oportunidade de transformar suas estratégias de marketing e envolver seu público como nunca.
 
-[Defina um lembrete no YouTube agora](https://www.youtube.com/live/awYa2dU6TDY)!
+[Inscreva-se agora](https://engage.adobe.com/ExpLeagueLive-250618.html?trackingid=MH16S65T&amp;mv=email)!
 
 ![banner da Web](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618.png)
 
