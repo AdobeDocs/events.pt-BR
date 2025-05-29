@@ -22,7 +22,7 @@ ht-degree: 0%
 Este é um treinamento sobre a migração para [assinaturas do Adobe Marketo Engage para integrar com o Adobe Identity Management System](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). O conteúdo é mais apropriado para administradores do Marketo Engage. Este treinamento fornecerá o conhecimento essencial para preparar sua organização além das funções e educar usuários internos sobre essa mudança futura.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432366/?learn=on&captions=por_br)
 
 ## Visão geral
 

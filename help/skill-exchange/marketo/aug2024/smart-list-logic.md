@@ -26,4 +26,4 @@ As Campanhas inteligentes são os mecanismos eficientes que impulsionam a mágic
 * Um aprofundamento nos quatro níveis de lógica para configurar e personalizar seus públicos-alvo
 * Truques para solucionar problemas de lógica e verificar se você direcionou corretamente o público-alvo desejado
 
->[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457303/?learn=on&captions=por_br)

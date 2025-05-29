@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Palestra de abertura com Raj Patel
 
->[!VIDEO](https://video.tv.adobe.com/v/3432957/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453060/?learn=on&captions=por_br)
