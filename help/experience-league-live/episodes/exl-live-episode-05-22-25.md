@@ -30,10 +30,10 @@ Nesta sessão, exploramos:
 
 >[!BEGINSHADEBOX &quot;Tem dúvidas?&quot;]
 
-Continue a discussão na [discussão do Fórum da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
+Continue a discussão na [discussão do Fórum da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741?profile.language=pt#M4712).
 
 >[!ENDSHADEBOX]
 
 ## Recursos adicionais
 
-[Vídeos do Content Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
+[Vídeos do Content Analytics](https://experienceleague.adobe.com/pt-br/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
