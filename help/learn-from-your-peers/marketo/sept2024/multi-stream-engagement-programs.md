@@ -1,20 +1,20 @@
 ---
 title: Domine jornadas complexas do cliente com programas de envolvimento de vários fluxos
 description: Aprenda a engajar e nutrir sistematicamente os relacionamentos com os clientes com programas de engajamento multitoque e de vários fluxos em cada etapa de sua jornada. Os programas de engajamento oferecem a capacidade de ouvir as necessidades e o comportamento dos clientes e de fornecer a eles a jornada relevante e o conteúdo necessário.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, User
 level: Experienced
 doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: 33ed1cb1bc4a5a62fb590ac07ae788a6df812ef4
+exl-id: 81ef0921-cc8b-4355-adf4-df1772e388ae
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
 
 ---
-
 
 # Domine jornadas complexas do cliente com programas de envolvimento de vários fluxos
 
@@ -36,8 +36,8 @@ Esta sessão Aprenda com seus colegas discutiu a configuração e o gerenciament
 
 ## Recursos referenciados nesta apresentação
 
-* [Noções Básicas sobre Programas de Participação](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [Noções básicas sobre a pontuação de engajamento](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [Adicionando um Programa a um Fluxo de Programa de Envolvimento](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [Visão Geral da Biblioteca de Importação de Programas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Noções Básicas sobre Programas de Participação](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [Noções básicas sobre a pontuação de engajamento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Adicionando um Programa a um Fluxo de Programa de Envolvimento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Visão Geral da Biblioteca de Importação de Programas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
 * [Thread de discussão da Comunidade da Nação de Marketing](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)

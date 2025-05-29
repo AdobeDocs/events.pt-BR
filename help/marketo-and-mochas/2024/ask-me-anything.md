@@ -1,24 +1,24 @@
 ---
 title: Pergunte-me qualquer coisa
-description: Adobe Junte-se ao webinário interativo final do ano com Kate Kolbert e James Letham, que cobre otimização de webinário, atualizações de programas, recursos subutilizados do Marketo, práticas recomendadas de marketing por email, gerenciamento de banco de dados, permissões de usuário, sincronização Marketo-Salesforce, envolvimento de chat dinâmico e estágios do ciclo de vida.
-solution: Marketo
+description: Junte-se ao último webinário interativo do ano da Adobe com Kate Kolbert e James Letham, que aborda a otimização de webinários, atualizações de programas, recursos subutilizados do Marketo, práticas recomendadas de marketing por email, gerenciamento de banco de dados, permissões de usuário, sincronização Marketo-Salesforce, envolvimento de chat dinâmico e estágios do ciclo de vida.
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
-
 # Pergunte-me qualquer coisa
 
-A transcrição detalha uma sessão interativa final do webinário do ano realizada pelo Adobe, com os apresentadores Kate Kolbert e James Letham. A sessão, projetada para ser interativa, abordou várias perguntas dos participantes sobre como otimizar os registros do webinário, configurar e atualizar programas para o ano novo, utilizar recursos subutilizados do Marketo e práticas recomendadas para marketing por email e gerenciamento de banco de dados. Os principais tópicos incluíram a importância do aquecimento do domínio, gerenciamento de duplicatas, permissões de usuário e melhoria da sincronização entre o Marketo e o Salesforce. A sessão enfatizou o valor do gerenciamento pró-ativo de dados e a utilização dos recursos do Marketo para aprimorar os esforços de marketing.
+A transcrição detalha uma sessão final de webinar interativo do ano realizada pela Adobe, com os apresentadores Kate Kolbert e James Letham. A sessão, projetada para ser interativa, abordou várias perguntas dos participantes sobre como otimizar os registros do webinário, configurar e atualizar programas para o ano novo, utilizar recursos subutilizados do Marketo e práticas recomendadas para marketing por email e gerenciamento de banco de dados. Os principais tópicos incluíram a importância do aquecimento do domínio, gerenciamento de duplicatas, permissões de usuário e melhoria da sincronização entre o Marketo e o Salesforce. A sessão enfatizou o valor do gerenciamento pró-ativo de dados e a utilização dos recursos do Marketo para aprimorar os esforços de marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438195/?learn=on&enablevpops)
 
