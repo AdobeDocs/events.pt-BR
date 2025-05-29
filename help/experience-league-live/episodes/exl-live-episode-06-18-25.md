@@ -8,16 +8,16 @@ event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
 exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
-source-git-commit: f65e18ca681f16f1158243cc3d0b39fe5c85c5a3
+source-git-commit: 0ef5c2a6b36f6998b57c99a211b39c19e7fd1c95
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # Limite de frequência principal e priorização de conflito
 
-Nesta sessão, os especialistas da Adobe, Ariel Sultan, Aaron Forrest e Keara Fausett, analisam novos recursos no Adobe Journey Optimizer para ajudar você a administrar e priorizar as mensagens dos clientes com precisão. Saiba como reduzir a fadiga das mensagens, resolver conflitos e fornecer experiências impactantes que repercutem.
+Nesta sessão, os especialistas da Adobe, Ariel Sultan e Aaron Forrest, analisam novos recursos no Adobe Journey Optimizer para ajudar você a administrar e priorizar as mensagens dos clientes com precisão. Saiba como reduzir a fadiga das mensagens, resolver conflitos e fornecer experiências impactantes que repercutem.
 
 Essa sessão é ideal para profissionais de marketing, equipes de operações e administradores de jornadas que desejam dominar os recursos da Journey Optimizer para obter maior controle e eficiência.
 
@@ -25,6 +25,6 @@ Não perca esta oportunidade de transformar suas estratégias de marketing e env
 
 [Inscreva-se agora](https://engage.adobe.com/ExpLeagueLive-250618.html?trackingid=MH16S65T&amp;mv=email)!
 
-![banner da Web](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618.png)
+![banner da Web](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618_v2.jpg)
 
 Não consegue? Cadastre-se assim mesmo e enviaremos a gravação depois. Esperamos vê-lo lá!
