@@ -3,7 +3,7 @@ title: Atrás do Brew
 description: Por trás do Brew, a série complementar do Commerce & Coffee, é personalizada para clientes com conhecimento técnico que buscam dominar as práticas recomendadas de back-end, as integrações e as funcionalidades avançadas para aprimorar suas experiências de comércio eletrônico.
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 7%
@@ -18,6 +18,7 @@ Behind the Brew é a série complementar do Commerce &amp; Coffee. Ele foi proje
 
 {cta  = Watch event}
 
+* 2025/proactive-monitoring-tools.md
 * 2025/app-builder.md
 * 2025/commerce-intelligence.md
 * 2025/deep-dive-live-search.md
@@ -31,7 +32,7 @@ Behind the Brew é a série complementar do Commerce &amp; Coffee. Ele foi proje
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder.md" title="Construtor de aplicativos do Adobe Developer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1737765880344" alt="Construtor de aplicativos do Adobe Developer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1749738836125" alt="Construtor de aplicativos do Adobe Developer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -54,7 +55,7 @@ Behind the Brew é a série complementar do Commerce &amp; Coffee. Ele foi proje
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/commerce-intelligence.md" title="Adobe Commerce Intelligence (fka MBI)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443025/?format=jpeg&nocache=1737765880333" alt="Adobe Commerce Intelligence (fka MBI)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443025/?format=jpeg&nocache=1749738836111" alt="Adobe Commerce Intelligence (fka MBI)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -77,7 +78,7 @@ Behind the Brew é a série complementar do Commerce &amp; Coffee. Ele foi proje
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/deep-dive-live-search.md" title="Aprofundamento do Live Search" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443021/?format=jpeg&nocache=1737765880353" alt="Aprofundamento do Live Search"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443021/?format=jpeg&nocache=1749738836153" alt="Aprofundamento do Live Search"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -100,7 +101,7 @@ Behind the Brew é a série complementar do Commerce &amp; Coffee. Ele foi proje
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/commerce-storefront.md" title="Otimizar sua vitrine do Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443031/?format=jpeg&nocache=1737765880320" alt="Otimizar sua vitrine do Commerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443031/?format=jpeg&nocache=1749738836139" alt="Otimizar sua vitrine do Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +111,7 @@ Behind the Brew é a série complementar do Commerce &amp; Coffee. Ele foi proje
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/commerce-storefront.md" target="_blank" rel="referrer" title="Otimizar sua vitrine do Commerce">Otimizar sua vitrine da Commerce</a>
                     </p>
-                    <p class="is-size-6">Otimize sua instância do Commerce com dicas especializadas de Adobe sobre manutenção, atividade de bot e gerenciamento de dados</p>
+                    <p class="is-size-6">Otimize sua instância do Commerce com as dicas de especialistas da Adobe sobre manutenção, atividade de bot e gerenciamento de dados</p>
                 </div>
                 <a href="2025/commerce-storefront.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir ao evento</span>

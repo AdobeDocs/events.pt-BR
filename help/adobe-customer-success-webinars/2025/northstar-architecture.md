@@ -1,0 +1,27 @@
+---
+title: Planejamento de arquitetura EA Northstar
+description: O TWebinar sobre design de arquitetura entre soluções cobriu o valor e a criação de diagramas do Northstar, com insights importantes para desenvolvedores, líderes e usuários.
+role: Developer, Leader, User
+level: Intermediate
+doc-type: Event
+duration: 3546
+last-substantial-update: 2025-06-12T00:00:00Z
+jira: KT-18244
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 0%
+
+---
+
+
+# Planejamento de arquitetura EA Northstar
+
+Este webinário sobre &quot;Introdução ao design de arquitetura entre soluções&quot; forneceu informações valiosas sobre a criação e o significado dos diagramas de arquitetura Northstar. Os participantes compreenderam a importância do Design de arquitetura entre soluções e aprenderam sobre sua criação e gerenciamento.
+
+Pontos principais de discussão
+
+* Entenda a importância do Design de arquitetura entre soluções.
+* Criação e gerenciamento de projetos de arquitetura entre soluções.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3463355/?learn=on&enablevpops)

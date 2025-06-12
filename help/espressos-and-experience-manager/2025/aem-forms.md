@@ -1,6 +1,6 @@
 ---
-title: AEM Forms
-description: A AEM Forms aprimora o gerenciamento de desempenho oferecendo eficiência operacional e experiências excepcionais para o usuário. Os principais benefícios incluem o aumento das taxas de preenchimento de formulários, taxas de conversão, experiências aprimoradas do usuário e redução de erros do cliente. Os recursos abrangem formulários omnicanal, fluxos de trabalho automatizados, comunicações interativas com o cliente e integração com o Adobe Experience Cloud, com suporte da IA para personalização aprimorada. Os impactos nos negócios incluem um aumento de 2,5 vezes nas taxas de conversão de inscrição online, edição de formulários 85% mais rápida e uma redução de 50% nos erros do cliente. O desempenho nativo em nuvem garante que os formulários estejam atualizados, dimensionáveis, seguros e disponíveis. As inovações incluem criação baseada em documentos, formulários conversacionais e suporte universal do editor. A IA ajuda a criar formulários, automatizar testes e melhorar a eficiência. Acesse as inovações iniciais entrando em contato com a Adobe. As sessões do Summit apresentam liderança de pensamento, principais inovações e estudos de caso. Acesse os recursos, registre-se para a cúpula e conecte-se com os gerentes de conta da solução para obter assistência adicional.
+title: Expressos e Experience Manager - AEM Forms
+description: O AEM Forms aumenta o desempenho com formulários omnicanal, personalização alimentada por IA e escalabilidade nativa em nuvem — promovendo conversões 2,5 vezes mais rápidas, edições 85% mais rápidas e 50% menos erros.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3297
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17535
 exl-id: cb810398-5e62-4128-8338-71ea1bccc6f9
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
