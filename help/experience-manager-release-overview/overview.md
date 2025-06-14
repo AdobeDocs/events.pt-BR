@@ -30,7 +30,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="Vídeo de visão geral da versão 2025.3.0 do AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1749737199687" alt="Vídeo de visão geral da versão 2025.3.0 do AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463870/?format=jpeg&nocache=1749737199687&captions=por_br" alt="Vídeo de visão geral da versão 2025.3.0 do AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
