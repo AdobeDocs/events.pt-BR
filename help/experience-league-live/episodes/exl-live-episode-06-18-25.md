@@ -30,6 +30,6 @@ Junte-se a nós para a [Comunidade Adobe Journey Optimizer, Pergunte-me qualquer
 
 Assista a estes tutoriais:
 
-* [Identificar possíveis conflitos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
-* [Atribuir pontuações de prioridade às ações de entrada](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
-* *[Limite de frequência de Jornada e priorização](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
+* [Identificar possíveis conflitos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
+* [Atribuir pontuações de prioridade às ações de entrada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
+* *[Limite de frequência de Jornada e priorização](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
