@@ -2,7 +2,7 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacitá-lo a otimizar seu investimento na Experience Cloud da Adobe. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções da Adobe.
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 4c9f94ad75729c99d650b4fa5d280b6941b374c7
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 + [Webinários de sucesso do cliente do Adobe](overview.md)
 + 2025 {#2025}
-   + [Especialização em AEM Sites](2024/mastering-aem-sites.md)
+   + [Especialização em AEM Sites](2025/mastering-aem-sites.md)
    + [WORKFRONT e JIRA](2025/workfront-and-jira.md)
    + [Transformação de Commerce B2B e B2B2C](2025/transforming-b2b-commerce.md)
    + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
