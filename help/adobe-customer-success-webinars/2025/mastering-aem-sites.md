@@ -1,5 +1,5 @@
 ---
-title: 'Dominar o AEM Sites: seu guia para iniciantes em modelos, navegação e SEO'
+title: Especialização em AEM Sites - Modelos, Navegação e SEO
 description: Saiba mais sobre os fundamentos do AEM Sites - como usar modelos de página, projetar navegação intuitiva e aplicar as principais práticas de SEO para aumentar a visibilidade e o desempenho do site.
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
@@ -9,9 +9,9 @@ doc-type: Event
 duration: 2025
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18431
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: f9e38f359b801bc6abc7a108f1da755922e43c65
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ Esta sessão fornece uma compreensão básica de três aspectos críticos da cri
 * Criação de uma navegação fácil de usar para obter a experiência ideal do site
 * Estabelecendo a base do SEO no AEM Sites
 
->[!VIDEO](https://video.tv.adobe.com/v/3464320/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
