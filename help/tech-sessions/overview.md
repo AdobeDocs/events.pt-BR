@@ -3,10 +3,10 @@ title: Sessões técnicas do Experience Cloud
 description: Aprimore suas habilidades no Adobe Experience Cloud com sessões técnicas ao vivo e sob demanda realizadas por especialistas da Adobe. Obtenha dicas e estratégias acionáveis a qualquer momento para uma experiência de aprendizado contínua.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 52e39cd07f1ccc8cea2fc6f628cce1c84161f491
 workflow-type: tm+mt
 source-wordcount: '1523'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas e sob demanda. Esses webinars foram projetados levando em consideração o suporte tradicional. Lideradas por especialistas experientes da Adobe, as sessões fornecem dicas, truques e estratégias valiosas para ajudá-lo a navegar por soluções técnicas com confiança, evitando armadilhas comuns. Os especialistas da Adobe são engenheiros de suporte técnico que atendem às principais preocupações e trabalham ativamente nos casos do dia a dia. Com opções em tempo real e sob demanda, você tem a flexibilidade de acessar as informações sempre que precisar delas, garantindo uma experiência de aprendizado contínua.
 
-## Sessões de 2054
+## Sessões de 2025
 
 <!-- CARDS
 {cta = Watch}
