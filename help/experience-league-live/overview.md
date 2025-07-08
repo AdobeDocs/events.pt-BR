@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 65bbb2d2658a343005abfc597bf13aa814b8cc82
+source-git-commit: 0ee7c933d4278a09b3c69373c4bbc21274279ec8
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 4%
 
 ---
@@ -32,8 +32,6 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
               <a href="episodes/exl-live-episode-07-31-25.md">
                 <strong>Limite de frequência principal e Priorização de conflito</strong>
               </a>
-              <br/><em>com Sandra Hausmann, Ariel Sultan, Aaron Forrest e Keara Fausett</em>
-              <br/><em>18 de junho de 2025</em>
             </div>
         </td>
     </tr>
@@ -102,5 +100,5 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 
 >[!TIP]
 >
->Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/pt-br?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
+>Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
 
