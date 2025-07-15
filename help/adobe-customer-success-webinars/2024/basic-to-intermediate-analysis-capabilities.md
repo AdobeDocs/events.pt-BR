@@ -1,5 +1,5 @@
 ---
-title: Início rápido do Adobe Analytics e do CJA para recursos de análise básicos a intermediários
+title: Início rápido do Adobe Analytics e CJA para recursos de análise básicos a intermediários
 description: A sessão abordou a configuração de recursos analíticos, comparação entre o Adobe Analytics e o Customer Journey Analytics e os principais recursos de relatórios de marketing.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
@@ -9,14 +9,14 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
-# Adobe Analytics e CJA: início rápido para recursos de análise básicos a intermediários
+# Adobe Analytics &amp; CJA: início rápido para recursos de análise básicos a intermediários
 
 Saiba como começar rapidamente a usar o Adobe Analytics e o Customer Journey Analytics (CJA) para apoiar suas atividades de marketing com decisões orientadas por dados: saiba como configurar sua organização para recursos analíticos robustos, entender quando usar melhor qual solução analítica e mapear os recursos do Analytics e do CJA para níveis de maturidade de análise para criar relatórios de marketing importantes.
 
@@ -30,7 +30,7 @@ Saiba como começar rapidamente a usar o Adobe Analytics e o Customer Journey An
 
 * **Introdução de Alto-falantes**
    * Frederick, gerente de sucesso de cliente sênior da Adobe, apresentou a sessão.
-   * Kirsten Schaffer, gerente de sucesso do cliente principal da Adobe, é a apresentadora.
+   * Dr. Kerstin Schäfer, Estratégica Principal de Sucesso do Cliente da Adobe, é o apresentador.
 
 * **Conteúdo da sessão**
    * A sessão aborda a configuração de uma organização para recursos analíticos avançados, aspectos de governança e caminhos de execução para o Analytics e o Customer jornada Analytics.
