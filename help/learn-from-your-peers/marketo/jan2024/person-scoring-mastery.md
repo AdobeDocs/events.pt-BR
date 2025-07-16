@@ -30,7 +30,7 @@ Neste webinário, você aprenderá:
 * Como configurar um modelo de pontuação de pessoa transparente e escalável
 * A melhor maneira de implementar isso no Marketo Engage, permitindo flexibilidade no mercado local e, ao mesmo tempo, mantendo o modelo lógico e consistente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457444/?learn=on&captions=por_br)
 
 ## Recursos compartilhados no webinário
 
