@@ -4,16 +4,17 @@ description: Saiba como migrar do appmeasurement.js e da at.js para o AEP Web SD
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Analytics, Target
 duration: 4381
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18368
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+exl-id: b74e83b5-e42f-48d5-8156-3c8e544f4f26
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # Migrar o Adobe Analytics para o AEP Web SDK
 

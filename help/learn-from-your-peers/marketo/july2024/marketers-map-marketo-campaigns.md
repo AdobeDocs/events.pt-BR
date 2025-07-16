@@ -1,20 +1,21 @@
 ---
 title: O mapa do profissional de marketing - um guia abrangente para a estratégia, construção e análise de campanhas do Marketo
-description: Aprenda maneiras eficientes de criar programas Marketo Engage, incluindo importação, clonagem e criação do zero. Personalize modelos de Marketo Engage para atender aos padrões da marca e gerenciar ativos e custos do período.
+description: Aprenda maneiras eficientes de criar programas do Marketo Engage, incluindo importação, clonagem e criação do zero. Personalize modelos do Marketo Engage para atender aos padrões da marca e gerenciar ativos e custos de períodos.
 feature: Smart Campaigns, Reporting
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
+solution: Marketo Engage
 duration: 2740
 last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-15890
-source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
+exl-id: 9fb78dbe-e2ab-4f4b-93fe-013426a30114
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
-
 
 # O mapa do profissional de marketing: um guia abrangente para criar, organizar e analisar campanhas do Marketo
 

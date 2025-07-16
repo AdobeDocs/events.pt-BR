@@ -5,22 +5,23 @@ feature: Get Started with Workfront
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3629
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15816
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 8d1b25a6-1224-4158-9f67-7997b6cf2e67
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-
 # Introdução ao gerenciamento de recursos
 
-Usar o Adobe Workfront para gerenciar seus recursos é o DREAM - conhecer o trabalho que precisa ser feito, quais recursos você pode acessar e atribuí-los (com precisão!) com base na sua disponibilidade. E é absolutamente uma realidade! Centenas de clientes da Workfront fazem exatamente isso todos os dias.
+Usar o Adobe Workfront para gerenciar seus recursos é o DREAM - conhecer o trabalho que precisa ser feito, quais recursos você pode acessar e atribuí-los (com precisão!) com base em sua disponibilidade. E é absolutamente uma realidade! Centenas de clientes da Workfront fazem exatamente isso todos os dias.
 
-Neste webinário sob demanda, Corinna Jevons, arquiteta sênior de sucesso do cliente da Adobe Workfront, e Elliot Leson, Director de operações do Big Red Rooster, que compartilhará:
+Neste webinário sob demanda, Corinna Jevons, arquiteta sênior de sucesso do cliente da Adobe Workfront, e Elliot Leson, diretor de operações da Big Red Rooster, que compartilhará:
 
 * Uma visão geral básica do Planejador de recursos e do Balanceador de carga de trabalho
 * Pré-trabalho essencial necessário antes de começar

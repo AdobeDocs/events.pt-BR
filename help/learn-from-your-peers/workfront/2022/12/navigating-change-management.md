@@ -4,22 +4,23 @@ description: Aprenda com especialistas em gerenciamento de alterações a navega
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3634
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15819
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: ed2935e2-007f-4b7b-96e6-2fe0856c32a8
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-
 # Navegando pelo gerenciamento de alterações
 
 A mudança é inevitável, mas raramente é fácil. Qualquer mudança - pessoal ou profissional - pode levar a sentimentos de estresse, excitação, ansiedade e muito mais. Não podemos evitar! É assim que nossos cérebros são conectados. MAS... é possível se sentir confortável com a mudança.
 
-Neste webinário sob demanda, Leigh Burger, guru em gerenciamento de alterações e Gerente principal de sucesso do cliente com a Adobe Workfront, será acompanhado por Julie Simon, Director, Gerente de Portfolio de projetos de marketing, e Lexi McGraw, Gerente de Portfolio de projetos, da Penn State University. Cada um deles tem uma paixão única por criar mudanças positivas e significativas, e juntos abordarão:
+Neste webinário sob demanda, Leigh Burger, guru em gerenciamento de alterações e Gerente principal de sucesso do cliente da Adobe Workfront, será acompanhado por Julie Simon, Diretora, Gerente de Portfolio de projetos de marketing, e Lexi McGraw, Gerente de Portfolio de projetos da Penn State University. Cada um deles tem uma paixão única por criar mudanças positivas e significativas, e juntos abordarão:
 
 * A anatomia da mudança
 * Como nosso cérebro percebe a mudança (e POR QUÊ)

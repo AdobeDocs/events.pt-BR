@@ -4,16 +4,17 @@ description: Aprenda com profissionais experientes como assumir uma instância d
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3641
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15820
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 742737b9-4177-4a21-a883-ba6b67d67195
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # Dicas para assumir o controle de uma instância existente do Workfront
 
@@ -25,6 +26,6 @@ Neste webinário sob demanda, Jace Newbold, gerente de consultoria da Workfront 
 * O que cada administrador deve fazer hoje para definir seu futuro próprio (e futuros administradores) para o sucesso
 * Uma lista de verificação que pode ser baixada com perguntas, recursos e links para orientá-lo pelo processo de auditoria e documentação da sua instância
 
-Verifique também a Lista de verificação e o Blueprint da instância herdada: https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Verifique também a Lista de verificação e o Blueprint da instância herdada: https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

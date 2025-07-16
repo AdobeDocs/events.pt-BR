@@ -3,18 +3,19 @@ title: Encontrar eficiência no Workfront com webinário de automação
 description: Conheça estratégias eficientes de manutenção para o Adobe Workfront em nosso webinário sob demanda. Descubra dicas de especialistas da Stanley Black & Decker e da Workfront sobre automatização de tarefas repetitivas, utilização de modelos do Fusion e evolução dos processos de fluxo de trabalho para obter eficiência ideal.
 feature: Workfront Fusion
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3682
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15822
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: a3fc6790-7ae6-4d6e-b2ee-6d2dcb6129f6
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Encontrar eficiência no Workfront com automação
 

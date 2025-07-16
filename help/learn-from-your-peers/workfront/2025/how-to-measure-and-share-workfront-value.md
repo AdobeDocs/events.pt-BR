@@ -2,13 +2,15 @@
 title: Impacto articulado - como medir e compartilhar o valor do Workfront
 description: Neste webinário sob demanda, James Hill e Ellen Saltmarsh da Synchrony, e Daniel Clarke da EMMsphere, compartilharão suas estratégias para articular seu "porquê" de adoção do Workfront, definindo resultados mensuráveis como economia de tempo e custo, comunicando histórias de sucesso para obter a adesão das partes interessadas e usando um manual passo a passo para a obtenção de valor.
 topic: Administration
+solution: Workfront
 role: Admin, Leader
 level: Beginner
 doc-type: Event
 duration: 3534
 last-substantial-update: 2025-02-27T00:00:00Z
 jira: KT-17413
-source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
+exl-id: 9b7a9bc0-6444-40e5-9e3c-3926ac761e31
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

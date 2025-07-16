@@ -2,18 +2,19 @@
 title: Estabelecimento de um webinário de centro de excelência da Workfront
 description: Aprenda com especialistas da Mattel e da Adobe Workfront a estabelecer um Centro de Excelência (CdE) da Workfront em nosso webinário sob demanda. Descubra os principais componentes, ativadores e etapas incrementais para uma administração sustentável e escalável, melhorando a adoção de usuários e aprimorando o uso de produtos e a integridade de dados.
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15824
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # Estabelecer um centro de excelência da Workfront
 

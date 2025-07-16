@@ -9,7 +9,7 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Saiba como começar rapidamente a usar o Adobe Analytics e o Customer Journey An
 ## Pontos principais
 
 * **Visão geral da sessão**
-   * A sessão é intitulada &quot;Início rápido para recursos básicos de análise intermediária&quot; e é liderada pela Dra. Kirsten Schaffer.
+   * A sessão é intitulada &quot;Início rápido para recursos básicos de análise intermediária&quot; e é liderada pelo Dr. Kerstin Schäfer.
    * A sessão está sendo gravada e o link para a gravação será enviado a todos os participantes registrados.
 
 * **Introdução de Alto-falantes**

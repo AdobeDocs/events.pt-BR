@@ -4,11 +4,12 @@ description: Junte-se a Rachel Hanessian e Ariel Sultan para um webinário inter
 role: Admin
 level: Beginner
 doc-type: Event
+solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
 exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
-source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -43,7 +44,7 @@ A IA gerativa é rapidamente adotada, com 89% dos profissionais de marketing acr
 ### Visão geral do assistente de IA
 
 * O assistente de IA é uma interface conversacional baseada na IA gerativa.
-* Ele foi projetado para a CDP, Journey Optimizer e Customer Journey Analytics em tempo real.
+* Ele foi projetado para a CDP em tempo real, o Journey Optimizer e o Customer Journey Analytics.
 * Ele ajuda no conhecimento do produto, nos insights operacionais e na simplificação dos fluxos de trabalho.
 
 ### Recursos e personalidades
