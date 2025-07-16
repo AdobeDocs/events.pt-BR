@@ -37,6 +37,6 @@ Neste webinário, você aprenderá:
 * Thread Do Webinário Da Comunidade De Nação De Marketing - [Discussão](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
 * Pontuação de Pessoa/Cliente Potencial com Exercícios de Influência Local - [Baixar planilha](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * A Lista Grande de Regras de Pontuação de Clientes Potenciais - [Exibir planilha](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
-* Biblioteca de Importação de Programas do Marketo Engage - [Documentação](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* Biblioteca de Importação de Programas do Marketo Engage - [Documentação](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=pt-BR){target="_blank"}
 * Pontuação de cliente potencial com tudo para saber sobre o processo antes, durante e depois - [Webinário sob demanda](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * Pontuação do campeão na liderança - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
