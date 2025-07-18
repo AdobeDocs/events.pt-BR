@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Ei pessoal! Sou eu, seu &quot;On-Demand Workfront CSM&quot;, e estou de volta com outro vídeo Top 3!  Desta vez, vamos falar sobre [Blueprints](https://experienceleague.adobe.com/pt-br/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview). Você provavelmente me ouviu dizer que os blueprints são o atalho para o seu &quot;trabalho da Workfront&quot;, mas quais são as outras maneiras de usar os blueprints para acelerar as necessidades de sua empresa?
 
->[!VIDEO](https://video.tv.adobe.com/v/3465271/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3465316/?learn=on&enablevpops&captions=por_br)
 
 Se você quiser experimentar antes de instalar qualquer coisa na produção, não se preocupe!  Basta brincar com eles em seu [ambiente de Visualização da Sandbox](https://experienceleague.adobe.com/pt-br/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment) primeiro.
 

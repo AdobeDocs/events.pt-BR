@@ -73,7 +73,7 @@ Procurando insights rápidos e acionáveis para elevar o nível do seu jogo para
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="3 principais - Abordagens da Creative com blueprints" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1752859088922" alt="3 principais - Abordagens da Creative com blueprints"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465316/?format=jpeg&nocache=1752859088922&captions=por_br" alt="3 principais - Abordagens da Creative com blueprints"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
