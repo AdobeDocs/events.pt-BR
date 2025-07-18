@@ -27,7 +27,7 @@ Economize tempo copiando e colando os cálculos abaixo.
 >[!NOTE]
 >
 >A sintaxe para cálculos de campo personalizado mudou desde que a apresentação foi feita em 2019, no entanto, os conceitos e outras instruções fornecidas na apresentação ainda são precisos.
->>**Os cálculos incluídos abaixo foram atualizados para refletir as regras de sintaxe mais recentes.**
+>&#x200B;>**Os cálculos incluídos abaixo foram atualizados para refletir as regras de sintaxe mais recentes.**
 
 **Primeira data de confirmação**
 
