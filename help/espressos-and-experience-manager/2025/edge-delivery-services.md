@@ -3,19 +3,20 @@ title: Expressos e Experience Manager - Edge Delivery Services
 description: Assista ao nosso primeiro webinário da Espressos e AEM. Os especialistas Casey e Rajan abordam o Edge Delivery Services, Universal Editor e SPEED para aumentar a velocidade do site, as conversões e a facilidade de edição.
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
+feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3425
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18154
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 327602fa-17f1-4372-a429-37b570b11302
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # Expressos e Experience Manager: Edge Delivery Services
 

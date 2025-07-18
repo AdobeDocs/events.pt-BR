@@ -1,6 +1,7 @@
 ---
 title: APIs e eventos modernos do Adobe Experience Manager
 description: Estenda aplicativos e integre serviços AMS com APIs modernas, com o suporte de uma equipe dedicada e recursos abrangentes em developer.adobe.com, com novas APIs para fragmentos de conteúdo, integração de eventos e oportunidades para usuários iniciais.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: APIs, Integrations
 topic: Integrations
 role: Developer
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 1310
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16549
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 3cb11b21-d673-4373-82bb-72a6a1e73161
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
 
 ---
-
 
 # APIs e eventos modernos do Adobe Experience Manager
 
@@ -40,4 +41,3 @@ Continue a conversa na [discussão](https://adobe.ly/3YMhKU9) da Comunidade do A
 * **Incentivo para usar novas APIs** Os usuários são incentivados a mudar para essas novas APIs, pois elas representam a direção futura do desenvolvimento da API do AMS.
 * **Tokens de Autenticação e Acesso** O processo para gerar tokens de acesso está sendo finalizado e estará disponível em versões futuras.
 * **Envolvimento e suporte** A equipe está aberta a perguntas e engajamento para oportunidades de participantes antecipados e outras discussões sobre casos de uso de API.
-

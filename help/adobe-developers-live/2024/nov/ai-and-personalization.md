@@ -1,6 +1,7 @@
 ---
 title: Levando a IA e o Personalization para o Adobe Experience Manager Edge Delivery Services
-description: Saiba como integrar IA e personalização ao Adobe Experience Manager Edge Delivery Services com arquitetura fundamental, pesquisa semântica e casos de uso avançados demonstrados pelo Andreas Haller, arquiteto de soluções principal da Cognizant Netcentric.
+description: Saiba como integrar IA e personalização ao Adobe Experience Manager Edge Delivery Services com arquitetura fundamental, pesquisa semântica e casos de uso avançados demonstrados por Andreas Haller, arquiteto de soluções principal da Cognizant Netcentric.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: Edge Delivery Services, Search, Generative AI
 topic: Artificial Intelligence, Personalization
 role: Developer
@@ -9,19 +10,19 @@ doc-type: Event
 duration: 1029
 last-substantial-update: 2024-11-25T00:00:00Z
 jira: KT-16578
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+exl-id: d560045b-4404-41f6-b53e-787877faab5b
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-
 # Levando a IA e o Personalization para o Adobe Experience Manager Edge Delivery Services
 
-Descubra a arquitetura básica para integrar personalização e IA ao Adobe Experience Manager Edge Delivery Services. Junte-se a Andreas Haller, arquiteto principal de soluções na Cognizant Netcentric, já que demonstra a pesquisa semântica e os casos de uso avançados para aprimorar seus projetos.
+Descubra a arquitetura básica para integrar personalização e IA ao Adobe Experience Manager Edge Delivery Services. Junte-se a Andreas Haller, arquiteto-chefe de soluções da Cognizant Netcentric, já que ele demonstra a pesquisa semântica e casos de uso avançados para aprimorar seus projetos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440411/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3440405/?learn=on&enablevpops)
 
 ## Discussão da comunidade
 
