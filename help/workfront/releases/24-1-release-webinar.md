@@ -23,4 +23,4 @@ O webinário foi realizado em 11 de janeiro com 931 participantes ativos. A equi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426854/?learn=on)
 
-Responda às suas perguntas sobre o lançamento e discuta o lançamento nas [Comunidades Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=en).
+Responda às suas perguntas sobre o lançamento e discuta o lançamento nas [Comunidades Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=pt).

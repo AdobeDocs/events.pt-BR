@@ -27,5 +27,5 @@ O webinário que destaca as melhorias mais recentes de recursos do Workfront inc
 Links para o conjunto de slides e a publicação da Comunidade Experience League com as perguntas e respostas são publicados abaixo,
 
 * [PDF do Baralho de Slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/0710125+-+Adobe+Workfront+Third+Quarter+Release+Webinar.pdf)
-* [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800)
-* Para obter mais informações sobre os recursos de lançamento, visite a [página de visão geral da versão](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview) do Terceiro Trimestre de 2025.
+* [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800?profile.language=pt)
+* Para obter mais informações sobre os recursos de lançamento, visite a [página de visão geral da versão](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview) do Terceiro Trimestre de 2025.
