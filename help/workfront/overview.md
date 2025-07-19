@@ -112,7 +112,7 @@ Seja você um administrador do Workfront, gerente de projetos ou usuário diári
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Versus! - Grupos vs. Equipes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1752859089086" alt="Versus! - Grupos vs. Equipes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467358/?format=jpeg&nocache=1752859089086&captions=por_br" alt="Versus! - Grupos vs. Equipes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
