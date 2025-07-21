@@ -3,9 +3,9 @@ user-guide-title: Eventos da Workfront
 breadcrumb-title: Eventos da Workfront
 user-guide-description: Eventos da Workfront
 solution: Workfront
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -13,14 +13,19 @@ ht-degree: 1%
 
 # Eventos da Workfront {#workfront-recordings}
 
-+ [Grupos de usuários e webinários do Workfront](overview.md)
++ [Workshops sob demanda da Workfront](overview.md)
 
++ Webinars de lançamento {#releases}
+   + [Versão 25.7](releases/25-7-release-webinar.md)
+   + [Versão 25.4](releases/25-4-release-webinar.md)
+   + [Versão 25.1](releases/25-1-release-webinar.md)
+   + [Versão 24.1](releases/24-1-release-webinar.md)
 + 3 principais {#top3}
    + [Abordagens da Creative com blueprints](top3/blueprints.md)
 + Versus! {#versus}
    + [Grupos versus equipes](versus/groups-vs-teams.md)
 + Insights de especialistas {#expert-insights}
-+[Solicitar Filas com Lyndsy Denk](expert-insights/request-queues.md)
+   + [Filas de solicitações com Lyndsy Denk](expert-insights/request-queues.md)
 + Retrocesso do workshop {#workshop-rewind}
    + Fluxo de trabalho {#workflow}
       + [Formas de gerenciamento de recursos da Creative](classics/creative-ways-of-managing-resources.md)
@@ -63,9 +68,5 @@ ht-degree: 1%
    + Filas de solicitações e entrada {#request-queues-and-intake}
       + [Filas de solicitações e Forms de entrada](user-groups/request-queues-and-intake-forms.md)
 
-+ Versões {#releases}
-   + [Versão 25.7](releases/25-7-release-webinar.md)
-   + [Versão 25.4](releases/25-4-release-webinar.md)
-   + [Versão 25.1](releases/25-1-release-webinar.md)
-   + [Versão 24.1](releases/24-1-release-webinar.md)
+
 
