@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacitá-lo a otimizar seu investimento na Experience Cloud da Adobe. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções da Adobe.
-source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
+source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -15,42 +15,43 @@ ht-degree: 0%
 + [Webinários de sucesso do cliente do Adobe](overview.md)
 + 2025 {#2025}
    + [Tecnologia emergente da AEM](2025/personalized-experiences-aem.md)
-   + [Migração do Adobe Analytics para o CJA](2025/analytics-to-cja-migration.md)
-   + [Especialização em AEM Sites](2025/mastering-aem-sites.md)
-   + [WORKFRONT e JIRA](2025/workfront-and-jira.md)
-   + [Transformação de Commerce B2B e B2B2C](2025/transforming-b2b-commerce.md)
-   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
-   + [Automação do AI-Drive no Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
-   + [IA - Além das noções básicas](2025/ai-beyond-basics.md)
-   + [Otimização da experiência digital com insights de IA](2025/accelerating-digital-experience-optimization.md)
-   + [Especialização no Digital Asset Manager no AEM Content Hub](2025/mastering-dam-aem-content-hub.md)
-   + [Tendências digitais e preparação para o futuro](2025/digital-trends-preparing-future.md)
-   + [Arquitetura Northstar](2025/northstar-architecture.md)
-   + [New Relic Essentials para AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
-   + [Situação da adoção digital e da GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
-   + [Resultados das férias de 2024 e tendências para 2025](2025/adobe-digital-insights.md)
    + [AEM com GenAI](2025/aem-genai.md)
    + [Integração do AEM e do Workfront](2025/aem-workfront-integration.md)
    + [IA e ADOBE TARGET](2025/ai-adobe-target.md)
+   + [IA - Além das noções básicas](2025/ai-beyond-basics.md)
+   + [Automação do AI-Drive no Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
    + [Práticas recomendadas e insights para modelagem de esquemas XDM](2025/model-xdm-schemas.md)
    + [Criação de páginas da Web eficazes](2025/build-effective-web-pages.md)
    + [Fundamentos da cadeia de fornecimento de conteúdo](2025/content-supply-chain-basics.md)
    + [Elaborando estratégias para uma medição eficaz](2025/impactful-insights.md)
    + [Cultivar uma organização de marketing ágil](2025/agile-marketing-organization.md)
    + [Data Distiller 101](2025/data-distiller-101.md)
+   + [Otimização da experiência digital com insights de IA](2025/accelerating-digital-experience-optimization.md)
+   + [Tendências digitais e preparação para o futuro](2025/digital-trends-preparing-future.md)
    + [Impulsionando o engajamento do cliente](2025/driving-customer-engagement.md)
    + [Aprimoramento dos programas de fidelidade por meio do Personalization e de dados](2025/enhance-loyalty-programs.md)
    + [Aprimoramento do Personalization](2025/enhancing-personalization.md)
+   + [Arquitetura de base](2025/cja-vision.md)
    + [Experimento GenAI](2025/gen-ai-experimentation.md)
    + [Modelo operacional do GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
+   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+   + [Especialização em AEM Sites](2025/mastering-aem-sites.md)
+   + [Especialização no Digital Asset Manager no AEM Content Hub](2025/mastering-dam-aem-content-hub.md)
    + [Dominando Lógica Sequencial - Estrutura Visual](2025/mastering-sequential-logic.md)
    + [Dominando Lógica Sequencial - Iniciar Paradas](2025/sequential-logic-start-stop.md)
+   + [Migração do Adobe Analytics para o CJA](2025/analytics-to-cja-migration.md)
+   + [New Relic Essentials para AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
+   + [Arquitetura Northstar](2025/northstar-architecture.md)
    + [Otimização do desempenho do AEM](2025/optimize-aem-performance.md)
    + [Personalização de comunicações digitais](2025/personalize-digital-communications.md)
    + [Roteiro para a obtenção de valor com o CJA](2025/roadmap-to-value-cja.md)
    + [Patrocínio executivo vencedor para projetos da AEP](2025/exec-sponsorship-aep-projects.md)
    + [Noções básicas e práticas recomendadas do Workfront Fusion](2025/adobe-workfront-fusion-best-practices.md)
+   + [WORKFRONT e JIRA](2025/workfront-and-jira.md)
    + [Marketing mais inteligente começa aqui - Integração entre o Google e o Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
+   + [Situação da adoção digital e da GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + [Transformação de Commerce B2B e B2B2C](2025/transforming-b2b-commerce.md)
+   + [Resultados das férias de 2024 e tendências para 2025](2025/adobe-digital-insights.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Personalization orientado por IA da Adobe Target](2024/ai-personalization.md)
