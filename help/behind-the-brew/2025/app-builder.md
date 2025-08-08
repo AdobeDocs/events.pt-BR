@@ -1,14 +1,14 @@
 ---
 title: Construtor de aplicativos do Adobe Developer
 description: Integre o Adobe Commerce a qualquer aplicativo de comércio eletrônico usando a orientação de especialistas da App Builder e a demonstração em tempo real
-role: Admin, Developer, Leader, User
-level: Beginner, Intermediate, Experienced
+role: Admin, Developer
+level: Intermediate, Experienced
 doc-type: Event
 duration: 3460
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17171
 exl-id: 0a645dc1-0f5d-4b85-bd09-80a453754434
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 2%
