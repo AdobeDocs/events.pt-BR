@@ -33,7 +33,7 @@ Você ficará impressionado com todas as ideias fantásticas que ela compartilha
 * Iniciar o Creative Brief analisa para atender às necessidades de seus usuários e projetos. 
 * *BÔNUS!* Ela também compartilha um exemplo de um de seus casos de uso favoritos do Fusion!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469944/?learn=on&enablevpops&captions=por_br)
 
 ## Recursos
 

@@ -74,7 +74,7 @@ Procurando insights rápidos e acionáveis para elevar o nível do seu jogo para
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="3 principais - Abordagens da Creative com blueprints" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1754697926485" alt="3 principais - Abordagens da Creative com blueprints"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465316/?format=jpeg&nocache=1754697926485&captions=por_br" alt="3 principais - Abordagens da Creative com blueprints"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Procurando insights rápidos e acionáveis para elevar o nível do seu jogo para
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="3 principais abordagens para o Office Hours" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1754697926468" alt="3 principais abordagens para o Office Hours"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470147/?format=jpeg&nocache=1754697926468&captions=por_br" alt="3 principais abordagens para o Office Hours"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +136,7 @@ Seja você um administrador do Workfront, gerente de projetos ou usuário diári
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Versus! - Grupos vs. Equipes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1754697926685" alt="Versus! - Grupos vs. Equipes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467358/?format=jpeg&nocache=1754697926685&captions=por_br" alt="Versus! - Grupos vs. Equipes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -176,7 +176,7 @@ Essas sessões apresentam soluções do mundo real, exemplos de clientes e suges
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/non-traditional-workfront-workflows.md" title="Insights de especialistas - Fluxos de trabalho não tradicionais do Workfront com Kiersten Kollins" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1754697926938" alt="Insights de especialistas - Fluxos de trabalho não tradicionais do Workfront com Kiersten Kollins"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469944/?format=jpeg&nocache=1754697926938&captions=por_br" alt="Insights de especialistas - Fluxos de trabalho não tradicionais do Workfront com Kiersten Kollins"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -222,7 +222,7 @@ Essas sessões apresentam soluções do mundo real, exemplos de clientes e suges
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="Relatórios do SLA no Workfront com Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1754697926919" alt="Relatórios do SLA no Workfront com Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469983/?format=jpeg&nocache=1754697926919&captions=por_br" alt="Relatórios do SLA no Workfront com Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
