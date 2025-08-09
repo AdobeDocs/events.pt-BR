@@ -1,19 +1,20 @@
 ---
 title: Insights digitais da Adobe - Webinário sobre o estado da adoção digital e da GenAI
 description: Descubra as principais tendências de varejo e viagens da Adobe, viabilizadas por mais de um t de visitas ao site — GenAI, dispositivos móveis, KPIs e insights do consumidor para ajudar a impulsionar o crescimento.
+solution: General
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3531
 last-substantial-update: 2025-05-20T00:00:00Z
 jira: KT-18108
-source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
+exl-id: 2158dece-ff41-42e7-b000-96172a707599
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Insights digitais da Adobe: webinário Estado da adoção digital e GenAI
 

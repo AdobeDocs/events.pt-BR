@@ -4,21 +4,24 @@ description: Dicas de especialistas da Workfront sobre criação de filas de Hel
 feature: Requests
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
+speaker-name-1: Lyndsy Dent
+speaker-title-1: Marketing Training and Enablement Manager
+speaker-company-1: IDEXX
 doc-type: Event
 duration: 1228
 last-substantial-update: 2025-07-17T00:00:00Z
 jira: KT-18551
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+exl-id: 370e6388-2dc3-4c12-8500-510dac32e867
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
 
-
 # Insights de especialistas - Filas de solicitações com o Lyndsy Denk
 
-Bem-vindo ao Expert Insights!  Eu sou Cynthia Boon, sua CSM &quot;On-Demand&quot; do Workfront e para este episódio temos o Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=pt) ! Discutimos a história da Workfront de Lyndsy e, em seguida, um aprofundamento em sua fila de solicitações de Help Desk.
+Bem-vindo ao Expert Insights!  Eu sou Cynthia Boon, sua CSM &quot;On-Demand&quot; do Workfront e para este episódio temos o Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167) ! Discutimos a história da Workfront de Lyndsy e, em seguida, um aprofundamento em sua fila de solicitações de Help Desk.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
@@ -33,17 +36,17 @@ Durante o nosso bate-papo, Lyndsy compartilhou,
 
 Conforme prometido, estes são os recursos que discutimos, juntamente com alguns links adicionais para Filas de solicitação e Tópicos da fila:
 
-* Os recursos sobre como [gerenciar uma instância herdada](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), incluem o link para o webinário e detalhes sobre o [Tutorial do blueprint](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* Os recursos sobre como [gerenciar uma instância herdada](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), incluem o link para o webinário e detalhes sobre o [Tutorial do blueprint](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Entendendo A Documentação De Filas De Solicitações: [Criar Tópicos De Fila](https://experienceleague.adobe.com/pt-br/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Entendendo A Documentação De Filas De Solicitações: [Criar Tópicos De Fila](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Apresentação de webinário de Lyndsy para o [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=pt): comunicação com usuários finais (esta página também inclui um link para o [Guia de Comunicações do Usuário Final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=pt))
+* Apresentação de webinário de Lyndsy para o [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): comunicação com usuários finais (esta página também inclui um link para o [Guia de Comunicações do Usuário Final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
 
-* [Recursos de apresentação do Skill Exchange](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=pt#M3642) de Lyndsy
+* [Recursos de apresentação do Skill Exchange](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642) de Lyndsy
 
-* E não se esqueça de conferir o [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=pt). Pergunte-me QUALQUER COISA sobre o Workfront Proof, onde Lyndsy, Monique Evans e Richard Carlson responderam às suas perguntas sobre Revisão!
+* E não se esqueça de conferir o [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798). Pergunte-me QUALQUER COISA sobre o Workfront Proof, onde Lyndsy, Monique Evans e Richard Carlson responderam às suas perguntas sobre Revisão!
 
-### Sobre o Lyndsy
+## Sobre o orador 
 
 Lyndsy é gerente de treinamento e capacitação de marketing na IDEXX. Além do Workfront, ela administra o DAM e lidera comunicações internas para o departamento de marketing. Ela tem experiência em escrita técnica, design instrutivo, ensino superior e treinamento de discurso e debate competitivo do ensino médio.
 
@@ -54,5 +57,3 @@ Você nunca sabe quais ideias incríveis os clientes compartilharão durante os 
 ## Tem algo para compartilhar?
 
 Você tem uma ótima história para compartilhar, durante um evento ou em um vídeo do Expert Insights? Entre em contato com nossa equipe em [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-
-

@@ -3,9 +3,9 @@ user-guide-title: Eventos da Workfront
 breadcrumb-title: Eventos da Workfront
 user-guide-description: Eventos da Workfront
 solution: Workfront
-source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
+source-git-commit: 1ea39689a5a29311da7930039b7d5fc308c296b0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -22,13 +22,24 @@ ht-degree: 1%
    + [Versão 24.1](releases/24-1-release-webinar.md)
 + 3 principais {#top3}
    + [Abordagens da Creative com blueprints](top3/blueprints.md)
+   + [3 principais abordagens para o Office Hours](top3/office-hours.md)
 + Versus! {#versus}
    + [Grupos versus equipes](versus/groups-vs-teams.md)
 + Insights de especialistas {#expert-insights}
+   + [Fluxos de trabalho não tradicionais do Workfront](expert-insights/non-traditional-workfront-workflows.md)
    + [Filas de solicitações com Lyndsy Denk](expert-insights/request-queues.md)
+   + [Relatórios do SLA no Workfront](expert-insights/sla-reporting.md)
 + Retrocesso do workshop {#workshop-rewind}
+   + Integrações {#integrations}
+      + [Navegar pelas alterações em campos de seleção múltipla com facilidade](workshop-rewind/integrations/mulit-select-fields.md)
+      + [Desbloqueando custos de eventos verdadeiros](workshop-rewind/integrations/event-costs.md)
+   + Planejamento {#planning}
+      + [Sucesso em nível de equipe com o Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
    + Fluxo de trabalho {#workflow}
       + [Formas de gerenciamento de recursos da Creative](classics/creative-ways-of-managing-resources.md)
+      + [Especialização em Notificações por Email](workshop-rewind/workflow/email-notifications.md)
+      + [Modelos de projeto](workshop-rewind/workflow/project-templates.md)
+      + [Descubra o poder da conexão de dados do Workfront](workshop-rewind/workflow/data-connect.md)
 
 <!--  + Planning {#planning}
   + Integrations {#integrations}

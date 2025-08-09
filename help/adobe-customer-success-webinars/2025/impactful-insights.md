@@ -1,19 +1,20 @@
 ---
 title: Insights impactantes - Criação de estratégias para medição eficaz
 description: Uma estratégia de medição bem implementada melhora a eficiência operacional, promove a tomada de decisões orientadas por dados e melhora a experiência do cliente, fornecendo às organizações uma vantagem competitiva.
+solution: General
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2814
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17378
-source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
+exl-id: f40c7d75-1b2e-43d5-80dd-99f87c003cac
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # Insights impactantes: Criação de estratégias para medição eficaz
 
