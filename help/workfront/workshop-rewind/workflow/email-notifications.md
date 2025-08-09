@@ -25,7 +25,7 @@ Esse workshop interativo de 1 hora foi gravado em 7 de maio de 2025 e apresentou
 Juntamente com a gravação sob demanda, incluímos o conjunto de slides e dicas que foram compartilhadas no bate-papo: 
 
 * [PDF do Baralho de Slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
-* [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745)
+* [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745?profile.language=pt)
 
 E aqui está um breve resumo das dicas que foram compartilhadas no bate-papo: 
 
@@ -36,4 +36,4 @@ E aqui está um breve resumo das dicas que foram compartilhadas no bate-papo: 
 * Se os usuários não estiverem recebendo notificações (por email), você sempre terá a opção de fazer logon, pois eles têm a opção de confirmar que a notificação está ativada em seus perfis. Entre em contato com o Suporte ao cliente se você ficar preso!   
 * Considere desativar os emails associados às alterações de status. Eles estão causando mais ruído do que uma ação informativa?  
 
-Esperamos vê-lo em futuros workshops de Sucesso do cliente!  Verifique os [Eventos do Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) no Experience League para obter a lista completa e para se registrar.
+Esperamos vê-lo em futuros workshops de Sucesso do cliente!  Verifique os [Eventos do Workfront](https://experienceleague.adobe.com/events/?lang=pt-BR&filters=Workfront) no Experience League para obter a lista completa e para se registrar.

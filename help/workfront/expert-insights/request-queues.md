@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Insights de especialistas - Filas de solicitações com o Lyndsy Denk
 
-Bem-vindo ao Expert Insights!  Eu sou Cynthia Boon, sua CSM &quot;On-Demand&quot; do Workfront e para este episódio temos o Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167) ! Discutimos a história da Workfront de Lyndsy e, em seguida, um aprofundamento em sua fila de solicitações de Help Desk.
+Bem-vindo ao Expert Insights!  Eu sou Cynthia Boon, sua CSM &quot;On-Demand&quot; do Workfront e para este episódio temos o Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=pt) ! Discutimos a história da Workfront de Lyndsy e, em seguida, um aprofundamento em sua fila de solicitações de Help Desk.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
@@ -36,15 +36,15 @@ Durante o nosso bate-papo, Lyndsy compartilhou,
 
 Conforme prometido, estes são os recursos que discutimos, juntamente com alguns links adicionais para Filas de solicitação e Tópicos da fila:
 
-* Os recursos sobre como [gerenciar uma instância herdada](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), incluem o link para o webinário e detalhes sobre o [Tutorial do blueprint](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* Os recursos sobre como [gerenciar uma instância herdada](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), incluem o link para o webinário e detalhes sobre o [Tutorial do blueprint](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Entendendo A Documentação De Filas De Solicitações: [Criar Tópicos De Fila](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Entendendo A Documentação De Filas De Solicitações: [Criar Tópicos De Fila](https://experienceleague.adobe.com/pt-br/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Apresentação de webinário de Lyndsy para o [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): comunicação com usuários finais (esta página também inclui um link para o [Guia de Comunicações do Usuário Final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
+* Apresentação de webinário de Lyndsy para o [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=pt): comunicação com usuários finais (esta página também inclui um link para o [Guia de Comunicações do Usuário Final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=pt))
 
-* [Recursos de apresentação do Skill Exchange](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642) de Lyndsy
+* [Recursos de apresentação do Skill Exchange](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=pt#M3642) de Lyndsy
 
-* E não se esqueça de conferir o [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798). Pergunte-me QUALQUER COISA sobre o Workfront Proof, onde Lyndsy, Monique Evans e Richard Carlson responderam às suas perguntas sobre Revisão!
+* E não se esqueça de conferir o [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=pt). Pergunte-me QUALQUER COISA sobre o Workfront Proof, onde Lyndsy, Monique Evans e Richard Carlson responderam às suas perguntas sobre Revisão!
 
 ## Sobre o orador 
 

@@ -25,7 +25,7 @@ Esse workshop foi gravado em 8 de abril de 2025 e contou com Ross Barton e Linds
 Juntamente com a gravação sob demanda, incluímos o conjunto de slides e dicas que foram compartilhadas no bate-papo:  
 
 * [PDF do Baralho de Slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=pt)
 
 ## Dicas
 
@@ -39,4 +39,4 @@ Juntamente com a gravação sob demanda, incluímos o conjunto de slides e dicas
 
 Um dos maiores temas que vimos no bate-papo foi o desafio de tentar manter a simplicidade dos Modelos de projeto, mas, ao mesmo tempo, rastrear o esforço e garantir que as equipes estejam realizando todas as etapas necessárias para concluir o projeto.  
 
- Esperamos vê-lo em futuros workshops de Sucesso do cliente!  Verifique os [Eventos do Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) no Experience League para obter a lista completa e para se registrar.
+ Esperamos vê-lo em futuros workshops de Sucesso do cliente!  Verifique os [Eventos do Workfront](https://experienceleague.adobe.com/events/?lang=pt-BR&filters=Workfront) no Experience League para obter a lista completa e para se registrar.

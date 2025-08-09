@@ -22,16 +22,16 @@ Sou eu novamente, sua &quot;CSM On-Demand Workfront&quot;, Cynthia Boon e eu tem
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
 
-O Office Hours é apenas outra parte importante do seu plano geral de comunicação da Workfront. Procurando mais ideias sobre como se comunicar com seus usuários? Confira o [Guia de Comunicações do Usuário Final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)!
+O Office Hours é apenas outra parte importante do seu plano geral de comunicação da Workfront. Procurando mais ideias sobre como se comunicar com seus usuários? Confira o [Guia de Comunicações do Usuário Final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=pt)!
 
 E, como prometido, este é o link para o Expert Insights, onde discutimos algumas ideias sobre como trazer diversão para a adoção do Workfront. 
 
-[Insights de especialistas da Workfront - Adoção com Leslie Spier](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314#M2588)
+[Insights de especialistas da Workfront - Adoção com Leslie Spier](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314?profile.language=pt#M2588)
 
 Recurso extra! Realizamos um Coffee-break da comunidade, onde muitos clientes fabulosos compartilharam suas dicas de adoção favoritas! 
 
-[Métodos de comunicação do Workfront Coffee Break para adoção](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879)
+[Métodos de comunicação do Workfront Coffee Break para adoção](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879?profile.language=pt)
 
-Você tem exemplos de como abordar o Workfront Office Hours? Compartilhe suas práticas recomendadas nesta [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391)!
+Você tem exemplos de como abordar o Workfront Office Hours? Compartilhe suas práticas recomendadas nesta [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391?profile.language=pt)!
 
 
