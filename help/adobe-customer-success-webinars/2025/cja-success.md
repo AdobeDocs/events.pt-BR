@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Em nossa quarta sessão, analisamos como a falta de um forte patrocínio executivo atrasará a tomada de decisões, a alocação de orçamento e o gerenciamento de alterações. Neste webinário, exploramos o papel crítico que os líderes executivos desempenham na defesa de programas da Adobe Customer Journey Analytics, no alinhamento de equipes multifuncionais e na promoção de resultados comerciais mensuráveis. Aprenda estratégias práticas para envolver os principais interessados, comunicar valor com eficiência e criar uma cultura de tomada de decisões orientadas por dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470859/?learn=on&enablevpops&captions=por_br)
 
 ## Criação de business cases
 
