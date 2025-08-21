@@ -27,7 +27,7 @@ Para constar, ela é tão incrível, inteligente e generosa para trabalhar como 
 
 Junte-se a mim, seu CSM On-Demand Workfront, enquanto converso com a Nichole sobre como ela se tornou nosso Guru de reportagem, seus recursos e dicas favoritos e como todos nós podemos ser &quot;mais como a Nichole&quot;! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469970/?learn=on&enablevpops&captions=por_br)
 
 ## Dicas
 

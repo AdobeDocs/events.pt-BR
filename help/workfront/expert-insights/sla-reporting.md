@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Bem-vindo a outra seção do Expert Insights!  Sou Cynthia Boon, sua CSM do Workfront &quot;sob demanda&quot;, e estou animada em compartilhar que temos a única e única, Madalyn Destafney, compartilhando parte de sua ampla experiência para ajudar os clientes a implementar e medir os Contratos de nível de serviço (SLAs) usando o Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469983/?learn=on&enablevpops&captions=por_br)
 
 Como prometido no vídeo, temos a apresentação de Madalyn vinculada aos passos dela, expressões calculadas e exemplos de relatórios. 
 
