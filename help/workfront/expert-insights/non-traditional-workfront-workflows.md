@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
-
 
 # Insights de especialistas: fluxos de trabalho não tradicionais do Workfront com Kiersten Kollins
 
@@ -33,11 +33,11 @@ Você ficará impressionado com todas as ideias fantásticas que ela compartilha
 * Iniciar o Creative Brief analisa para atender às necessidades de seus usuários e projetos. 
 * *BÔNUS!* Ela também compartilha um exemplo de um de seus casos de uso favoritos do Fusion!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469944/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Recursos
 
-Durante o evento, Kiersten mencionou dois recursos que anexamos ao [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=pt).
+Durante o evento, Kiersten mencionou dois recursos que anexamos ao [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
 * **Exemplo de relatório** - Relatório de tarefa após o horário comercial 
 * **Medidas de proteção de roteamento de feedback DSW** Este é um exemplo fantástico de como ensinar seus usuários a fornecer atualizações no Workfront! 
 
@@ -49,6 +49,4 @@ Com mais de uma década de experiência trabalhando em equipes de criação e op
 
 ## Tem algo para compartilhar?
 
-Você tem uma ótima história para compartilhar, durante um evento ou em um vídeo do Expert Insights? Entre em contato com nossa equipe em [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
-
-
+Você tem uma ótima história para compartilhar, durante um evento ou em um vídeo do Expert Insights? Entre em contato com nossa equipe em [CSatScale@adobe.com](mailto:CSatScale@adobe.com).

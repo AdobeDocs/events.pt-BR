@@ -11,13 +11,13 @@ doc-type: Event
 duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: f8600288-a19b-440c-b60d-94078014353e
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
-
 
 # Insights de especialistas - Cadeia de fornecimento de conteúdo com Corre Kombol
 
@@ -31,7 +31,7 @@ A Corre é um CSM verdadeiramente estratégico que define o ritmo para nós sobr
 * Comece identificando os pontos de pintura do processo e vá de lá. Não deixe a tecnologia sobrecarregar o objetivo.
 * Conecte-se com outros clientes que estejam em uma jornada semelhante na Comunidade ou em Eventos! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469999/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
 ## Recursos
 
@@ -53,4 +53,4 @@ Ela é qualificada em identificar as necessidades do cliente, desenvolver soluç
 
 ## Tem algo para compartilhar?
 
-Você tem uma ótima história para compartilhar, durante um evento ou em um vídeo do Expert Insights? Entre em contato com nossa equipe em [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
+Você tem uma ótima história para compartilhar, durante um evento ou em um vídeo do Expert Insights? Entre em contato com nossa equipe em [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
