@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Bem-vindo de volta a uma nova entrevista de Expert Insights, desta vez com conselhos sobre as práticas recomendadas para começar a usar o Agile em sua organização. Junte-se ao CSM da Workfront sob demanda para uma entrevista com Natalie Mitchell, especialista residente da Adobe Workfront, e explore as perguntas e recomendações comuns para implementar a metodologia Agile com suas equipes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469891/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469921/?learn=on&enablevpops&captions=por_br)
 
 ## Recursos
 
