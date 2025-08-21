@@ -36,7 +36,7 @@ Durante a apresentação, Jaime e Danielle discutiram alguns recursos suplementa
 * [Chat do administrador do Workfront - Consciente](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Pesquisa sobre a adoção de usuários da Workfront](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-Deseja obter mais informações sobre Adoção e integração geral? Confira nosso blog! - [Novos clientes da Workfront! Bem-vindo ao Blog de Integração do Adobe Workfront Customer Success!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
+Deseja obter mais informações sobre Adoção e integração geral? Confira nosso blog! - [Novos clientes da Workfront! Bem-vindo ao Blog de Integração do Adobe Workfront Customer Success!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=pt)
 
 ## Sobre o orador
 

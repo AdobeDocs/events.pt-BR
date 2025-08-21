@@ -27,21 +27,21 @@ Procurando conselhos sobre como começar a usar o Gerenciamento de recursos? Jun
 
 ## Recursos
 
-Alerta de recurso!  Confira os detalhes sobre [o novo Campo de Horário de Trabalho](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519): Agora você pode ajustar a capacidade do usuário E calcular a disponibilidade com base no Cronograma do Usuário.
+Alerta de recurso!  Confira os detalhes sobre [o novo Campo de Horário de Trabalho](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=pt#M519): Agora você pode ajustar a capacidade do usuário E calcular a disponibilidade com base no Cronograma do Usuário.
 
 Procurando maneiras de analisar melhor seus dados para garantir que você esteja pronto? Confira o catálogo de blueprints prontos para instalar!
 
-[Use os Esquemas do Workfront para otimizar seu ambiente de gerenciamento de trabalho!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[Use os Esquemas do Workfront para otimizar seu ambiente de gerenciamento de trabalho!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=pt)
 
 Procurando a diferença entre o Planejador de recursos e o Balanceador de carga de trabalho? Estes são alguns vídeos curtos:
 
-* [O que é o Planejador de Recursos?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [Atribuir trabalho no Balanceador de carga de trabalho](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
+* [O que é o Planejador de Recursos?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=pt-BR)
+* [Atribuir trabalho no Balanceador de carga de trabalho](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=pt-BR)
 
 Como o Planejador de recursos e o Balanceador de carga de trabalho são duas ferramentas diferentes no recurso Gerenciamento de recursos, entender a filtragem em ambos é fundamental. Encontre mais informações aqui:
 
-* [Filtrar informações no Planejador de recursos](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [Informações de filtro no Balanceador de carga de trabalho](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
+* [Filtrar informações no Planejador de recursos](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=pt-BR)
+* [Informações de filtro no Balanceador de carga de trabalho](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=pt-BR)
 
 ## Sobre o orador
 
