@@ -37,7 +37,7 @@ Você ficará impressionado com todas as ideias fantásticas que ela compartilha
 
 ## Recursos
 
-Durante o evento, Kiersten mencionou dois recursos que anexamos ao [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
+Durante o evento, Kiersten mencionou dois recursos que anexamos ao [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=pt).
 * **Exemplo de relatório** - Relatório de tarefa após o horário comercial 
 * **Medidas de proteção de roteamento de feedback DSW** Este é um exemplo fantástico de como ensinar seus usuários a fornecer atualizações no Workfront! 
 
