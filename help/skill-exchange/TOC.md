@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Coleção de gravações do Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '722'
 ht-degree: 9%
 
 ---
@@ -133,6 +133,9 @@ ht-degree: 9%
       + [Dicas para lidar com Jornadas complexas no Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [Jornadas além do email](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
+   + Agosto de 2025 {#aug2025}
+      + [Aprimoramento da categorização de dados](marketo/2025/aug/data-categorization-with-ai.md)
+      + [Simplificação De Acompanhamentos](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + Agosto de 2024 {#aug2024}
       + [Abrindo Palestra](marketo/aug2024/keynote.md)
       + [Aplicativos avançados dos programas de engajamento](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -166,6 +169,12 @@ ht-degree: 9%
       + [Relatório em  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Dicas e truques do Ultimate para sua Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Agosto de 2025 {#aug2025}
+      + [Abrindo Palestra](workfront/2025/aug/keynote.md)
+      + [Modo de texto avançado](workfront/2025/aug/advanced-text-mode.md)
+      + [Automatizar a criação de contas de usuário com o Fusion](workfront/2025/aug/fusion-user-account-creation.md)
+      + [Centro de excelência](workfront/2025/aug/center-of-excellence.md)
+      + [Dominar as ferramentas de IA da Workfront](workfront/2025/aug/workfront-ai-tools.md)
    + Agosto de 2024 {#aug2024}
       + [Abrindo Palestra](workfront/aug2024/keynote.md)
       + [Personalizar o Balanceador de carga de trabalho](workfront/aug2024/workload-balancer.md)
