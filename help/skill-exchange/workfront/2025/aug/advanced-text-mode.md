@@ -33,7 +33,7 @@ Eleve seus relatórios do Workfront a um novo patamar com técnicas avançadas d
 
 Descubra o poder dos relatórios do Workfront combinando experiência técnica e narrativa.
 
-* **Modo de texto avançado **Habilita relatórios flexíveis e personalizados que vão além das limitações padrão da interface do usuário.
+* **Modo de texto avançado &#x200B;** Habilita relatórios flexíveis e personalizados que vão além das limitações padrão da interface do usuário.
 * **Mesclar Colunas** Reduz a desordem e melhora a legibilidade, permitindo que você apresente os principais detalhes do projeto em uma única exibição.
 * **Expressões de valores** Forneça insights em tempo real, como status do projeto e cálculos de agendamento, diretamente nos seus relatórios.
 * **Solicitações personalizadas** Permitem que os usuários filtrem e interajam com relatórios dinamicamente, atendendo a diversas necessidades da equipe.
