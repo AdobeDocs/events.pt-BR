@@ -50,7 +50,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Palestra do Skill Exchange - O futuro da criação de experiências com IA, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756421492411" alt="Palestra do Skill Exchange - O futuro da criação de experiências com IA, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471360/?format=jpeg&nocache=1756421492411&captions=por_br" alt="Palestra do Skill Exchange - O futuro da criação de experiências com IA, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

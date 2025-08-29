@@ -31,4 +31,4 @@ Descubra como a Adobe Experience Platform e a IA corporativa estão remodelando 
 Aproveite esses insights para simplificar seus fluxos de trabalho, aprimorar a personalização e preparar seu conhecimento em gerenciamento de experiência digital para o futuro.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471360/?learn=on&enablevpops&captions=por_br)
