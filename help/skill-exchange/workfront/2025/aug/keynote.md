@@ -1,6 +1,6 @@
 ---
 title: Abrindo Palestra
-description: WORKFRONT alimentado por IA - O futuro dos sistemas de marketing - Adobe Workfront
+description: Descubra como o Adobe Workfront capacita fluxos de trabalho inteligentes, visíveis e conectados com criação de campanhas orientadas por IA, insights e integrações perfeitas do Adobe.
 feature: People Teams and Groups
 topic: Artificial Intelligence
 role: User
@@ -9,13 +9,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18879
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: da0a2d1b-8d97-418e-9a8d-08f713f7cb6a
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
-
 
 # Abrindo Palestra
 

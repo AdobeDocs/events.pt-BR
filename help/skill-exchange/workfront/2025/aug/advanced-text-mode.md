@@ -1,6 +1,7 @@
 ---
 title: Elevar relatórios do Workfront com o modo de texto avançado
 description: Saiba como dominar o Modo de texto do Adobe Workfront para mesclar colunas, criar expressões de valor personalizadas e criar prompts dinâmicos para relatórios mais inteligentes.
+solution: Workfront
 feature: Text Mode Reporting
 speaker-name-1: Nathan Johnson
 speaker-company-1: Adobe
@@ -10,13 +11,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18878
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: 22811352-8232-44b6-af8c-89483a729838
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
-
 
 # Elevar relatórios do Workfront com o modo de texto avançado
 
@@ -33,7 +34,7 @@ Eleve seus relatórios do Workfront a um novo patamar com técnicas avançadas d
 
 Descubra o poder dos relatórios do Workfront combinando experiência técnica e narrativa.
 
-* **Modo de texto avançado &#x200B;** Habilita relatórios flexíveis e personalizados que vão além das limitações padrão da interface do usuário.
+* **Modo de texto avançado **Habilita relatórios flexíveis e personalizados que vão além das limitações padrão da interface do usuário.
 * **Mesclar Colunas** Reduz a desordem e melhora a legibilidade, permitindo que você apresente os principais detalhes do projeto em uma única exibição.
 * **Expressões de valores** Forneça insights em tempo real, como status do projeto e cálculos de agendamento, diretamente nos seus relatórios.
 * **Solicitações personalizadas** Permitem que os usuários filtrem e interajam com relatórios dinamicamente, atendendo a diversas necessidades da equipe.
