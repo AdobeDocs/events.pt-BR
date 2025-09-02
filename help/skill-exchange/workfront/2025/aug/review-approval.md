@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Você está cansado do loop de feedback por email quando está tentando obter aprovação em um ativo? A funcionalidade de revisão e aprovação da Workfront é uma ferramenta inestimável para reduzir os tempos de ciclo, obter alinhamento entre as partes interessadas e garantir que os padrões de conformidade sejam atendidos. Saiba como começar a usar a nova funcionalidade de revisão e aprovação no Workfront. Também abordaremos as recomendações para a transição do processo de prova existente para a nova funcionalidade de revisão e aprovação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471493/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471565/?learn=on&enablevpops&captions=por_br)
 
 ## Transformando a revisão e a aprovação com o Workfront
 

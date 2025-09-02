@@ -27,7 +27,7 @@ A criação de um Centro de Excelência (CoE) é crucial para impulsionar a inov
 * **Considerações sobre a equipe** Explore os aspectos críticos da contratação de pessoal no seu CdE identificando as principais funções e responsabilidades para a sua prática administrativa. Entenda como criar uma equipe que possa apoiar e impulsionar com eficiência as iniciativas do seu CdE.
 * **Dicas e truques** Obtenha insights práticos e práticas recomendadas para gerenciar e manter seu CdE. Descubra estratégias para superar desafios comuns, promover a colaboração e garantir o aprimoramento contínuo. Junte-se a nós para se equipar com o conhecimento e as ferramentas necessárias para criar um próspero Centro de Excelência em sua organização da Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471589/?learn=on&enablevpops&captions=por_br)
 
 ## Etapas principais para iniciar seu COE
 

@@ -50,7 +50,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Palestra do Skill Exchange - O futuro da criação de experiências com IA, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756848631023" alt="Palestra do Skill Exchange - O futuro da criação de experiências com IA, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471360/?format=jpeg&nocache=1756848631023&captions=por_br" alt="Palestra do Skill Exchange - O futuro da criação de experiências com IA, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -183,7 +183,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Abrindo Palestra" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1756848632015" alt="Abrindo Palestra"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471480/?format=jpeg&nocache=1756848632015&captions=por_br" alt="Abrindo Palestra"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -229,7 +229,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="Desbloquear todo o potencial do Design Studio para operações de marketing global" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1756848632006" alt="Desbloquear todo o potencial do Design Studio para operações de marketing global"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471427/?format=jpeg&nocache=1756848632006&captions=por_br" alt="Desbloquear todo o potencial do Design Studio para operações de marketing global"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -365,7 +365,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Preparar sua organização da Workfront para um centro de excelência" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756848632522" alt="Preparar sua organização da Workfront para um centro de excelência"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471589/?format=jpeg&nocache=1756848632522&captions=por_br" alt="Preparar sua organização da Workfront para um centro de excelência"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -411,7 +411,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Automatizar a criação de conta de usuário do Workfront com o Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756848632510" alt="Automatizar a criação de conta de usuário do Workfront com o Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471576/?format=jpeg&nocache=1756848632510&captions=por_br" alt="Automatizar a criação de conta de usuário do Workfront com o Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -434,7 +434,7 @@ Criadores de experiências O Skill Exchange é uma série global de eventos virt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Introdução à revisão e aprovações" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1756848632551" alt="Introdução à revisão e aprovações"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471565/?format=jpeg&nocache=1756848632551&captions=por_br" alt="Introdução à revisão e aprovações"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
