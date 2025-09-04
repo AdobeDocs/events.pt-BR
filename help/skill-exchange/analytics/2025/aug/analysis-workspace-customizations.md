@@ -1,6 +1,7 @@
 ---
 title: Três personalizações revolucionárias no Adobe Analytics Workspace
 description: Descubra como marcar painéis, definir IDs de visitante únicas e combater o tráfego de bots no Adobe Analytics com insights dos campeões Isha Gupta e Deb William.
+solution: Analytics
 feature: Analysis Workspace, Workspace Basics
 role: User
 level: Intermediate, Experienced
@@ -8,7 +9,7 @@ doc-type: Event
 duration: 2408
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18827
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
