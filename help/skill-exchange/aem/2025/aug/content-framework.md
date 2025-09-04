@@ -37,7 +37,7 @@ Desbloquear operações de conteúdo eficientes é essencial para organizações
 
 * Os metadados e a taxonomia da **Organização estruturada** são vitais para a descoberta, a governança e a redução da duplicação.
 * **Estruturas escaláveis** Fragmentos de conteúdo modulares permitem atualizações centralizadas e entrega omnicanal, economizando tempo e garantindo consistência.
-* **Recursos alimentados por IA de {Automação Inteligente**, como marcação inteligente, exclusão de dados duplicados e geração de variação, simplificam tarefas repetitivas e aumentam a produtividade.
+* **Recursos alimentados por IA de &lbrace;Automação Inteligente**, como marcação inteligente, exclusão de dados duplicados e geração de variação, simplificam tarefas repetitivas e aumentam a produtividade.
 * **Insights práticos** Demonstrações do mundo real e perguntas e respostas esclarecem as práticas recomendadas para design de esquema, gerenciamento de ativos e consistência de conteúdo global.
 
 Aproveitar essas estratégias permite que as equipes trabalhem com mais rapidez, inteligência e maior impacto — preparando suas operações de conteúdo para o futuro.
