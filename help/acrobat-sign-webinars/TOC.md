@@ -1,9 +1,9 @@
 ---
 user-guide-title: Webinários do Acrobat Sign
-user-guide-description: Aprenda com especialistas do Adobe como dominar novos workflows de assinatura eletrônica no Acrobat Sign.
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+user-guide-description: Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assinatura eletrônica no Acrobat Sign.
+source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 1%
 
 ---
@@ -13,10 +13,11 @@ ht-degree: 1%
 
 + [Visão geral](overview.md)
 + [Acrobat Sign 101](./skill-builders/getting-started.md)
++ [Adobe Acrobat Sign versão de julho de 2025](skill-builders/acrobat-july-release.md)
 + [Preparar seus Contratos para assinatura eletrônica](./skill-builders/e-signature-setup.md)
 + [Trabalhar com assinaturas eletrônicas em aplicativos Microsoft](./skill-builders/e-signature-microsoft.md)
 + [Dicas avançadas para enviar documentos para assinatura](./skill-builders/advanced-sending-documents-signature.md)
-+ [Post um formulário Web preenchível e assinável](./skill-builders/fillable-signable-web-form.md)
++ [Publicar um formulário Web preenchível e assinável](./skill-builders/fillable-signable-web-form.md)
 + [Colete muitas assinaturas com um clique](./skill-builders/collect-signatures.md)
 + [Ambiente de criação](./skill-builders/authoring-environment.md)
 + [Visibilidade do Status do Contrato](./skill-builders/agreement-status.md)

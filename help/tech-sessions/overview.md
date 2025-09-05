@@ -3,9 +3,9 @@ title: Sessões técnicas do Experience Cloud
 description: Aprimore suas habilidades no Adobe Experience Cloud com sessões técnicas ao vivo e sob demanda realizadas por especialistas da Adobe. Obtenha dicas e estratégias acionáveis a qualquer momento para uma experiência de aprendizado contínua.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
+source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1630'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
+* 2025/subdomain-ssl-management.md
 * 2025/dispatcher-configurations.md
 * 2025/fastly-and-adobe-commerce.md
 * 2025/getting-most-marketo-measure.md
@@ -38,7 +39,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/acc-delivery-performance.md" title="Desempenho de entrega do Adobe Campaign Classic - Solução de problemas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457826/?format=jpeg&nocache=1753462498997" alt="Desempenho de entrega do Adobe Campaign Classic - Solução de problemas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457826/?format=jpeg&nocache=1757083672149" alt="Desempenho de entrega do Adobe Campaign Classic - Solução de problemas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,12 +57,35 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Tech Sessions - Adobe Campaign Subdomain and SSL management in the Control Panel">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/subdomain-ssl-management.md" title="Sessões técnicas - Subdomínio do Adobe Campaign e gerenciamento de SSL no Painel de controle do Campaign" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471391/?format=jpeg&nocache=1757083672177" alt="Sessões técnicas - Subdomínio do Adobe Campaign e gerenciamento de SSL no Painel de controle do Campaign"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/subdomain-ssl-management.md" target="_blank" rel="referrer" title="Sessões técnicas - Subdomínio do Adobe Campaign e gerenciamento de SSL no Painel de controle do Campaign">Sessões técnicas - Subdomínio do Adobe Campaign e gerenciamento de SSL no Painel de Controle</a>
+                    </p>
+                    <p class="is-size-6">Saiba como delegar e configurar subdomínios no Painel de controle do Adobe Campaign, configurar certificados SSL e monitorar a configuração para garantir a capacidade de entrega segura de emails.</p>
+                </div>
+                <a href="2025/subdomain-ssl-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Dispatcher Configurations in Adobe Experience Manager as a Cloud Service">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/dispatcher-configurations.md" title="Configurações do Dispatcher no Adobe Experience Manager as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457891/?format=jpeg&nocache=1753462499006" alt="Configurações do Dispatcher no Adobe Experience Manager as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457891/?format=jpeg&nocache=1757083672200" alt="Configurações do Dispatcher no Adobe Experience Manager as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,7 +108,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/fastly-and-adobe-commerce.md" title="Fastly e Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469841/?format=jpeg&nocache=1753462498975" alt="Fastly e Adobe Commerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469841/?format=jpeg&nocache=1757083672209" alt="Fastly e Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,7 +131,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/getting-most-marketo-measure.md" title="Como aproveitar ao máximo o Marketo Measure" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451661/?format=jpeg&nocache=1753462499014" alt="Como aproveitar ao máximo o Marketo Measure"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451661/?format=jpeg&nocache=1757083672164" alt="Como aproveitar ao máximo o Marketo Measure"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,7 +154,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/marketo-post-migration.md" title="Migração do Marketo para o Adobe Admin Console - (Pós-migração)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451635/?format=jpeg&nocache=1753462498961" alt="Migração do Marketo para o Adobe Admin Console - (Pós-migração)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451635/?format=jpeg&nocache=1757083672189" alt="Migração do Marketo para o Adobe Admin Console - (Pós-migração)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +177,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/marketo-pre-migration.md" title="Migração do Marketo para o Adobe Admin Console - (Pré-migração)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449712/?format=jpeg&nocache=1753462498987" alt="Migração do Marketo para o Adobe Admin Console - (Pré-migração)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449712/?format=jpeg&nocache=1757083672218" alt="Migração do Marketo para o Adobe Admin Console - (Pré-migração)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -176,7 +200,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/migrate-analytics-to-aep-web-sdk.md" title="Migrar o Adobe Analytics para o AEP Web SDK" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464032/?format=jpeg&nocache=1753462499022" alt="Migrar o Adobe Analytics para o AEP Web SDK"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464032/?format=jpeg&nocache=1757083672226" alt="Migrar o Adobe Analytics para o AEP Web SDK"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -216,7 +240,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-web-sdk-troubleshooting.md" title="Solução de problemas, Assurance e dicas e truques do AEP Web SDK" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441092/?format=jpeg&nocache=1753462499702" alt="Solução de problemas, Assurance e dicas e truques do AEP Web SDK"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441092/?format=jpeg&nocache=1757083672787" alt="Solução de problemas, Assurance e dicas e truques do AEP Web SDK"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -239,7 +263,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-assistant.md" title="Impulsione sua produtividade com o assistente de IA no Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435344/?format=jpeg&nocache=1753462499678" alt="Impulsione sua produtividade com o assistente de IA no Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435344/?format=jpeg&nocache=1757083672798" alt="Impulsione sua produtividade com o assistente de IA no Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -262,7 +286,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/champion-office-hours.md" title="Sessões técnicas de especialistas da Marketo Engage - maio de 2024" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429357/?format=jpeg&nocache=1753462499694" alt="Sessões técnicas de especialistas da Marketo Engage - maio de 2024"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429357/?format=jpeg&nocache=1757083672760" alt="Sessões técnicas de especialistas da Marketo Engage - maio de 2024"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -285,7 +309,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/rtcdp-timings.md" title="Tempos da plataforma de dados de conteúdo em tempo real e o que esperar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432992/?format=jpeg&nocache=1753462499686" alt="Tempos da plataforma de dados de conteúdo em tempo real e o que esperar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432992/?format=jpeg&nocache=1757083672807" alt="Tempos da plataforma de dados de conteúdo em tempo real e o que esperar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -308,7 +332,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/tracking-visitors.md" title="Rastrear visitantes no cenário em constante mudança de cookies, navegadores e bibliotecas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434925/?format=jpeg&nocache=1753462499712" alt="Rastrear visitantes no cenário em constante mudança de cookies, navegadores e bibliotecas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434925/?format=jpeg&nocache=1757083672775" alt="Rastrear visitantes no cenário em constante mudança de cookies, navegadores e bibliotecas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -357,7 +381,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/ac-sms-channel-overview.md" title="Visão geral do canal de SMS e dicas de solução de problemas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422741/?format=jpeg&nocache=1753462501901" alt="Visão geral do canal de SMS e dicas de solução de problemas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422741/?format=jpeg&nocache=1757083673404" alt="Visão geral do canal de SMS e dicas de solução de problemas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -380,7 +404,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/aem-deployment-failures-analysis.md" title="Análise de falhas de implantação do AEM as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422532/?format=jpeg&nocache=1753462501892" alt="Análise de falhas de implantação do AEM as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422532/?format=jpeg&nocache=1757083673377" alt="Análise de falhas de implantação do AEM as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -403,7 +427,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/aem-forms-headless-architecture.md" title="Arquitetura do AEM Forms sem periféricos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422750/?format=jpeg&nocache=1753462501880" alt="Arquitetura do AEM Forms sem periféricos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422750/?format=jpeg&nocache=1757083673414" alt="Arquitetura do AEM Forms sem periféricos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -426,7 +450,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/aep-admin-console-permissions.md" title="Adobe Experience Platform - Permissões do Admin Console" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422626/?format=jpeg&nocache=1753462501866" alt="Adobe Experience Platform - Permissões do Admin Console"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422626/?format=jpeg&nocache=1757083673393" alt="Adobe Experience Platform - Permissões do Admin Console"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -449,7 +473,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/launch-best-practices.md" title="Práticas recomendadas do Launch" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422528/?format=jpeg&nocache=1753462501910" alt="Práticas recomendadas do Launch"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422528/?format=jpeg&nocache=1757083673423" alt="Práticas recomendadas do Launch"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -472,7 +496,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/marketo-common-pitfalls.md" title="Lógica avançada de lista inteligente e armadilhas comuns" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422531/?format=jpeg&nocache=1753462501919" alt="Lógica avançada de lista inteligente e armadilhas comuns"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422531/?format=jpeg&nocache=1757083673447" alt="Lógica avançada de lista inteligente e armadilhas comuns"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -495,7 +519,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/migration-aemcs.md" title="Migração para o AEM Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422533/?format=jpeg&nocache=1753462501935" alt="Migração para o AEM Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422533/?format=jpeg&nocache=1757083673481" alt="Migração para o AEM Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -518,7 +542,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/optimize-indexes-aemcs.md" title="Base para otimizar índices com o AEM Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422534/?format=jpeg&nocache=1753462501927" alt="Base para otimizar índices com o AEM Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422534/?format=jpeg&nocache=1757083673439" alt="Base para otimizar índices com o AEM Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -541,7 +565,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/site-wide-analysis-tool.md" title="Ferramenta de análise do site" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422529/?format=jpeg&nocache=1753462501945" alt="Ferramenta de análise do site"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422529/?format=jpeg&nocache=1757083673431" alt="Ferramenta de análise do site"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -564,7 +588,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/target-debugging-tips-and-tricks.md" title="Visão geral da biblioteca JavaScript, dicas e truques de depuração" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422535/?format=jpeg&nocache=1753462501953" alt="Visão geral da biblioteca JavaScript, dicas e truques de depuração"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422535/?format=jpeg&nocache=1757083673462" alt="Visão geral da biblioteca JavaScript, dicas e truques de depuração"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -587,7 +611,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/workfront-fix-duplicate-contacts.md" title="Corrigir Contatos Duplicados" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422751/?format=jpeg&nocache=1753462501961" alt="Corrigir Contatos Duplicados"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422751/?format=jpeg&nocache=1757083673473" alt="Corrigir Contatos Duplicados"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -610,7 +634,7 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/workfront-proof-approval-reports.md" title="Relatórios de aprovação de provas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430509/?format=jpeg&nocache=1753462501968" alt="Relatórios de aprovação de provas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430509/?format=jpeg&nocache=1757083673455" alt="Relatórios de aprovação de provas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
