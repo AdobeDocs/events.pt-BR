@@ -40,7 +40,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/advanced-reporting.md" title="Relatórios avançados do Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1757082643934" alt="Relatórios avançados do Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454410/?format=jpeg&nocache=1757082643934&captions=por_br" alt="Relatórios avançados do Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +86,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/advanced-sending-documents-signature.md" title="Dicas avançadas para enviar documentos para assinatura" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1757082643929" alt="Dicas avançadas para enviar documentos para assinatura"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454885/?format=jpeg&nocache=1757082643929&captions=por_br" alt="Dicas avançadas para enviar documentos para assinatura"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,7 +109,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/agreement-status.md" title="Gerenciar Contratos - Obtenha Visibilidade em Tempo Real do Status do Contrato" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428190/?format=jpeg&nocache=1757082643906" alt="Gerenciar Contratos - Obtenha Visibilidade em Tempo Real do Status do Contrato"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455006/?format=jpeg&nocache=1757082643906&captions=por_br" alt="Gerenciar Contratos - Obtenha Visibilidade em Tempo Real do Status do Contrato"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,7 +132,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/authoring-environment.md" title="Treinamento avançado em ambiente de criação" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1757082643912" alt="Treinamento avançado em ambiente de criação"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455905/?format=jpeg&nocache=1757082643912&captions=por_br" alt="Treinamento avançado em ambiente de criação"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +155,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/collect-signatures.md" title="Colete muitas assinaturas com um clique" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1757082643917" alt="Colete muitas assinaturas com um clique"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454896/?format=jpeg&nocache=1757082643917&captions=por_br" alt="Colete muitas assinaturas com um clique"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/create-use-workflows.md" title="Criar e usar workflows do início ao fim" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428192/?format=jpeg&nocache=1757082643940" alt="Criar e usar workflows do início ao fim"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454907/?format=jpeg&nocache=1757082643940&captions=por_br" alt="Criar e usar workflows do início ao fim"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,7 +201,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/document-builder.md" title="Document Builder para Adobe Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1757082643924" alt="Document Builder para Adobe Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454918/?format=jpeg&nocache=1757082643924&captions=por_br" alt="Document Builder para Adobe Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -224,7 +224,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/e-signature-microsoft.md" title="Trabalhar com assinaturas eletrônicas em aplicativos Microsoft" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428185/?format=jpeg&nocache=1757082643952" alt="Trabalhar com assinaturas eletrônicas em aplicativos Microsoft"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455055/?format=jpeg&nocache=1757082643952&captions=por_br" alt="Trabalhar com assinaturas eletrônicas em aplicativos Microsoft"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -247,7 +247,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/e-signature-setup.md" title="Preparar seus Contratos para assinatura eletrônica" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428184/?format=jpeg&nocache=1757082643958" alt="Preparar seus Contratos para assinatura eletrônica"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455950/?format=jpeg&nocache=1757082643958&captions=por_br" alt="Preparar seus Contratos para assinatura eletrônica"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -270,7 +270,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/fillable-signable-web-form.md" title="Publicar um formulário Web preenchível e assinável" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1757082643946" alt="Publicar um formulário Web preenchível e assinável"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455451/?format=jpeg&nocache=1757082643946&captions=por_br" alt="Publicar um formulário Web preenchível e assinável"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -293,7 +293,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/getting-started.md" title="Acrobat Sign 101 - Introdução" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1757082643968" alt="Acrobat Sign 101 - Introdução"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455470/?format=jpeg&nocache=1757082643968&captions=por_br" alt="Acrobat Sign 101 - Introdução"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -316,7 +316,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/notarize.md" title="Integração do Notarize" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428195/?format=jpeg&nocache=1757082643963" alt="Integração do Notarize"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454377/?format=jpeg&nocache=1757082643963&captions=por_br" alt="Integração do Notarize"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -339,7 +339,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/workflow-automations.md" title="Automações de fluxo de trabalho possibilitadas pelo Microsoft Power Automate" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1757082643971" alt="Automações de fluxo de trabalho possibilitadas pelo Microsoft Power Automate"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454929/?format=jpeg&nocache=1757082643971&captions=por_br" alt="Automações de fluxo de trabalho possibilitadas pelo Microsoft Power Automate"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

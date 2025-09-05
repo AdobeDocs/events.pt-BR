@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Este webinário fornece uma visão geral de alto nível da cadeia de fornecimento de conteúdo moderna, ilustrando como as organizações podem acelerar, simplificar e administrar a criação e o delivery de conteúdo em todos os canais e públicos-alvo. Os visualizadores aprenderão sobre o poder integrado do Adobe GenStudio como um conjunto de produtos — com AEM Sites, AEM Assets, Workfront e Creative Cloud — para desbloquear a colaboração em tempo real, automatizar fluxos de trabalho e permitir a execução criativa escalável e na marca. A sessão foi projetada para educar os líderes de negócios e de TI sobre como uma plataforma unificada de cadeia de fornecimento de conteúdo pode impulsionar a agilidade de marketing, o impacto criativo e o crescimento mensurável dos negócios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472978/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472984/?learn=on&enablevpops&captions=por_br)
 
 ## Desbloquear a criação de conteúdo contínua com o Adobe
 
