@@ -23,7 +23,7 @@ Acúmulo empresarial e raciocínio ético: tome decisões inteligentes e éticas
 Metodologia de pesquisa e artesanato de narrativa: Transforme os resultados dos dados em narrativas atraentes para as partes interessadas.
 Competência técnica e inteligência emocional: forneça suporte e soluções com empatia, não apenas habilidades técnicas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471190/?learn=on&enablevpops&captions=por_br)
 
 ## Desbloquear o Analytics para impacto humano
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Abrindo Palestra
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471129/?learn=on&enablevpops&captions=por_br)
 
 ## Desbloquear a excelência de um analista: habilidades essenciais
 

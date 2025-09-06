@@ -24,7 +24,7 @@ Os participantes aprenderão a usar a análise no nível da jornada para identif
 
 Por fim, vamos nos aprofundar em estratégias para dimensionar esses insights em toda a organização, conectando as descobertas da Tela do Jornada aos painéis granulares, permitindo uma otimização contínua em cada ponto de contato. Se você é novo no CJA ou um profissional experiente, esta sessão vai equipá-lo com uma metodologia clara para usar o Jornada Canvas para elevar seus programas CX e gerar resultados tangíveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471219/?learn=on&enablevpops&captions=por_br)
 
 ## Tela de Jornada: da análise à ativação
 

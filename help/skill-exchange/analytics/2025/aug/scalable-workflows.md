@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Junte-se à especialista da Adobe Ioana Maftei, gerente sênior de análise da IBM, enquanto ela compartilha como criar fluxos de trabalho de análise escaláveis e controlados que tornam a cadeia de fornecimento de conteúdo mensurável. Saiba como fornecer os insights certos às pessoas certas, no momento certo, permitir a colaboração entre equipes e adaptar os projetos do Analysis Workspace para atender a diferentes funções e necessidades.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471234/?learn=on&enablevpops&captions=por_br)
 
 ## Mapeamento de funções para estágios do Analytics
 

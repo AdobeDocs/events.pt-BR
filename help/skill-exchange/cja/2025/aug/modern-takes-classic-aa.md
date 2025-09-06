@@ -25,7 +25,7 @@ Pronto para desligar seu antigo avental Adobe Analytics e entrar em uma cozinha 
 Esteja você sem as Regras de processamento ou tentando encontrar o plano perfeito (Visualização de dados) para a sua próxima análise, esta sessão o guiará pela cozinha da análise moderna: passo a passo.
 Desfrute de insights e saia com um menu completo de técnicas prontas para CJA
 
->[!VIDEO](https://video.tv.adobe.com/v/3471110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471245/?learn=on&enablevpops&captions=por_br)
 
 ## Transformação do Analytics com o CJA: principais pontos
 
