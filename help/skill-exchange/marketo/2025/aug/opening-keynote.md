@@ -21,7 +21,7 @@ ht-degree: 0%
 
 O evento Adobe Experience Makers: The Skill Exchange (Marketo Engage track) apresentou Badsah Mukherji, gerente de produto sênior do Adobe Group, discutindo a evolução do marketing B2B para &quot;B2B 3.0&quot;. Essa nova fase se concentra em experiências de cliente orientadas por IA, enfatizando o engajamento personalizado e direcionando grupos de compras dentro das contas. Mukherjee destacou o papel transformador dos agentes de IA na automatização de tarefas, no aumento da eficiência e na capacitação dos profissionais de marketing para se concentrarem em funções estratégicas. A importância da colaboração entre humanos e IA foi enfatizada, com a IA amplificando a criatividade em vez de substituí-la. As principais habilidades para o sucesso neste cenário incluem engenharia de prompt, fluência de dados e configuração de agente. O Adobe está integrando agentes de IA em ferramentas como o Marketo Engage para automatizar a orquestração do ciclo de vida do cliente, garantindo que os profissionais de marketing que adotam IA prosperem no futuro do marketing B2B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471480/?learn=on&enablevpops&captions=por_br)
 
 ## Navegar pelo futuro do marketing B2B
 
