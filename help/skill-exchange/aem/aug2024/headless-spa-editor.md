@@ -1,6 +1,6 @@
 ---
 title: Descubra o poder dos SPAs modernos no AEM — abordagens Master Headless e Editor de SPA
-description: Entenda os fundamentos de aplicativos de página única Explorando o AEM headless e sua integração com estruturas de front-end Utilizando o AEM SPA Editor para um processo de desenvolvimento simplificado Práticas recomendadas para a criação, implantação e gerenciamento de SPAs no AEMnão perca esta oportunidade de obter insights de um especialista e elevar sua estratégia digital com técnicas modernas de SPA no AEM."
+description: Noções básicas sobre os fundamentos de aplicativos de página única Explorando o AEM headless e sua integração com estruturas de front-end Utilizando o AEM SPA Editor para um processo de desenvolvimento simplificado Práticas recomendadas para a criação, implantação e gerenciamento de SPAs no AEM não perca esta oportunidade de obter insights de um especialista e elevar sua estratégia digital com técnicas modernas de SPA no AEM.
 solution: Experience Manager
 role: Developer, User
 level: Intermediate, Experienced
@@ -10,7 +10,7 @@ last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16095
 exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
 hidefromtoc: true
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
