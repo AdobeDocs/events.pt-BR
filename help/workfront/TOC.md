@@ -3,7 +3,7 @@ user-guide-title: Eventos da Workfront
 breadcrumb-title: Eventos da Workfront
 user-guide-description: Eventos da Workfront
 solution: Workfront
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 7d95beac5ae2af5f520f7e3a47b16403c9374b5b
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 2%
@@ -52,10 +52,6 @@ ht-degree: 2%
       + [Modelos de projeto](workshop-rewind/workflow/project-templates.md)
       + [Descubra o poder da conexão de dados do Workfront](workshop-rewind/workflow/data-connect.md)
 
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
-
 + Clássicos {#classics}
    + Administração {#administration}
       + [Trilhas de auditoria e conformidade](user-groups/audit-trails-and-compliance.md)
@@ -92,3 +88,7 @@ ht-degree: 2%
 
 
 
+
+<!--  + Planning {#planning}
+  + Integrations {#integrations}
+-->
