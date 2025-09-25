@@ -98,7 +98,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe criados para capacitá
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-success.md" title="Criação de patrocínio executivo para o suporte ao sucesso da Adobe Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1758744862979" alt="Criação de patrocínio executivo para o suporte ao sucesso da Adobe Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470859/?format=jpeg&nocache=1758744862979&captions=por_br" alt="Criação de patrocínio executivo para o suporte ao sucesso da Adobe Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -400,7 +400,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe criados para capacitá
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="Especialização em AEM Sites - Modelos, Navegação e SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1758744863797" alt="Especialização em AEM Sites - Modelos, Navegação e SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464320/?format=jpeg&nocache=1758744863797&captions=por_br" alt="Especialização em AEM Sites - Modelos, Navegação e SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -580,7 +580,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe criados para capacitá
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="Assistente de IA - Além das noções básicas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1758744864519" alt="Assistente de IA - Além das noções básicas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463363/?format=jpeg&nocache=1758744864519&captions=por_br" alt="Assistente de IA - Além das noções básicas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -709,7 +709,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe criados para capacitá
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/csc-gen-studio.md" title="Desmistificar a cadeia de fornecimento de conteúdo e o Adobe GenStudio como um pacote de produtos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1758744865078" alt="Desmistificar a cadeia de fornecimento de conteúdo e o Adobe GenStudio como um pacote de produtos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472984/?format=jpeg&nocache=1758744865078&captions=por_br" alt="Desmistificar a cadeia de fornecimento de conteúdo e o Adobe GenStudio como um pacote de produtos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -904,7 +904,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe criados para capacitá
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="Experimentação da GenAI no AJO e seu relacionamento com a Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1758744865863" alt="Experimentação da GenAI no AJO e seu relacionamento com a Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444464/?format=jpeg&nocache=1758744865863&captions=por_br" alt="Experimentação da GenAI no AJO e seu relacionamento com a Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1418,7 +1418,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe criados para capacitá
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Princípios básicos da integração do Real-Time Customer Data Platform e do Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1758744868505" alt="Princípios básicos da integração do Real-Time Customer Data Platform e do Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433673/?format=jpeg&nocache=1758744868505&captions=por_br" alt="Princípios básicos da integração do Real-Time Customer Data Platform e do Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1579,7 +1579,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe criados para capacitá
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="Priorização do fluxo de dados" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1758744868512" alt="Priorização do fluxo de dados"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456810/?format=jpeg&nocache=1758744868512&captions=por_br" alt="Priorização do fluxo de dados"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1763,7 +1763,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe criados para capacitá
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Maturidade do Personalization - O caminho para a hiperpersonalização" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1758744868618" alt="Maturidade do Personalization - O caminho para a hiperpersonalização"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457350/?format=jpeg&nocache=1758744868618&captions=por_br" alt="Maturidade do Personalization - O caminho para a hiperpersonalização"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1809,7 +1809,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe criados para capacitá
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="Maximizando a eficiência - equipes enxutas e Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1758744868656" alt="Maximizando a eficiência - equipes enxutas e Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457013/?format=jpeg&nocache=1758744868656&captions=por_br" alt="Maximizando a eficiência - equipes enxutas e Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1924,7 +1924,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe criados para capacitá
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="Liderança estratégica" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1758744868648" alt="Liderança estratégica"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456788/?format=jpeg&nocache=1758744868648&captions=por_br" alt="Liderança estratégica"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2085,7 +2085,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe criados para capacitá
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Maximizar a eficiência com o Adobe Workfront - webinário de equipes enxutas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1758744868734" alt="Maximizar a eficiência com o Adobe Workfront - webinário de equipes enxutas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456711/?format=jpeg&nocache=1758744868734&captions=por_br" alt="Maximizar a eficiência com o Adobe Workfront - webinário de equipes enxutas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
