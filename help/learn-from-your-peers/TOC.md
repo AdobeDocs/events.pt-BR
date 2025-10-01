@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Coleção de gravações de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 536ac9f64cea12c8f4b15c6e8d2f8a14fa11f022
+source-git-commit: 2e57d6ee984b1537172fe5c6652ff110d9e3416b
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '355'
 ht-degree: 20%
 
 ---
@@ -51,6 +51,9 @@ ht-degree: 20%
 + GenAI {#genai}
    + Setembro de 2025 {#sept2025}
       + [Adoção da IA de escala - um manual para aprovações](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
++ Experience Platform {#experience-platform}
+   + 2025 {#2025}
+      + [Agentes de IA no AEP](platform/ai-agents.md)
 + Marketo {#marketo}
    + Maio de 2025 {#may2025}
       + [Descubra o impacto dos webinários interativos](marketo/may2025/interactive-webinars.md)
