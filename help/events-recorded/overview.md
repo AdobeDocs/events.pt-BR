@@ -39,7 +39,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
 * https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html?lang=pt-BR
   {title = Adobe Content Management Forum}
   {description = Learn from Adobe experts as they discuss the current and future state of content management strategy, deliverables, challenges, and technical requirements.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png?lang=pt-BR}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=pt-BR
   {title = Adobe Commerce Product Updates}
@@ -64,12 +64,12 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
 * https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=pt-BR
   {title = Adobe Customer Success Webinars}
   {description = Adobe Customer Success-led webinars designed to empower you in optimizing your investment in Adobe's Experience Cloud. Gain valuable insights to maximize the value and increase the adoption of Adobe solutions.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png?lang=pt-BR}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=pt-BR
   {title = Behind the Brew}
   {description = Behind the Brew, the companion series to Commerce & Coffee, is tailored for technically inclined customers seeking to master back-end best practices, integrations, and advanced functionalities to enhance their eCommerce experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=pt-BR}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=pt-BR
   {title = Commerce and Coffee}
@@ -79,7 +79,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
 * https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=pt-BR
   {title = Customer Data Management Voices}
   {description = Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=pt-BR}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=pt-BR
   {title = Data Drip}
@@ -234,7 +234,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html?lang=pt-BR" title="Fórum de gerenciamento de conteúdo Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png" alt="Fórum de gerenciamento de conteúdo Adobe"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png?lang=pt-BR" alt="Fórum de gerenciamento de conteúdo Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -349,7 +349,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=pt-BR" title="Webinários de sucesso do cliente do Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png" alt="Webinários de sucesso do cliente do Adobe"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png?lang=pt-BR" alt="Webinários de sucesso do cliente do Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -372,7 +372,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=pt-BR" title="Atrás do Brew" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png" alt="Atrás do Brew"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=pt-BR" alt="Atrás do Brew"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -418,7 +418,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=pt-BR" title="Vozes do gerenciamento de dados do cliente" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="Vozes do gerenciamento de dados do cliente"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=pt-BR" alt="Vozes do gerenciamento de dados do cliente"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
