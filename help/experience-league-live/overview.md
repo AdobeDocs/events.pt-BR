@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: c548ffe15a8b19f9ad8790ef23219ad0376bf946
+source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 15%
+source-wordcount: '236'
+ht-degree: 13%
 
 ---
 
@@ -45,6 +45,17 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
               </a>
               <br/><em>com Daniel Wright, Namita Krishnan e Huong Vu</em>
               <br/><em>22 de outubro de 2025</em>
+            </div>
+        </td>
+         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
+              <img alt="Experience League LIVE 30 de outubro de 2025" src="assets/exl-live-episode-10-30-25-web-banner.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-22-25.md">
+                <strong>A próxima era da experimentação: como a IA agêntica está promovendo testes e crescimento mais inteligentes</strong>
+              </a>
+              <br/><em>com Sandra Hausmann, Brent Kostak, Justin Grover e David Arbor</em>
+              <br/><em>30 de outubro de 2025</em>
             </div>
         </td>
     </tr>
@@ -113,5 +124,5 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 
 >[!TIP]
 >
->Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/pt-br?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
+>Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
 
