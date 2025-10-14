@@ -30,7 +30,7 @@ A maioria dos desenvolvedores se deparou com o AEM querybuilder como uma linguag
 
 Demonstração
 
-* [Construtor de consultas do AEM](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), entregue por Alexander Klimetschek
+* [Construtor de consultas do AEM](https://www.youtube.com/watch?v=yR9mcp9_MtY&list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), entregue por Alexander Klimetschek
 
 Documentação do AEM
 
