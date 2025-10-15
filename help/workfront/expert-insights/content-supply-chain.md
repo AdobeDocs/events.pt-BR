@@ -37,12 +37,12 @@ A Corre é um CSM verdadeiramente estratégico que define o ritmo para nós sobr
 
 ### Summit Sessions
 
-* [Como a Adobe otimizou sua cadeia de fornecimento de conteúdo - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Explore a abordagem da Adobe para implantar sua cadeia de fornecimento de conteúdo em sua própria organização de marketing 
-* [Revolucionalizando a produção de conteúdo com o Adobe - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Descubra como a Adobe pode maximizar sua cadeia de fornecimento de conteúdo e acelerar seu fluxo de trabalho criativo 
+* [Como a Adobe otimizou sua cadeia de fornecimento de conteúdo - S316](https://business.adobe.com/br/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Explore a abordagem da Adobe para implantar sua cadeia de fornecimento de conteúdo em sua própria organização de marketing 
+* [Revolucionalizando a produção de conteúdo com o Adobe - S305](https://business.adobe.com/br/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Descubra como a Adobe pode maximizar sua cadeia de fornecimento de conteúdo e acelerar seu fluxo de trabalho criativo 
 
 ### Demonstrações de produto
 
-* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - porque é necessária uma [demonstração do produto] interativa para ilustrar o escopo do que pode existir em nossa solução de gerenciamento de trabalho da empresa.  
+* [Workfront](https://business.adobe.com/br/product-demos/workfront/interactive-tour.html) - porque é necessária uma [demonstração do produto] interativa para ilustrar o escopo do que pode existir em nossa solução de gerenciamento de trabalho da empresa.  
 * [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - Adoro a abrangência desse processo para que nossos clientes comecem a vincular suas necessidades às soluções existentes atualmente na Adobe.
 
 ## Sobre o orador 
