@@ -7,7 +7,7 @@ feature: AI Assistant
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
 event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly
-source-git-commit: facacb2fe59edc77e5add50d4b02b08e14030184
+source-git-commit: 3caa917efc2e6e093ba4550e2d41794df9347144
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -24,6 +24,6 @@ Nesta sessão, junte-se à equipe de produtos por trás da Experience Platform A
 * Como a Agent Orchestrator orquestra agentes especialistas para fornecer resultados mensuráveis e dar suporte a casos de uso completos
 * Como o Agent Orchestrator fornece a confiança, a transparência, a segurança e as medidas de proteção que as marcas exigem para adotar soluções de IA com confiança
 
-> ![Mostrar banner](assets/WebBanner-v2-Oct22-2025.jpg)
+[![ExL LIVE 17 de janeiro de 2024](assets/WebBanner-v2-Oct22-2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251022.html)
 
-[Definir um lembrete para o programa!](https://youtube.com/live/WS_DzRmYNzw)
+[Inscreva-se agora!](https://engage.adobe.com/ExpLeagueLive-251022.html)
