@@ -26,6 +26,6 @@ Esteja você focado em otimizar as experiências do cliente, expandir seu pipeli
 >[!TIP]
 >
 > Experimente você mesmo - [Inscreva-se para acessar um ambiente de demonstração](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html).
-> > Você pode continuar a conversa e fazer perguntas aos especialistas da Adobe no **[fórum da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)**.
+> &#x200B;> Você pode continuar a conversa e fazer perguntas aos especialistas da Adobe no **[fórum da comunidade](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)
