@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Coleção de gravações de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
+source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '354'
 ht-degree: 20%
 
 ---
@@ -78,6 +78,8 @@ ht-degree: 20%
    + 2025 {#2025}
       + Fevereiro {#february2025}
          + [Impacto articulado - como medir e compartilhar o valor do Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
+      + Outubro {#october2025}
+         + [Simplifique o planejamento de recursos com automação](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
       + Abril {#april2024}
          + [Equipe da prática de administração do sistema Workfront](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
