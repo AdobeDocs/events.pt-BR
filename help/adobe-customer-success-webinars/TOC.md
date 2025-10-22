@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacitá-lo a otimizar seu investimento na Experience Cloud da Adobe. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções da Adobe.
-source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
+source-git-commit: 049b74b1b3e2ef9c511cba258c6d98bb60eca152
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '518'
 ht-degree: 3%
 
 ---
@@ -51,6 +51,7 @@ ht-degree: 3%
       + [Modelo operacional do GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+      + [Roteiro para a obtenção de valor com o Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)
    + Várias soluções {#multisolution2025}
       + [Fundamentos da cadeia de fornecimento de conteúdo](2025/content-supply-chain-basics.md)
       + [Otimização da experiência digital com insights de IA](2025/accelerating-digital-experience-optimization.md)
