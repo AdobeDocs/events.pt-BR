@@ -7,9 +7,9 @@ feature: AI Assistant
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
 event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly
-source-git-commit: 452ea2a3b351af2ecfcd6f78a7d524cb3b00dcef
+source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -25,3 +25,7 @@ Nesta sessão, a equipe de produtos por trás do Experience Platform Agent Orche
 * Como o Agent Orchestrator fornece a confiança, a transparência, a segurança e as medidas de proteção que as marcas exigem para adotar soluções de IA com confiança
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476153/?learn=on&enablevpops)
+
+Junte-se a nós para a [Comunidade do Adobe Journey Optimizer, Pergunte-me qualquer coisa!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) na quarta-feira, 12 de novembro das 8h às 9h00 (PT). Os especialistas da Adobe Journey Optimizer se juntarão a nós: Cole Connelly (@coleconnelly) - Gerente de produto Sr, Huong Vu (@HuongVu) - Gerente de marketing de produto, Namita Krishnan (@Namita_Krishnan) - Gerente de produto, Brent Kostak (@bkostak) - Gerente de marketing de produto Sr, David Arbor (@user03474) - Cientista de pesquisa Sr, Justin Grover (@justin_grover) - Gerente de produto principal, Sandra Hausmann (@SHausmann) - Engenheiro de marketing técnico Sr e Daniel Wright (@dwright) - Engenheiro de marketing técnico Sr.
+
+Nós responderemos suas perguntas durante este chat ao vivo.
