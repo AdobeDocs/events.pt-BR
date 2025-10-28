@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Coleção de gravações de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '361'
 ht-degree: 20%
 
 ---
@@ -52,6 +52,8 @@ ht-degree: 20%
    + Setembro de 2025 {#sept2025}
       + [Adoção da IA de escala - um manual para aprovações](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
+   + Outubro de 2025 {#oct2025}
+      + [Criação de uma estratégia de higiene de dados](marketo/oct2025/data-hygiene-strategy.md)
    + Maio de 2025 {#may2025}
       + [Descubra o impacto dos webinários interativos](marketo/may2025/interactive-webinars.md)
    + Novembro de 2024 {#nov2024}
