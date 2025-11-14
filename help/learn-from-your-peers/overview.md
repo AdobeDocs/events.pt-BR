@@ -412,7 +412,7 @@ Aprenda com especialistas e colegas da Adobe como obter o máximo das soluções
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Person Scoring Master with Marketo Engage - Nuances localizadas em uma estrutura global" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1763133803522" alt="Person Scoring Master with Marketo Engage - Nuances localizadas em uma estrutura global"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457444/?captions=por_br&format=jpeg&nocache=1763133803522" alt="Person Scoring Master with Marketo Engage - Nuances localizadas em uma estrutura global"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
