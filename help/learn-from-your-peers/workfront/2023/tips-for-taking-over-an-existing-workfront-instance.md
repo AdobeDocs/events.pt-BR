@@ -26,6 +26,6 @@ Neste webinário sob demanda, Jace Newbold, gerente de consultoria da Workfront 
 * O que cada administrador deve fazer hoje para definir seu futuro próprio (e futuros administradores) para o sucesso
 * Uma lista de verificação que pode ser baixada com perguntas, recursos e links para orientá-lo pelo processo de auditoria e documentação da sua instância
 
-Verifique também a Lista de verificação e o Blueprint da instância herdada: https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Verifique também a Lista de verificação e o Blueprint da instância herdada: https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

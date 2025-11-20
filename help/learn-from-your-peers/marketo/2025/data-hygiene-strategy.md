@@ -34,6 +34,6 @@ Ouça a opinião de Miray Vu, especialista em Adobe Marketo Engage, de entender 
 ## Recursos adicionais
 
 * Participe da [discussão](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425) sobre a Comunidade da Nação de Marketing, onde as Perguntas e Respostas são postadas.
-* [Higiene de dados do Marketo Engage usando Campanhas Executáveis](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [Dominando a higiene de dados para sincronização do Salesforce CRM com o Marketo Engage](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [Higiene de dados do Marketo Engage usando Campanhas Executáveis](https://business.adobe.com/br/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [Dominando a higiene de dados para sincronização do Salesforce CRM com o Marketo Engage](https://experienceleague.adobe.com/pt-br/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
 * [Como executar a desduplicação usando a API REST do Marketo Engage](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)
