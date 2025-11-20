@@ -1,0 +1,33 @@
+---
+title: Aprofundamento das ferramentas do AEM Sites
+description: práticas recomendadas para aproveitar ferramentas de maneira eficaz e transformar sua experiência no AEM Sites. Tipos de tags Saiba como diferentes tipos de tags podem sobrecarregar a organização e a capacidade de descoberta do conteúdo.  Configuração e aplicação de tags Obtenha insights práticos sobre uma implementação de tags eficiente para economizar tempo e aumentar a produtividade.  Esquemas de metadados de pasta Descubra o potencial do gerenciamento de conteúdo estruturado por meio de esquemas de metadados de pasta. Esquemas de metadados Aumente a relevância do conteúdo e a experiência do usuário dominando o design do esquema de metadados. Configurar relatórios Aproveite insights orientados por dados para a tomada de decisões estratégicas configurando relatórios abrangentes. Você pode acessar os slides de apresentação aqui.
+feature-set: Experience Manager
+feature: Tagging
+role: Leader, Architect, Developer, Admin, User
+level: Beginner, Intermediate
+solution: Experience Manager
+doc-type: Event
+last-substantial-update: 2023-10-06T00:00:00Z
+jira: KT-14118
+thumbnail: 3424735.jpeg
+exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
+duration: 2640
+source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+workflow-type: tm+mt
+source-wordcount: '219'
+ht-degree: 0%
+
+---
+
+# Aprofundamento das ferramentas do AEM Sites
+
+Junte-se à Adobe Experience Manager Champion, Cindy Underwood, enquanto compartilha aprendizados que vão equipá-lo com as práticas recomendadas para aproveitar as ferramentas de maneira eficaz e transformar sua experiência com o AEM Sites. Prepare-se para explorar:
+
+* Tipos de tags - saiba como diferentes tipos de tags podem sobrecarregar a organização e a capacidade de descoberta do conteúdo.
+* Configuração e aplicação de tags - obtenha insights práticos sobre a implementação eficiente de tags para economizar tempo e aumentar a produtividade.
+* Esquemas de metadados de pasta — descubra o potencial do gerenciamento de conteúdo estruturado por meio de esquemas de metadados de pasta.
+* Esquemas de metadados - aumente a relevância do conteúdo e a experiência do usuário dominando o design do esquema de metadados. Configurar relatórios: aproveite insights orientados por dados para a tomada de decisões estratégicas configurando relatórios abrangentes.
+
+Você pode acessar os slides da apresentação [aqui](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf).
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424735/?learn=on)
