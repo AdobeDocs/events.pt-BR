@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Nós reunimos cinco [!DNL Adobe Analytics] Campeões do mundo inteiro para compartilhar as dicas e truques que os ajudaram a dominar o [!DNL Adobe Analytics]. Durante o evento, mais de 90 perguntas foram feitas por [!DNL Adobe Analytics] usuários em todo o mundo. Como os especialistas do [!DNL Adobe Analytics] não conseguiram responder todas essas perguntas durante as perguntas e respostas ao vivo, reunimos novamente o grupo e realizamos uma sessão de perguntas e respostas de acompanhamento, na qual os especialistas responderam às SUAS perguntas e compartilharam ainda mais dicas e truques de especialistas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3414192/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457002/?captions=por_br&quality=12&learn=on)
