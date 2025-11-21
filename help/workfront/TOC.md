@@ -3,10 +3,10 @@ user-guide-title: Eventos da Workfront
 breadcrumb-title: Eventos da Workfront
 user-guide-description: Eventos da Workfront
 solution: Workfront
-source-git-commit: 7d95beac5ae2af5f520f7e3a47b16403c9374b5b
+source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 2%
+source-wordcount: '239'
+ht-degree: 1%
 
 ---
 
@@ -20,17 +20,32 @@ ht-degree: 2%
    + [Versão 25.4](releases/25-4-release-webinar.md)
    + [Versão 25.1](releases/25-1-release-webinar.md)
    + [Versão 24.1](releases/24-1-release-webinar.md)
++ Retrocesso do workshop {#workshop-rewind}
+   + Fusão {#fusion}
+      + [Automatização de convenções de nomenclatura](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Navegar pelas alterações em campos de seleção múltipla com facilidade](workshop-rewind/fusion/mulit-select-fields.md)
+      + [Desbloqueando custos de eventos verdadeiros](workshop-rewind/fusion/event-costs.md)
+   + Planejamento {#planning}
+      + [Últimas novidades no Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+      + [Sucesso em nível de equipe com o Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Versão e roteiro do Workfront Planning](workshop-rewind/planning/planning-release-roadmap.md)
+   + Fluxo de trabalho {#workflow}
+      + [Formas de gerenciamento de recursos da Creative](classics/creative-ways-of-managing-resources.md)
+      + [Especialização em Notificações por Email](workshop-rewind/workflow/email-notifications.md)
+      + [Modelos de projeto](workshop-rewind/workflow/project-templates.md)
+      + [Autoensinado para o sucesso](workshop-rewind/workflow/self-taught-to-success.md)
+      + [Descubra o poder da conexão de dados do Workfront](workshop-rewind/workflow/data-connect.md)
 + Tomadas rápidas {#quicktakes}
    + 3 principais {#top3}
-      + [Abordagens da Creative com blueprints](top3/blueprints.md)
-      + [3 principais abordagens para o Office Hours](top3/office-hours.md)
+      + [Abordagens da Creative com blueprints](quick-takes/top3/blueprints.md)
+      + [3 principais abordagens para o Office Hours](quick-takes/top3/office-hours.md)
    + Versus! {#versus}
-      + [Grupos versus equipes](versus/groups-vs-teams.md)
+      + [Grupos versus equipes](quick-takes/versus/groups-vs-teams.md)
 + Insights de especialistas {#expert-insights}
    + [Adoção](expert-insights/adoption.md)
    + [Pesquisas de adoção](expert-insights/adoption-surveys.md)
    + [Agile](expert-insights/agile.md)
-   + [Cadeia de fornecimento de conteúdo](expert-insights/content-supply-chain.md)
+   + [Supply chain de conteúdo](expert-insights/content-supply-chain.md)
    + [Fusão](expert-insights/fusion.md)
    + [Governança e centros de excelência](expert-insights/centers-of-excellence.md)
    + [Fluxos de trabalho não tradicionais do Workfront](expert-insights/non-traditional-workfront-workflows.md)
@@ -39,19 +54,6 @@ ht-degree: 2%
    + [Filas de solicitações com Lyndsy Denk](expert-insights/request-queues.md)
    + [Relatórios do SLA no Workfront](expert-insights/sla-reporting.md)
    + [Gerenciamento de trabalho corporativo](expert-insights/enterprise-work-management.md)
-+ Retrocesso do workshop {#workshop-rewind}
-   + Integrações {#integrations}
-      + [Navegar pelas alterações em campos de seleção múltipla com facilidade](workshop-rewind/integrations/mulit-select-fields.md)
-      + [Desbloqueando custos de eventos verdadeiros](workshop-rewind/integrations/event-costs.md)
-   + Planejamento {#planning}
-      + [Sucesso em nível de equipe com o Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
-      + [Últimas novidades no Workfront Planning](workshop-rewind/planning/workfront-planning.md)
-   + Fluxo de trabalho {#workflow}
-      + [Formas de gerenciamento de recursos da Creative](classics/creative-ways-of-managing-resources.md)
-      + [Especialização em Notificações por Email](workshop-rewind/workflow/email-notifications.md)
-      + [Modelos de projeto](workshop-rewind/workflow/project-templates.md)
-      + [Descubra o poder da conexão de dados do Workfront](workshop-rewind/workflow/data-connect.md)
-
 + Clássicos {#classics}
    + Administração {#administration}
       + [Trilhas de auditoria e conformidade](user-groups/audit-trails-and-compliance.md)
