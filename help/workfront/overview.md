@@ -51,7 +51,7 @@ Esta série de vídeos contínua oferece uma visão geral clara e concisa de cad
 
 ## Retrocesso do workshop
 
-Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da nossa seleção de eventos em destaque. Todos os meses, realizamos sessões gratuitas ao vivo que abrangem uma variedade de tópicos para ajudar você a aproveitar ao máximo o Workfront. Perdeu um evento ao vivo? Sem problemas! Obtenha gravações sob demanda que mostram histórias de clientes, práticas recomendadas comprovadas e lições valiosas aprendidas. Deseja se conectar em tempo real? Participe dos próximos eventos ao vivo para fazer perguntas, compartilhar insights e colaborar com colegas. Visite a [página de Eventos do Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) regularmente para ver o que vem a seguir.
+Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da nossa seleção de eventos em destaque. Todos os meses, realizamos sessões gratuitas ao vivo que abrangem uma variedade de tópicos para ajudar você a aproveitar ao máximo o Workfront. Perdeu um evento ao vivo? Sem problemas! Obtenha gravações sob demanda que mostram histórias de clientes, práticas recomendadas comprovadas e lições valiosas aprendidas. Deseja se conectar em tempo real? Participe dos próximos eventos ao vivo para fazer perguntas, compartilhar insights e colaborar com colegas. Visite a [página de Eventos do Experience League Workfront](https://experienceleague.adobe.com/pt-br/events?filters=Workfront) regularmente para ver o que vem a seguir.
 
 <!-- CARDS 
 

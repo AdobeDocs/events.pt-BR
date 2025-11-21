@@ -27,6 +27,6 @@ Com base no que eles aprenderam de outros clientes do Workfront, esta é uma ót
 
 Se você estiver interessado em compartilhar sua história ou caso de uso, envie um email para csatscale@adobe.com.
 
-Você tem ideias para compartilhar ou tem dúvidas de acompanhamento do evento? Fique à vontade para soltá-los nos comentários da [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174)!
+Você tem ideias para compartilhar ou tem dúvidas de acompanhamento do evento? Fique à vontade para soltá-los nos comentários da [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174?profile.language=pt)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
