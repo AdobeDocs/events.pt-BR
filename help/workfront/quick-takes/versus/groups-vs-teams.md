@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Olá, Workfronters, este é o seu &quot;CSM do Workfront sob demanda&quot;! Neste Versus! , eu compartilho algumas ideias e recomendações para usar Grupos vs. Equipes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3467358/?captions=por_br&learn=on&enablevpops)
 
 Quer saber mais sobre Grupos e Equipes?
 
