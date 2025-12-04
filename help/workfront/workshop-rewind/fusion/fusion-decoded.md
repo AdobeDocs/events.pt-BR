@@ -25,8 +25,8 @@ e assista à gravação sob demanda para acompanhar, enquanto Jen fornece uma vi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-Confira os [modelos do Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) do Adobe Workfront disponíveis no momento.
+Confira os [modelos do Fusion](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) do Adobe Workfront disponíveis no momento.
 
-Mais links de recursos estão disponíveis na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)!
+Mais links de recursos estão disponíveis na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=pt)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.

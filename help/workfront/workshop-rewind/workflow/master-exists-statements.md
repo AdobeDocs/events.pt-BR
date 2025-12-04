@@ -23,7 +23,7 @@ Durante esse workshop, eles compartilharam conhecimentos técnicos e aplicaçõe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477158/?learn=on&enablevpops)
 
-Você perdeu a sessão ao vivo? Não se preocupe! Revise o [conjunto de apresentações](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550) da Skye &amp; Nathan e assista à gravação sob demanda para acompanhamento.
+Você perdeu a sessão ao vivo? Não se preocupe! Revise o [conjunto de apresentações](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550?profile.language=pt) da Skye &amp; Nathan e assista à gravação sob demanda para acompanhamento.
 
 Você tem ideias para compartilhar ou tem dúvidas de acompanhamento do evento? Fique à vontade para soltá-los nos comentários da [publicação da Comunidade Experience League](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10.28.25+EXISTS+Class.pdf)!
 

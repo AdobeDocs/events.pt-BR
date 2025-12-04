@@ -23,7 +23,7 @@ Hospedada em parceria com Brian Haight do Adobe Professional Services, essa sess
 
 Revise [o conjunto de slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Fusion+Event.pdf) e assista à gravação sob demanda para acompanhá-la.
 
-Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522) para obter exemplos de arquivos CSV baixáveis e o Pacote CSV de Fusão!
+Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522?profile.language=pt) para obter exemplos de arquivos CSV baixáveis e o Pacote CSV de Fusão!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
 

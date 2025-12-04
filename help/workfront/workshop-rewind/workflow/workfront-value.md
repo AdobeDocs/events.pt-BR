@@ -25,7 +25,7 @@ Durante o workshop, trabalhamos em conjunto em slides para criar uma apresentaç
 
 Revise o [conjunto de slides da apresentação](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf) e assista à gravação sob demanda para acompanhá-la.
 
-Deseja um conjunto de slides personalizável, com observações e práticas recomendadas compartilhadas durante a sessão?  Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706) para obter mais recursos!
+Deseja um conjunto de slides personalizável, com observações e práticas recomendadas compartilhadas durante a sessão?  Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706?profile.language=pt) para obter mais recursos!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
 

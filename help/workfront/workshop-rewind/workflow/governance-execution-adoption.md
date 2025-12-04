@@ -25,7 +25,7 @@ Com foco em governança (pense nas convenções de nomenclatura), execução (pr
 
 Se você não pôde participar ao vivo, não se preocupe. Revise a [apresentação de slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+for+Governance%2C+Execution+and+Adoption+-+October+8%2C+2025.pdf) e assista à gravação sob demanda para acompanhá-la.
 
-Procurando um resumo do evento e recursos do bate-papo? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766)!
+Procurando um resumo do evento e recursos do bate-papo? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766?profile.language=pt)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
 
