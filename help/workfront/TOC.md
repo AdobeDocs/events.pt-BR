@@ -3,9 +3,9 @@ user-guide-title: Eventos da Workfront
 breadcrumb-title: Eventos da Workfront
 user-guide-description: Eventos da Workfront
 solution: Workfront
-source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
+source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 1%
 + [Workshops sob demanda da Workfront](overview.md)
 
 + Webinars de lançamento {#releases}
+   + [Webinário da versão do quarto trimestre de 2025](releases/25-q4-release-webinar.md)
    + [Versão 25.7](releases/25-7-release-webinar.md)
    + [Versão 25.4](releases/25-4-release-webinar.md)
    + [Versão 25.1](releases/25-1-release-webinar.md)
@@ -23,18 +24,28 @@ ht-degree: 1%
 + Retrocesso do workshop {#workshop-rewind}
    + Fusão {#fusion}
       + [Automatização de convenções de nomenclatura](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Importações de dados](workshop-rewind/fusion/data-imports.md)
+      + [Fusion Decodificado](workshop-rewind/fusion/fusion-decoded.md)
+      + [Como o Workfront Fusion ajuda os humanos](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Navegar pelas alterações em campos de seleção múltipla com facilidade](workshop-rewind/fusion/mulit-select-fields.md)
       + [Desbloqueando custos de eventos verdadeiros](workshop-rewind/fusion/event-costs.md)
+      + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Planejamento {#planning}
       + [Últimas novidades no Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+      + [Casos de uso do Creative da SNHU](workshop-rewind/planning/planning-reimagined.md)
       + [Sucesso em nível de equipe com o Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Versão e roteiro do Workfront Planning](workshop-rewind/planning/planning-release-roadmap.md)
    + Fluxo de trabalho {#workflow}
-      + [Formas de gerenciamento de recursos da Creative](classics/creative-ways-of-managing-resources.md)
+      + [Blueprints](workshop-rewind/workflow/blueprints.md)
+      + [Definir e comunicar o valor do Workfront](workshop-rewind/workflow/workfront-value.md)
+      + [Dicas de governança, execução e adoção](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Especialização em Notificações por Email](workshop-rewind/workflow/email-notifications.md)
+      + [Especialização em Instruções EXISTS](workshop-rewind/workflow/master-exists-statements.md)
+      + [Modelos de Energia](workshop-rewind/workflow/power-templates.md)
       + [Modelos de projeto](workshop-rewind/workflow/project-templates.md)
       + [Autoensinado para o sucesso](workshop-rewind/workflow/self-taught-to-success.md)
       + [Descubra o poder da conexão de dados do Workfront](workshop-rewind/workflow/data-connect.md)
+      + [Integração nativa do Workfront + AEM](workshop-rewind/workflow/aem-native-integration.md)
 + Tomadas rápidas {#quicktakes}
    + 3 principais {#top3}
       + [Abordagens da Creative com blueprints](quick-takes/top3/blueprints.md)
@@ -73,6 +84,7 @@ ht-degree: 1%
       + [Sobrecarregar relatórios de modo de texto básico usando o API Explorer](classics/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
       + [Noções básicas sobre combinação e capacidade](classics/understanding-mix-and-capacity.md)
    + Gerenciamento de recursos {#resource-management}
+      + [Formas de gerenciamento de recursos da Creative](classics/creative-ways-of-managing-resources.md)
       + [Planejamento de recursos e capacidade](user-groups/resource-and-capacity-planning.md)
       + [Gerenciamento de recursos](user-groups/resource-management.md)
    + Revisar e aprovar trabalho {#review-and-approve-work}
@@ -87,10 +99,3 @@ ht-degree: 1%
       + [Aproveitamento do Workfront Proof](user-groups/leveraging-workfront-proof.md)
    + Filas de solicitações e entrada {#request-queues-and-intake}
       + [Filas de solicitações e Forms de entrada](user-groups/request-queues-and-intake-forms.md)
-
-
-
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->

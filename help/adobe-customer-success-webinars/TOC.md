@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacitá-lo a otimizar seu investimento na Experience Cloud da Adobe. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções da Adobe.
-source-git-commit: 1db369887a1c09c774ef07d73ece2d890f36d98f
+source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '556'
 ht-degree: 4%
 
 ---
@@ -73,6 +73,7 @@ ht-degree: 4%
       + [Resultados das férias de 2024 e tendências para 2025](2025/adobe-digital-insights.md)
       + [Elaborando estratégias para uma medição eficaz](2025/impactful-insights.md)
       + [Cultivar uma organização de marketing ágil](2025/agile-marketing-organization.md)
+      + [Desenvolver casos de uso prático de B2B](2025/practical-business-use-cases.md)
       + [Tendências digitais e preparação para o futuro](2025/digital-trends-preparing-future.md)
       + [Arquitetura Northstar](2025/northstar-architecture.md)
       + [Crescimento orientado por IA e manuais de melhor desempenho](2025/ai-driven-growth.md)
