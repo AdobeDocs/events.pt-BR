@@ -3,9 +3,9 @@ user-guide-title: Eventos da Workfront
 breadcrumb-title: Eventos da Workfront
 user-guide-description: Eventos da Workfront
 solution: Workfront
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '283'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
       + [Versão e roteiro do Workfront Planning](workshop-rewind/planning/planning-release-roadmap.md)
    + Fluxo de trabalho {#workflow}
       + [Blueprints](workshop-rewind/workflow/blueprints.md)
+      + [Refazer a imagem dos resumos do Creative](workshop-rewind/workflow/creative-briefs.md)
       + [Definir e comunicar o valor do Workfront](workshop-rewind/workflow/workfront-value.md)
       + [Dicas de governança, execução e adoção](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Especialização em Notificações por Email](workshop-rewind/workflow/email-notifications.md)

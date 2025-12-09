@@ -3,9 +3,9 @@ title: Workshops sob demanda da Adobe Workfront
 description: Workfront Events é uma biblioteca de vídeos na qual especialistas e colegas compartilham suas ideias e opiniões sobre como usar o Workfront para aprimorar o trabalho que está sendo feito para suas organizações.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '860'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ Esta série de vídeos contínua oferece uma visão geral clara e concisa de cad
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Webinar da versão 25.7 do Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1763675711841" alt="Webinar da versão 25.7 do Adobe Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1765315875998" alt="Webinar da versão 25.7 do Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,13 +51,13 @@ Esta série de vídeos contínua oferece uma visão geral clara e concisa de cad
 
 ## Retrocesso do workshop
 
-Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da nossa seleção de eventos em destaque. Todos os meses, realizamos sessões gratuitas ao vivo que abrangem uma variedade de tópicos para ajudar você a aproveitar ao máximo o Workfront. Perdeu um evento ao vivo? Sem problemas! Obtenha gravações sob demanda que mostram histórias de clientes, práticas recomendadas comprovadas e lições valiosas aprendidas. Deseja se conectar em tempo real? Participe dos próximos eventos ao vivo para fazer perguntas, compartilhar insights e colaborar com colegas. Visite a [página de Eventos do Experience League Workfront](https://experienceleague.adobe.com/pt-br/events?filters=Workfront) regularmente para ver o que vem a seguir.
+Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da nossa seleção de eventos em destaque. Todos os meses, realizamos sessões gratuitas ao vivo que abrangem uma variedade de tópicos para ajudar você a aproveitar ao máximo o Workfront. Perdeu um evento ao vivo? Sem problemas! Obtenha gravações sob demanda que mostram histórias de clientes, práticas recomendadas comprovadas e lições valiosas aprendidas. Deseja se conectar em tempo real? Participe dos próximos eventos ao vivo para fazer perguntas, compartilhar insights e colaborar com colegas. Visite a [página de Eventos do Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) regularmente para ver o que vem a seguir.
 
 <!-- CARDS 
 
 * workshop-rewind/planning/team-success-workfront-planning.md
 * workshop-rewind/fusion/event-costs.md
-* workshop-rewind/workflow/data-connect.md
+* workshop-rewind/workflow/creative-briefs.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -67,7 +67,7 @@ Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da n
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/planning/team-success-workfront-planning.md" title="Comece rápido, escale de forma inteligente - Ativando o sucesso de nível de equipe com o Workfront Planning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1763675712244" alt="Comece rápido, escale de forma inteligente - Ativando o sucesso de nível de equipe com o Workfront Planning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1765315876609" alt="Comece rápido, escale de forma inteligente - Ativando o sucesso de nível de equipe com o Workfront Planning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +90,7 @@ Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da n
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/fusion/event-costs.md" title="The Workfront Fusion Fix - A maneira mais inteligente da Ericsson de desbloquear custos reais de eventos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1763675712238" alt="The Workfront Fusion Fix - A maneira mais inteligente da Ericsson de desbloquear custos reais de eventos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1765315876620" alt="The Workfront Fusion Fix - A maneira mais inteligente da Ericsson de desbloquear custos reais de eventos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,12 +108,12 @@ Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da n
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlock the Power of Workfront Data Connect">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Reimagining Creative Briefs in Workfront">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/workflow/data-connect.md" title="Descubra o poder da conexão de dados do Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469965/?format=jpeg&nocache=1763675712257" alt="Descubra o poder da conexão de dados do Workfront"
+                    <a href="workshop-rewind/workflow/creative-briefs.md" title="Refazer a imagem de resumos do Creative no Workfront" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477114/?format=jpeg&nocache=1765315876590" alt="Refazer a imagem de resumos do Creative no Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -121,11 +121,11 @@ Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da n
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" title="Descubra o poder da conexão de dados do Workfront">Desbloquear o poder do Workfront Data Connect</a>
+                        <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" title="Refazer a imagem de resumos do Creative no Workfront">Refazendo a imagem dos resumos do Creative no Workfront</a>
                     </p>
-                    <p class="is-size-6">Descubra como o Adobe Workfront Data Connect se integra às ferramentas de BI para liberar insights, controlar o desempenho e impulsionar decisões de negócios mais inteligentes.</p>
+                    <p class="is-size-6">Descubra como Kohler transformou resumos criativos usando o Workfront para simplificar processos e melhorar a eficiência.</p>
                 </div>
-                <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>
@@ -155,7 +155,7 @@ Seja você um administrador do Workfront, gerente de projetos ou usuário comum,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="3 principais - Abordagens da Creative com blueprints" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465316/?captions=por_br&format=jpeg&nocache=1763675712911" alt="3 principais - Abordagens da Creative com blueprints"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1765315877555" alt="3 principais - Abordagens da Creative com blueprints"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Seja você um administrador do Workfront, gerente de projetos ou usuário comum,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Versus! - Grupos vs. Equipes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467358/?captions=por_br&format=jpeg&nocache=1763675712903" alt="Versus! - Grupos vs. Equipes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1765315877551" alt="Versus! - Grupos vs. Equipes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ Essas sessões apresentam soluções do mundo real, exemplos de clientes e suges
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="Insights de especialistas - Adoção com Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1763675713371" alt="Insights de especialistas - Adoção com Leslie Spier"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1765315878072" alt="Insights de especialistas - Adoção com Leslie Spier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ Essas sessões apresentam soluções do mundo real, exemplos de clientes e suges
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="Expert Insights - Pesquisas de adoção com Jaime Davidson" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469955/?captions=por_br&format=jpeg&nocache=1763675713377" alt="Expert Insights - Pesquisas de adoção com Jaime Davidson"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1765315878064" alt="Expert Insights - Pesquisas de adoção com Jaime Davidson"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ Essas sessões apresentam soluções do mundo real, exemplos de clientes e suges
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="Insights de especialistas - Agile com Natalie Mitchell" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469921/?captions=por_br&format=jpeg&nocache=1763675713389" alt="Insights de especialistas - Agile com Natalie Mitchell"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1765315878067" alt="Insights de especialistas - Agile com Natalie Mitchell"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
