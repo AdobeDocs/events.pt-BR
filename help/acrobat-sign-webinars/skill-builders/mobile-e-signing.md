@@ -19,4 +19,4 @@ ht-degree: 0%
 
 O Acrobat Sign Mobile Focus transforma a assinatura eletrônica móvel em uma experiência contínua. Ele elimina a frustração de pinçar e aplicar zoom oferecendo uma visualização otimizada para dispositivos móveis, garantindo que os recipients possam assinar contratos facilmente em qualquer dispositivo. Isso melhora as taxas de conclusão e reduz os atrasos, permitindo que as empresas finalizem acordos rapidamente. A configuração sem código simplifica o processo para os remetentes, eliminando a necessidade de desenvolvimento personalizado. Adote a eficiência e melhore os resultados de negócios com as soluções móveis inovadoras da Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477532/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477537/?captions=por_br&learn=on&enablevpops)

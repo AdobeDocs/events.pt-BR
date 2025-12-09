@@ -20,4 +20,4 @@ ht-degree: 0%
 
 O Adobe Customer Journey Analytics ajuda você a conectar insights em todas as plataformas, permitindo que os profissionais de marketing criem públicos segmentados com base em dados comportamentais. Saiba como aproveitar os públicos-alvo compartilhados para personalização omnicanal, simplificar campanhas e maximizar os insights do cliente com o Adobe Real-Time Customer Data Platform e o Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477449/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477463/?captions=por_br&learn=on&enablevpops)
