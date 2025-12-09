@@ -1,9 +1,9 @@
 ---
 user-guide-title: Webinários do Acrobat Sign
 user-guide-description: Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assinatura eletrônica no Acrobat Sign.
-source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
+source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '94'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 1%
 + [Criação e uso de workflows](./skill-builders/create-use-workflows.md)
 + [Document Builder](./skill-builders/document-builder.md)
 + [Integração do Notarize](./skill-builders/notarize.md)
++ [Otimizar assinatura eletrônica móvel](./skill-builders/mobile-e-signing.md)
 + [Publicar um formulário Web preenchível e assinável](./skill-builders/fillable-signable-web-form.md)
 + [Acelere sua experiência de administrador do Acrobat Sign](./skill-builders/acrobat-sign-admin-experience.md)
 + [Preparar seus Contratos para assinatura eletrônica](./skill-builders/e-signature-setup.md)
