@@ -21,5 +21,5 @@ Os Workshops Adobe Workfront são uma excelente maneira de se familiarizar com n
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
 
-Quando terminar, vá para a [página Eventos da Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront) para inscrever-se em workshops futuros.
+Quando terminar, vá para a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events?filters=Workfront) para inscrever-se em workshops futuros.
 

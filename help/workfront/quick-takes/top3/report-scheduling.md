@@ -23,6 +23,6 @@ Desta vez, estou compartilhando minhas formas favoritas de aproveitar ao máximo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
 
-Para obter mais recursos, confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)!
+Para obter mais recursos, confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=pt)!
 
 Se você gosta de conhecer novas ideias e abordagens criativas, não se esqueça de se inscrever nos próximos workshops na [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events).
