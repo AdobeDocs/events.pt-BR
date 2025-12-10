@@ -24,7 +24,7 @@ ht-degree: 1%
 * Solicitações exibidas diretamente em um calendário (Exemplo de integração de novo funcionário)
 * E uma dica de bônus!
 
->[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477068/?captions=por_br&learn=on&enablevpops)
 
 Para obter mais recursos, confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047?profile.language=pt)!
 
