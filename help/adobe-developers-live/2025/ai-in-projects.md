@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Descubra como a IA transforma experiências digitais em projetos do Adobe por meio de aplicativos reais. Saiba como a IA melhora a criação de conteúdo, a validação de sites e o planejamento de projetos, aumentando a eficiência e reduzindo custos. Analise histórias que mostram usos inovadores de ferramentas de IA no Adobe Experience Manager, Adobe Commerce e Edge Delivery Services.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477630/?captions=por_br&learn=on&enablevpops)
 
 Esta sessão — na verdade, Love: três histórias práticas de uso da IA em projetos do Adobe — apresenta Mark McConnell (Ensemble) compartilhando três aplicativos reais: aceleração de protótipos e Content Supply chain com os serviços de IA gerativa, um validador de migração alimentado por IA para o AEM Edge Delivery Services e uma abordagem agêntica para avaliação e relatórios automatizados do site. Gravado ao vivo de San Jose.
 

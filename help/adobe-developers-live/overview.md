@@ -94,7 +94,7 @@ As equipes de produtos da Adobe na Adobe Experience Cloud, Document Cloud e Crea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="IA em projetos do Adobe - Histórias práticas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765499677692" alt="IA em projetos do Adobe - Histórias práticas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477630/?captions=por_br&format=jpeg&nocache=1765499677692" alt="IA em projetos do Adobe - Histórias práticas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +117,7 @@ As equipes de produtos da Adobe na Adobe Experience Cloud, Document Cloud e Crea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/coding-agent.md" title="AI Coding Showdown - O Bom, Ruim e Feio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477619/?format=jpeg&nocache=1765499677608" alt="AI Coding Showdown - O Bom, Ruim e Feio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477653/?captions=por_br&format=jpeg&nocache=1765499677608" alt="AI Coding Showdown - O Bom, Ruim e Feio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,7 +278,7 @@ As equipes de produtos da Adobe na Adobe Experience Cloud, Document Cloud e Crea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Explorar agentes da Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765499677627" alt="Explorar agentes da Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477665/?captions=por_br&format=jpeg&nocache=1765499677627" alt="Explorar agentes da Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
