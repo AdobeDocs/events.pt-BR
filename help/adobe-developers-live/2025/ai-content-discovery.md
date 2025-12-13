@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Descubra como a IA transforma a descoberta de conteúdo com o Adobe Experience Manager. Saiba como usar o Supervisor de conteúdo para pesquisa semântica e recomendações de ativos alimentados por IA. Esta sessão aborda a descoberta baseada em resumo de campanha e o acesso rápido a representações do Dynamic Media, simplificando a reutilização e o delivery de conteúdo por meio de uma pilha de OpenAPI.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477745/?captions=por_br&learn=on&enablevpops)
 
 Esta sessão — Descoberta de conteúdo orientada por IA com renderizações prontas para o canal — apresenta Matt Briscoe, Deepa Gupta e Mathias Siegel mostrando como os desenvolvedores podem usar o Supervisor de conteúdo para descobrir ativos e fragmentos de conteúdo com pesquisa semântica e recomendações alimentadas por IA. Saiba como a descoberta do Campaign com base em resumo e o acesso rápido às representações do Dynamic Media no Scene7 e no DM simplificam a reutilização e a entrega de conteúdo por meio de uma pilha de OpenAPI. Gravado ao vivo de San Jose.
 

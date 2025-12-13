@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Descubra como os recursos de pesquisa e recuperação alimentados por IA da Algólia transformam o Adobe Experience Manager, o Adobe Commerce e o Edge Delivery Services. Saiba como essas ferramentas melhoram a personalização e melhoram as experiências do usuário no ecossistema do Adobe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477674/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477709/?captions=por_br&learn=on&enablevpops)
 
 Esta sessão — Transform Adobe Experience Manager with AI Agents: Play, Build, Retrieve with Algolia — apresenta Debanshi Bheda e Sajid Momin da Algólia, gravados ao vivo de San Jose. Descubra como os recursos de recuperação e recuperação com velocidade surpreendente da Algolia estão redefinindo a maneira como a AEM, a Edge Delivery Services e a Adobe Commerce fornecem conteúdo e produtos para clientes e agentes de IA. Saiba como o Adobe Experience Platform impulsiona a personalização e como a pesquisa e a recuperação avançadas da Algolia desbloqueiam velocidade, escalabilidade e inteligência no ecossistema do Adobe.
 

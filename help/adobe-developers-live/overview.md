@@ -163,7 +163,7 @@ As equipes de produtos da Adobe na Adobe Experience Cloud, Document Cloud e Crea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder-extensions.md" title="Inovações de desenvolvimento do Commerce para IA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477672/?format=jpeg&nocache=1765499677619" alt="Inovações de desenvolvimento do Commerce para IA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477686/?captions=por_br&format=jpeg&nocache=1765499677619" alt="Inovações de desenvolvimento do Commerce para IA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ As equipes de produtos da Adobe na Adobe Experience Cloud, Document Cloud e Crea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="Descoberta de conteúdo de IA com o Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="Descoberta de conteúdo de IA com o Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477745/?captions=por_br&format=jpeg&nocache=1765499677611" alt="Descoberta de conteúdo de IA com o Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ As equipes de produtos da Adobe na Adobe Experience Cloud, Document Cloud e Crea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-ai.md" title="IA de conteúdo no Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477729/?format=jpeg&nocache=1765499677634" alt="IA de conteúdo no Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477824/?captions=por_br&format=jpeg&nocache=1765499677634" alt="IA de conteúdo no Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +301,7 @@ As equipes de produtos da Adobe na Adobe Experience Cloud, Document Cloud e Crea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/code-optimization.md" title="Otimizar código com o AEM Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477676/?format=jpeg&nocache=1765499677637" alt="Otimizar código com o AEM Sites Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477722/?captions=por_br&format=jpeg&nocache=1765499677637" alt="Otimizar código com o AEM Sites Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -324,7 +324,7 @@ As equipes de produtos da Adobe na Adobe Experience Cloud, Document Cloud e Crea
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/modernize-experiences.md" title="Migrar e modernizar experiências com o Adobe Experience Manager para o engajamento do usuário e a descoberta nativa de IA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477717/?format=jpeg&nocache=1765499677675" alt="Migrar e modernizar experiências com o Adobe Experience Manager para o engajamento do usuário e a descoberta nativa de IA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477791/?captions=por_br&format=jpeg&nocache=1765499677675" alt="Migrar e modernizar experiências com o Adobe Experience Manager para o engajamento do usuário e a descoberta nativa de IA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

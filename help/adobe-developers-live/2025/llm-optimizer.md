@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Explore como o LLM Optimizer da Adobe melhora a visibilidade da IA no seu site, tornando-o detectável e inovador sem alterar o código de origem. Saiba como a otimização na borda melhora as respostas de modelos de idiomas grandes, garantindo que o conteúdo fique totalmente visível para agentes de IA, como o ChatGPT. Isso capacita sua marca a capturar oportunidades orientadas por IA de maneira rápida e segura, aprimorando as experiências digitais em todas as plataformas do Adobe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477678/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477734/?captions=por_br&learn=on&enablevpops)
 
 Esta sessão — Experiências de sobrecarga no local para agentes de IA com o LLM Optimizer — apresenta Ashutosh Shroti demonstrando como a ferramenta &quot;Otimizar no Edge&quot; da LLM Optimizer reescreve a marcação na camada de CDN para melhorar a visibilidade nas respostas de modelos de idiomas grandes. Veja como qualquer site pode se tornar pronto para a agilidade em segundos sem alterar o código de origem, tornando os sites detectáveis por IA e à prova de obsolescência. Gravado ao vivo de San Jose.
 
