@@ -28,4 +28,4 @@ Veja esta sessão ao vivo onde a equipe de produtos por trás do Agente de supor
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[Mantenha a discussão em andamento na discussão da comunidade!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
+[Mantenha a discussão em andamento na discussão da comunidade!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=pt#M1909){target="_blank"}
