@@ -7,9 +7,9 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: b818f0896871c9ea771e5a4694ec8b496cb06abd
+source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Esta sessão faz parte de uma série que destaca o Adobe Experience Platform Age
 
 As equipes de marketing e experiência do cliente estão sob intensa pressão para fornecer campanhas altamente personalizadas de vários canais com menos recursos e cronogramas mais precisos. No entanto, na maioria das vezes, o tempo fica esgotado com a sobrecarga operacional, como a solução de problemas e o gerenciamento de suporte, impedindo que se concentrem em trabalho estratégico de alto impacto na experiência do cliente. Desenvolvido pela Adobe Experience Platform Agent Orchestrator, o Agente de suporte ao produto foi projetado para essas equipes em seus aplicativos Adobe Experience Platform, fornecendo uma maneira interativa de solucionar problemas, diagnosticar e escalar problemas, permitindo resoluções mais rápidas e maior eficiência operacional.
 
-Junte-se a nós nesta sessão em tempo real, onde a equipe de produtos por trás do Agente de suporte do produto explora:
+Veja esta sessão ao vivo onde a equipe de produtos por trás do Agente de suporte do produto explorou:
 * Uma visão geral do Agente de suporte ao produto
 * Como o Agente de suporte do produto capacita os usuários com suporte pró-ativo e de autoatendimento, bem como criação e rastreamento automatizados de casos
 * Inovações e recursos no horizonte para simplificar ainda mais o gerenciamento de suporte para os usuários
 
-[![ExL LIVE 17 de janeiro de 2024](assets/WebBanner_Dec16_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+>[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[Inscreva-se agora neste evento!](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+[Mantenha a discussão em andamento na discussão da comunidade!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
