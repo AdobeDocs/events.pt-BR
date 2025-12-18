@@ -3,9 +3,9 @@ user-guide-title: Eventos da Workfront
 breadcrumb-title: Eventos da Workfront
 user-guide-description: Eventos da Workfront
 solution: Workfront
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '460'
 ht-degree: 1%
 
 ---
@@ -24,38 +24,74 @@ ht-degree: 1%
 + Retrocesso do workshop {#workshop-rewind}
    + Fusão {#fusion}
       + [Automatização de convenções de nomenclatura](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Automatizar Processos De Trabalho](workshop-rewind/fusion/automate-work-processes.md)
+      + [Benefícios e práticas recomendadas da Fusion](workshop-rewind/fusion/benefits-best-practices.md)
       + [Importações de dados](workshop-rewind/fusion/data-imports.md)
+      + [Benefícios e casos de uso da fusão](workshop-rewind/fusion/case-for-fusion.md)
       + [Fusion Decodificado](workshop-rewind/fusion/fusion-decoded.md)
       + [Como o Workfront Fusion ajuda os humanos](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Navegar pelas alterações em campos de seleção múltipla com facilidade](workshop-rewind/fusion/mulit-select-fields.md)
+      + [Tratamento pró-ativo de exceções](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [Otimizar fluxos de trabalho](workshop-rewind/fusion/automate-workflows.md)
       + [Desbloqueando custos de eventos verdadeiros](workshop-rewind/fusion/event-costs.md)
+      + [Atualizar para Assinaturas de Evento V2](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Planejamento {#planning}
       + [Últimas novidades no Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+      + [Demonstração do planejamento do Adobe Workfront](workshop-rewind/planning/planning-demo.md)
       + [Casos de uso do Creative da SNHU](workshop-rewind/planning/planning-reimagined.md)
       + [Sucesso em nível de equipe com o Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Versão e roteiro do Workfront Planning](workshop-rewind/planning/planning-release-roadmap.md)
    + Fluxo de trabalho {#workflow}
       + [Blueprints](workshop-rewind/workflow/blueprints.md)
-      + [Refazer a imagem dos resumos do Creative](workshop-rewind/workflow/creative-briefs.md)
+      + [Aumente a eficiência](workshop-rewind/workflow/cognizant-project-excellence.md)
+      + [Gerenciamento de alterações no Workfront](workshop-rewind/workflow/change-management.md)
+      + [Integração do Supply chain de conteúdo](workshop-rewind/workflow/content-supply-chain.md)
       + [Definir e comunicar o valor do Workfront](workshop-rewind/workflow/workfront-value.md)
+      + [Dicas de comunicação eficazes no Workfront](workshop-rewind/workflow/communication-tips.md)
       + [Dicas de governança, execução e adoção](workshop-rewind/workflow/governance-execution-adoption.md)
+      + [Fundamentos para administradores de grupo](workshop-rewind/workflow/group-admins.md)
+      + [Lições dos administradores do Workfront](workshop-rewind/workflow/lessons-learned-admins.md)
       + [Especialização em Notificações por Email](workshop-rewind/workflow/email-notifications.md)
       + [Especialização em Instruções EXISTS](workshop-rewind/workflow/master-exists-statements.md)
+      + [Maximize o valor do Workfront](workshop-rewind/workflow/value-realization.md)
+      + [Superar a resistência à mudança](workshop-rewind/workflow/overcome-resistance-to-change.md)
       + [Modelos de Energia](workshop-rewind/workflow/power-templates.md)
       + [Modelos de projeto](workshop-rewind/workflow/project-templates.md)
+      + [Refazer a imagem dos resumos do Creative](workshop-rewind/workflow/creative-briefs.md)
+      + [Conceitos básicos de gerenciamento de recursos](workshop-rewind/workflow/resource-management.md)
+      + [Patrocínio executivo seguro](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [Autoensinado para o sucesso](workshop-rewind/workflow/self-taught-to-success.md)
+      + [Limpeza da primavera com os relatórios do Workfront](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [10 dicas do modo de texto](workshop-rewind/workflow/text-mode-tips.md)
+      + [10 mais dicas do modo de texto](workshop-rewind/workflow/10-more-text-mode-tips.md)
+      + [Transforme a confusão do usuário em confiança](workshop-rewind/workflow/avalara-user-transformation.md)
+      + [Solução de problemas de campos calculados do Workfront](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [Desbloquear placas Workfront](workshop-rewind/workflow/unlock-boards.md)
       + [Descubra o poder da conexão de dados do Workfront](workshop-rewind/workflow/data-connect.md)
+      + [Utilização do Workfront para registros eficazes](workshop-rewind/workflow/effective-reorgs.md)
       + [Integração nativa do Workfront + AEM](workshop-rewind/workflow/aem-native-integration.md)
+      + [Relatórios do Workfront - Estratégias de final de ano](workshop-rewind/workflow/reporting-year-end-strategies.md)
 + Tomadas rápidas {#quicktakes}
    + 3 principais {#top3}
+      + [Criar Relatórios de Colunas Compartilhadas](quick-takes/top3/shared-column-report.md)
       + [Abordagens da Creative com blueprints](quick-takes/top3/blueprints.md)
+      + [Formas de uso das placas Workfront pela Creative](quick-takes/top3/creative-approaches-boards.md)
+      + [Introdução aos modelos de painéis do Workfront](quick-takes/top3/get-started-board-templates.md)
+      + [Maximizar o agendamento de relatórios no Workfront](quick-takes/top3/report-scheduling.md)
+      + [Motivos para usar empresas](quick-takes/top3/why-use-companies.md)
+      + [Começar com etapas](quick-takes/top3/get-started-milestones.md)
+      + [Principais motivos para participar dos workshops do Workfront](quick-takes/top3/reason-attend-workshop.md)
+      + [Principais motivos para usar modelos de layout](quick-takes/top3/layout-templates.md)
+      + [Principais motivos para conjuntos de recursos](quick-takes/top3/resource-pools.md)
       + [3 principais abordagens para o Office Hours](quick-takes/top3/office-hours.md)
       + [3 principais ocorrências no calendário](quick-takes/top3/calendar-hacks.md)
+      + [3 principais motivos para usar Workfront Boards](quick-takes/top3/boards-for-adoption.md)
       + [Usar imagens no Forms personalizado](quick-takes/top3/add-image-custom-forms.md)
-      + [Principais motivos para usar modelos de layout](quick-takes/top3/layout-templates.md)
-      + [Principais motivos para participar dos workshops do Workfront](quick-takes/top3/reason-attend-workshop.md)
-      + [Maximizar o agendamento de relatórios no Workfront](quick-takes/top3/report-scheduling.md)
+      + Assista-me ao trabalho {#watchmework}
+         + [Principais dicas do Workfront](quick-takes/top3/watch-me-work-1.md)
+         + [Principais Recursos de Gerenciamento de Projetos](quick-takes/top3/watch-me-work-2.md)
+         + [Os 3 principais recursos para funcionários na Workfront](quick-takes/top3/watch-me-work-3.md)
    + Versus! {#versus}
       + [Grupos versus equipes](quick-takes/versus/groups-vs-teams.md)
 + Insights de especialistas {#expert-insights}
