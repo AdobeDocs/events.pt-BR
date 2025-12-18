@@ -23,8 +23,8 @@ Olá, do seu &quot;On-Demand Workfront CSM&quot; Cynthia Boon! Interessado em us
 
 Veja um artigo que fornece instruções passo a passo.
 
-[Criar um Novo Quadro com um Modelo](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
+[Criar um Novo Quadro com um Modelo](https://experienceleague.adobe.com/pt-br/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
 
-Você tem ideias para compartilhar ou tem dúvidas sobre o vídeo? Fique à vontade para soltá-los nos comentários da [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307)!
+Você tem ideias para compartilhar ou tem dúvidas sobre o vídeo? Fique à vontade para soltá-los nos comentários da [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307?profile.language=pt)!
 
 

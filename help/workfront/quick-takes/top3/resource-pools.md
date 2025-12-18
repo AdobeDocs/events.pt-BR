@@ -29,7 +29,7 @@ Apenas começando a usar Conjuntos de recursos? Primeiramente, o que são?
 
 ## Recursos adicionais
 
-* Para obter mais informações, consulte o [artigo de visão geral sobre pools de recursos](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
-* Procurando mais? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866)!
+* Para obter mais informações, consulte o [artigo de visão geral sobre pools de recursos](https://experienceleague.adobe.com/pt-br/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
+* Procurando mais? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866?profile.language=pt)!
 
 
