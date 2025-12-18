@@ -23,7 +23,7 @@ Procurando maneiras novas e eficientes de apresentar suas informações em um re
 
 Temos várias perguntas sobre como usar o Modo de texto para combinar informações em um relatório, para que tenhamos um vídeo passo a passo, bem como alguns recursos abaixo para começar. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470125/?captions=por_br&learn=on&enablevpops)
 
 Procurando mais? Temos **Três Dicas de Bônus** na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=pt)!
 

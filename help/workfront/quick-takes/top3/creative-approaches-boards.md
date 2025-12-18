@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Sou eu novamente, sua CSM de Workfront sob demanda Cynthia Boon e espero inspirar você com ideias criativas para usar placas Workfront.  Eu mencionei isso no vídeo, mas, só para ter certeza, aqui vai um lembrete rápido de que você não precisa trabalhar em uma equipe ágil para usar o recurso Quadros.  Se a Lista de tarefas do projeto não estiver funcionando para sua equipe, experimente os Quadros.  
 
->[!VIDEO](https://video.tv.adobe.com/v/3470068/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470170/?captions=por_br&learn=on&enablevpops)
 
 Procurando um exemplo de como um cliente usa placas? Basta ver a apresentação dos Quadros da equipe da Mattel no Adobe Summit 2024!  
 

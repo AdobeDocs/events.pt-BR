@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Olá, do seu &quot;On-Demand Workfront CSM&quot; Cynthia Boon! Interessado em usar placas Workfront, mas não tem certeza de onde começar? A maneira mais fácil de começar é com modelos pré-construídos!
 
->[!VIDEO](https://video.tv.adobe.com/v/3470067/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470136/?captions=por_br&learn=on&enablevpops)
 
 Veja um artigo que fornece instruções passo a passo.
 

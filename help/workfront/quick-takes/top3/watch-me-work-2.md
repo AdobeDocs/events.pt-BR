@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Top 3 edição especial! Assista-me ao Trabalho - 3 Maneiras [2º Vídeo]
 
->[!VIDEO](https://video.tv.adobe.com/v/3470073/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470193/?captions=por_br&learn=on&enablevpops)
 
 Explore os principais recursos usados pelos gerentes de projeto no Adobe Workfront. Saiba como guias, painéis de resumo e filtros rápidos podem aprimorar o fluxo de trabalho e a eficiência. Obtenha insights sobre o gerenciamento eficaz de várias tarefas e projetos, garantindo operações tranquilas e maior produtividade. Assista ao vídeo para ver esses recursos em ação e aumentar suas habilidades de gerenciamento de projetos.

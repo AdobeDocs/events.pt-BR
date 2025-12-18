@@ -23,7 +23,7 @@ Este é um excelente relatório para sua liderança de nível superior e até me
 
 Incluir um Relatório de marcos no painel do projeto ou compartilhar esse relatório (ainda melhor, agendá-lo automaticamente para entrega regular) é uma ótima maneira de manter as partes interessadas - até mesmo os usuários não pertencentes ao Workfront - envolvidos com o progresso dos projetos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470159/?captions=por_br&learn=on&enablevpops)
 
 ## Recursos adicionais
 

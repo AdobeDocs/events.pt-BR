@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Top 3 edição especial! Assista-me ao Trabalho - 3 Maneiras [3º Vídeo]
 
->[!VIDEO](https://video.tv.adobe.com/v/3470074/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470207/?captions=por_br&learn=on&enablevpops)
 
 Explore os três principais recursos que ajudam trabalhadores e solicitantes a otimizar o fluxo de trabalho no Workfront. Saiba como as solicitações de rascunho, as exibições de formulário personalizadas e os quadros podem melhorar a produtividade e simplificar processos. Essas ferramentas são essenciais para gerenciar tarefas com eficiência, colaborar visualmente e rastrear metas em grandes projetos. Descubra como esses recursos podem apoiar seu trabalho e melhorar sua experiência no Workfront.
 

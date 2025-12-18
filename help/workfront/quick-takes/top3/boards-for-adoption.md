@@ -23,7 +23,7 @@ Vamos falar sobre adoção! Estamos à procura de novas ideias sobre como deixar
 
 Se você não tiver tido a chance de experimentar o recurso de Quadros, não se preocupe! No vídeo, compartilho como conceder acesso aos usuários e algumas maneiras de eles começarem rapidamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470103/?captions=por_br&learn=on&enablevpops)
 
 ## Recursos adicionais
 
