@@ -7,9 +7,9 @@ feature: Agentic AI
 event-cta-url-live: https://www.youtube.com/live/V7n2KuhrhqQ
 event-start-time: 2026-01-28 08:30-8
 event-guests: Daniel Wright, Shelby Mansuri, Keara Fausett, Alyssa Espiritu
-source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
+source-git-commit: b1ad886252f26bc473459e6867b84b2e3a8eb395
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ Consulte Audience Agent para descobrir insights do público-alvo e criar públic
 
 <img alt="Experience League LIVE 28 de janeiro de 2026" src="./assets/WebBanner-1-28-26.jpg">
 
-[Definir um lembrete para o programa](https://www.youtube.com/live/V7n2KuhrhqQ){target="_blank"}
+[Inscreva-se hoje!](https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other){target="_blank"}
