@@ -19,4 +19,4 @@ ht-degree: 0%
 
 No mundo digital de hoje, fornecer experiências de alto desempenho em canais e regiões é crucial. Descubra por que as organizações estão adotando modelos de entrega modernos para melhorar a velocidade e a flexibilidade. Saiba mais sobre as diferenças entre serviços de entrega headful, headless, híbrido e edge. Saiba como os componentes principais e as estruturas de localização oferecem suporte a estratégias de várias marcas e de várias regiões.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478775/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478780/?captions=por_br&learn=on&enablevpops)
