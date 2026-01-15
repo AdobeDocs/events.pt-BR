@@ -2,7 +2,7 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacitá-lo a otimizar seu investimento na Experience Cloud da Adobe. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções da Adobe.
-source-git-commit: 3adfd7af432caffaf2142c5a97b9a4c5279ee483
+source-git-commit: 06cdd6f126950841403d201f22394a9834524fc6
 workflow-type: tm+mt
 source-wordcount: '595'
 ht-degree: 5%
@@ -19,7 +19,7 @@ ht-degree: 5%
       + [Benefícios estratégicos do AEM Cloud Service](2026/moving-to-aemcs.md)
    + Experience Platform {#aep2026}
       + [Mudança na inteligência incorporada](2026/embedded-intelligence.md)
-   + Geral {#general2025}
+   + Geral {#general2026}
       + [Estratégias de IA para o sucesso do feriado](2026/2025-holiday-results.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
