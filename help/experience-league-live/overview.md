@@ -32,7 +32,7 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
       <a href="episodes/exl-live-episode-01-28-26.md"><strong>Consulte o Audience Agent para descobrir insights do público-alvo e criar públicos-alvo prontos para uso em minutos. </strong></a>
       <br/><em>com Shelby Mansuri, Keara Fausett e Alyssa Espiritu</em>
       <br/><em>28 de janeiro de 2026 às 8:30 PT</em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other">Inscreva-se hoje mesmo!</a></b>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other">Inscreva-se hoje mesmo!</a></b>
     </div>
   </td>
 </tr>
