@@ -22,7 +22,7 @@ Nesta segunda das três sessões de transmissão ao vivo sobre coleção de dado
 
 >[!VIDEO](https://video.tv.adobe.com/v/344251/?quality=12&learn=on)
 
-**Continue a discussão** na [Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"}!
+**Continue a discussão** na [Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195?profile.language=pt#M285){target="_blank"}!
 
 ## Sessões adicionais do Experience League LIVE nesta série de coleta de dados
 
