@@ -24,6 +24,6 @@ Visão geral e demonstrações de IA no Commerce, a IA gerativa mais recente da 
 
 + Apresentado por Eroka O&#39;Connor, consultora sênior de soluções - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456489/?captions=por_br&learn=on)
 
 [&lt; Voltar ao Adobe Commerce Accelerator Day](./overview.md)

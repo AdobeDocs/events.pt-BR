@@ -25,6 +25,6 @@ Visão geral dos últimos desenvolvimentos na plataforma Adobe Commerce e App Bu
 
 + Apresentado por Jason Ford, chefe de engenharia de soluções da ANZ - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455454/?captions=por_br&learn=on)
 
 [&lt; Voltar ao Adobe Commerce Accelerator Day](./overview.md)
