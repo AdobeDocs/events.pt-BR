@@ -1,18 +1,18 @@
 ---
-title: Aprofundamento
+title: Aprofundamento do Marketo
 description: Deep Dives é uma biblioteca de vídeos na qual especialistas e colegas compartilharam seus pensamentos e ideias sobre como usar melhor o Adobe Marketo.
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '1266'
+source-wordcount: '1268'
 ht-degree: 1%
 
 ---
 
-# Eventos de aprofundamento
+# Eventos de aprofundamento do Marketo
 
-Bem-vindo às gravações de eventos sob demanda do Deep Dives. Ao usar esses recursos combinados com a [documentação](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=pt-BR) e os [tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=pt-BR) do Adobe Marketo, você compreenderá melhor como usar o Adobe Marketo para oferecer suporte aos seus negócios.
+Bem-vindo às gravações de eventos sob demanda do Deep Dives. Ao usar esses recursos combinados com a [documentação](https://experienceleague.adobe.com/docs/marketo-engage.html) e os [tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) do Adobe Marketo, você compreenderá melhor como usar o Adobe Marketo para oferecer suporte aos seus negócios.
 
 <!-- CARDS
 
@@ -69,7 +69,7 @@ Bem-vindo às gravações de eventos sob demanda do Deep Dives. Ao usar esses re
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Preparação para o Marketo Engage na identidade da Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432366/?format=jpeg&nocache=1752782691676&captions=por_br" alt="Preparação para o Marketo Engage na identidade da Adobe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1752782691676" alt="Preparação para o Marketo Engage na identidade da Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -92,7 +92,7 @@ Bem-vindo às gravações de eventos sob demanda do Deep Dives. Ao usar esses re
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="APIs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430733/?format=jpeg&nocache=1752782691708&captions=por_br" alt="APIs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1752782691708" alt="APIs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -1,6 +1,6 @@
 ---
-user-guide-title: Aprofundamento
-user-guide-breadcrumb: Deep Dives
+user-guide-title: Aprofundamento do Marketo
+user-guide-breadcrumb: Marketo Deep Dives
 user-guide-description: Uma lista de gravações do Deep Dive
 type: Event
 solution: Marketo Engage
@@ -10,15 +10,15 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '95'
 ht-degree: 3%
 
 ---
 
 
-# Aprofundamento {#deep-dives-recordings}
+# Aprofundamento do Marketo {#deep-dives-recordings}
 
 + [Visão geral](overview.md)
 + Aprofundamento do Marketo {#deep-dives-marketo}
