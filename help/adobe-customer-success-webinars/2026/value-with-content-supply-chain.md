@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Descubra um roteiro prático para otimizar cadeias de fornecimento de conteúdo. Saiba como a integração de fluxo de trabalho e planejamento, criação e produção, gerenciamento de ativos, entrega e ativação e relatórios e insights gera resultados mensuráveis. Explore padrões comuns do setor, mapeie objetivos para soluções da Adobe e use o roteiro para orientar as próximas etapas e medir o impacto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479086/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479091/?captions=por_br&learn=on&enablevpops)

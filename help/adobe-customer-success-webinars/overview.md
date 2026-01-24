@@ -34,7 +34,7 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacit�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/value-with-content-supply-chain.md" title="Maximizar cadeias de fornecimento de conteúdo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1768599457924" alt="Maximizar cadeias de fornecimento de conteúdo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479091/?captions=por_br&format=jpeg&nocache=1768599457924" alt="Maximizar cadeias de fornecimento de conteúdo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
