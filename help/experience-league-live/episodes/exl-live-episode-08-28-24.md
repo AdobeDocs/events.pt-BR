@@ -30,4 +30,4 @@ Descubra como a experimentação do jornada pode ajudar você a ajustar as inter
 
 Este evento de verão melhorará suas estratégias de marketing omnicanal e aproveitará ao máximo as oportunidades de engajamento da temporada. Não perca essa chance de elevar as jornadas e campanhas do cliente para impulsionar o sucesso com o Adobe Journey Optimizer.
 
-**Continue a discussão no [coffee break de perguntas e respostas da comunidade do Adobe Journey Optimizer](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[...]ugust-28th-8-30-am-pt-supercharge-your/td-p/697931) no Fórum da comunidade do Journey Optimizer.**
+**Continue a discussão no [coffee break de perguntas e respostas da comunidade do Adobe Journey Optimizer](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu?profile.language=pt[...]ugust-28th-8-30-am-pt-supercharge-your/td-p/697931) no Fórum da comunidade do Journey Optimizer.**
