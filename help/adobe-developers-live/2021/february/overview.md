@@ -23,12 +23,12 @@ Conecte-se com outros devs e participe das conversas de sessão em **[Comunidade
 
 ## Recursos adicionais
 
-* [Experience League - Explorar o AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [Documentação de criação do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [Documentação de Desenvolvimento do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [Documentação de administração do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [Experience League - Explorar o AEM](https://experienceleague.adobe.com/pt-br#recommended/solutions/experience-manager)
+* [Documentação de criação do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=pt-BR)
+* [Documentação de Desenvolvimento do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=pt-BR)
+* [Documentação de administração do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=pt-BR)
 * [Documentação de Implantação do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=pt-BR)
 * [Tutoriais do AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=pt-BR)
 * [Tutoriais do AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=pt-BR)
-* [Tutoriais do AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [Tutoriais da AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [Tutoriais do AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=pt-BR)
+* [Tutoriais da AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=pt-BR)
