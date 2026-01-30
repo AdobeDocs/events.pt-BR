@@ -23,4 +23,4 @@ Consulte Audience Agent para descobrir insights do público-alvo e criar públic
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479512/?quality=12&learn=on)
 
-Tem alguma dúvida sobre esse programa? Continuar a discussão na [Conversa do Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?postid=745171#post745171){target="_blank"}
+Tem alguma dúvida sobre esse programa? Continuar a discussão na [Conversa do Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?profile.language=pt&postid=745171#post745171){target="_blank"}
