@@ -39,7 +39,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html?lang=pt-BR
   {title = Adobe Commerce Webinars}
   {description = The Adobe Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-webinars.png?lang=pt-BR}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=pt-BR
   {title = Adobe Customer Success Webinars}
@@ -209,7 +209,7 @@ Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendiz
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html?lang=pt-BR" title="Webinários do Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-webinars.png" alt="Webinários do Adobe Commerce"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-webinars.png?lang=pt-BR" alt="Webinários do Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
