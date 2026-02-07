@@ -2,9 +2,9 @@
 user-guide-title: Webinários de sucesso do cliente do Adobe
 breadcrumb-title: Webinários de sucesso do cliente do Adobe
 user-guide-description: Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacitá-lo a otimizar seu investimento na Experience Cloud da Adobe. Obtenha insights valiosos para maximizar o valor e aumentar a adoção de soluções da Adobe.
-source-git-commit: b64778a37558a91bb44bd3573d6d6fb6e7e5fee9
+source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '615'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 5%
 
 + [Webinários de sucesso do cliente do Adobe](overview.md)
 + 2026 {#2026}
+   + Customer Journey Analytics {#cja2026}
+      + [Criação de arquivo BRD-SDR para Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
    + Experience Manager {#aem2026}
       + [Maximizar cadeias de fornecimento de conteúdo](2026/value-with-content-supply-chain.md)
       + [Modelos modernos de entrega para o AEM Sites](2026/modern-delivery-model-aem.md)
@@ -22,6 +24,7 @@ ht-degree: 5%
       + [Mudança na inteligência incorporada](2026/embedded-intelligence.md)
    + Geral {#general2026}
       + [Estratégias de IA para o sucesso do feriado](2026/2025-holiday-results.md)
+      + [Arquitetura básica para Supply chain de conteúdo](2026/csc-architecture.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Enriquecimento do Adobe Commerce com o Adobe Experience Platform](2025/enriching-adobe-commerce.md)
