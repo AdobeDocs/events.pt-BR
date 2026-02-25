@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: ae1e04b960662d9156efafaa3ed09bd0de545397
+source-git-commit: 88f804bf4c61e98f8c96011fb8315b9c4e94f64a
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 14%
@@ -26,7 +26,7 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 <table>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
-      <img alt="Experience League LIVE 3 de março de 2026" src="episodes/assets/WebBannerExlLive-Mar03-2026.jpg">
+      <img alt="Experience League LIVE 3 de março de 2026" src="episodes/assets/WebBanner_Mar03_2026-v2.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-03-03-26.md"><strong>Participe de uma sessão de perguntas e respostas com Anjul Bhambhri, vice-presidente sênior do Adobe Experience Cloud, para saber mais sobre a visão arrojada da Adobe para recursos inovadores de IA do Agentic.</strong></a>
@@ -102,5 +102,5 @@ Experience League LIVE é um programa de streaming ao vivo produzido pela equipe
 
 >[!TIP]
 >
->Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/pt-br?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
+>Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
 
