@@ -6,11 +6,11 @@ solution: Experience Platform
 feature: Agentic AI
 event-cta-url-live: https://www.youtube.com/live/V7n2KuhrhqQ
 event-start-time: 2026-03-03 09:00-8
-event-guests: Daniel Wright, Anjul Bhambhri
+event-guests: Daniel Wright, Anjul Bhambhri, Gina Casagrande
 exl-id: 6482125f-0327-4947-bce4-113016b62c18
-source-git-commit: 832697fb6afc563e89041cec13ea2649eaac49e7
+source-git-commit: ae1e04b960662d9156efafaa3ed09bd0de545397
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 As equipes de marketing e experiência do cliente estão sob enorme pressão para fornecer de forma mais rápida, inteligente e contextual. Insira a IA corporativa, a abordagem inovadora que permite que as equipes atendam a essas demandas.
 
-Esta sessão exclusiva apresenta uma sessão de perguntas e respostas com Anjul Bhambhri, vice-presidente sênior do Adobe Experience Cloud. Descubra a jornada e a visão arrojada da Adobe para fornecer recursos inovadores de IA corporativa que capacitam profissionais de marketing e criação a automatizar etapas complexas, acelerar a tomada de decisões e expandir a capacidade de suas equipes sem comprometer o controle ou a supervisão. Inspire-se nas primeiras histórias de sucesso de adoção de clientes e saiba como o Adobe oferece suporte ao seu processo de integração e adoção, fornecendo confiança para iniciar sua própria jornada de IA agente.
+Esta sessão exclusiva apresenta uma sessão de perguntas e respostas com Anjul Bhambhri, vice-presidente sênior do Adobe Experience Cloud, e Gina Casagrande, diretora de evangelismo do Experience Cloud. Descubra a jornada e a visão arrojada da Adobe para fornecer recursos inovadores de IA corporativa que capacitam profissionais de marketing e criação a automatizar etapas complexas, acelerar a tomada de decisões e expandir a capacidade de suas equipes sem comprometer o controle ou a supervisão. Inspire-se nas primeiras histórias de sucesso de adoção de clientes e saiba como o Adobe oferece suporte ao seu processo de integração e adoção, fornecendo confiança para iniciar sua própria jornada de IA agente.
 
-<img alt="Experience League LIVE 3 de março de 2026" src="./assets/WebBannerExlLive-Mar03-2026.jpg">
+<img alt="Experience League LIVE 3 de março de 2026" src="./assets/WebBanner_Mar03_2026-v2.jpg">
 
 [Inscreva-se agora!](https://engage.adobe.com/ExpLeagueLive-260303.html){target="_blank"}
