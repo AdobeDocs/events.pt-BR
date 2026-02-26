@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Esta sessão explica como o Customer Journey Analytics (CJA) desbloqueia insights unificados do cliente, detalhando silos de dados e permitindo a identificação de identidades em canais e dispositivos. Recomendado para qualquer pessoa que busque entender estratégias práticas para conectar dados do cliente, melhorar a precisão da atribuição e conduzir decisões comerciais mais inteligentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480150/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480157/?captions=por_br&learn=on&enablevpops)
 
 ## Principais lições
 
