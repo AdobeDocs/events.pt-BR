@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Gravações de evento da Adobe Experience League {#events}
 
-## Com o Experience League, o aprendizado é um evento.****
+## Com o Experience League, o aprendizado é um evento.**&#x200B;**
 
 Fique por dentro dos eventos e webinários exclusivos para expandir seu aprendizado. Visite esse espaço com frequência para ver gravações de eventos anteriores, como Experience League LIVE, Skill Builder, Developers Live e muito mais. Se quiser se registrar em um evento futuro, confira os [eventos futuros](https://%65xperienceleague.adobe.com/events/?lang=en) no Experience League.
 
