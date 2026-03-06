@@ -1,7 +1,7 @@
 ---
 title: Webinários do Acrobat Analyzer
 description: Explore os webinários do Adobe Acrobat Analyzer para ver como a IA gerativa extrai insights estruturados e auditáveis de documentos para automatizar fluxos de trabalho, reduzir riscos e acelerar a tomada de decisões empresariais em escala.
-source-git-commit: 7f12b01387d93419193a45625633231e1ab6214b
+source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Descubra como o Adobe Acrobat Analyzer usa a IA gerativa para extrair insights e
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./intro-acrobat-analyzer.md" title="Apresentação do Acrobat Analyzer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Apresentação do Acrobat Analyzer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480894/?format=jpeg&nocache=1772823134422" alt="Apresentação do Acrobat Analyzer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
