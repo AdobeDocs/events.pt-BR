@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
-source-git-commit: 92da52440ae10b82194a9e695e56fd7904d47905
+exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
+source-git-commit: 8b3d3016e819e6833851307f0b0b60ef34eb13e7
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
-
 
 # Aprenda com o webinário de seus colegas: Recomendações de produtos do Adobe Commerce - da configuração ao crescimento estratégico
 
@@ -25,15 +25,15 @@ Reconhecidos como principais profissionais que impulsionam a inovação em todo 
 
 ## O que você vai aprender
 
-+ Impulsionar recomendações estratégicas: alinhar o tipo de recomendação aos KPIs reais (limpeza, AOV, retenção)
-+ Inventário claro: como aumentar a exposição e as vendas cruzadas de ações lentas
-+ Aumentar AOV: emparelhar &quot;frequentemente comprados juntos&quot; com uma interface ajustada para aumentar as taxas de conexão
-+ Melhorar a retenção do cliente: personalizar módulos com dados comportamentais para envolver clientes recorrentes
-+ Mesclar IA com estratégia humana: aproveitar as regras manuais de relacionamento do produto para lançamentos e campanhas com marca
-+ Mudar da configuração para a otimização: entenda as noções básicas de configuração (configuração, inclusões/exclusões e posicionamento do CMS/Page Builder), evite armadilhas comuns e use controles e análises de administração para melhorar continuamente.
+* Impulsionar recomendações estratégicas: alinhar o tipo de recomendação aos KPIs reais (limpeza, AOV, retenção)
+* Limpar inventário: como aumentar a exposição e as vendas cruzadas de ações lentas
+* Aumentar AOV: emparelhe &quot;frequentemente comprados juntos&quot; com um ajuste da interface do usuário para aumentar as taxas de anexo
+* Melhore a retenção do cliente: personalize módulos com dados comportamentais para envolver clientes recorrentes
+* Mesclar IA com estratégia humana: aproveite as regras manuais de relacionamento do produto para inicializações e campanhas com marca
+* Mudar da configuração para a otimização: entenda as noções básicas de configuração (configuração, inclusões/exclusões e posicionamento do CMS/Page Builder), evite armadilhas comuns e use controles e análises de administração para melhorar continuamente.
 
 Se você está começando ou querendo otimizar com recursos nativos de IA, esta sessão foi projetada para fornecer orientação prática e concreta para impulsionar resultados tangíveis sobre a receita e a experiência do cliente que você pode aplicar imediatamente.
 
 ## Recursos adicionais
 
-+ [Slides de apresentação](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf).
+* [Slides de apresentação](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf)
