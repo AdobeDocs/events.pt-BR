@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/mPVvZIbkJq8
 event-start-time: 2026-03-03 08:30-8
 event-guests: Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva, Lee Henderson
 exl-id: 5ad4e649-d00a-4934-bfee-13d358fdad11
-source-git-commit: 832697fb6afc563e89041cec13ea2649eaac49e7
+source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Veja como a orquestração de campanhas no Journey Optimizer gerencia seus programas de marketing grandes com vários canais, de criação de público a lançamento.
 
-Abordaremos a tela de orquestração de campanhas e os esquemas relacionais como base para gerenciar campanhas complexas e relacionamentos com clientes, segmentação de várias entidades para direcionar os públicos certos em dados complexos, refinamento de público sob demanda e contagens de pré-envio para precisão e como isso funciona perfeitamente no Journey Optimizer hoje.
+Abordamos a tela de orquestração de campanhas e os esquemas relacionais como base para gerenciar campanhas complexas e relacionamentos com clientes, segmentação de várias entidades para direcionar os públicos certos em dados complexos, refinamento de público sob demanda e contagens de pré-envio para precisão e como isso funciona perfeitamente no Journey Optimizer hoje.
 
-<img alt="Experience League LIVE 3 de março de 2026" src="./assets/WebBannerExlLive-Mar12-2026.jpg">
+>[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-[Inscreva-se hoje!](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
+Para continuar a conversa sobre este tópico, visite a [Discussão da Comunidade Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
