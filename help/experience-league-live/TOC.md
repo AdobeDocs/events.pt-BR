@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
+source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 13%
+source-wordcount: '371'
+ht-degree: 12%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 13%
 
 + [Visão geral](overview.md)
 + Episódios {#episodes}
+   + [Novos casos de uso para engajamento do cliente: atividades do iOS Live, push da Web e mensagens persistentes](episodes/exl-live-episode-04-08-26.md)
    + [Conheça a orquestração de campanhas no Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
    + [Agentes Adobe Experience Platform para maior eficiência de marketing e melhores resultados de negócios](episodes/exl-live-episode-03-03-26.md)
    + [Agentes no trabalho: criação e ativação de públicos e jornadas](episodes/exl-live-episode-01-28-26.md)
@@ -56,5 +57,5 @@ ht-degree: 13%
    + [Estender o AEM com o Adobe App Builder](episodes/exl-live-episode-07.md)
    + [Quem clicou nisso? E então o que eles fizeram?](episodes/exl-live-episode-04.md)
    + [Dicas de especialistas para fazer suas campanhas de fim de ano se destacarem](episodes/exl-live-episode-03.md)
-   + [Minhas três dicas de implementação favoritas do Adobe [!DNL Analytics] &#x200B;](episodes/exl-live-episode-01.md)
+   + [Minhas três dicas de implementação favoritas do Adobe [!DNL Analytics] ](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
