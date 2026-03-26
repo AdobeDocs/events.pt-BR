@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Mergulhe na Parte 2 do Fusion Decodificado para entender as estratégias de construção fundamentais para workflows e sistemas do Fusion. Essa sessão foi projetada para administradores, desenvolvedores e líderes que buscam aprimorar seu conhecimento e melhorar suas implementações do Fusion. Assista ao retrocesso da oficina para obter insights e técnicas acionáveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481843/?captions=por_br&learn=on&enablevpops)
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
 

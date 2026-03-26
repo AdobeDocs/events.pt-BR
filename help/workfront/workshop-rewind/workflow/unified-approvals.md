@@ -19,6 +19,6 @@ ht-degree: 4%
 
 Descubra os principais aspectos das aprovações unificadas, incluindo direção, relatórios e recursos futuros. Esse retrocesso do workshop fornece insights valiosos para ajudá-lo a se manter informado e otimizar seu fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481854/?captions=por_br&learn=on&enablevpops)
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.

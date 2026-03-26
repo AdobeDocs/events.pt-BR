@@ -17,6 +17,6 @@ ht-degree: 6%
 
 # Webinário da versão do Adobe Workfront do segundo trimestre de 2026
 
->[!VIDEO](https://video.tv.adobe.com/v/3481835/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481865/?captions=por_br&learn=on&enablevpops)
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
