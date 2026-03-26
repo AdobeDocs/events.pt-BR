@@ -3,9 +3,9 @@ user-guide-title: Eventos da Workfront
 breadcrumb-title: Eventos da Workfront
 user-guide-description: Eventos da Workfront
 solution: Workfront
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '534'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 1%
 + [Workshops sob demanda da Workfront](overview.md)
 
 + Webinars de lançamento {#releases}
+   + [Webinário da versão do segundo trimestre de 2026](releases/26-q2-release-webinar.md)
+   + [Webinário da versão do primeiro trimestre de 2026](releases/26-q1-release-webinar.md)
    + [Webinário da versão do quarto trimestre de 2025](releases/25-q4-release-webinar.md)
    + [Versão 25.7](releases/25-7-release-webinar.md)
    + [Versão 25.4](releases/25-4-release-webinar.md)
@@ -23,22 +25,29 @@ ht-degree: 1%
    + [Versão 24.1](releases/24-1-release-webinar.md)
 + Retrocesso do workshop {#workshop-rewind}
    + Fusão {#fusion}
+      + [Automatização de PDFs com marcas com o Workfront Fusion](workshop-rewind/fusion/automating-branded-pdfs.md)
       + [Automatização de convenções de nomenclatura](workshop-rewind/fusion/automating-naming-conventions.md)
       + [Automatizar Processos De Trabalho](workshop-rewind/fusion/automate-work-processes.md)
       + [Benefícios e práticas recomendadas da Fusion](workshop-rewind/fusion/benefits-best-practices.md)
       + [Importações de dados](workshop-rewind/fusion/data-imports.md)
       + [Benefícios e casos de uso da fusão](workshop-rewind/fusion/case-for-fusion.md)
       + [Fusion Decodificado](workshop-rewind/fusion/fusion-decoded.md)
+      + [Decodificado Fusion Parte 2 - Iniciar Criação](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Como o Workfront Fusion ajuda os humanos](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Navegar pelas alterações em campos de seleção múltipla com facilidade](workshop-rewind/fusion/mulit-select-fields.md)
       + [Tratamento pró-ativo de exceções](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [Schneider Electric Drives Workfront Efficiency (Eficiência do)](workshop-rewind/fusion/schneider-electric-efficiency.md)
       + [Otimizar fluxos de trabalho](workshop-rewind/fusion/automate-workflows.md)
+      + [Dicas, truques e destaques da versão](workshop-rewind/fusion/tips-tricks-release-highlights.md)
       + [Desbloqueando custos de eventos verdadeiros](workshop-rewind/fusion/event-costs.md)
       + [Atualizar para Assinaturas de Evento V2](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Planejamento {#planning}
       + [Últimas novidades no Workfront Planning](workshop-rewind/planning/workfront-planning.md)
       + [Demonstração do planejamento do Adobe Workfront](workshop-rewind/planning/planning-demo.md)
+      + [Construindo a sua implementação base](workshop-rewind/planning/base-implementation.md)
+      + [Conectando Painéis de Controle do Planning, Workflow e Canvas](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Como o Syracuse aproveita o planejamento](workshop-rewind/planning/syracuse-planning.md)
       + [Casos de uso do Creative da SNHU](workshop-rewind/planning/planning-reimagined.md)
       + [Sucesso em nível de equipe com o Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Versão e roteiro do Workfront Planning](workshop-rewind/planning/planning-release-roadmap.md)
@@ -47,6 +56,7 @@ ht-degree: 1%
       + [Aumente a eficiência](workshop-rewind/workflow/cognizant-project-excellence.md)
       + [Gerenciamento de alterações no Workfront](workshop-rewind/workflow/change-management.md)
       + [Integração do Supply chain de conteúdo](workshop-rewind/workflow/content-supply-chain.md)
+      + [Coleta de dados](workshop-rewind/workflow/data-collection.md)
       + [Definir e comunicar o valor do Workfront](workshop-rewind/workflow/workfront-value.md)
       + [Dicas de comunicação eficazes no Workfront](workshop-rewind/workflow/communication-tips.md)
       + [Dicas de governança, execução e adoção](workshop-rewind/workflow/governance-execution-adoption.md)
@@ -60,13 +70,18 @@ ht-degree: 1%
       + [Modelos de projeto](workshop-rewind/workflow/project-templates.md)
       + [Refazer a imagem dos resumos do Creative](workshop-rewind/workflow/creative-briefs.md)
       + [Conceitos básicos de gerenciamento de recursos](workshop-rewind/workflow/resource-management.md)
+      + [Recursos para acelerar a adoção e o valor](workshop-rewind/workflow/accelerate-adoption.md)
+      + [Repensando o gerenciamento de recursos](workshop-rewind/workflow/rethink-resource-management.md)
       + [Patrocínio executivo seguro](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [Autoensinado para o sucesso](workshop-rewind/workflow/self-taught-to-success.md)
       + [Limpeza da primavera com os relatórios do Workfront](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [10 dicas de comunicação](workshop-rewind/workflow/10-communication-tips.md)
       + [10 dicas do modo de texto](workshop-rewind/workflow/text-mode-tips.md)
       + [10 mais dicas do modo de texto](workshop-rewind/workflow/10-more-text-mode-tips.md)
       + [Transforme a confusão do usuário em confiança](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Solução de problemas de campos calculados do Workfront](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [Transformando blueprints em programas de treinamento](workshop-rewind/workflow/blueprints-to-planning.md)
+      + [Noções básicas sobre aprovações unificadas](workshop-rewind/workflow/unified-approvals.md)
       + [Desbloquear placas Workfront](workshop-rewind/workflow/unlock-boards.md)
       + [Descubra o poder da conexão de dados do Workfront](workshop-rewind/workflow/data-connect.md)
       + [Utilização do Workfront para registros eficazes](workshop-rewind/workflow/effective-reorgs.md)
