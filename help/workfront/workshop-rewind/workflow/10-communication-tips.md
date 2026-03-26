@@ -23,7 +23,7 @@ Junte-se a Nichole Vargas enquanto ela compartilha dicas para impulsionar um mel
 
 Se você perdeu a sessão, não se preocupe! Revise a [apresentação de slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10+Communication+Tips+-+January+22%2C+2026.pdf) e assista à gravação sob demanda para acompanhá-la.
 
-Procurando mais recursos no evento? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874)!
+Procurando mais recursos no evento? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874?profile.language=pt)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
 

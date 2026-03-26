@@ -17,13 +17,13 @@ ht-degree: 1%
 
 # Workfront Planning Smart Start - Construindo a sua implementação básica
 
-Junte-se à nossa equipe de Gerenciamento de produtos da Adobe à medida que eles compartilham as práticas recomendadas para iniciar a implementação do Workfront Planning.  Para obter mais informações sobre o que vem a seguir para o Workfront Planning, marque a página [Atividade de versão do Adobe Workfront Planning](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) no Experience League.
+Junte-se à nossa equipe de Gerenciamento de produtos da Adobe à medida que eles compartilham as práticas recomendadas para iniciar a implementação do Workfront Planning.  Para obter mais informações sobre o que vem a seguir para o Workfront Planning, marque a página [Atividade de versão do Adobe Workfront Planning](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) no Experience League.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477113/?learn=on&enablevpops)
 
 Se você perdeu a sessão, não se preocupe! Revise a [apresentação de slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/073125+The+Smart+Start+%E2%80%94+Building+Your+Base+Implementation.pdf) e assista à gravação sob demanda para acompanhá-la.
 
-Você tem ideias para compartilhar ou tem dúvidas de acompanhamento do evento? Fique à vontade para soltá-los nos comentários da [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-the-smart-start-building-your/td-p/767049)!
+Você tem ideias para compartilhar ou tem dúvidas de acompanhamento do evento? Fique à vontade para soltá-los nos comentários da [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-the-smart-start-building-your/td-p/767049?profile.language=pt)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
 
