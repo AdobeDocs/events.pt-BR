@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3199
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19788
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 17044e9c-9a18-4873-9368-accb7351734d
+source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 0%
+source-wordcount: '243'
+ht-degree: 1%
 
 ---
-
 
 # Decodificação da fusão: o que é e por que cada organização pode usá-la
 
@@ -25,8 +25,10 @@ e assista à gravação sob demanda para acompanhar, enquanto Jen fornece uma vi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-Confira os [modelos do Fusion](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) do Adobe Workfront disponíveis no momento.
+Você adorou esta sessão e quer aprender mais com Jen? Não deixe de assistir à segunda sessão da série, [Parte Decodificada do Fusion 2 - Vamos Começar a Compilação](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
 
-Mais links de recursos estão disponíveis na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=pt)!
+E não se esqueça de revisar a lista de [modelos do Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) do Adobe Workfront disponíveis no momento.
+
+Mais links de recursos estão disponíveis na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
