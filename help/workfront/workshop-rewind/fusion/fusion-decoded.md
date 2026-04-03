@@ -25,10 +25,10 @@ e assista à gravação sob demanda para acompanhar, enquanto Jen fornece uma vi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-Você adorou esta sessão e quer aprender mais com Jen? Não deixe de assistir à segunda sessão da série, [Parte Decodificada do Fusion 2 - Vamos Começar a Compilação](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
+Você adorou esta sessão e quer aprender mais com Jen? Não deixe de assistir à segunda sessão da série, [Parte Decodificada do Fusion 2 - Vamos Começar a Compilação](https://experienceleague.adobe.com/pt-br/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
 
-E não se esqueça de revisar a lista de [modelos do Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) do Adobe Workfront disponíveis no momento.
+E não se esqueça de revisar a lista de [modelos do Fusion](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) do Adobe Workfront disponíveis no momento.
 
-Mais links de recursos estão disponíveis na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)!
+Mais links de recursos estão disponíveis na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=pt)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
