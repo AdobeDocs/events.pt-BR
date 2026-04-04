@@ -30,7 +30,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-3-0.md" title="Vídeo de Visão geral da versão 2026.03.0 do AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483060/?format=jpeg&nocache=1775063376142" alt="Vídeo de Visão geral da versão 2026.03.0 do AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483065/?captions=por_br&format=jpeg&nocache=1775063376142" alt="Vídeo de Visão geral da versão 2026.03.0 do AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
