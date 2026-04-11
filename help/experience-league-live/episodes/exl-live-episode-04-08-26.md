@@ -21,7 +21,7 @@ Explore novas superfícies e casos de uso para obter o envolvimento do cliente �
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483389/?quality=12&learn=on)
 
-Continue a discussão sobre o programa na [Publicação da comunidade do Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581){target="_blank"}
+Continue a discussão sobre o programa na [Publicação da comunidade do Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581?profile.language=pt){target="_blank"}
 
 <br>
 </br>
