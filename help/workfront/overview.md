@@ -156,7 +156,7 @@ Seja você um administrador do Workfront, gerente de projetos ou usuário comum,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="3 principais - Abordagens da Creative com blueprints" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1776187710590" alt="3 principais - Abordagens da Creative com blueprints"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465316/?captions=por_br&format=jpeg&nocache=1776187710590" alt="3 principais - Abordagens da Creative com blueprints"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ Seja você um administrador do Workfront, gerente de projetos ou usuário comum,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Versus! - Grupos vs. Equipes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1776187710595" alt="Versus! - Grupos vs. Equipes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467358/?captions=por_br&format=jpeg&nocache=1776187710595" alt="Versus! - Grupos vs. Equipes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -243,7 +243,7 @@ Essas sessões apresentam soluções do mundo real, exemplos de clientes e suges
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="Relatórios do SLA no Workfront com Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1776187710866" alt="Relatórios do SLA no Workfront com Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469983/?captions=por_br&format=jpeg&nocache=1776187710866" alt="Relatórios do SLA no Workfront com Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -266,7 +266,7 @@ Essas sessões apresentam soluções do mundo real, exemplos de clientes e suges
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/evolution-of-an-instance.md" title="Insights de especialistas com Jen Desmond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483111/?format=jpeg&nocache=1776187710852" alt="Insights de especialistas com Jen Desmond"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483116/?captions=por_br&format=jpeg&nocache=1776187710852" alt="Insights de especialistas com Jen Desmond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
