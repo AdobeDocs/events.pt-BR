@@ -3,9 +3,9 @@ title: Workshops sob demanda da Adobe Workfront
 description: Workfront Events é uma biblioteca de vídeos na qual especialistas e colegas compartilham suas ideias e opiniões sobre como usar o Workfront para aprimorar o trabalho que está sendo feito para suas organizações.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 0cd9d63a55aad1456f83c8b35293ea1705029954
+source-git-commit: 3363513b545097376ce0b915c3cf9fe74ca3df45
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,17 @@ Esta série de vídeos contínua oferece uma visão geral clara e concisa de cad
 
 <!-- CARDS 
 
-* releases/26-q1-release-webinar.md
+* releases/26-q2-release-webinar.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Workfront First Quarter 2026 Release Webinar">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Workfront Second Quarter 2026 Release Webinar">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="releases/26-q1-release-webinar.md" title="Webinário da versão do primeiro trimestre de 2026 do Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481817/?format=jpeg&nocache=1775228743435" alt="Webinário da versão do primeiro trimestre de 2026 do Adobe Workfront"
+                    <a href="releases/26-q2-release-webinar.md" title="Webinário da versão do Adobe Workfront do segundo trimestre de 2026" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483385/?format=jpeg&nocache=1776187709343" alt="Webinário da versão do Adobe Workfront do segundo trimestre de 2026"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -36,11 +36,11 @@ Esta série de vídeos contínua oferece uma visão geral clara e concisa de cad
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="releases/26-q1-release-webinar.md" target="_blank" rel="referrer" title="Webinário da versão do primeiro trimestre de 2026 do Adobe Workfront">Webinar Da Versão Do Primeiro Trimestre De 2026 Do Adobe Workfront</a>
+                        <a href="releases/26-q2-release-webinar.md" target="_blank" rel="referrer" title="Webinário da versão do Adobe Workfront do segundo trimestre de 2026">Webinar Da Versão Do Segundo Trimestre De 2026 Do Adobe Workfront</a>
                     </p>
-                    <p class="is-size-6">Descubra os recursos e as atualizações mais recentes na versão do primeiro trimestre de 2026 da Adobe Workfront para aprimorar os fluxos de trabalho e melhorar a produtividade.</p>
+                    <p class="is-size-6">Descubra as atualizações mais recentes na versão do segundo trimestre de 2026 da Adobe Workfront, incluindo aprimoramentos no planejamento, fluxo de trabalho e muito mais.</p>
                 </div>
-                <a href="releases/26-q1-release-webinar.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="releases/26-q2-release-webinar.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>
@@ -49,9 +49,10 @@ Esta série de vídeos contínua oferece uma visão geral clara e concisa de cad
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+
 ## Retrocesso do workshop
 
-Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da nossa seleção de eventos em destaque. Todos os meses, realizamos sessões gratuitas ao vivo que abrangem uma variedade de tópicos para ajudar você a aproveitar ao máximo o Workfront. Perdeu um evento ao vivo? Sem problemas! Obtenha gravações sob demanda que mostram histórias de clientes, práticas recomendadas comprovadas e lições valiosas aprendidas. Deseja se conectar em tempo real? Participe dos próximos eventos ao vivo para fazer perguntas, compartilhar insights e colaborar com colegas. Visite a [página de Eventos do Experience League Workfront](https://experienceleague.adobe.com/pt-br/events?filters=Workfront) regularmente para ver o que vem a seguir.
+Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da nossa seleção de eventos em destaque. Todos os meses, realizamos sessões gratuitas ao vivo que abrangem uma variedade de tópicos para ajudar você a aproveitar ao máximo o Workfront. Perdeu um evento ao vivo? Sem problemas! Obtenha gravações sob demanda que mostram histórias de clientes, práticas recomendadas comprovadas e lições valiosas aprendidas. Deseja se conectar em tempo real? Participe dos próximos eventos ao vivo para fazer perguntas, compartilhar insights e colaborar com colegas. Visite a [página de Eventos do Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) regularmente para ver o que vem a seguir.
 
 <!-- CARDS 
 
@@ -67,7 +68,7 @@ Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da n
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/planning/planning-workflow-canvas.md" title="Trio de Energia da Workfront - Conectando Painéis de Planejamento, Fluxo de Trabalho e Tela" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1775228743880" alt="Trio de Energia da Workfront - Conectando Painéis de Planejamento, Fluxo de Trabalho e Tela"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1776187709981" alt="Trio de Energia da Workfront - Conectando Painéis de Planejamento, Fluxo de Trabalho e Tela"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +91,7 @@ Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da n
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/workflow/rethink-resource-management.md" title="Repensando o gerenciamento de recursos da maneira ágil nos Supervisores Excel" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1775228743890" alt="Repensando o gerenciamento de recursos da maneira ágil nos Supervisores Excel"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1776187709989" alt="Repensando o gerenciamento de recursos da maneira ágil nos Supervisores Excel"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -113,7 +114,7 @@ Explore as últimas notícias da sua comunidade do Adobe Workfront por meio da n
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/fusion/fusion-decoded.md" title="Decodificação da fusão - O que é e por que cada organização pode usá-la" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1775228743875" alt="Decodificação da fusão - O que é e por que cada organização pode usá-la"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1776187709976" alt="Decodificação da fusão - O que é e por que cada organização pode usá-la"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +156,7 @@ Seja você um administrador do Workfront, gerente de projetos ou usuário comum,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="3 principais - Abordagens da Creative com blueprints" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465316/?captions=por_br&format=jpeg&nocache=1775228744320" alt="3 principais - Abordagens da Creative com blueprints"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1776187710590" alt="3 principais - Abordagens da Creative com blueprints"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +179,7 @@ Seja você um administrador do Workfront, gerente de projetos ou usuário comum,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Versus! - Grupos vs. Equipes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467358/?captions=por_br&format=jpeg&nocache=1775228744326" alt="Versus! - Grupos vs. Equipes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1776187710595" alt="Versus! - Grupos vs. Equipes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +220,7 @@ Essas sessões apresentam soluções do mundo real, exemplos de clientes e suges
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/text-mode.md" title="Modo de texto principal com Katherine Lanning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477024/?format=jpeg&nocache=1775228744510" alt="Modo de texto principal com Katherine Lanning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477024/?format=jpeg&nocache=1776187710857" alt="Modo de texto principal com Katherine Lanning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +243,7 @@ Essas sessões apresentam soluções do mundo real, exemplos de clientes e suges
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="Relatórios do SLA no Workfront com Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469983/?captions=por_br&format=jpeg&nocache=1775228744500" alt="Relatórios do SLA no Workfront com Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1776187710866" alt="Relatórios do SLA no Workfront com Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +266,7 @@ Essas sessões apresentam soluções do mundo real, exemplos de clientes e suges
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/evolution-of-an-instance.md" title="Insights de especialistas com Jen Desmond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483116/?captions=por_br&format=jpeg&nocache=1775228744495" alt="Insights de especialistas com Jen Desmond"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483111/?format=jpeg&nocache=1776187710852" alt="Insights de especialistas com Jen Desmond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
