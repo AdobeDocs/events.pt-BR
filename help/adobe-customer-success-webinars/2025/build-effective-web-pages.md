@@ -2,19 +2,20 @@
 title: Criação de páginas da Web eficazes no AEM Sites
 description: Junte-se ao nosso webinário iniciante do AEM Sites para saber mais sobre criação de páginas, componentes básicos, estrutura de conteúdo e design responsivo, com pontos-chave sobre criação no AEM, modelos editáveis, componentes principais e publicação de páginas.
 feature: Authoring, Editable Templates, Core Components
+topic: Development, Headless
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3015
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17376
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: c9375be0-285e-4132-a6d1-82a7fcc59d45
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
-
 
 # Criação de páginas da Web eficazes no AEM Sites
 
@@ -29,7 +30,7 @@ Descubra os fundamentos do AEM Sites neste webinário para iniciantes projetado 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444455/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 * **Introdução à criação de AMP** A sessão enfatizou a importância de dominar as noções básicas de criação e gerenciamento de conteúdo no Adobe Experience Manager (AEM) para iniciantes. Entender o ambiente de criação é essencial para simplificar o fluxo de trabalho e aproveitar recursos avançados.
 

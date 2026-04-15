@@ -1,6 +1,8 @@
 ---
 title: Por que o AEM é mais eficiente na nuvem
 description: Transição para a nuvem com a orientação especializada da Adobe sobre as ferramentas de planejamento, migração e avaliação de disponibilidade
+feature: Release Information
+topic: Security, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2653
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17167
 exl-id: db9ef66b-45ab-4586-8d02-91bdfcf2fdfc
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Nesta sessão, o próprio Consultor de negócios da Adobe, Casey Witter, e o Con
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443023/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 * **Melhoria de desempenho** Os clientes do Cloud Service experimentam uma melhoria de 400% no tempo de carregamento da página devido à melhor arquitetura, ao processamento de ativos e aos data centers globais.
 

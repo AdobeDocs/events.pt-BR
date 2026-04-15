@@ -1,19 +1,21 @@
 ---
 title: Sessão 1 de 2026 — Fundamentos do Marketo Engage
 description: Conheça as noções básicas do Marketo Engage, incluindo navegação, recursos principais e ferramentas de automação para gerenciar com confiança suas campanhas de marketing.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event
 duration: 3560
 last-substantial-update: 2026-03-31T00:00:00Z
 jira: KT-20742
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+exl-id: a7748412-2baf-4ec1-8fca-5499150af7c6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 1%
 
 ---
-
 
 # Sessão 1 de 2026: Fundamentos do Marketo Engage
 
@@ -30,5 +32,3 @@ Nossa primeira sessão começa este mês com uma introdução prática sobre com
 
 * Novos usuários do Marketo Engage ou aqueles que estão apenas começando a usar a plataforma.
 * Profissionais com experiência prática limitada que desejam aumentar a confiança usando os recursos principais.
-
-

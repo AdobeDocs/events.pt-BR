@@ -2,6 +2,7 @@
 title: Relatórios do SLA no Workfront com Madalyn Destafney
 description: Saiba como implementar e medir Contratos de nível de serviço (SLAs) no Adobe Workfront com dicas de especialistas do Madalyn Destafney, incluindo orientação passo a passo, exemplos de campos calculados e práticas recomendadas de formulários personalizados.
 feature: Reports and Dashboards
+topic: Performance, Certification
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 speaker-name-1: Madalyn Destafney
@@ -12,9 +13,9 @@ duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
 exl-id: 0d870372-4605-4d42-b539-5de2943a2682
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -23,25 +24,25 @@ ht-degree: 0%
 
 Bem-vindo a outra seção do Expert Insights!  Sou Cynthia Boon, sua CSM do Workfront &quot;sob demanda&quot;, e estou animada em compartilhar que temos a única e única, Madalyn Destafney, compartilhando parte de sua ampla experiência para ajudar os clientes a implementar e medir os Contratos de nível de serviço (SLAs) usando o Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469983/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
 
 Como prometido no vídeo, temos a apresentação de Madalyn vinculada aos passos dela, expressões calculadas e exemplos de relatórios. 
 
-* [Apresentação de slides de Madalyn PDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
+* [Conjunto de slides PDF de Madalyn](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
 
 ## Recursos
 
 Durante a apresentação, Madalyn compartilhou seus formulários personalizados e campos calculados, portanto, se você estiver apenas começando a usar esses recursos, aqui estão alguns links para apontar para a direção certa. 
 
-* Lista de Reprodução do Tutorial - [Criar e Compartilhar Forms Personalizado](https://experienceleague.adobe.com/pt-br/playlists/workfront-create-and-manage-custom-forms)
+* Lista de Reprodução do Tutorial - [Criar e Compartilhar Forms Personalizado](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* Artigo - [Introdução a campos calculados e expressões](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artigo - [Introdução a campos calculados e expressões](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Dicas e truques - [Campos calculados que todos devem saber - e como relatá-los!](https://experienceleague.adobe.com/pt-br/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Dicas e truques - [Campos calculados que todos devem saber - e como relatá-los!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Interessado em mais dicas de Madalyn? Confira sua série de dicas e truques na Comunidade do Workfront! 
 
-* [Bytes técnicos de terça-feira](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=pt#M2742)
+* [Bytes técnicos de terça-feira](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
 
 ## Sobre o orador 
 

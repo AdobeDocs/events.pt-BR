@@ -1,6 +1,8 @@
 ---
 title: Habilitando diversos modelos de negócios com Commerce e Composability
 description: A reunião focou principalmente em permitir diversos modelos de negócios no Adobe Commerce, destacando as tendências de crescimento do comércio B2B, enfatizando a importância de simplificar integrações para atualizações contínuas, apresentando interações personalizadas de B2B para B2C por meio de uma demonstração, discutindo recursos do Adobe Commerce como suporte omnicanal e integração em malha de API, enfatizando os benefícios dos serviços de comércio combinável, introduzindo o App Builder para personalizações escaláveis e gerenciamento de assinaturas na plataforma.
+feature: Integration, Headless, B2B
+topic: Headless, Personalization, Integrations
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
 exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---

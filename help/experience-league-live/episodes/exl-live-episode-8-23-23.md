@@ -4,15 +4,16 @@ description: Saiba como usar APIs REST para comunicações transacionais e de ma
 kt: KT-13734
 solution: Journey Optimizer
 feature: API
+topic: Personalization, Integrations
 event-cta-url-live: https://www.youtube.com/watch?v=eC51g4bf81s
 event-start-time: 2023-08-23 08:00-7
 event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
 exl-id: 4c3e2036-7afb-42f2-8071-17586b18aeec
 duration: 3637
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 0%
+source-wordcount: '202'
+ht-degree: 22%
 
 ---
 
@@ -22,13 +23,13 @@ Saiba como usar APIs REST para comunicações transacionais e de marketing conte
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422169/?learn=on)
 
-Embora o Adobe Journey Optimizer forneça uma interface e um fluxo de trabalho modernos e amigáveis para profissionais de marketing, a fim de criar e gerenciar jornadas de clientes personalizadas e em tempo real 1:1, as empresas também precisam comunicar mensagens críticas e sensíveis ao tempo, com base em sinais urgentes e criar mensagens para públicos sem criar jornadas. Essas mensagens podem incluir redefinições de senha, códigos únicos ou até atualizações pós-jogo para a base de assinantes de fãs de esportes.
+Embora o Adobe Journey Optimizer forneça uma interface e um fluxo de trabalho modernos e amigáveis para profissionais de marketing, a fim de criar e gerenciar jornadas de clientes personalizadas em tempo real do 1:1, as empresas também precisam comunicar mensagens críticas e sensíveis ao tempo, com base em sinais urgentes e criar mensagens para públicos sem criar jornadas. Essas mensagens podem incluir redefinições de senha, códigos únicos ou até atualizações pós-jogo para a base de assinantes de fãs de esportes.
 
 Com Campanhas acionadas por API, as empresas podem definir uma campanha e usá-la várias vezes para fornecer mensagens personalizadas com informações contextuais em tempo real, acionando por meio da API REST.
 
-Nesta sessão em tempo real do Experience League, os especialistas em produtos do Adobe explicarão como você pode executar casos de uso transacionais e de marketing com recursos de mensagens acionadas por API no AJO.
+Nesta sessão do Experience League Live, os especialistas em produtos da Adobe explicarão como você pode executar casos de uso transacionais e de marketing com recursos de mensagens acionadas por API no AJO.
 
 **Clique na imagem acima para assistir ao programa!**
 
-Continue a discussão na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273?profile.language=pt#M132).
+Continue a discussão na [publicação da Comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
 

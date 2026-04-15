@@ -1,6 +1,9 @@
 ---
 title: Um roteiro para o mapeamento de valores e a realização de valores
+solution: Experience Cloud
+feature: Personalization
 description: saiba como as organizações podem desenvolver, avaliar e priorizar casos de uso de tecnologia em relação ao seu valor comercial, definir e relatar KPIs, garantindo que sua organização gere resultados quantificáveis e excelentes experiências do cliente.
+topic: Development
 role: Leader, User
 level: Intermediate
 kt: 11123
@@ -8,7 +11,7 @@ thumbnail: 3409242.jpeg
 hidefromtoc: true
 exl-id: 62885d7a-6331-4061-b570-ae04913147f7
 duration: 1720
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

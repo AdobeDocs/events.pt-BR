@@ -3,25 +3,26 @@ title: Recursos do Workspace que você deve usar
 description: Descubra os principais recursos do Adobe Analytics Workspace — formatação condicional, menus suspensos, modelos de atribuição e métricas calculadas — para descobrir insights mais profundos.
 solution: Analytics
 feature: Workspace Basics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18821
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: 2c7bef44-9af5-4c7c-a9a7-9489a8dbefd2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
-
 
 # Recursos do Workspace que você deve usar
 
 Descubra recursos poderosos, mas muitas vezes ignorados, no Adobe Analytics Workspace que podem elevar sua análise e gerar impacto real. Nesta sessão, exploraremos casos de uso práticos e técnicas simples que transformam ferramentas diárias em mecanismos do insight, ajudando você a descobrir o que realmente importa para sua empresa. Quer você seja um analista experiente ou apenas iniciante, você partirá com ideias acionáveis para maximizar o valor de seus dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471256/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
 
 ## Desbloquear técnicas avançadas do Analytics
 

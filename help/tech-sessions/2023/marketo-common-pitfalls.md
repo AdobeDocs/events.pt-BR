@@ -3,6 +3,7 @@ title: Lógica avançada de lista inteligente e armadilhas comuns
 description: visão geral da lógica complexa e avançada de lista inteligente, TODOS, QUALQUER UM e Filtros avançados, vários acionadores, filtros negativos e restrições negativas, problemas comuns e dicas de solução de problemas
 feature-set: Marketo Engage
 feature: Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -11,7 +12,7 @@ jira: KT-13817
 thumbnail: 3422531.jpeg
 exl-id: 334e7cb4-3417-448e-b209-e197bbf0b781
 duration: 2937
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%

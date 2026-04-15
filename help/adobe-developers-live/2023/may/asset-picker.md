@@ -1,6 +1,7 @@
 ---
 title: Como incorporar nosso seletor de Assets mais recente a outras interfaces/produtos e integrar a aplicativos de terceiros usando a API
-description: Como incorporar nosso seletor de Assets mais recente a outras interfaces/produtos e integrar a aplicativos de terceiros usando o APILsaiba como se beneficiar de todas as opções que você tem ao integrar ativos a outros aplicativos. Você está achando super difícil integrar o AEM Assets Cloud Service com esses CMSs? Deseja saber como gravar Integrações estáveis, testáveis e sustentáveis do AEM Assets em minutos em vez de horas/dias? Demonstraremos a potência e a versatilidade dos microfront-ends através das nossas experiências de conversão de dois projetos do React - o Seletor de destino e o Seletor de ativos - em componentes de front-end modulares, independentes e de fácil implementação.
+description: Como incorporar nosso seletor de Assets mais recente a outras interfaces/produtos e integrar a aplicativos de terceiros usando o APILsaiba como se beneficiar de todas as opções que você tem ao integrar ativos a outros aplicativos. Você está achando muito difícil integrar o AEM Assets Cloud Services a esses CMSs? Deseja saber como gravar Integrações estáveis, testáveis e sustentáveis do AEM Assets em minutos em vez de horas/dias? Demonstraremos a potência e a versatilidade dos microfront-ends através das nossas experiências de conversão de dois projetos do React - o Seletor de destino e o Seletor de ativos - em componentes de front-end modulares, independentes e de fácil implementação.
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: assets
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13359
 thumbnail: 3419940.jpeg
 exl-id: df951e01-fa11-4315-a4d0-5cb0950d90ce
 duration: 2737
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 Como incorporar nosso seletor de Assets mais recente a outras interfaces/produtos e integrar a aplicativos de terceiros usando a API
 
-Saiba como se beneficiar de todas as opções que você tem ao integrar ativos a outros aplicativos. Você está achando super difícil integrar o AEM Assets Cloud Service com esses CMSs? Deseja saber como gravar Integrações estáveis, testáveis e sustentáveis do AEM Assets em minutos em vez de horas/dias? Demonstraremos a potência e a versatilidade dos microfront-ends através das nossas experiências de conversão de dois projetos do React - o Seletor de destino e o Seletor de ativos - em componentes de front-end modulares, independentes e de fácil implementação. → Continue a conversa em: https://adobe.ly/3LqELUM
+Saiba como se beneficiar de todas as opções que você tem ao integrar ativos a outros aplicativos. Você está achando muito difícil integrar o AEM Assets Cloud Services a esses CMSs? Deseja saber como gravar Integrações estáveis, testáveis e sustentáveis do AEM Assets em minutos em vez de horas/dias? Demonstraremos a potência e a versatilidade dos microfront-ends através das nossas experiências de conversão de dois projetos do React - o Seletor de destino e o Seletor de ativos - em componentes de front-end modulares, independentes e de fácil implementação. → Continue a conversa em: https://adobe.ly/3LqELUM
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419940/?learn=on)

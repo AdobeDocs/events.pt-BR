@@ -1,6 +1,8 @@
 ---
 title: Gerenciamento de recursos
 description: Libere todo o potencial do gerenciamento de recursos da Workfront com a orientação especializada de Samantha Miller e Mary Ann Erickson sobre configuração, práticas recomendadas e ferramentas.
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3638
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17166
 exl-id: f5330b70-e3a1-4d4d-9b0c-0d30a35af769
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ O Gerenciamento de recursos da Workfront se destaca como um dos casos de uso mai
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443022/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 O webinário apresentou duas ferramentas principais no Adobe Work Front para o gerenciamento de recursos: o Planejador de recursos e o Balanceador de carga de trabalho.
 

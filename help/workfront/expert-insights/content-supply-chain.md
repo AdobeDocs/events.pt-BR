@@ -1,6 +1,7 @@
 ---
-title: Insights de especialistas - Cadeia de fornecimento de conteúdo com Corre Kombol
-description: Conheça as estratégias especializadas da Corre Kombol para otimizar sua cadeia de fornecimento de conteúdo com as soluções da Adobe. Aumente a eficiência, a colaboração e os resultados.
+title: Insights de especialistas - Supply chain de conteúdo com Corre Kombol
+description: Conheça as estratégias especializadas da Corre Kombol para otimizar seu conteúdo do supply chain com as soluções da Adobe. Aumente a eficiência, a colaboração e os resultados.
+feature: Strategic Planning
 topic: Content Supply Chain
 speaker-name-1: Corre Kombol
 speaker-title-1: Principal Customer Success Manager
@@ -12,18 +13,18 @@ duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
 exl-id: f8600288-a19b-440c-b60d-94078014353e
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-# Insights de especialistas - Cadeia de fornecimento de conteúdo com Corre Kombol
+# Insights de especialistas - Supply chain de conteúdo com Corre Kombol
 
 Bem-vindo de volta ao Expert Insights!  Eu sou Cynthia Boon, sua gerente de sucesso do cliente da Workfront (CSM) &quot;sob demanda&quot;, e neste episódio, estamos acompanhados por Corre Kombol, uma gerente de sucesso do cliente principal aqui na Adobe!  
 
-A Corre é um CSM verdadeiramente estratégico que define o ritmo para nós sobre como usar as soluções da Adobe para apoiar os esforços da cadeia de fornecimento de conteúdo de sua organização. 
+A Corre é um CSM verdadeiramente estratégico que define o ritmo para usarmos as soluções da Adobe para apoiar os esforços de Supply chain de conteúdo de sua organização. 
 
 ## Conselhos do Core
 
@@ -31,18 +32,18 @@ A Corre é um CSM verdadeiramente estratégico que define o ritmo para nós sobr
 * Comece identificando os pontos de pintura do processo e vá de lá. Não deixe a tecnologia sobrecarregar o objetivo.
 * Conecte-se com outros clientes que estejam em uma jornada semelhante na Comunidade ou em Eventos! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469999/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
 ## Recursos
 
 ### Summit Sessions
 
-* [Como a Adobe otimizou sua cadeia de fornecimento de conteúdo - S316](https://business.adobe.com/br/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Explore a abordagem da Adobe para implantar sua cadeia de fornecimento de conteúdo em sua própria organização de marketing 
-* [Revolucionalizando a produção de conteúdo com o Adobe - S305](https://business.adobe.com/br/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Descubra como a Adobe pode maximizar sua cadeia de fornecimento de conteúdo e acelerar seu fluxo de trabalho criativo 
+* [Como a Adobe otimizou seu conteúdo Supply chain - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Explore a abordagem da Adobe para implantar seu conteúdo Supply chain em sua própria organização de marketing 
+* [Revolucionalizando a Produção de Conteúdo com o Adobe - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Descubra como a Adobe pode maximizar seu supply chain de conteúdo e acelerar seu fluxo de trabalho criativo 
 
 ### Demonstrações de produto
 
-* [Workfront](https://business.adobe.com/br/product-demos/workfront/interactive-tour.html) - porque é necessária uma [demonstração do produto] interativa para ilustrar o escopo do que pode existir em nossa solução de gerenciamento de trabalho da empresa.  
+* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - porque é necessária uma [demonstração do produto] interativa para ilustrar o escopo do que pode existir em nossa solução de gerenciamento de trabalho da empresa.  
 * [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - Adoro a abrangência desse processo para que nossos clientes comecem a vincular suas necessidades às soluções existentes atualmente na Adobe.
 
 ## Sobre o orador 

@@ -2,6 +2,7 @@
 title: Webinário de design de fluxo de trabalho e processo
 description: Saiba mais com seus colegas sobre os processos de dimensionamento no Workfront. Descubra por que documentar e projetar workflows fora do Workfront é crucial e obtenha dicas de especialistas da T-Mobile em nosso webinário sob demanda.
 feature: Work Management
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3714
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15817
 exl-id: 0355b630-0d15-460b-b434-79b846f216fd
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

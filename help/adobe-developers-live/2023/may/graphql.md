@@ -1,6 +1,7 @@
 ---
 title: Entenda as opções de desempenho da API do GraphQL e as otimizações de consulta
 description: Entenda as opções de desempenho da API do GraphQL e as otimizações de consultaSaiba como criar consultas eficientes do GraphQL, com base nas práticas recomendadas publicadas recentemente. A entrega de conteúdo headless com base no GraphQL pode ser rápida, mas também pode causar gargalos de desempenho em alguns casos. Tudo depende de como você desenvolve as consultas do GraphQL. Nesta sessão, você descobrirá detalhes dos recursos mais recentes do AEM GraphQL e como explorá-los para ajustar as consultas do GraphQL e obter um delivery eficiente de seu conteúdo!
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13362
 thumbnail: 3419948.jpeg
 exl-id: 47e32914-4899-48f5-91e7-598788adf361
 duration: 1713
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---

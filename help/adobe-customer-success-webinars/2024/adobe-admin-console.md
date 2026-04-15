@@ -1,6 +1,8 @@
 ---
 title: Dominar a Adobe Admin Console
 description: O Adobe Admin Console é uma plataforma centralizada para gerenciar as soluções corporativas da Adobe, oferecendo gerenciamento de usuários e produtos, recursos de segurança e conformidade, recursos de suporte e práticas recomendadas dimensionáveis para as organizações.
+feature: Analytics Basics, Analysis Workspace
+topic: Integrations, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 2767
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16630
 exl-id: 2a604f0f-d422-4a7d-8e72-bd38dfca7bf0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -21,7 +23,7 @@ Este webinário fornecerá uma visão geral abrangente da navegação na Adobe A
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440937/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 * **Visão geral da Adobe Admin Console** A Admin Console é uma plataforma centralizada para gerenciar Soluções Empresariais da Adobe, integrando-se com a Creative Cloud, a Document Cloud e a Experience Cloud.
 

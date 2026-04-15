@@ -2,6 +2,8 @@
 title: Saiba como se inscrever e se destacar como especialista
 description: Junte-se à equipe de marketing de adoção da Adobe e aos atuais especialistas em Adobe para um webinário exclusivo em que guiaremos você pelo programa e compartilharemos dicas sobre o envio de um aplicativo de destaque.
 solution: General
+feature: Developer Tools
+topic: Development
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3519
 last-substantial-update: 2025-05-20T00:00:00Z
 jira: KT-18134
 exl-id: 57953e9b-2bed-4b5b-b345-84f00f2801ff
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

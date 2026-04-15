@@ -2,19 +2,20 @@
 title: Especialização em notificações por email no Adobe Workfront
 description: Descubra as práticas recomendadas para gerenciar notificações por email do Adobe Workfront para manter as equipes informadas, reduzir o ruído e melhorar a eficiência da comunicação.
 feature: Updates and Notifications
+topic: Performance
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3756
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18627
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 801730b2-2056-4f55-986a-6f06c7d27d27
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
-
 
 # Especialização em notificações por email no Adobe Workfront
 
@@ -24,8 +25,8 @@ Esse workshop interativo de 1 hora foi gravado em 7 de maio de 2025 e apresentou
 
 Juntamente com a gravação sob demanda, incluímos o conjunto de slides e dicas que foram compartilhadas no bate-papo: 
 
-* [PDF do Baralho de Slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
-* [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745?profile.language=pt)
+* [PDF de apresentação de slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
+* [Publicação da comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745)
 
 E aqui está um breve resumo das dicas que foram compartilhadas no bate-papo: 
 
@@ -36,4 +37,4 @@ E aqui está um breve resumo das dicas que foram compartilhadas no bate-papo: 
 * Se os usuários não estiverem recebendo notificações (por email), você sempre terá a opção de fazer logon, pois eles têm a opção de confirmar que a notificação está ativada em seus perfis. Entre em contato com o Suporte ao cliente se você ficar preso!   
 * Considere desativar os emails associados às alterações de status. Eles estão causando mais ruído do que uma ação informativa?  
 
-Esperamos vê-lo em futuros workshops de Sucesso do cliente!  Verifique os [Eventos do Workfront](https://experienceleague.adobe.com/events/?lang=pt-BR&filters=Workfront) no Experience League para obter a lista completa e para se registrar.
+Esperamos vê-lo em futuros workshops de Sucesso do cliente!  Verifique os [Eventos do Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) no Experience League para obter a lista completa e para se registrar.

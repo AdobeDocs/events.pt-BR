@@ -2,13 +2,15 @@
 title: Dicas e truques - Campos calculados que todos devem saber
 description: Você já se viu rolando por várias páginas de um fluxo de atualização de projeto apenas para encontrar a data em que o projeto foi movido para Atual? Isso é ótimo ... (as descrições devem ter entre 60 e 160 caracteres)
 solution: Workfront
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10316
 thumbnail: 342526.jpeg
 exl-id: 8e7d31e2-78f5-4f02-a85d-f438880a5664
 duration: 1955
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%

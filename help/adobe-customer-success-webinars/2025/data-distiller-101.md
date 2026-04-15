@@ -2,6 +2,8 @@
 title: Data Distiller 101
 description: O webinário Data Distiller 101 destaca seus recursos na segmentação de dados, enriquecimento e integração AI/ML, oferecendo soluções escaláveis para arquitetos de dados e entidades de marketing para aprimorar a tomada de decisões orientadas por dados.
 solution: Experience Platform
+feature: AI Assistant, Personalization
+topic: Personalization, Integrations, Development
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,10 +11,10 @@ duration: 2659
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17375
 exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +30,7 @@ Essa visão geral do destilador de dados demonstrará como superar os desafios c
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444454/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 ### Visão geral e finalidade do Data Distiller
 

@@ -4,28 +4,29 @@ description: Saiba como os novos processos automatizados podem ajudar você a mo
 jira: KT-14746
 solution: Analytics,Customer Journey Analytics
 feature: Experience Cloud Integration
+topic: Integrations, Migration, Administration
 event-cta-url-live: https://www.youtube.com/watch?v=BkAjaMPgpgE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
 event-start-time: 2024-01-17 10:00-7
 event-guests: Doug Moore,Eric Matisoff,Bryan Skelton
 exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
 duration: 3655
-source-git-commit: a004d7aa2c01ccd1d4d65749c4aa0440290f8023
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 0%
+source-wordcount: '413'
+ht-degree: 6%
 
 ---
 
 # Trazer seus dados e análises do Adobe Analytics para o Customer Journey Analytics
 
-Junte-se a Bryan, Eric e Doug enquanto discutem como começar rapidamente a usar o Customer Journey Analytics (CJA). Você aprenderá a usar processos automatizados para mover dados e análises do Adobe Analytics para o CJA, bem como sobre quaisquer armadilhas a serem consideradas durante o processo. E é claro, eles terão uma boa dose de dicas e truques divertidos pelo caminho.
+Junte-se a Bryan, Eric e Doug enquanto discutem como começar rapidamente a usar o Customer Journey Analytics (CJA). Você aprenderá como usar processos automatizados para mover dados e análises do Adobe Analytics para o CJA, além das armadilhas a serem consideradas durante o processo. E é claro, eles terão uma boa dose de dicas e truques divertidos pelo caminho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
 >[!BEGINSHADEBOX &quot;Tem dúvidas?&quot;]
 
-Continue a discussão na [discussão do Fórum da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=pt#M3582).
+Continue a discussão na [discussão do Fórum da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
 
 >[!ENDSHADEBOX]
 

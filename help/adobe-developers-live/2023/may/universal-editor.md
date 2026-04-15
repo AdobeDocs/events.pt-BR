@@ -1,6 +1,7 @@
 ---
 title: Criar qualquer item com o Universal Editor
-description: Crie qualquer coisa com o Universal EditorEntenda como seus próprios aplicativos headless existentes podem instrumentar facilmente o UE para trazer edição de contexto de baixa fricção para a ponta dos dedos de seus autores. O Editor universal é a próxima geração do editor de páginas em contexto AEM e resolve as limitações atuais do editor de páginas AEM ou SPA. Ele é independente de estruturas, mecanismos de renderização e fontes de dados, proporcionando toda a liberdade que os desenvolvedores buscam e tornando-o realmente universal. Tudo o que é necessário é um HTML renderizado com a instrumentação necessária, mas permite que a implementação ainda seja totalmente dissociada do AEM. Nesta sessão, você será apresentado ao novo editor universal, abordaremos os recursos disponíveis no momento e uma demonstração mostrará como um aplicativo simples pode se tornar editável no editor universal.
+description: Crie qualquer coisa com o Universal EditorEntenda como seus próprios aplicativos headless existentes podem instrumentar facilmente o UE para trazer edição de contexto de baixa fricção para a ponta dos dedos de seus autores. O Editor universal é a próxima geração do editor de páginas em contexto do AEM e resolve as limitações atuais do Editor de páginas do AEM ou do Editor SPA. Ele é independente de estruturas, mecanismos de renderização e fontes de dados, proporcionando toda a liberdade que os desenvolvedores buscam e tornando-o realmente universal. Tudo o que ele exige é um HTML renderizado com a instrumentação necessária, mas permite que a implementação ainda seja totalmente dissociada do AEM. Nesta sessão, você será apresentado ao novo editor universal, abordaremos os recursos disponíveis no momento e uma demonstração mostrará como um aplicativo simples pode se tornar editável no editor universal.
+feature: Authoring
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13357
 thumbnail: 3419942.jpeg
 exl-id: 23b7f06f-e544-4bc5-8583-1333de27cc17
 duration: 1758
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 Criar qualquer item com o Universal Editor
 
-Entenda como seus próprios aplicativos headless existentes podem instrumentar facilmente o UE para trazer edição de contexto de baixa fricção para a ponta dos dedos de seus autores. O Editor universal é a próxima geração do editor de páginas em contexto AEM e resolve as limitações atuais do editor de páginas AEM ou SPA. Ele é independente de estruturas, mecanismos de renderização e fontes de dados, proporcionando toda a liberdade que os desenvolvedores buscam e tornando-o realmente universal. Tudo o que é necessário é um HTML renderizado com a instrumentação necessária, mas permite que a implementação ainda seja totalmente dissociada do AEM. Nesta sessão, você será apresentado ao novo editor universal, abordaremos os recursos disponíveis no momento e uma demonstração mostrará como um aplicativo simples pode se tornar editável no editor universal. → Continue a conversa em: https://adobe.ly/3njEDyy
+Entenda como seus próprios aplicativos headless existentes podem instrumentar facilmente o UE para trazer edição de contexto de baixa fricção para a ponta dos dedos de seus autores. O Editor universal é a próxima geração do editor de páginas em contexto do AEM e resolve as limitações atuais do Editor de páginas do AEM ou do Editor SPA. Ele é independente de estruturas, mecanismos de renderização e fontes de dados, proporcionando toda a liberdade que os desenvolvedores buscam e tornando-o realmente universal. Tudo o que ele exige é um HTML renderizado com a instrumentação necessária, mas permite que a implementação ainda seja totalmente dissociada do AEM. Nesta sessão, você será apresentado ao novo editor universal, abordaremos os recursos disponíveis no momento e uma demonstração mostrará como um aplicativo simples pode se tornar editável no editor universal. → Continue a conversa em: https://adobe.ly/3njEDyy
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419942/?learn=on)

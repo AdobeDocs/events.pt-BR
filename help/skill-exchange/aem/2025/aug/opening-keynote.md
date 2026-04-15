@@ -1,7 +1,8 @@
 ---
 title: Palestra de abertura do Adobe Experience Manager
-description: Descubra como o Adobe Experience Manager está evoluindo com a IA. Explore fluxos de trabalho agênicos, pesquisa de IA, personalização em escala e otimização de conteúdo mais inteligente.
+description: Descubra como o Adobe Experience Manager está evoluindo com a IA. Explore fluxos de trabalho agênicos, Pesquisas com IA, personalização em escala e otimização de conteúdo mais inteligente.
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
 topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-03T00:00:00Z
 jira: KT-18861
-source-git-commit: 247ffab879bedf7d4e0d5258325d63af2916684a
+exl-id: eafba020-b895-4100-9f63-760787eb97f6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Abrindo Palestra
 
@@ -25,7 +26,7 @@ Junte-se a Haresh Kumar, chefe de estratégia e produto do Adobe Experience Mana
 
 * Como os agentes de IA e o Experience Hub otimizam a geração de conteúdo e os fluxos de trabalho.
 * A função da ativação orientada por IA para fornecer o conteúdo correto em todos os canais e dispositivos.
-* Como a pesquisa de IA melhora a descoberta, a reutilização e a velocidade do conteúdo de ativos.
+* Como o Pesquisa com IA melhora a descoberta, a reutilização e a velocidade do conteúdo de ativos.
 * Novas ferramentas de otimização, como o Sites Optimizer e o Content Advisor, para melhorar o engajamento e a conversão.
 * Como dimensionar a personalização individualizada de forma segura e eficaz.
 

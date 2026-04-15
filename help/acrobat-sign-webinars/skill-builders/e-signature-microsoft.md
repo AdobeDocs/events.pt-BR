@@ -2,6 +2,7 @@
 title: Trabalhar com assinaturas eletrônicas em aplicativos Microsoft
 description: Expanda a forma como você usa seus aplicativos do Microsoft, como Word, Outlook e Sharepoint, adicionando o Adobe Acrobat Sign aos fluxos de trabalho existentes.
 feature: Sign, Integrations
+topic: Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1352
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15294
 exl-id: cee60efb-793c-45d5-bfe4-bfede95c357c
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Expanda a forma como você usa seus aplicativos do Microsoft, como Word, Outlook e Sharepoint, adicionando o Adobe Acrobat Sign aos fluxos de trabalho existentes. Esta sessão ensina como começar a simplificar processos de documentos em aplicativos comuns do Microsoft para que você não precise alternar o contexto apenas para obter uma assinatura ou verificar um status.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455055/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3428185/?learn=on)
 
 ## Quais aplicativos são compatíveis com a integração do Acrobat Sign?
 
@@ -39,7 +40,7 @@ Para instalar e usar o suplemento Acrobat Sign para Outlook, siga estas etapas,
 * Na janela &quot;Obter suplementos&quot;, pesquise por &quot;Acrobat Sign&quot; na barra de pesquisa.
 * Clique no suplemento &quot;Acrobat Sign&quot; e selecione &quot;Adicionar&quot; para instalá-lo.
 * Depois de instalado, clique em &quot;Introdução&quot; para acessar o suplemento.
-* O suplemento fornecerá opções como &quot;Preencher e Assinar&quot;, &quot;Send for Signature&quot; e &quot;Status do Contrato&quot; na faixa inicial do Outlook.
+* O suplemento fornecerá opções como &quot;Preencher e assinar&quot;, &quot;Enviar para assinatura&quot; e &quot;Status do contrato&quot; na faixa inicial do Outlook.
 * Use essas opções para assinar documentos, iniciar fluxos de trabalho de assinatura e acompanhar o status de contratos diretamente do Outlook.
 * Para configurar o suplemento, clique em &quot;Mais opções&quot; na janela do suplemento para acessar configurações adicionais e opções de personalização.
 * Siga os prompts e as instruções fornecidas pelo suplemento para concluir o processo de instalação e configuração.

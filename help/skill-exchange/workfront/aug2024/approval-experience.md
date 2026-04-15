@@ -2,19 +2,21 @@
 title: A maneira positiva de comprovar para melhorar sua experiência de aprovação
 description: Como encontrar e configurar as permissões de prova ideais em sua instância para minimizar notificações para seus usuários Exemplos práticos para treinar seus usuários como usar a prova de forma consistente Como usar os relatórios do Workfront para rastrear o processo de aprovação e manter as partes interessadas informadas a cada etapa do caminho Um olhar à frente para como a Monique espera evoluir seu processo ainda mais com a integração do Frame.io
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2084
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16101
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: c41bb2ad-001d-43f7-90a4-40fda4c63523
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # A maneira positiva de comprovar para melhorar sua experiência de aprovação
 

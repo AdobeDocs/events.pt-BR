@@ -1,6 +1,8 @@
 ---
 title: Ciclos de vida do lead
 description: Saiba como envolver e criar leads com eficiência com um modelo de ciclo de vida de lead estratégico nesta sessão de aprofundamento, que apresenta conselhos de um especialista da Marketo sobre como evitar armadilhas comuns ao herdar, refinar ou projetar um novo modelo.
+feature: Programs, Reporting
+topic: Development
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -9,7 +11,7 @@ jira: KT-13697
 thumbnail: KT-13697.jpeg
 exl-id: 03258f9b-ca5d-406b-a260-e41bc04396f8
 duration: 2916
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

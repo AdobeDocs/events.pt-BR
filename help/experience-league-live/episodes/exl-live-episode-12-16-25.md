@@ -4,16 +4,17 @@ description: Desenvolvido pela Adobe Experience Platform Agent Orchestrator, o A
 kt: KT-19794
 solution: Experience Platform
 feature: AI Assistant
+topic: Artificial Intelligence, Personalization
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
+exl-id: c3c692a3-ab71-428d-9811-2226dd322f94
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
-
 
 # Simplifique a solução de problemas e o gerenciamento de casos de suporte com o Agente de suporte ao produto
 
@@ -28,4 +29,4 @@ Veja esta sessão ao vivo onde a equipe de produtos por trás do Agente de supor
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[Mantenha a discussão em andamento na discussão da comunidade!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=pt#M1909){target="_blank"}
+[Mantenha a discussão em andamento na discussão da comunidade!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}

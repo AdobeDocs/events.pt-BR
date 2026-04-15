@@ -1,7 +1,9 @@
 ---
 title: Mostrar seu impacto na Jornada do cliente - Aproveite o Gerenciamento do ciclo de vida e o Analytics da Marketo Engage
-description: Ao rastrear a jornada do cliente no Marketo Engage, as equipes de marketing podem obter insights acionáveis abrangendo — a rapidez com que os clientes potenciais são convertidos, se as MQLs estiverem sendo envolvidas pelas vendas e a taxa de ganhos — aumentando, assim, a influência na geração de leads e no pipeline. Junte-se a nós ao vivo enquanto o ensinamos a definir estágios de jornada do cliente, configurar um programa de gerenciamento de ciclo de vida e usar funcionalidades nativas para obter insights que respondam a perguntas importantes sobre relatórios.    Nesta sessão, você aprenderá   Como definir uma jornada do cliente, da percepção à decisão, identificando como capturar leads na parte superior do funil e movê-los para a parte inferior do funil    Práticas recomendadas de rastreamento, incluindo a configuração do Programa de Gerenciamento do Ciclo de Vida, Campanhas inteligentes para mover registros entre estágios e a criação de Campos Personalizados para rastrear estágios e datas   Dicas de relatórios usando funcionalidades nativas, como Relatórios de desempenho de pessoas com colunas de oportunidade, para ajudar você a responder perguntas sobre a função que a qualificação de marketing desempenha na geração de receita de pipeline
+description: Ao rastrear a jornada do cliente no Marketo Engage, as equipes de marketing podem obter insights acionáveis abrangendo — a rapidez com que os clientes potenciais são convertidos, se as MQLs estiverem sendo envolvidas pelas vendas e a taxa de ganhos — aumentando, assim, a influência na geração de leads e no pipeline. Junte-se a nós ao vivo enquanto o ensinamos a definir estágios de jornada do cliente, configurar um programa de gerenciamento de ciclo de vida e usar funcionalidades nativas para obter insights que respondam a perguntas importantes sobre relatórios.    Nesta sessão, você aprenderá   Como definir uma jornada do cliente, da percepção à decisão, identificando como capturar leads na parte superior da funnel e movê-los para a parte inferior da funnel    Práticas recomendadas de rastreamento, incluindo a configuração do Programa de Gerenciamento do Ciclo de Vida, Campanhas inteligentes para mover registros entre estágios e a criação de Campos Personalizados para rastrear estágios e datas   Dicas de relatórios usando funcionalidades nativas, como Relatórios de desempenho de pessoas com colunas de oportunidade, para ajudar você a responder perguntas sobre a função que a qualificação de marketing desempenha na geração de receita de pipeline
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Performance, Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 2447
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16002
 exl-id: d1d2bbdb-1020-4a9f-8f9f-13363776d03b
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -22,7 +24,7 @@ Ao rastrear a jornada do cliente no Marketo Engage, as equipes de marketing pode
 
 Nesta sessão, você aprenderá:
 
-* Como definir uma jornada do cliente: da percepção à decisão, identificando como você captura leads na parte superior do funil e movendo-os para a parte inferior do funil
+* Como definir uma jornada do cliente: da percepção à decisão, identificando como você captura leads na parte superior da funnel e os movendo para a parte inferior da funnel
 * Práticas recomendadas de rastreamento, incluindo: Configuração do programa Lifecycle Management, Campanhas inteligentes para mover registros entre estágios e criação de Campos personalizados para rastrear estágios e datas
 * Dicas de relatórios usando funcionalidades nativas, como: Relatórios de desempenho de pessoas com colunas de oportunidade para ajudar você a responder perguntas sobre a função que a qualificação de marketing desempenha na geração de receita de pipeline
 

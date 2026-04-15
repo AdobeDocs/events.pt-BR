@@ -1,19 +1,21 @@
 ---
 title: Luzes, dados, Insight - Descobrindo a história por trás de cada Jornada
 description: Saiba como o AEP e o CJA unificam dados, compilam identidades e ativam insights para personalização em tempo real e jornadas mais inteligentes do cliente.
+feature: Basics, Use Cases
+topic: Personalization, Integrations, Security
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18811
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 31d09a38-1410-4301-b46f-174e7bd6ac7c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # Luzes, dados, Insight: descobrindo a história por trás de cada Jornada
 

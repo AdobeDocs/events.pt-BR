@@ -2,6 +2,7 @@
 title: Como as equipes de marketing estão aprimorando as estratégias de gerenciamento de dados
 description: Uma quantidade infinita de informações do usuário pode ser benéfica, mas a maioria das empresas se depara com a captura eficiente de dados em escala e em tempo real para informar as decisões de negócios.
 feature: Identities
+topic: Performance
 solution: Real-Time Customer Data Platform
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -9,9 +10,9 @@ kt: 9726
 thumbnail: 340371.jpg
 exl-id: a7c69c69-d3d1-46ff-abe6-25a6e30c0ffd
 duration: 2962
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

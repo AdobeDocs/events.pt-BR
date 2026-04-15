@@ -3,19 +3,20 @@ title: Sessões técnicas - Subdomínio do Adobe Campaign e gerenciamento de SSL
 description: Saiba como delegar e configurar subdomínios no Painel de controle do Adobe Campaign, configurar certificados SSL e monitorar a configuração para garantir a capacidade de entrega segura de emails.
 solution: Campaign
 feature: Subdomains and Certificates
+topic: Security, Certification, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3409
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-18866
-source-git-commit: 18ce421793d97372198151afc92b24f3bed053a8
+exl-id: 2ccb1f70-17fe-444e-b819-2e6daeb8f79d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
-
 
 # Sessões técnicas: Subdomínio do Adobe Campaign e gerenciamento de SSL no Painel de controle do Campaign
 

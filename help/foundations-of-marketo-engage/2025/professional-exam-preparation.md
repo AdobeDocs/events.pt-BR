@@ -1,19 +1,21 @@
 ---
 title: Grupo de usuários do Foundational Marketo - Preparação para o exame profissional
 description: Obtenha orientação de especialistas, dicas de estudos e suporte de aprendizado alimentado por IA para participar do exame profissional do Marketo Engage com confiança nesta sessão de preparação focada.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Performance, Certification
 role: User
 level: Beginner
 doc-type: Event
 duration: 3115
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19483
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: dc33d6a9-1675-4791-a9f2-a64251f346bd
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Grupo de usuários do Foundational Marketo: Preparação para exames profissionais
 
@@ -40,4 +42,3 @@ A combinação dessas estratégias garante uma preparação completa, aumentando
 * **Conteúdo de Especialista e Grupo de Usuários** Revise blogs, gravações e discussões para obter dicas práticas e explicações no nível do exame.
 
 Esses recursos fornecem uma base sólida e suporte contínuo em toda a jornada de certificação.
-

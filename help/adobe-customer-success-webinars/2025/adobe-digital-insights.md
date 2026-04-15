@@ -2,6 +2,8 @@
 title: Insights digitais da Adobe - Revelação dos resultados das festas de 2024 e tendências do início de 2025
 description: Junte-se ao webinário da Adobe para obter insights sobre as tendências de compras de feriados de 2024 e as previsões de mercado do início de 2025, explorar categorias de produtos de alto crescimento e conhecer as práticas recomendadas para criar experiências de compras personalizadas usando IA e tecnologias avançadas.
 solution: General
+feature: Generative AI, Personalization
+topic: Artificial Intelligence, Personalization, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
 exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -29,7 +31,7 @@ Prepare-se para inaugurar a temporada de festas de 2024 com insights de última 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446271/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 * **Desempenho da temporada de festas de 2024** A temporada de festas de 2024 teve um crescimento anual de 8,7%, com um recorde de US$ 241,4 bilhões em gastos, contribuindo com um total de US$ 1,05 trilhão no ano. Os principais impulsionadores incluíam sensibilidade a preços, canais sociais e de marketing e compras por dispositivos móveis.
 

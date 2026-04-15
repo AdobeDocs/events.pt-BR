@@ -2,6 +2,8 @@
 title: ROI do Adobe Analytics
 description: Junte-se a nós conforme destacamos Mandy George & Kaya Walton, dois clientes especialistas e usuários do Adobe Analytics. Cada um deles compartilhará sua melhor dica ou truque do Adobe Analytics. A sessão é seguida pela oportunidade de fazer perguntas ao vivo. Você não vai querer perder isso.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,7 +12,7 @@ kt: 11534
 thumbnail: 3411898.jpeg
 exl-id: 593550f8-ddc9-4552-a7d2-b96d7522fa20
 duration: 2244
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%

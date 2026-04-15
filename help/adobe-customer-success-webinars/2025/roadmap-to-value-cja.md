@@ -3,19 +3,20 @@ title: Roteiro para a obtenção de valor com o CJA
 description: Descubra o valor total da CJA com roteiros de casos de uso, exemplos reais e etapas para impulsionar decisões estratégicas orientadas por dados.
 solution: Customer Journey Analytics
 feature: Use Cases
+topic: Integrations, Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3523
 last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-18546
-source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
+exl-id: 6df2bdc8-841e-4c7a-8475-158e338fb3e4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Roteiro para a obtenção de valor com o CJA
 

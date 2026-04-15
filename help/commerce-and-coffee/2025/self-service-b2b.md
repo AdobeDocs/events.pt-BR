@@ -3,6 +3,7 @@ title: Commerce & Coffee - a ascensão do autoatendimento em B2B
 description: Melhore as experiências B2B com o Adobe Commerce! Descubra recursos como catálogos compartilhados, gerenciamento de empresas, cotação e ferramentas de autoatendimento. Saiba mais sobre os recursos de IA e as tendências B2B. Implementar práticas recomendadas para autoatendimento e melhorar a experiência do cliente. Associe-se à Adobe Summit para obter mais insights e recursos.
 solution: Commerce
 feature: B2B
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3636
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17514
 exl-id: aa349efe-d8ec-476b-9b1d-6e202193a229
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Comece o ano com os nossos especialistas residentes em Commerce, Corey Gelato e 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451619/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 ### Recursos do Adobe Commerce em destaque
 

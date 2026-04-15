@@ -5,13 +5,15 @@ role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Workfront
+feature: System Setup and Administration
+topic: Commerce
 duration: 3641
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15820
 exl-id: 742737b9-4177-4a21-a883-ba6b67d67195
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -26,6 +28,6 @@ Neste webinário sob demanda, Jace Newbold, gerente de consultoria da Workfront 
 * O que cada administrador deve fazer hoje para definir seu futuro próprio (e futuros administradores) para o sucesso
 * Uma lista de verificação que pode ser baixada com perguntas, recursos e links para orientá-lo pelo processo de auditoria e documentação da sua instância
 
-Verifique também a Lista de verificação e o Blueprint da instância herdada: https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Verifique também a Lista de verificação e o Blueprint da instância herdada: https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

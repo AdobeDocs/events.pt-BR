@@ -2,19 +2,21 @@
 title: Como aproveitar a arquitetura NorthStar para possibilitar a visão da Adobe Journey Optimizer
 description: Saiba como aproveitar uma arquitetura NorthStar pode ajudar a diagnosticar lacunas na implementação e manter o alinhamento organizacional em torno da AJO e de todo o conjunto de soluções da Adobe.
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Personalization, Content Supply Chain, Development
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3226
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19522
-source-git-commit: 1e74aaa6e67ae372bb6811ebaeac5459353942eb
+exl-id: 19046906-cc6f-41bc-86dd-535dcd3641ad
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # Como aproveitar a arquitetura NorthStar para possibilitar a visão da Adobe Journey Optimizer
 
@@ -45,4 +47,3 @@ Os diagramas de arquitetura Northstar mapeiam os componentes de tecnologia essen
 * **Destinos** Especifica canais como email, SMS, Web e mensagens no aplicativo.
 
 Cada componente é personalizado ao setor e aos casos de uso da organização, garantindo que a arquitetura atenda às necessidades atuais e futuras dos negócios.
-

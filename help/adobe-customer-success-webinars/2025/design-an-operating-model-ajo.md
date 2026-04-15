@@ -2,19 +2,21 @@
 title: Criação de um modelo operacional para o sucesso do AJO
 description: Saiba como um modelo operacional coeso aumenta a eficiência, evita desafios de recursos e dimensiona seu programa de marketing para o sucesso a longo prazo.
 solution: Journey Optimizer
+feature: Email Design
+topic: Personalization, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3581
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19551
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 7c10159b-9ae3-447d-8cfa-e46802e63ea8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
-
 
 # Criação de um modelo operacional para o sucesso do AJO
 
@@ -51,4 +53,3 @@ A governança sólida e a evolução das estruturas das equipes são fundamentai
    * **Incorporados** 15-20 membros especializados, alta escalabilidade, treinamento contínuo.
 
 Uma governança clara e a maturidade da equipe impulsionam uma entrega consistente e resultados mensuráveis.
-

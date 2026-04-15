@@ -4,6 +4,7 @@ description: A sessão de Noções básicas de criação do AEM abordou os princ
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
+topic: Headless, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -11,9 +12,9 @@ duration: 3248
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16416
 exl-id: 5966c14a-7adb-48d8-bf20-9fb4a350745f
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '312'
 ht-degree: 1%
 
 ---
@@ -25,12 +26,12 @@ Descubra como o AEM oferece um ambiente de criação robusto e flexível que ofe
 ## Pontos principais de discussão
 
 * Criação incluindo o editor universal
-* Fragmento de conteúdo
+* Fragmento do conteúdo
 * Recursos colaborativos
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435747/?learn=on)
 
-## Principais pontos
+## Principais lições
 
 ### Noções básicas de criação no AEM
 

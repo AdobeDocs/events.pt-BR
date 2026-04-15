@@ -2,6 +2,7 @@
 title: Automações de fluxo de trabalho possibilitadas pelo Microsoft Power Automate
 description: Aproveite todos os recursos de automação com a solução de baixo código/sem código da Microsoft, o Power Automate, diretamente na Adobe Acrobat Sign.
 feature: Integrations
+topic: Integrations, Development
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
 exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Aproveite todos os recursos de automação com a solução de baixo código/sem código da Microsoft, o Power Automate, diretamente na Adobe Acrobat Sign. Saiba como os não desenvolvedores têm o poder e a flexibilidade para criar workflows da próxima geração. Nesta sessão, você aprenderá a: configurar a integração do fluxo de trabalho para começar Impulsione sua criação de fluxo de trabalho com modelos pré-fabricados Aproveite um vasto ecossistema de conectores para integrar o Acrobat Sign aos seus aplicativos em pacotes e personalizados Aumente a produtividade e estenda os recursos do Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454929/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3428194/?learn=on)
 
 ## Mais detalhes sobre o Power Automate
 

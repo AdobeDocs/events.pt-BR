@@ -2,6 +2,8 @@
 title: Pergunte-me qualquer coisa
 description: Junte-se ao último webinário interativo do ano da Adobe com Kate Kolbert e James Letham, que aborda a otimização de webinários, atualizações de programas, recursos subutilizados do Marketo, práticas recomendadas de marketing por email, gerenciamento de banco de dados, permissões de usuário, sincronização Marketo-Salesforce, envolvimento de chat dinâmico e estágios do ciclo de vida.
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
 exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -32,5 +34,5 @@ A transcrição detalha uma sessão final de webinar interativo do ano realizada
 * **Permissões de usuário** Restrinja as permissões do usuário para impedir envios de emails em massa não autorizados e defina limites de campanha inteligente como uma medida de segurança.
 * **Sincronização Marketo-Salesforce** Evite conceder ao administrador de usuários da sincronização do Marketo no Salesforce para impedir a sobrecarga de dados e garantir uma sincronização eficiente.
 * **Envolvimento do Dynamic Chat** otimize a implantação do bot de chat avaliando a inserção da página, simplificando as interações do usuário e direcionando o público-alvo correto.
-* **Estágios do Ciclo de Vida e Gerenciamento de Funil** Defina estágios do ciclo de vida claros, garanta o alinhamento com as vendas e evite que clientes potenciais recuem no funil.
+* **Estágios do ciclo de vida e Gerenciamento do Funnel** Defina estágios do ciclo de vida claros, garanta o alinhamento com as vendas e evite que clientes potenciais recuem no funnel.
 * **Limites de envio de email** A taxa máxima geral de envio de email é de 1 milhão de emails por hora, com limites mais altos disponíveis para compra, se necessário.

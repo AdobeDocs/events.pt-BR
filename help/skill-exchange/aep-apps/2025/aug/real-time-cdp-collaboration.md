@@ -2,19 +2,21 @@
 title: Aproveite ao máximo seus investimentos em mídia com o Real-Time CDP Collaboration da Adobe
 description: Saiba como usar o Adobe Real-Time CDP Collaboration para ativar, medir e otimizar campanhas de CTV com editores premium e dados primários.
 solution: Experience Platform, Real-Time Customer Data Platform, Real-Time Customer Data Platform Collaboration
+feature: Audiences
+topic: Security, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18848
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: e5632e05-e6e8-4b00-9037-a065ed80da54
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
-
 
 # Aproveite ao máximo seus investimentos em mídia com o Real-Time CDP Collaboration da Adobe
 

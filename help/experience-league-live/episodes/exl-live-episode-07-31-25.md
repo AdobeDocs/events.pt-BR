@@ -4,21 +4,22 @@ description: Saiba como as integrações mais recentes do Adobe Experience Manag
 kt: KT-18261
 solution: Journey Optimizer
 feature: Fragments, Integrations, Email Design, Personalization
+topic: Personalization, Integrations, Security
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-07-31 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Jyothitha Chandran, Kaitlin White
 last-substantial-update: 2025-07-31T00:00:00Z
 exl-id: 0accdf09-75c4-4ec7-b892-93c5d39c1bc5
-source-git-commit: 53783552b0f98d5bdb3178ae76879df08af8ac23
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 0%
+source-wordcount: '285'
+ht-degree: 14%
 
 ---
 
 # Abastecimento de conteúdo personalizado no Journey Optimizer com fragmentos de conteúdo do AEM e Dynamic Media
 
-Nesta sessão, Jyothitha Chandran, Chris Ivory e Kaitlin White mostraram como o Adobe Journey Optimizer (AJO) se integra perfeitamente aos fragmentos de conteúdo do Sites do Adobe Experience Manager (AEM) e ao AEM Assets Dynamic Media para oferecer personalização escalável e em tempo real em todos os canais.
+Nesta sessão, Jyothitha Chandran, Chris Ivory e Kaitlin White mostraram como o Adobe Journey Optimizer (AJO) se integra perfeitamente aos fragmentos de conteúdo de sites do Adobe Experience Manager (AEM) e ao AEM Assets Dynamic Media para oferecer personalização expansível e em tempo real em todos os canais.
 
 Descubra como agora você pode reutilizar fragmentos de conteúdo do AEM diretamente no AJO para simplificar a entrega de conteúdo, eliminar a duplicação e garantir a consistência por email, Web, push e muito mais. Saiba como a integração do Dynamic Media capacita os profissionais de marketing a criar visuais hiperpersonalizados, como imagens personalizadas com sobreposições de texto em tempo real, usando ativos centralizados que são atualizados instantaneamente em várias campanhas.
 

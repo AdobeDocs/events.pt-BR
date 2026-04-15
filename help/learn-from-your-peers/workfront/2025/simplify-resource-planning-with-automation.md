@@ -2,19 +2,20 @@
 title: Simplifique o planejamento de recursos com automação
 description: Saiba como a Deloitte usa o Fusion para automatizar o planejamento de recursos e o rastreamento de PTO no Workfront. Descubra dicas do mundo real para aumentar a precisão, a visibilidade e a adoção pela equipe.
 feature: Resource Management, Strategic Planning
+topic: Administration, Integrations
 role: Admin
 level: Intermediate
 doc-type: Event
 duration: 3587
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19421
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+exl-id: b059479a-bc5b-417d-a2c7-6ce6ea6b0c5e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # Simplifique o planejamento de recursos com automação
 
@@ -39,4 +40,3 @@ Descubra como as principais equipes estão simplificando o planejamento de recur
 * **Envolvimento das partes interessadas** A Collaboration e a solução criativa de problemas foram cruciais para adaptar as soluções às necessidades da equipe.
 
 Adotar a automação não apenas reduz o esforço manual, mas também permite que as equipes gerenciem recursos com mais eficiência e se adaptem às demandas crescentes do projeto.
-

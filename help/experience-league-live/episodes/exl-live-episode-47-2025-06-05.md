@@ -4,22 +4,22 @@ description: Crie, colabore e ative com o Adobe Journey Optimizer, o Adobe Expre
 kt: KT-18093
 solution: Journey Optimizer
 feature: Integrations, Email Design, Personalization
+topic: Personalization, Integrations, Security
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-06-05 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
 last-substantial-update: 2025-06-06T00:00:00Z
 exl-id: 0f8157a2-b0d1-4d46-a682-0268dadb65c5
-source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 32%
 
 ---
 
-
 # Fluxos de trabalho ágeis para conteúdo personalizado em escala
 
-Nesta sessão, os especialistas da Adobe Chris Ivory, Amarnath Vannarath e Rohan Bhatt demonstram como o Adobe Journey Optimizer (AJO) se integra perfeitamente ao Adobe Express e ao GenStudio for Performance Marketing. Saiba como essas ferramentas oferecem flexibilidade, colaboração e criatividade baseada em IA inigualáveis aos seus fluxos de trabalho de marketing.
+Nesta sessão, Chris Ivory, Amarnath Vannarath e Rohan Bhatt, especialistas da Adobe, demonstram como o Adobe Journey Optimizer (AJO) se integra perfeitamente ao Adobe Express e ao GenStudio for Performance Marketing. Saiba como essas ferramentas adicionam flexibilidade, colaboração e criatividade baseada em IA inigualáveis aos seus fluxos de trabalho de marketing.
 
 Independentemente de suas equipes estarem criando conteúdo diretamente no AJO, fazendo brainstorming com o GenStudio for Performance Marketing ou criando ativos no Express, esta sessão demonstrará como as soluções da Adobe se adaptam e aceleram os fluxos de trabalho de conteúdo, ajudando você a dar vida às campanhas com mais rapidez do que nunca.
 

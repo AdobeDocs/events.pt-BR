@@ -1,19 +1,21 @@
 ---
 title: Pitch Perfect - Definindo e comunicando o valor do Workfront
 description: Trabalhamos com slides juntos para criar uma apresentação personalizável que ajude a definir o "por quê" da Workfront em sua organização, relatar seus resultados e comunicar seus ganhos de uma maneira que repercuta com executivos, colegas e usuários finais.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3490
 last-substantial-update: 2025-12-03T00:00:00Z
 jira: KT-19782
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 4f4356ef-05bc-4aad-b098-8e3ecfb3521a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 0%
+source-wordcount: '219'
+ht-degree: 1%
 
 ---
-
 
 # Pitch Perfect: Definindo e comunicando o valor do Workfront
 
@@ -25,8 +27,6 @@ Durante o workshop, trabalhamos em conjunto em slides para criar uma apresentaç
 
 Revise o [conjunto de slides da apresentação](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf) e assista à gravação sob demanda para acompanhá-la.
 
-Deseja um conjunto de slides personalizável, com observações e práticas recomendadas compartilhadas durante a sessão?  Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706?profile.language=pt) para obter mais recursos!
+Deseja um conjunto de slides personalizável, com observações e práticas recomendadas compartilhadas durante a sessão?  Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706) para obter mais recursos!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
-
-

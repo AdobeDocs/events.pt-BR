@@ -1,6 +1,8 @@
 ---
 title: Noções básicas e muito mais sobre o Adobe Analytics
 description: Junte-se ao webinário de Taylor Walker e Vishnu Pillai para dominar o Adobe Analytics, otimizar espaços de trabalho, exportar dados e integrar ferramentas. Fique atento agora para obter insights de especialistas
+feature: Analysis Workspace, Segmentation, Visualizations
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3437
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17172
 exl-id: 348404c6-3886-4af0-ae16-82ff379d0181
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Neste webinário, Taylor Walker e Vishnu Pillai nos orientam pelos fundamentos d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443028/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 * **Introdução ao Adobe Analytics** A sessão se concentrou nas noções básicas e nos recursos avançados do Adobe Analytics, incluindo como começar e utilizar a plataforma de maneira eficaz.
 

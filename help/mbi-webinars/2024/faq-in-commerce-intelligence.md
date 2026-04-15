@@ -3,6 +3,8 @@ title: Perguntas frequentes no Commerce Intelligence
 description: Conheça as respostas a algumas perguntas frequentes no Commerce Intelligence que abordam tópicos como configurações de autoatendimento, integrações, segurança, práticas recomendadas e muito mais.
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Integrations, Security
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -10,9 +12,9 @@ duration: 2167
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15680
 exl-id: ead47498-4526-481c-8910-961377bdb55f
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ Conheça as respostas a algumas perguntas frequentes no Commerce Intelligence qu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429617/?learn=on)
 
-## Principais pontos
+## Principais lições
 
 **Gerenciamento de Moeda**
 

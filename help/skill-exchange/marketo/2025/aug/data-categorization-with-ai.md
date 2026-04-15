@@ -2,6 +2,7 @@
 title: Como melhorar a categorização de dados no Marketo Engage usando modelos de IA ajustados
 description: Descubra como usar modelos de IA ajustados no Marketo Engage para detectar spam, corresponder títulos de trabalho a personas e categorizar campos de texto abertos com webhooks.
 solution: Marketo Engage
+feature: Reporting
 topic: Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18864
 exl-id: e952d6e7-fb3d-4e5f-9912-825fbd303cc2
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -42,6 +43,6 @@ Você aprenderá sobre,
 ## Recursos adicionais
 
 * [Modelos de IA ajustados para o Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
-* [Guia de Início Rápido do Webhook](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
+* [Guia de início rápido do Webhook](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
 * [Integração do ChatGPT ao Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
-* [Guia de Etapas de Fluxo de Autoatendimento](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)
+* [Guia de etapas do fluxo de autoatendimento](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)

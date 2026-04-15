@@ -2,6 +2,7 @@
 title: Adobe Developers Live - 22 DE NOVEMBRO - As 10 principais dicas para acelerar seu site do Adobe Experience Manager
 description: As 10 principais dicas para acelerar seu site do Adobe Experience ManagerO desempenho excepcional da experiência é a chave para o sucesso da experiência. Nesta sessão, compartilharemos com você nossas 10 principais dicas de práticas recomendadas para ajudar seus desenvolvedores a agilizar os sites do Adobe Experience Manager.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,7 +14,7 @@ kt: 11476
 thumbnail: 3411300.jpeg
 exl-id: 1281fada-aea9-41b0-a368-27e0483e974c
 duration: 2665
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -24,4 +25,4 @@ ht-degree: 0%
 
 O excelente desempenho da experiência é fundamental para o sucesso da experiência. Nesta sessão, compartilharemos com você nossas 10 principais dicas de práticas recomendadas para ajudar seus desenvolvedores a agilizar os sites do Adobe Experience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457180/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)

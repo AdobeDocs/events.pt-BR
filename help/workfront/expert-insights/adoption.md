@@ -2,6 +2,7 @@
 title: Insights de especialistas - Adoção com Leslie Spier
 description: Saiba mais sobre as estratégias de adoção de Leslie Spier para impulsionar o engajamento do Workfront, melhorar os processos e reconhecer as contribuições do usuário.
 feature: Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 speaker-name-1: Leslie Spier
 speaker-title-1: Customer Success Manager
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 875
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18615
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+exl-id: 1e6c3720-61d1-4d6e-ac7e-85df816f9780
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
-
 
 # Insights de especialistas - Adoção com Leslie Spier
 
@@ -52,12 +53,12 @@ Junte-se a mim, seu CSM On-Demand Workfront, enquanto converso com Leslie sobre 
 
 ## Recursos
 
-* Procurando mais exemplos? Confira a [Publicação da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=pt) para ver mais ideias compartilhadas nos comentários!
-* [Tudo Sobre Blueprints](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=pt-BR)
-* [Último relatório de observação](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=pt-BR)
-* [Adicionar formatação condicional básica a uma exibição](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=pt-BR)
-* [Adicionando Painéis ao Painel de Navegação Esquerdo](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=pt-BR)
-* [Modelos de layout - Fixando](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=pt-BR)
+* Procurando mais exemplos? Confira a [Publicação da comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) para ver mais ideias compartilhadas nos comentários!
+* [Tudo Sobre Blueprints](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
+* [Último Relatório de Nota](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
+* [Adicionar formatação condicional básica a uma exibição](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* [Adicionar painéis ao painel de navegação esquerdo](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
+* [Modelos de layout - Fixação](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
 
 ## Sobre o orador
 

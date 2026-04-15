@@ -2,6 +2,7 @@
 title: Enriquecimento do Adobe Commerce com o Adobe Experience Platform
 description: Veja como o Adobe Commerce e o AEP fornecem personalização em tempo real, perfis unificados e jornadas omnicanal viabilizadas por análises avançadas.
 solution: Commerce, Experience Platform
+feature: Integration, Agentic AI, Data Collection, Personalization
 topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2793
 last-substantial-update: 2025-10-01T00:00:00Z
 jira: KT-19335
-source-git-commit: b2c90af591575f2a59a952d5dc80a9752dad0dcc
+exl-id: b3e5a7bd-2440-442b-a92e-248f19409381
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
-
 
 # Enriquecimento do Adobe Commerce com o Adobe Experience Platform
 
@@ -25,7 +26,7 @@ Esta sessão fornece uma visão geral sobre como enriquecer o Adobe Commerce com
 
 * **Vantagens da integração** A combinação do Adobe Commerce com o Adobe Experience Platform permite a criação de perfis unificados de clientes e experiências de compras personalizadas
 * **Real-Time Personalization** A Adobe Real-Time CDP e a Adobe Journey Optimizer permitem a coleta de dados em tempo real e jornadas personalizadas do cliente em vários canais
-* Customer Journey Analytics **O Analytics aprimorado** fornece informações valiosas sobre o comportamento do cliente, ajudando as empresas a otimizar suas estratégias e melhorar o engajamento do cliente
+* **O Analytics aprimorado** fornece informações valiosas sobre o comportamento do cliente, ajudando as empresas a otimizar suas estratégias e melhorar o engajamento do cliente
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475428/?learn=on&enablevpops)
 

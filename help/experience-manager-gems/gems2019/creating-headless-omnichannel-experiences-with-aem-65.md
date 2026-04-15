@@ -1,20 +1,22 @@
 ---
-title: Criação de experiências omnicanal headless com AEM 6.5
-description: Você precisa criar o próximo nível de experiências fluidas para acompanhar seus clientes em ritmo acelerado no cenário digital em evolução. Saiba como as inovações mais recentes do Adobe Experience Manager 6.5 podem tornar isso possível. Analise detalhadamente as principais inovações, como o Editor de aplicativo de página única (SPA), Fragmentos de conteúdo e experiência, Edição no contexto e muito mais. Práticas recomendadas para aproveitar as inovações acima para acelerar e automatizar o design e a entrega de experiências em todos os canais. Introdução à estrutura dos serviços de conteúdo no Adobe Experience Manager. Uma demonstração da jornada do cliente em aplicativos móveis de página única e email. Considerações de arquitetura ao projetar para canais maduros e emergentes.
+title: Criação de experiências omnichannel headless com o AEM 6.5
+description: Você precisa criar o próximo nível de experiências fluidas para acompanhar seus clientes em ritmo acelerado no cenário digital em evolução. Saiba como as inovações mais recentes do Adobe Experience Manager 6.5 podem tornar isso possível. Saiba mais sobre as principais inovações, como o Editor de aplicativo de página única (SPA), Fragmentos de conteúdo e experiência, Edição no contexto e muito mais. Práticas recomendadas para aproveitar as inovações acima para acelerar e automatizar o design e a entrega de experiências em todos os canais. Introdução à estrutura dos serviços de conteúdo no Adobe Experience Manager. Uma demonstração da jornada do cliente em aplicativos móveis de página única e email. Considerações de arquitetura ao projetar para canais maduros e emergentes.
+feature: Release Information, Authoring
+topic: Headless
 discoiquuid: 77929dd9-2a0b-45e2-bffb-7a6e6ac1d9bd
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: b4c08f4a-1315-4eeb-82bf-7af525eff62d
 duration: 3438
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
-# Criação de experiências omnicanal headless com AEM 6.5{#creating-headless-omnichannel-experiences-with-aem}
+# Criação de experiências omnichannel headless com o AEM 6.5{#creating-headless-omnichannel-experiences-with-aem}
 
-Você precisa criar o próximo nível de experiências fluidas para acompanhar seus clientes em ritmo acelerado no cenário digital em evolução. Saiba como as inovações mais recentes do Adobe Experience Manager 6.5 podem tornar isso possível. Analise detalhadamente as principais inovações, como o Editor de aplicativo de página única (SPA), Fragmentos de conteúdo e experiência, Edição no contexto e muito mais. Práticas recomendadas para aproveitar as inovações acima para acelerar e automatizar o design e a entrega de experiências em todos os canais. Introdução à estrutura dos serviços de conteúdo no Adobe Experience Manager. Uma demonstração da jornada do cliente em aplicativos móveis de página única e email. Considerações de arquitetura ao projetar para canais maduros e emergentes.
+Você precisa criar o próximo nível de experiências fluidas para acompanhar seus clientes em ritmo acelerado no cenário digital em evolução. Saiba como as inovações mais recentes do Adobe Experience Manager 6.5 podem tornar isso possível. Saiba mais sobre as principais inovações, como o Editor de aplicativo de página única (SPA), Fragmentos de conteúdo e experiência, Edição no contexto e muito mais. Práticas recomendadas para aproveitar as inovações acima para acelerar e automatizar o design e a entrega de experiências em todos os canais. Introdução à estrutura dos serviços de conteúdo no Adobe Experience Manager. Uma demonstração da jornada do cliente em aplicativos móveis de página única e email. Considerações de arquitetura ao projetar para canais maduros e emergentes.
 
 >[!NOTE]
 >

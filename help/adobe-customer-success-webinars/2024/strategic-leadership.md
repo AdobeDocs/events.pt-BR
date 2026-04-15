@@ -1,6 +1,9 @@
 ---
 title: Liderança estratégica
-description: Adquirir as táticas para atingir efetivamente metas organizacionais por meio de influência estratégica.- Aumentar o patrocínio dos executivos com influência - Definir o curso para o sucesso a longo prazo - Impulsionar iniciativas estratégicas de maneira eficaz
+solution: Experience Cloud
+feature: Personalization
+description: Adquira as táticas para atingir efetivamente os objetivos organizacionais por meio da influência estratégica.- Elevar o patrocínio dos executivos com influência- Definir o curso para o sucesso a longo prazo- Impulsionar iniciativas estratégicas de maneira eficaz
+topic: Development
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,7 +12,7 @@ last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14986
 thumbnail: 3427463.jpeg
 exl-id: 44cd83a5-d318-4fb1-b145-5840616df4ec
-source-git-commit: e3eb0d9e8c3de2c56b12e10bcbf3cb1ecaf2a6f3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -24,4 +27,4 @@ Adquirir as táticas para atingir efetivamente metas organizacionais por meio de
 - Definição do curso para o sucesso a longo prazo
 - Impulsionar iniciativas estratégicas com eficiência
 
->[!VIDEO](https://video.tv.adobe.com/v/3456788/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)

@@ -2,19 +2,20 @@
 title: Automatize e inove na criação de fluxos mais inteligentes com Webhooks e Etapas de fluxo de autoatendimento (SSFS)
 description: Este aprofundamento do Marketo aborda Webhooks e Etapas de fluxo de autoatendimento (SSFS) para ajudar você a criar automação de marketing mais inteligente e pronta para IA. Conheça as práticas recomendadas de configuração, as técnicas de integração em tempo real e os casos de uso práticos, incluindo atualizações de CRM, enriquecimento de dados, lógica de fluxo personalizada e fluxos de trabalho alimentados por IA. Perfeito para usuários do Marketo, equipes de MOPs e administradores com foco em uma qualidade de dados e resultados de campanha mais sólidos.
 feature: Webhooks
+topic: Integrations, Security, Development
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3177
 last-substantial-update: 2026-02-25T00:00:00Z
 jira: KT-20403
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+exl-id: ad847106-fb71-41c7-9584-a19d5da44024
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
-
 
 # Automatize e inove na criação de fluxos mais inteligentes com Webhooks e Etapas de fluxo de autoatendimento (SSFS)
 
@@ -57,4 +58,3 @@ O destaque será uma série de casos de uso reais, que culminarão em uma demons
 * **Administradores da Marketo** Aqueles que gerenciam a arquitetura do banco de dados, as integrações e a infraestrutura técnica
 * **Adotores de IA/Automação** Organizações que preparam sua instância do Marketo para recursos alimentados por IA
 * **Equipes de profissionais de marketing com consciência de dados** que buscam melhorar a qualidade dos dados, a precisão dos relatórios e a eficácia da campanha
-

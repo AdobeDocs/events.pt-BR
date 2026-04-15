@@ -2,19 +2,20 @@
 title: Desafio Crowdsource do Workfront - Modelos de projeto
 description: Saiba como o Ologie simplifica os modelos de projeto do Adobe Workfront com dicas práticas para simplificar a configuração, melhorar os relatórios e manter a flexibilidade do processo.
 feature: System Setup and Administration, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3728
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18626
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 5377412d-db56-4fca-92c9-0c4c59fa2d79
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
-
 
 # Desafio Crowdsource do Workfront: Modelos de Projeto
 
@@ -24,8 +25,8 @@ Esse workshop foi gravado em 8 de abril de 2025 e contou com Ross Barton e Linds
 
 Juntamente com a gravação sob demanda, incluímos o conjunto de slides e dicas que foram compartilhadas no bate-papo:  
 
-* [PDF do Baralho de Slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=pt)
+* [PDF de apresentação de slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
+* [Publicação da comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
 
 ## Dicas
 
@@ -39,4 +40,4 @@ Juntamente com a gravação sob demanda, incluímos o conjunto de slides e dicas
 
 Um dos maiores temas que vimos no bate-papo foi o desafio de tentar manter a simplicidade dos Modelos de projeto, mas, ao mesmo tempo, rastrear o esforço e garantir que as equipes estejam realizando todas as etapas necessárias para concluir o projeto.  
 
- Esperamos vê-lo em futuros workshops de Sucesso do cliente!  Verifique os [Eventos do Workfront](https://experienceleague.adobe.com/events/?lang=pt-BR&filters=Workfront) no Experience League para obter a lista completa e para se registrar.
+ Esperamos vê-lo em futuros workshops de Sucesso do cliente!  Verifique os [Eventos do Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) no Experience League para obter a lista completa e para se registrar.

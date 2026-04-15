@@ -2,6 +2,8 @@
 title: Velocidade surpreendente - Serviço Edge Delivery da Adobe
 description: Na edição de agosto da Série de webinários da APAC Commerce, daremos as boas-vindas a Kamalesh Radhakrishnan, consultor sênior de soluções, para compartilhar uma visão geral da Velocidade do Relâmpago com o Serviço Edge Delivery da Adobe.Capacite todos a criar conteúdo com IA e experimentação e fornecer experiências digitais excepcionais à velocidade do relâmpago.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Integrations, Performance, Commerce
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2650
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16131
 exl-id: dbdda6ae-335c-45db-8090-62eaf0385ad7
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---

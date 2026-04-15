@@ -1,16 +1,18 @@
 ---
 title: Canais de marketing e modelagem de atribuição
 description: Descubra o poder do Adobe Analytics para configurar canais de marketing e aproveitar a modelagem de atribuição com orientação de especialistas
+feature: Segmentation
+topic: Personalization, Security
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3494
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17164
 exl-id: bdfa9338-f9ef-4bbc-8afb-7fa63305b2f6
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
@@ -43,7 +45,7 @@ Nesta sessão de análise de dados, o Adobe Business Advisor, Taylor Walker, abo
 
 * **Gravação e recursos** O webinário está sendo gravado e será enviado por email. Também há folhetos e recursos disponíveis para download durante a sessão.
 
-## Principais pontos
+## Principais lições
 
 * **Canais de marketing**
 

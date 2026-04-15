@@ -2,13 +2,15 @@
 title: O futuro da prova do Adobe Workfront
 description: Você usa o Workfront Proof para revisar e aprovar workflows na sua organização? Curioso como obter o máximo da ferramenta e o que planejamos para o futuro.
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10315
 thumbnail: 342525.jpeg
 exl-id: 351b1ed4-ec55-43b0-9498-02da440ba593
 duration: 1806
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%

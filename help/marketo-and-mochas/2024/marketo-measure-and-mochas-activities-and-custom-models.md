@@ -1,6 +1,8 @@
 ---
 title: Atividades e modelos personalizados do Marketo Measure & Mochas
-description: Junte-se a Kate Colbert, Adobe, e James Leedom, consultor técnico do cliente, enquanto exploram estratégias para aproveitar a atribuição de modelos e atividades de atribuição personalizados no Adobe Marketo Measure, demonstrando exemplos reais e concluindo com uma sessão de perguntas e respostas ao vivo.
+description: Junte-se a Kate Colbert, conselheira técnica do cliente da Adobe, e James Leedom, enquanto exploram estratégias para aproveitar a atribuição de modelos e atividades de atribuição personalizados no Adobe Marketo Measure, demonstrando exemplos reais e concluindo com uma sessão de perguntas e respostas ao vivo.
+feature: Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 4080
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15926
 exl-id: 21a6d921-abe4-4787-b51f-f57faf669c1f
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---

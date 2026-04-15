@@ -2,6 +2,8 @@
 title: Desbloquear o sucesso em escala com uma combinação global
 description: Dimensione o conteúdo global com o AEM usando componentes personalizados, blueprints, fluxos de trabalho e fragmentos para obter controle, aprovação e flexibilidade regional eficientes.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, User
 level: Intermediate
@@ -10,9 +12,9 @@ duration: 3603
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-17926
 exl-id: 40ee87d8-0ff9-44a8-8bd2-8000e7db89ed
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ Junte-se a nós neste webinário imperdível em que dois de nossos usuários mai
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457918/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 * **Personalizações e administração de componentes** Permitem nuances e requisitos regionais, permitindo a personalização específica para regiões ou globalmente, o que é útil para acomodar diversas necessidades em um único local.
 

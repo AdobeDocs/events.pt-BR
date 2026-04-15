@@ -2,19 +2,21 @@
 title: Destaques do Experience Makers
 description: Saiba mais sobre alguns recursos do Workspace que talvez você não esteja usando em seus projetos Descubra como você pode usar esses recursos para fornecer insights para você e para os usuários finais do projeto do Workspace Obtenha alguns exemplos de casos de uso que você pode aplicar aos projetos Workspace de sua organização.
 solution: Analytics
+feature: Analysis Workspace, Visualizations
+topic: Security
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2569
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15972
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+exl-id: b59ee10f-cc6e-4b85-8ea6-ce639e63bf5a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # Destaques do Experience Makers
 

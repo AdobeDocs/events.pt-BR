@@ -2,6 +2,7 @@
 title: Criar e usar workflows do início ao fim
 description: Saiba mais sobre a criação e o uso de workflows.
 feature: Workflow
+topic: Development
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1273
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15301
 exl-id: 4b21e52d-5ecb-4d82-b66b-784b51395bc2
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Chamar todos os administradores do Acrobat Sign e usuários finais/colaboradores individuais. Esta sessão abordará a criação e o uso de workflows. Como administrador de conta ou grupo do Acrobat Sign, saiba como definir fluxos de trabalho predefinidos para rotear automaticamente documentos para assinatura às partes corretas e, em seguida, conceder acesso a todo o grupo do Acrobat Sign. E como usuário final, saiba como usar esses fluxos de trabalho para garantir que os documentos sejam assinados logo na primeira vez — e sempre.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454907/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
 
 ## Tópicos abordados
 

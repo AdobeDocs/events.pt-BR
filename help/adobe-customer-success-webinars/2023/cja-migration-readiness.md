@@ -1,9 +1,10 @@
 ---
 title: Disponibilidade para migração do Customer Journey Analytics
-description: Visão geral do valor do Customer Journey Analytics, destaques por setor, recursos recomendados
+description: Visão geral do valor da Customer Journey Analytics, destaques por setor, recursos recomendados
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics
+topic: Migration
 role: Admin, Architect, Data Architect, Data Engineer, Leader
 level: Intermediate
 doc-type: Event
@@ -12,7 +13,7 @@ jira: KT-13904
 thumbnail: 3423904.jpeg
 exl-id: d76db108-8011-4e01-8db2-e959c4f3b429
 duration: 2035
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 # Disponibilidade para migração do Customer Journey Analytics
 
 * Visão geral do valor do CJA
-* Destaques do caso de uso do CJA por setor
+* Destaques do caso de uso da CJA por setor
 * Recursos recomendados
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423904/?learn=on)

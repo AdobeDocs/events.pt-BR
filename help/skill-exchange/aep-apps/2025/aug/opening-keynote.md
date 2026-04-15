@@ -2,6 +2,7 @@
 title: Palestra do Skill Exchange - O futuro da criação de experiências com IA, Adobe Experience Platform
 description: Klaasjan Tukker compartilha insights sobre dados, personalização, disponibilidade organizacional e o papel dos Assistentes de IA na aceleração da criação de experiências. Saiba como os profissionais podem dominar os prompts, aproveitar a orquestração de agentes e aumentar suas habilidades para permanecer à frente.
 solution: Experience Platform, Customer Journey Analytics, Journey Optimizer, Real-Time Customer Data Platform
+feature: AI Assistant, Agentic AI, Audiences, Basics
 topic: Personalization, Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18846
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: fe32abfa-2dfa-4d56-8f1c-c9dca734da28
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Palestra do Skill Exchange - O futuro da criação de experiências com IA, Adobe Experience Platform
 
@@ -31,4 +32,4 @@ Descubra como a Adobe Experience Platform e a IA corporativa estão remodelando 
 Aproveite esses insights para simplificar seus fluxos de trabalho, aprimorar a personalização e preparar seu conhecimento em gerenciamento de experiência digital para o futuro.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471360/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)

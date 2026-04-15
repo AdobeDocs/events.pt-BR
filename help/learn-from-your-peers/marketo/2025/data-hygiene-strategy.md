@@ -2,19 +2,20 @@
 title: Criação de uma estratégia de higiene de dados para a sincronização do Marketo Engage e do CRM
 description: Aprenda táticas comprovadas de higiene de dados com a Miray Vu, especialista em Marketo, para garantir dados de CRM limpos, acelerar a velocidade do pipeline e impulsionar um crescimento confiável de receita.
 feature: CRM Sync
+topic: Integrations, Development
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2635
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19524
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+exl-id: 947db7a2-7dd3-431b-a870-7872e86c10c8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 0%
+source-wordcount: '290'
+ht-degree: 1%
 
 ---
-
 
 # Criação de uma estratégia de higiene de dados para a sincronização do Marketo Engage e do CRM
 
@@ -22,7 +23,7 @@ Ouça a opinião de Miray Vu, especialista em Adobe Marketo Engage, de entender 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476321/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 * **Estabeleça padrões claros de dados** Defina e aplique padrões com todas as partes interessadas para garantir dados consistentes e precisos em todos os sistemas.
 * **Definir o processo de higiene de dados** Identifique o que o processo deve solucionar: desduplicação, enriquecimento, valores incompletos/errados, validação de campo etc.
@@ -34,6 +35,6 @@ Ouça a opinião de Miray Vu, especialista em Adobe Marketo Engage, de entender 
 ## Recursos adicionais
 
 * Participe da [discussão](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425) sobre a Comunidade da Nação de Marketing, onde as Perguntas e Respostas são postadas.
-* [Higiene de dados do Marketo Engage usando Campanhas Executáveis](https://business.adobe.com/br/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [Dominando a higiene de dados para sincronização do Salesforce CRM com o Marketo Engage](https://experienceleague.adobe.com/pt-br/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [Higiene de dados do Marketo Engage usando campanhas executáveis](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [Dominar a higiene de dados para sincronização do Salesforce CRM com o Marketo Engage](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
 * [Como executar a desduplicação usando a API REST do Marketo Engage](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)

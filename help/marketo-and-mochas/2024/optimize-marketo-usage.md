@@ -2,6 +2,8 @@
 title: Marketo & Mochas - Maturidade Parte 2 - Otimizar o uso do Marketo
 description: Junte-se aos consultores de negócios da Adobe, Cynthia Chang e Carly Gaver, para a Parte 2 da série Marketo Maturity, com foco no gerenciamento de dados, integrações de CRM e otimização de campanha para aprimorar o uso do Marketo, com perguntas e respostas ao vivo.
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
 exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -25,7 +27,7 @@ Junte-se aos Business Advisors da Adobe, Cynthia Chang e Carly Gaver, que compar
 ## Principais tópicos abordados
 
 **Níveis de maturidade do Marketo**
-Foco nas fases de rastreamento, caminhada e execução para otimizar o uso de marketing por meio dos níveis de maturidade do Marketo.
+Foco nas fases de rastreo, caminhada e execução para otimizar o uso de marketing por meio dos níveis de maturidade do Marketo.
 
 **Gerenciamento e Normalização de Dados**
 Enfatizou a importância de dados limpos e acionáveis no Marketo por meio de gerenciamento de dados e processos de normalização de dados.
@@ -37,5 +39,5 @@ Abordou o gerenciamento eficiente de integrações de CRM usando os recursos de 
 **Otimização do gerenciamento de campanhas**
 Dicas fornecidas para otimizar o gerenciamento de campanhas por meio de modelos de programas, bibliotecas de conteúdo e smart lists.
 
-**Processamento de Campanha Inteligente**
+**Processamento de campanha inteligente**
 Fatores discutidos que afetavam o tempo de processamento da campanha e forneciam práticas recomendadas para a criação e o gerenciamento de campanhas inteligentes.

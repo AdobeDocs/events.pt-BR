@@ -2,19 +2,21 @@
 title: Impulsionando o sucesso do CX com a tela de Jornada do Adobe Customer Journey Analytics
 description: Descubra como o Jornada Canvas ajuda a mapear os caminhos do usuário ideais e reais, descobrir o atrito e gerar melhorias mensuráveis de CX com o Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
+feature: Integrations
+topic: Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18815
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 10075f8c-ad44-4ee7-970c-9cdae1b21b11
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # Impulsionando o sucesso do CX com a tela de Jornada do Adobe Customer Journey Analytics
 
@@ -24,7 +26,7 @@ Os participantes aprenderão a usar a análise no nível da jornada para identif
 
 Por fim, vamos nos aprofundar em estratégias para dimensionar esses insights em toda a organização, conectando as descobertas da Tela do Jornada aos painéis granulares, permitindo uma otimização contínua em cada ponto de contato. Se você é novo no CJA ou um profissional experiente, esta sessão vai equipá-lo com uma metodologia clara para usar o Jornada Canvas para elevar seus programas CX e gerar resultados tangíveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471219/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
 
 ## Tela de Jornada: da análise à ativação
 

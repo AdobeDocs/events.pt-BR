@@ -1,8 +1,9 @@
 ---
 title: Marketo & Mochas - Fundamentos da gravação de painéis de atribuição
-description: Junte-se ao consultor sênior de negócios da Adobe, Cynthia Chang, e ao consultor técnico, James Leedom, para uma sessão detalhada sobre como dominar o modelo de atribuição da Marketo e os painéis de insights de desempenho (MPI), abordando a configuração, o rastreamento de programas, a sincronização de dados e mostrando o impacto do marketing na receita e na aquisição de clientes.
+description: Junte-se ao consultor sênior de negócios da Adobe, Cynthia Chang, e ao consultor técnico, James Leedom, para uma sessão detalhada sobre como dominar o modelo de atribuição da Marketo e os painéis de insights de desempenho (MPI), que aborda a configuração, o rastreamento de programas, a sincronização de dados e a demonstração do impacto do marketing na receita e na aquisição de clientes.
 feature-set: Marketo Engage
 feature: Performance Insights
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14947
 thumbnail: 3427255.jpeg
 exl-id: ce78b2af-e10c-46b8-ba43-ccbca9db788c
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---

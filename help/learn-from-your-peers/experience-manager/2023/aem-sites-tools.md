@@ -1,8 +1,9 @@
 ---
 title: Aprofundamento das ferramentas do AEM Sites
-description: práticas recomendadas para aproveitar ferramentas de maneira eficaz e transformar sua experiência no AEM Sites. Tipos de tags Saiba como diferentes tipos de tags podem sobrecarregar a organização e a capacidade de descoberta do conteúdo.  Configuração e aplicação de tags Obtenha insights práticos sobre uma implementação de tags eficiente para economizar tempo e aumentar a produtividade.  Esquemas de metadados de pasta Descubra o potencial do gerenciamento de conteúdo estruturado por meio de esquemas de metadados de pasta. Esquemas de metadados Aumente a relevância do conteúdo e a experiência do usuário dominando o design do esquema de metadados. Configurar relatórios Aproveite insights orientados por dados para a tomada de decisões estratégicas configurando relatórios abrangentes. Você pode acessar os slides de apresentação aqui.
+description: práticas recomendadas para aproveitar ferramentas de maneira eficaz e transformar sua experiência no AEM Sites. Tipos de tags Saiba como diferentes tipos de tags podem sobrecarregar a organização e a capacidade de descoberta do conteúdo.  Configuração e aplicação de tags Obtenha insights práticos sobre uma implementação de tags eficiente para economizar tempo e aumentar a produtividade.  Esquemas de metadados de pasta Descubra o potencial do gerenciamento de conteúdo estruturado por meio de esquemas de metadados de pasta.Esquemas de metadados Aumente a relevância do conteúdo e a experiência do usuário dominando o design do esquema de metadados. Configurar relatórios Aproveite insights orientados por dados para a tomada de decisões estratégicas configurando relatórios abrangentes.Você pode acessar os slides da apresentação aqui.
 feature-set: Experience Manager
 feature: Tagging
+topic: Development, Headless
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
 solution: Experience Manager
@@ -12,9 +13,9 @@ jira: KT-14118
 thumbnail: 3424735.jpeg
 exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
 duration: 2640
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---

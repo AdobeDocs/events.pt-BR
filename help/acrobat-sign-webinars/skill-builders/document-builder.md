@@ -1,7 +1,8 @@
 ---
 title: Document Builder para Adobe Acrobat Sign
-description: Dê à sua equipe de vendas uma vantagem com propostas, contratos, faturas e muito mais em segundos, automatizando tarefas diárias, como preparar documentos orientados por dados diretamente no Salesforce. O Document Builder permite gerar dinamicamente um documento usando dados do Salesforce antes de enviar para assinatura, tornando um processo outrora complicado mais simples e simplificado.
+description: Dê à sua equipe de vendas uma vantagem com propostas, contratos, faturas e muito mais em segundos, automatizando tarefas diárias, como preparar documentos orientados por dados diretamente no Salesforce. O Document Builder permite gerar dinamicamente um documento usando dados do Salesforce antes de enviá-lo para assinatura, tornando um processo outrora complicado mais simples e simplificado.
 feature: Integrations
+topic: Security
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,18 +10,18 @@ duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15302
 exl-id: a504550f-d650-47ba-a06e-082449b37e99
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
 
 # Document Builder para Adobe Acrobat Sign
 
-Dê à sua equipe de vendas uma vantagem com propostas, contratos, faturas e muito mais em segundos, automatizando tarefas diárias, como preparar documentos orientados por dados diretamente no Salesforce. O Document Builder permite gerar dinamicamente um documento usando dados do Salesforce antes de enviar para assinatura, tornando um processo outrora complicado mais simples e simplificado. Vamos acompanhar o processo passo a passo, que ajudará você a economizar tempo e esforço.
+Dê à sua equipe de vendas uma vantagem com propostas, contratos, faturas e muito mais em segundos, automatizando tarefas diárias, como preparar documentos orientados por dados diretamente no Salesforce. O Document Builder permite gerar dinamicamente um documento usando dados do Salesforce antes de enviá-lo para assinatura, tornando um processo outrora complicado mais simples e simplificado. Vamos acompanhar o processo passo a passo, que ajudará você a economizar tempo e esforço.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454918/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3428193/?learn=on)
 
 ## Qual é a finalidade do Document Builder para Acrobat Sign?
 
@@ -34,11 +35,11 @@ Isso simplifica o processo de criação e envio de documentos para assinatura, e
 
 Para acessar o Document Builder no Salesforce, as seguintes etapas são necessárias:
 
-* Instale o pacote de pré-requisito do pacote gerenciado &quot;Adobe Acrobat Sign for Salesforce&quot;
+* Instale o pacote de pré-requisito &quot;Adobe Acrobat Sign para Salesforce&quot; gerenciado
 * Clique no ícone do aplicativo ou waffle no Salesforce e digite &quot;documento&quot; para procurar por &quot;Document Builder admin&quot;.
 * Clique em &quot;Document Builder admin&quot; e, em seguida, clique em &quot;Connect&quot;.
 * Digite sua ID de usuário e senha do Adobe Acrobat Sign e faça logon.
-* Clique em &quot;Permitir acesso&quot; para conectar o Salesforce com o Adobe Acrobat Sign.
+* Clique em &quot;Permitir acesso&quot; para conectar o Salesforce ao Adobe Acrobat Sign.
 * Clique em &quot;Concluído&quot; e atualize a tela para ver que a conexão foi estabelecida.
 
 Depois que essas etapas forem concluídas, o Document Builder poderá ser acessado e usado no Salesforce.

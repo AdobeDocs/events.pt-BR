@@ -2,13 +2,15 @@
 title: Considerações para conquistar a adoção do usuário
 description: A adoção de uma solução de gerenciamento de trabalho como o Workfront tem muitas facetas, mas uma das mais fundamentais é entender quem na organização a usará.
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Beginner
 kt: 10311
 thumbnail: 342522.jpeg
 exl-id: 6f77698c-9955-4555-a293-3dcd43de285f
 duration: 2992
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%

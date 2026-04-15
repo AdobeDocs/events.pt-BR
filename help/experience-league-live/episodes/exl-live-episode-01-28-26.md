@@ -4,16 +4,17 @@ description: Consulte Audience Agent para descobrir insights do público-alvo e 
 kt: KT-19993
 solution: Experience Platform
 feature: Agentic AI
+topic: Artificial Intelligence, Performance
 event-cta-url-live: https://www.youtube.com/live/V7n2KuhrhqQ
 event-start-time: 2026-01-28 08:30-8
 event-guests: Daniel Wright, Shelby Mansuri, Keara Fausett, Alyssa Espiritu
-source-git-commit: 82e0c51526f4eab0060127145f41bcc7cb4a5889
+exl-id: 564cd92e-bb1a-441b-88ac-7aaa87ad5930
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
-
 
 # Agentes no trabalho: criação e ativação de públicos e jornadas
 
@@ -23,4 +24,4 @@ Consulte Audience Agent para descobrir insights do público-alvo e criar públic
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479512/?quality=12&learn=on)
 
-Tem alguma dúvida sobre esse programa? Continuar a discussão na [Conversa do Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?profile.language=pt&postid=745171#post745171){target="_blank"}
+Tem alguma dúvida sobre esse programa? Continuar a discussão na [Conversa do Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?postid=745171#post745171){target="_blank"}

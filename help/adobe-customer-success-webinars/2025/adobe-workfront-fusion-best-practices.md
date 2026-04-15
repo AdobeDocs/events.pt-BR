@@ -3,19 +3,20 @@ title: Noções básicas e práticas recomendadas do Adobe Workfront Fusion
 description: Saiba mais sobre as noções básicas do Workfront Fusion para automatizar workflows, aumentar a produtividade e integrar ferramentas a soluções, modelos e práticas recomendadas de baixo código.
 solution: Workfront
 feature: Workfront Fusion
+topic: Integrations, Development
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3397
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18020
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 18a91af4-5c21-4f69-ac04-5d8189528fce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
-
 
 # Noções básicas e práticas recomendadas do Adobe Workfront Fusion
 
@@ -29,7 +30,7 @@ Nesta sessão, conheça as noções básicas do Adobe Workfront Fusion, aprenda 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458043/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 * **Importância da integração** A integração perfeita das ferramentas é fundamental para melhorar a colaboração, reduzir os processos demorados e aumentar a eficiência. Ferramentas como o Workfront Fusion ajudam a conectar vários aplicativos e automatizar fluxos de trabalho.
 
@@ -40,4 +41,3 @@ Nesta sessão, conheça as noções básicas do Adobe Workfront Fusion, aprenda 
 * **Práticas recomendadas** Use contas de serviço para conexões do Fusion em vez de contas pessoais, mantenha convenções de nomenclatura apropriadas e limpe periodicamente cenários, conexões e webhooks não utilizados para evitar confusão.
 
 * **Modelos e Aprendizado** Os modelos do Fusion são um excelente ponto de partida para que novos usuários aprendam a criar cenários com eficiência. Elas fornecem fluxos de trabalho predefinidos que podem ser personalizados para atender a necessidades específicas.
-

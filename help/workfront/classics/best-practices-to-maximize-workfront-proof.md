@@ -1,14 +1,16 @@
 ---
 title: Pergunte a um especialista - Práticas recomendadas para maximizar o Workfront Proof
 description: Saiba como definir configurações, habilitar ótimos relatórios e evitar armadilhas comuns no Proof. Esse webinário foi gravado em 26 de fevereiro de 2020.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
 duration: 5182
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '5572'
+source-wordcount: '5588'
 ht-degree: 0%
 
 ---
@@ -257,7 +259,7 @@ Há uma maneira de baixar provas com suas aprovações associadas em uma pasta?
 
 **Pergunta**
 
-Ao solicitar que os usuários tenham acesso ao ProofHQ de relatórios, isso também dará a eles acesso à seção à esquerda (ou seja, fluxos de trabalho, contatos, configurações de conta etc.)?
+Ao solicitar que os usuários tenham acesso ao ProofHQ de relatórios, isso também dará a eles acesso à seção à esquerda (workflows, contatos, configurações de conta etc.)?
 
 **Resposta**
 
@@ -313,7 +315,7 @@ Sim. Se você excluir uma prova de que ela reside na área Lixeira da Conta de p
 
 **Pergunta**
 
-Há uma maneira de acionar uma nova decisão se outro usuário rejeitar ou aprovar com alterações. i.e. O departamento de provas vê algo, o gerente de projeto terá que tomar uma nova decisão... mesmo que já tenha olhado para ele e aprovado. (tentando não fazer com que o gerente de projeto não tenha que esperar no departamento de revisão para fazer sua revisão)?
+Há uma maneira de acionar uma nova decisão se outro usuário rejeitar ou aprovar com alterações. Ou seja, o departamento de provas vê algo, o gerente de projeto terá que tomar uma nova decisão... mesmo que já olhassem para ele e o aprovassem. (tentando não fazer com que o gerente de projeto não tenha que esperar no departamento de revisão para fazer sua revisão)?
 
 **Resposta**
 

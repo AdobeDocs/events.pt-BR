@@ -2,6 +2,8 @@
 title: Marketo & Mochas - Impulsionando o crescimento com a geração de relatórios (Pt 3 de maturidade)
 description: Junte-se aos Business Advisors da Adobe, Cynthia Chang e Carly Gaver, para a Parte 3 da série de webinários Marketo Maturity, explorando como aproveitar as ferramentas de relatórios da Marketo para impulsionar o crescimento dos negócios, monitorar o desempenho e fornecer métricas de impacto, com perguntas e respostas ao vivo.
 solution: Marketo Engage
+feature: Programs, Smart Lists, Reporting
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -24,7 +26,7 @@ Junte-se aos Business Advisors da Adobe, Cynthia Chang e Carly Gaver, para a Par
 
 Maturidade A Parte 3 é a parte três da série Maturidade da Marketo, com foco na promoção do crescimento com a geração de relatórios. Como um resumo,
 
-* A parte 1 enfocou a fase de rastreamento, estabelecendo a base da instância do Marketo.
+* A Parte 1 enfocou a fase de rastrea, estabelecendo a base da instância do Marketo.
 * A parte 2 abrangeu a fase de caminhada, otimizando e expandindo o uso.
 * A parte 3 se concentra na fase de execução, dimensionamento e melhoria da eficiência.
 
@@ -36,7 +38,7 @@ Maturidade A Parte 3 é a parte três da série Maturidade da Marketo, com foco 
 * Cynthia trabalha na Adobe há dois anos, anteriormente na consultoria e como cliente da Marketo.
 * Carly está na Adobe há três anos, com experiência em marketing digital e automação de marketing.
 
-## Principais pontos
+## Principais lições
 
 * **Monitoramento** Mantendo um monitoramento contínuo do desempenho da instância, incluindo a capacidade de entrega e a integridade do banco de dados.
 * **Auditoria** Revisão de acesso do usuário, permissões e sincronização do CRM.

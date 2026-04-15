@@ -2,19 +2,21 @@
 title: Adoção de estratégias de gerenciamento de alterações para o Adobe Journey Optimizer
 description: Descubra estratégias de liderança, colaboração e envolvimento em tempo real para explorar todo o valor do Adobe Journey Optimizer.
 solution: Journey Optimizer
+feature: Journeys
+topic: Security, Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2589
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19689
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 43fcdd6f-5cc7-4cac-9f04-073d05233e06
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
-
 
 # Adoção de estratégias de gerenciamento de alterações para o Adobe Journey Optimizer
 
@@ -55,4 +57,3 @@ A transição de operações estáticas em silos para o envolvimento orientado p
 * Libere todo o potencial do AJO respondendo instantaneamente às necessidades do cliente.
 
 A capacidade de resposta em tempo real capacita as equipes a fornecer experiências mais relevantes e impactantes ao cliente.
-

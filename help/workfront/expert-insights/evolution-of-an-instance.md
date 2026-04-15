@@ -1,6 +1,8 @@
 ---
 title: Insights de especialistas com Jen Desmond
 description: Junte-se a Jen Desmond ao discutir a evolução de uma instância e compartilhar insights sobre o gerenciamento de alterações e o engajamento do usuário.
+feature: Workfront Fusion, System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 1201
 last-substantial-update: 2026-04-03T00:00:00Z
 jira: KT-20745
 exl-id: b4f70c4f-9d01-4b06-afcf-ec963f3604c5
-source-git-commit: 327b4b3fe5c69e163190b3b2cdfdb5b426b417af
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
@@ -21,7 +23,7 @@ Bem-vindo ao episódio mais recente do Expert Insights. Eu sou Cynthia Boon, seu
 
 Nesse episódio, a incrível Jen Desmond, Consultora de sucesso técnico da Adobe, que compartilha sua jornada de usuário iniciante do Workfront a especialista confiável, além de conselhos práticos para gerenciar mudanças e aumentar sua instância com intenção.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483116/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
 
 Você sairá com insights elaborados, incluindo:
 
@@ -34,25 +36,25 @@ Você sairá com insights elaborados, incluindo:
 ## Recursos
 
 Jen também compartilha alguns de seus recursos favoritos, incluindo por que os modelos do Fusion, Blueprints e práticas recomendadas compartilhadas podem fazer toda a diferença. Saiba mais aqui:
-* [Lista de Modelos do Fusion disponíveis](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [Lista de blueprints disponíveis](https://experienceleague.adobe.com/pt-br/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Comunidade Experience League Workfront](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=pt)
+* [Lista de Modelos do Fusion disponíveis](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [Lista de blueprints disponíveis](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Comunidade Experience League Workfront](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
 
 Mas espere!  Ela tem mais conselhos para compartilhar!
 
 Mais considerações sobre a pergunta &quot;como aliviar a carga&quot;:
-Isso pode ser controverso, mas adicione ao cronograma de implementação. Don&#39;t overpromise your go live date for your changes. In your plan you&#39;ll do everything you can to cover everything that needs to happen, but how often does anything go to plan? You don&#39;t want to be scrambling because you know who suffers? Your users. And then your user adoption tanks and good luck from there. I know it&#39;s hard to get stakeholder buy-in to push something out and I know because I&#39;ve had those conversations, but the reality is, spend more time, or pay for it in worse ways later.
+Isso pode ser controverso, mas adicione ao cronograma de implementação. Não prometa demais sua data de ativação para as alterações. Em seu plano você fará tudo o que puder para cobrir tudo o que precisa acontecer, mas com que frequência algo vai para o plano? Você não quer se mexer porque sabe quem sofre? Seus usuários. E então seus tanques de adoção de usuários e boa sorte a partir daí. Eu sei que é difícil conseguir que as partes interessadas se comprometam a promover algo e eu sei porque tive essas conversas, mas a realidade é: passar mais tempo, ou pagar por isso de maneiras piores depois.
 
-Another thing - Don&#39;t forget communication!
-When facing change, communicate, communicate, communicate! Let users know it&#39;s coming as soon as you have a concrete picture of the change. Don&#39;t surprise them, and don&#39;t wait to train them until after it has happened. Give them time and space to be annoyed, and then support and prepare them before they actually have to change.
+Outra coisa - Não esqueça a comunicação!
+Ao encarar mudanças, comunique-se, comunique-se! Informe os usuários que a mudança será disponibilizada assim que você tiver uma imagem concreta dela. Não os surpreenda, e não espere para treiná-los até que isso tenha acontecido. Dê-lhes tempo e espaço para serem aborrecidos, e então apóie e prepare-os antes que eles realmente tenham que mudar.
 
-## About the speaker
+## Sobre o orador
 
-Jen Desmond is a Sr. Technical Success Advisor who partners with customers to simplify complex processes, improve adoption, and design solutions that reflect how teams actually work, not just how they&#39;re supposed to work. She has a strong passion for Workfront Fusion, helping customers understand how automation reduces manual effort, connect systems, and scale their processes with confidence. Jen&#39;s focus is always on what&#39;s practical to help organizations move faster, collaborate more effectively, and grow in a sustainable way.
+Jen Desmond é um consultor sênior de sucesso técnico que faz parceria com os clientes para simplificar processos complexos, melhorar a adoção e projetar soluções que reflitam como as equipes realmente trabalham, não apenas como deveriam trabalhar. Ela tem uma forte paixão pelo Workfront Fusion, ajudando os clientes a entender como a automação reduz o esforço manual, conecta sistemas e dimensiona seus processos com confiança. O foco de Jen está sempre no que é prático para ajudar as organizações a se movimentarem mais rapidamente, colaborarem mais efetivamente e crescerem de forma sustentável.
 
-## Have something to share?
+## Tem algo para compartilhar?
 
-Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
+Você tem uma ótima história para compartilhar, durante um evento ou em um vídeo do Expert Insights? Entre em contato com nossa equipe em [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
 
 
-And if you like learning about new ideas and creative approaches, then don&#39;t forget to register for upcoming workshops on the [Experience League Events page](https://experienceleague.adobe.com/pt-br/events).
+E se você gosta de aprender sobre novas ideias e abordagens criativas, não se esqueça de se inscrever nos próximos workshops na [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events).

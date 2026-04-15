@@ -1,30 +1,32 @@
 ---
 title: Introdução à análise do Adobe Journey Optimizer no Customer Journey Analytics
-description: Esta sessão tem como objetivo demonstrar a maneira como o Customer Journey Analytics e o Adobe Journey Optimizer trabalham juntos para simplificar a medição de várias campanhas e jornadas do Adobe Journey Optimizer.
+description: Esta sessão tem como objetivo demonstrar a maneira como a Customer Journey Analytics e a Adobe Journey Optimizer trabalham juntas para simplificar a medição de várias campanhas e jornadas do Adobe Journey Optimizer.
 solution: Customer Journey Analytics, Journey Optimizer
+feature: Integrations, Journeys
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3218
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16031
-source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
+exl-id: 5cdd8fe0-32e5-4799-9695-73f37c80917c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-
 # Introdução à análise do Adobe Journey Optimizer no Customer Journey Analytics
 
-Esta sessão tem como objetivo demonstrar a maneira como o Customer Journey Analytics e o Adobe Journey Optimizer trabalham juntos para simplificar a medição de várias campanhas e jornadas do Adobe Journey Optimizer.
+Esta sessão tem como objetivo demonstrar a maneira como a Customer Journey Analytics e a Adobe Journey Optimizer trabalham juntas para simplificar a medição de várias campanhas e jornadas do Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432996/?learn=on)
 
 Este webinário demonstra a integração e os recursos do Agile Analytics no Adobe Journey Optimizer Analytics para ajudar os usuários a entender o valor e os benefícios de usar essas ferramentas em conjunto para análises e insights mais profundos.
 
-## Principais pontos
+## Principais lições
 
 * A integração do Agile Analytics com o Adobe Journey Optimizer Analytics permite análises e insights mais profundos combinando dados de diferentes fontes para gerar métricas mais significativas.
 

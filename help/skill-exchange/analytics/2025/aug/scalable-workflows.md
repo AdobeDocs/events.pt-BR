@@ -3,25 +3,26 @@ title: Data in Motion - Fluxos de trabalho dimensionáveis do Analytics para equ
 description: Saiba como simplificar os fluxos de trabalho do Adobe Analytics, fortalecer a governança e capacitar equipes com insights que impulsionam a ativação, a colaboração e o crescimento.
 solution: Analytics
 feature: Data Governance, Analytics Basics
+topic: Administration, Content Supply Chain, Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18822
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: aeffcf4e-0f0d-4903-ad14-bb7ab499ab64
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
 # Data in Motion - Fluxos de trabalho dimensionáveis do Analytics para equipes orientadas pela Insight
 
-Junte-se à especialista da Adobe Ioana Maftei, gerente sênior de análise da IBM, enquanto ela compartilha como criar fluxos de trabalho de análise escaláveis e controlados que tornam a cadeia de fornecimento de conteúdo mensurável. Saiba como fornecer os insights certos às pessoas certas, no momento certo, permitir a colaboração entre equipes e adaptar os projetos do Analysis Workspace para atender a diferentes funções e necessidades.
+Junte-se a especialista do Adobe Ioana Maftei, gerente sênior de análise da IBM, enquanto ela compartilha como criar fluxos de trabalho de análise escaláveis e controlados que tornam o conteúdo do supply chain mensurável. Saiba como fornecer os insights certos às pessoas certas, no momento certo, permitir a colaboração entre equipes e adaptar os projetos do Analysis Workspace para atender a diferentes funções e necessidades.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471234/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
 
 ## Mapeamento de funções para estágios do Analytics
 

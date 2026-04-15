@@ -4,13 +4,15 @@ description: Saiba mais sobre os recursos mais recentes do Adobe Real-Time CDP q
 kt: KT-15598
 solution: Real-Time Customer Data Platform, Experience Platform
 feature: Playbooks, Destinations, Sources
+topic: Integrations
 event-cta-url-live: https://www.youtube.com/live/Cw5004YGMbc
 event-start-time: 2024-06-26 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 duration: 25
-source-git-commit: 56ccf95c77ba8efebf8d8ed112d2e8e1d7c0418a
+exl-id: 3adbdd2b-1c05-4b63-804d-17536eea31fe
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '283'
 ht-degree: 1%
 
 ---
@@ -21,12 +23,12 @@ Saiba mais sobre os recursos mais recentes do Adobe Real-Time CDP que foram lan�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430515/?quality=12&learn=on)
 
-**Para continuar a discussão, visite nossa [discussão na Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150?profile.language=pt#M67){target="_blank"}.**
+**Para continuar a discussão, visite nossa [discussão na Comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}.**
 
-**Mostrar detalhes**: você é um profissional atual da Real-Time CDP e está procurando informações sobre as novidades do produto, por que ele é importante e como o Adobe pode ajudá-lo a melhorar as estratégias de gerenciamento de dados do seu cliente? Não procure mais. Você chegou ao lugar certo! Nesta série, vamos nos aprofundar no que foi lançado recentemente no Real-Time CDP para que você possa aproveitar as novidades imediatamente e causar um impacto na sua organização.\
+**Mostrar detalhes**: você é um profissional atual da Real-Time CDP e está procurando insight para saber as novidades do produto, por que ele é importante e como a Adobe pode ajudá-lo a melhorar as estratégias de gerenciamento de dados do seu cliente? Não procure mais. Você chegou ao lugar certo! Nesta série, vamos nos aprofundar no que foi lançado recentemente no Real-Time CDP para que você possa aproveitar as novidades imediatamente e causar um impacto na sua organização.\
 Nesta sessão, discutiremos e mostraremos cinco novos recursos que foram lançados nos últimos meses:
 
-1. Manuais de casos de uso 
+1. Manuais de estratégia de casos de uso
 1. Atualizações B2B: envolvimento baseado em conta + novos painéis
 1. Conexões da CDP na orientação do produto
 1. Novas integrações (parceiros de identidade, fontes, destinos)

@@ -2,25 +2,26 @@
 title: Criação de patrocínio executivo para o suporte ao sucesso da Adobe Customer Journey Analytics
 description: Conheça as estratégias para obter patrocínio executivo para o sucesso do Adobe Customer Journey Analytics. Impulsione o alinhamento, proteja os orçamentos e adote decisões orientadas por dados.
 feature: Data Governance
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1623
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18767
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 7e5827d4-e243-4030-94f0-1ad25cab8951
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # Criação de patrocínio executivo para o suporte ao sucesso do Adobe Customer Journey Analytics (CJA)
 
 Em nossa quarta sessão, analisamos como a falta de um forte patrocínio executivo atrasará a tomada de decisões, a alocação de orçamento e o gerenciamento de alterações. Neste webinário, exploramos o papel crítico que os líderes executivos desempenham na defesa de programas da Adobe Customer Journey Analytics, no alinhamento de equipes multifuncionais e na promoção de resultados comerciais mensuráveis. Aprenda estratégias práticas para envolver os principais interessados, comunicar valor com eficiência e criar uma cultura de tomada de decisões orientadas por dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470859/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
 
 ## Criação de business cases
 

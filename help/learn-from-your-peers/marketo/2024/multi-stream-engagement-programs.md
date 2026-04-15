@@ -2,6 +2,8 @@
 title: Domine jornadas complexas do cliente com programas de envolvimento de vários fluxos
 description: Aprenda a engajar e nutrir sistematicamente os relacionamentos com os clientes com programas de engajamento multitoque e de vários fluxos em cada etapa de sua jornada. Os programas de engajamento oferecem a capacidade de ouvir as necessidades e o comportamento dos clientes e de fornecer a eles a jornada relevante e o conteúdo necessário.
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Performance
 role: Admin, User
 level: Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
 exl-id: 81ef0921-cc8b-4355-adf4-df1772e388ae
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -28,16 +30,16 @@ Esta sessão Aprenda com seus colegas discutiu a configuração e o gerenciament
 
 ## Principais aprendizados
 
-* Escolher o tipo certo de programa: entender a diferença entre programas de nutrição e engajamento é crucial. &#x200B; Os programas de engajamento oferecem mais flexibilidade e complexidade para promover leads de maneira eficaz em comparação aos programas de nutrição direta. &#x200B;
+* Escolher o tipo certo de programa: entender a diferença entre programas de nutrição e engajamento é crucial. &#x200B; programas de engajamento oferecem mais flexibilidade e complexidade para promover leads de maneira eficaz em comparação aos programas de nutrição direta. &#x200B;
 
 * Estratégias de transição: usar campanhas inteligentes para transição entre fluxos em um programa de envolvimento fornece controle e automação. &#x200B; Entender quando e como fazer a transição de leads com base em fatores como estágios do ciclo de vida ou esgotamento de conteúdo é essencial para a promoção eficaz da liderança.
 
-* Métricas de sucesso do programa: definir métricas de sucesso claras para programas de envolvimento é essencial para medir a eficácia. &#x200B; Cliques de email, visitas a sites ou outras ações, ter definido critérios de sucesso ajuda a avaliar com precisão o desempenho e o impacto dos programas de engajamento. &#x200B;
+* Métricas de sucesso do programa: definir métricas de sucesso claras para programas de envolvimento é essencial para medir a eficácia. &#x200B; sejam cliques de email, visitas a sites ou outras ações, ter definido critérios de sucesso ajuda a avaliar com precisão o desempenho e o impacto dos programas de engajamento. &#x200B;
 
 ## Recursos referenciados nesta apresentação
 
-* [Noções Básicas sobre Programas de Participação](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [Noções básicas sobre a pontuação de engajamento](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [Adicionando um Programa a um Fluxo de Programa de Envolvimento](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [Visão Geral da Biblioteca de Importação de Programas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
-* [Thread de discussão da Comunidade da Nação de Marketing](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
+* [Noções básicas sobre programas de engajamento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [Noções básicas sobre a pontuação do engajamento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Adicionar um programa a um fluxo de programa de engajamento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Visão geral da biblioteca de importação do programa](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Thread de discussão da comunidade de nação de marketing](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)

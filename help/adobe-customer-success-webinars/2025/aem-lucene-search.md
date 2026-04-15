@@ -3,19 +3,20 @@ title: Dicas essenciais e práticas recomendadas para a pesquisa AEM Lucene
 description: Aumente o engajamento digital com ferramentas avançadas de pesquisa do AEM, como filtros, facetas, sugestão automática, NGram e verificação ortográfica. Aprenda com demonstrações do mundo real.
 solution: Experience Manager
 feature: Search
+topic: Performance
 role: Admin, Developer
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3630
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19550
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 53d83139-90f4-4e6c-ba6d-66638c02b4c3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
-
 
 # Dicas essenciais e práticas recomendadas para a pesquisa AEM Lucene
 
@@ -60,4 +61,3 @@ A otimização eficaz da pesquisa no AEM Lucene envolve a configuração estrat�
 * **Classificação e facetas** Habilite propertyIndex e a ordem de classificação; defina facet** como verdadeiro para filtragem baseada em contagem.
 
 A aplicação dessas estratégias resulta em consultas mais rápidas, uso reduzido de recursos e resultados mais relevantes.
-

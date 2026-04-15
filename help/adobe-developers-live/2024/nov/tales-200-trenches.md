@@ -3,23 +3,24 @@ title: Contos de 200 trincheiras
 description: Garanta o sucesso dos projetos Web priorizando o desempenho, usando o Google PageSpeed Insights, otimizando métricas principais como LCP e TBT, gerenciando recursos com eficiência e seguindo as práticas recomendadas para otimização de desenvolvimento e imagem.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Integrations, Performance, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1321
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16541
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 1104048d-4074-49aa-a0bc-0065fa2df505
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 1%
 
 ---
 
-
 # Contos de 200 trincheiras
 
-Edge Delivery Services Com mais de 200 projetos concluídos, Kiran Murugulla, engenheiro sênior da Adobe, e Varun Mitra, arquiteto da Adobe Experience Manager Cloud, compartilham as principais lições aprendidas. Descubra os segredos por trás da entrega de experiências rápidas e de alto desempenho com os Core Web Vitals excepcionais.
+Com mais de 200 projetos do Edge Delivery Services concluídos, Kiran Murugulla, engenheiro sênior da Adobe, e Varun Mitra, arquiteto da Adobe Experience Manager Cloud, compartilham as principais lições aprendidas. Descubra os segredos por trás do fornecimento de experiências rápidas e de alto desempenho com um Core Web Vitals excepcional.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439424/?learn=on&enablevpops)
@@ -28,7 +29,7 @@ Edge Delivery Services Com mais de 200 projetos concluídos, Kiran Murugulla, en
 
 Continue a conversa na [discussão](https://adobe.ly/4fwWvvi) da Comunidade do Adobe Developers Live.
 
-## Principais pontos
+## Principais lições
 
 * **O desempenho é crítico** O desempenho, especialmente a velocidade das páginas da Web, é enfatizado como um fator-chave para projetos bem-sucedidos da Web. Garantir pontuações de desempenho de 100 é a meta principal.
 * **Práticas de desenvolvimento**
@@ -50,4 +51,3 @@ Continue a conversa na [discussão](https://adobe.ly/4fwWvvi) da Comunidade do A
    * Concentre-se no desenvolvimento mobile-first.
    * Certifique-se de que a estruturação do conteúdo seja intuitiva para os autores.
 * **Ferramentas** Use ferramentas como o Google Sheets e o DSA para rastrear pontuações de desempenho do site ao longo do tempo.
-

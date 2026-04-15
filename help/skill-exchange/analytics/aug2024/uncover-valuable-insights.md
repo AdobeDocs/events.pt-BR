@@ -2,25 +2,27 @@
 title: Dos dados à ação - Descobrindo insights valiosos
 description: 'Nesta sessão, exploraremos os fundamentos do Adobe Analytics, com foco na obtenção de insights acionáveis de dados e na compreensão do comportamento do usuário. Aprofundaremos os padrões de tráfego, fatores externos, rastreamento de erros e personalização do rastreamento, enquanto enfatizamos a importância da colaboração e do atendimento às necessidades das partes interessadas. Três principais argumentos para o público-alvo: 1. Saiba como abordar a análise de comportamento do usuário no Analysis Workspace. 2. Entenda a importância do contexto, dos padrões e do rastreamento de erros 3. Obtenha insights sobre como compartilhar e colaborar efetivamente em projetos de análise, adaptando-os para atender às necessidades de diferentes participantes.'
 solution: Analytics
+feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 2422
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-15974
-source-git-commit: aad575b8e17ebbdf221266be663c08d671289b76
+exl-id: 7f47be30-b667-416d-a198-543630fa47d9
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Dos dados à ação: descobrindo insights valiosos
 
 Nesta sessão, exploraremos os fundamentos do Adobe Analytics, com foco na obtenção de insights acionáveis de dados e na compreensão do comportamento do usuário. Aprofundaremos os padrões de tráfego, fatores externos, rastreamento de erros e personalização do rastreamento, enquanto enfatizamos a importância da colaboração e do atendimento às necessidades das partes interessadas.
 
-## Principais pontos
+## Principais lições
 
 1. Saiba como abordar a análise de comportamento do usuário no Analysis Workspace
 2. Entender a importância do rastreamento de contexto, padrões e erros

@@ -2,19 +2,21 @@
 title: Recursos do Journey Optimizer Mobile
 description: Essa sessão introdutória do Adobe Journey Optimizer capacitará os iniciantes a criar experiências de cliente de canal de SMS e Push que geram resultados usando personalização. Discutiremos o uso e a personalização do fragmento.
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3294
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16036
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 2ff99ad3-4876-4760-af0f-c48a0c772e2e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
-
 
 # Recursos do Journey Optimizer Mobile
 

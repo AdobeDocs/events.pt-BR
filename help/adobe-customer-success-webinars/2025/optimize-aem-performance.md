@@ -1,6 +1,7 @@
 ---
 title: Otimização do desempenho do AEM - Estratégias e técnicas de armazenamento em cache
 description: A sessão abordou estratégias e técnicas de armazenamento em cache, mecanismos e camadas de armazenamento em cache, tratamento de conteúdo dinâmico, depuração de problemas de armazenamento em cache e sincronização da invalidação de cache entre o Dispatcher e o CDN.
+feature: Edge Delivery Services, Release Information
 topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3764
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17373
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 5606a250-ab06-417b-8abf-a30543cb5f16
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # Otimização do desempenho do AEM: estratégias e técnicas de armazenamento em cache
 
@@ -28,7 +29,7 @@ Nesta sessão, exploramos vários mecanismos de armazenamento em cache — como 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444452/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 * **Estratégias e técnicas de armazenamento em cache** A sessão focou várias estratégias e técnicas de armazenamento em cache para otimizar o desempenho, incluindo armazenamento em cache em diferentes camadas, como navegador, CDN e dispatcher.
 

@@ -1,6 +1,8 @@
 ---
 title: Marketo e Mochas - Capacidade de entrega (Parte 2)
-description: Explore as práticas recomendadas de capacidade de entrega de email com Sean Wirt do Gerente de capacidade de entrega da Marketo, incluindo estratégias do Gmail, Privacidade de email da Apple, IPs compartilhados vs. dedicados e uma demonstração detalhada da ferramenta de capacidade de entrega do Marketo Engage, seed lists, smart lists e relatórios.
+description: Explore as práticas recomendadas de capacidade de delivery de email com o Sean Wirt do Marketo Deliverability Manager, incluindo estratégias do Gmail, Privacidade de email do Apple, IPs compartilhados vs. dedicados e uma demonstração detalhada da ferramenta de capacidade de delivery da Marketo Engage, seed lists, smart lists e relatórios.
+feature: Smart Lists, Reporting
+topic: Security
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3418668.jpeg
 event-start-time: 2023-4-24 08:30-8
 exl-id: 02bf8dc4-a08a-4c82-812f-6b3e10ec97a2
 duration: 3638
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

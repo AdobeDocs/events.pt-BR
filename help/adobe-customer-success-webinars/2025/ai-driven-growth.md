@@ -1,6 +1,7 @@
 ---
 title: Líderes do varejo - Crescimento orientado por IA e manuais de melhor desempenho
 description: Saiba como os varejistas usam o tráfego alimentado por IA para aumentar a fidelidade, o engajamento e a conversão neste webinário do Adobe de 2025.
+feature: Segmentation
 topic: Artificial Intelligence
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3350
 last-substantial-update: 2025-08-27T00:00:00Z
 jira: KT-18836
-source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
+exl-id: 7267b110-fcba-4866-a7f8-4eefa0c14467
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # Líderes de varejo: crescimento orientado por IA e manuais de melhor desempenho
 
@@ -37,7 +38,7 @@ Este webinário de Sucesso do cliente do Adobe x Insights digitais da Adobe abor
 ## Aplicar estratégias de IA passo a passo
 
 1. **Rastrear o tráfego de IA** Configure as análises para identificar visitas de plataformas de IA (use segmentos LLM, UTMs).
-1. **Otimizar conteúdo** Estruture páginas de produto com títulos e perguntas frequentes claros para facilitar o rastreamento de IA.
+1. **Otimizar o conteúdo** Estruture as páginas de produto com títulos e perguntas frequentes claros para facilitar o rastree de IA.
 1. **Expandir alcance** Compartilhe informações do produto em redes sociais, blogs e sites de revisão para aumentar a visibilidade.
 1. **Aproveite Influenciadores** Seja parceiro de criadores de redes sociais em campanhas afiliadas e conteúdo gerado por usuários.
 1. **Programas de Fidelidade Aprimorados** Use os dados do cliente para personalizar recompensas e incentivar compras repetidas.

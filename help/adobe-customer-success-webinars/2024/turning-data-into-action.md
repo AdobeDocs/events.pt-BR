@@ -1,6 +1,8 @@
 ---
 title: O poder estratégico da medição - transformar dados em ação
 description: Estratégias de medição eficazes geram confiança e capacitação ao envolver as partes interessadas, garantir a familiaridade dos dados e promover a confiança na tomada de decisões, enquanto a confiança é estabelecida por meio da transparência, da governança de dados e do alinhamento das partes interessadas, e a capacitação é obtida por meio de treinamento, ferramentas acessíveis e dados acionáveis, tudo contribuindo para demonstrar o valor da análise por meio do impacto nos negócios e da eficiência operacional.
+feature: Metrics, Data Governance
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
 exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Conheça os elementos essenciais da criação de uma estratégia de medição ho
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440935/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 **Estratégias de medição**
 

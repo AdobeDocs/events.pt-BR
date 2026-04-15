@@ -3,6 +3,7 @@ title: Como aproveitar ao máximo o Marketo Measure
 description: Otimize o Marketo Measure com práticas recomendadas para mapeamento de canal, segmentação, mapeamento de estágio personalizado e supressão de ponto de contato. Use regras específicas, categorize dados e priorize estágios logicamente. Suprima pontos de contato indesejados para dados mais limpos. Aproveite ferramentas como estágios de bumerangue e envie casos de suporte para configurações complexas. Acesse a gravação da sessão na página Experiência do Adobe.
 solution: Marketo Measure
 feature: Touchpoints, Channels, Segmentation
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3417
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17542
 exl-id: 5e3ab998-9bb0-4b6d-a1bd-ec9f24789464
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---

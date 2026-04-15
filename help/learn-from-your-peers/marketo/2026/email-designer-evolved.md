@@ -2,19 +2,21 @@
 title: Além do lançamento - Evolução do Designer de email da Marketo Engage
 description: Descubra como a Designer de email da Marketo Engage se transformou, oferecendo ferramentas amigáveis para profissionais de marketing que aprimoram a criação de emails sem a codificação do HTML.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Migration, Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2515
 last-substantial-update: 2026-01-09T00:00:00Z
 jira: KT-20063
-source-git-commit: f04cc6261536cb98fdbbc78f31463e2daf8e0e65
+exl-id: 6a4502e0-494f-466c-9290-afab570111f0
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 4%
+source-wordcount: '348'
+ht-degree: 5%
 
 ---
-
 
 # Além do lançamento: como a Designer de email da Marketo Engage evoluiu
 
@@ -33,12 +35,12 @@ Junte-se a nós para uma visão fundamentada e real de como o Designer de email 
 
 ## Recursos adicionais
 
-* [Visão geral do Email Designer](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [Fragmentos personalizáveis](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [Conteúdo condicional](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
-* [Temas da marca](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [Comparação de recursos antigo vs novo Designer de email](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [Visão geral do Designer de email](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [Assistente de IA](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [Fragmentos personalizáveis](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [Conteúdo condicional](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [Temas da marca](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
+* [Comparação de recursos antigo vs novo Designer de email](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/marketo/using/release-notes/current)
-* [Champion Deep Dive: descubra o novo Designer de email no Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Champion Deep Dive: descubra a nova Designer de email no Marketo Engage](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
 * [Participe da conversa sobre a Comunidade com perguntas e respostas](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)

@@ -1,6 +1,8 @@
 ---
 title: Capacitar equipes enxutas
 description: Descubra como as integrações de produtos podem simplificar o gerenciamento do fluxo de trabalho digital, aprimorar a colaboração em equipe, garantir que você tenha uma equipe eficiente e dimensionar seus processos comerciais.
+feature: Edge Delivery Services, Release Information
+topic: Integrations, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ last-substantial-update: 2024-03-11T00:00:00Z
 jira: KT-15114
 thumbnail: 3427800.jpeg
 exl-id: 1dc9fcb7-66d8-4394-a97f-deff20813794
-source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '775'
 ht-degree: 0%
 
 ---
@@ -20,15 +22,15 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427800/?learn=on)
 
-Este webinário discute os desafios enfrentados pelas equipes enxutas e fornece estratégias para superá-los. Salienta a importância de racionalizar as tarefas, aumentar a eficiência, melhorar a qualidade de vida no trabalho, reduzir as lacunas de competências e reforçar a colaboração e a comunicação. O documento também destaca várias integrações e recursos das soluções Adobe que podem ajudar a simplificar processos e otimizar workflows. Além disso, enfatiza a importância do treinamento, da documentação e do estabelecimento de padrões e governança para melhorar a eficiência e a escalabilidade da equipe. Em geral, as estratégias descritas no documento têm como objetivo capacitar equipes enxutas para alcançar mais com recursos limitados.
+Este webinário discute os desafios enfrentados pelas equipes enxutas e fornece estratégias para superá-los. Salienta a importância de racionalizar as tarefas, aumentar a eficiência, melhorar a qualidade de vida no trabalho, reduzir as lacunas de competências e reforçar a colaboração e a comunicação. O documento também destaca várias integrações e recursos das Soluções Adobe que podem ajudar a simplificar processos e otimizar workflows. Além disso, enfatiza a importância do treinamento, da documentação e do estabelecimento de padrões e governança para melhorar a eficiência e a escalabilidade da equipe. Em geral, as estratégias descritas no documento têm como objetivo capacitar equipes enxutas para alcançar mais com recursos limitados.
 
 ## Destaques
 
 * Os desafios enfrentados pelas equipes enxutas incluem restrições de recursos, lacunas de habilidades e necessidades de treinamento, gerenciamento de esgotamento e carga de trabalho e dificuldades de colaboração e comunicação.
 
-* Para superar esses desafios, as equipes enxutas podem simplificar tarefas, aumentar a eficiência, melhorar a qualidade de vida, reduzir as lacunas de habilidades e aproveitar os principais recursos e integrações de produtos oferecidos pelas Soluções Adobe.
+* Para superar esses desafios, equipes enxutas podem simplificar tarefas, aumentar a eficiência, melhorar a qualidade de vida, reduzir as lacunas de habilidades e aproveitar os principais recursos e integrações de produtos oferecidos pelas Soluções da Adobe.
 
-* A Adobe Creative Cloud oferece recursos como as bibliotecas Creative Cloud, que permitem aos usuários armazenar e gerenciar ativos em um local centralizado, e integrações com plataformas de terceiros, como Microsoft Teams e Slack, para colaboração e processos criativos eficientes.
+* A Adobe Creative Cloud oferece recursos como bibliotecas Creative Cloud, que permitem aos usuários armazenar e gerenciar ativos em um local centralizado, e integrações com plataformas de terceiros, como Microsoft Teams e Slack, para colaboração e processos criativos eficientes.
 
 * O Adobe Experience Manager (AEM) fornece recursos como fluxos de trabalho, fragmentos de conteúdo e anotações para aprimorar a velocidade do conteúdo, simplificar processos e melhorar a colaboração e o gerenciamento de ativos.
 
@@ -38,7 +40,7 @@ Este webinário discute os desafios enfrentados pelas equipes enxutas e fornece 
 
 * Armazenamento centralizado: as bibliotecas Creative Cloud permitem que os usuários armazenem e gerenciem seus próprios ativos, como imagens, gráficos, cores e estilos de texto, em um local centralizado. Isso facilita o acesso e o uso de ativos pelos membros da equipe em vários projetos e aplicativos.
 
-* Consistência da marca: ao usar as bibliotecas Creative Cloud, os membros da equipe podem garantir a consistência da marca acessando e usando o mesmo conjunto de ativos em diferentes projetos. Isso elimina a necessidade de pesquisar ou recriar ativos, economizando tempo e mantendo uma identidade visual consistente.
+* Consistência da marca: ao usar bibliotecas Creative Cloud, os membros da equipe podem garantir a consistência da marca acessando e usando o mesmo conjunto de ativos em diferentes projetos. Isso elimina a necessidade de pesquisar ou recriar ativos, economizando tempo e mantendo uma identidade visual consistente.
 
 * Processo criativo simplificado: as bibliotecas Creative Cloud permitem que os usuários arrastem e soltem ativos diretamente em seus projetos. Isso simplifica o processo de criação e reduz o tempo necessário para concluir tarefas, como adicionar imagens ou aplicar cores ou estilos de texto específicos.
 
@@ -46,7 +48,7 @@ Este webinário discute os desafios enfrentados pelas equipes enxutas e fornece 
 
 * Controle de versão: as bibliotecas Creative Cloud facilitam o gerenciamento de diferentes versões dos ativos. Isso reduz o risco de inconsistências com os ativos e garante que os membros da equipe estejam sempre usando a versão mais recente.
 
-Em geral, as bibliotecas de Creative Cloud ajudam a simplificar o gerenciamento de ativos, melhorar a colaboração e aumentar a eficiência no processo criativo.
+Em geral, as bibliotecas Creative Cloud ajudam a simplificar o gerenciamento de ativos, melhorar a colaboração e aumentar a eficiência do processo criativo.
 
 ## Quais desafios são enfrentados ao operar com uma equipe enxuta?
 
@@ -60,6 +62,6 @@ Os desafios enfrentados ao operar com uma equipe enxuta incluem:
 
 * Collaboration e comunicação: colaboração e comunicação eficazes são essenciais para que equipes enxutas funcionem com eficiência. No entanto, coordenar entre diferentes projetos e garantir que todos os membros da equipe estejam alinhados pode ser desafiador sem pessoal suficiente para gerenciar fluxos de trabalho diferentes. Esse desafio será maior se a equipe estiver distribuída ou trabalhando remotamente.
 
-* Esses desafios podem ser superados com a simplificação de tarefas, o aumento da eficiência, a melhoria da qualidade de vida, a redução de lacunas de habilidades e o aproveitamento dos principais recursos e integrações dos produtos fornecidos pelas Soluções Adobe.
+* Esses desafios podem ser superados com a simplificação de tarefas, o aumento da eficiência, a melhoria da qualidade de vida, a redução de lacunas de habilidades e o aproveitamento dos principais recursos e integrações de produtos fornecidos pelas Soluções Adobe.
 
 * Além disso, estabelecer padrões e governança, fornecer treinamento e documentação e criar um centro de excelência pode ajudar a superar esses desafios e melhorar a eficiência e a produtividade de equipes enxutas.

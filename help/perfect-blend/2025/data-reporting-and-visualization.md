@@ -2,6 +2,7 @@
 title: Melhore seus relatórios e visualização de dados com o Customer Journey Analytics
 description: Saiba como o Customer Journey Analytics capacita insights entre canais, integra-se ao Target e ao Adobe Journey Optimizer e fornece painéis avançados para decisões mais inteligentes.
 solution: Customer Journey Analytics, Analytics, Target
+feature: Integrations, Identity, Segmentation, Visualizations
 topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +11,9 @@ duration: 3744
 last-substantial-update: 2025-09-23T00:00:00Z
 jira: KT-19279
 exl-id: 74b6cd7e-b523-45ea-be1a-31214f6b57cb
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---

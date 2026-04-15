@@ -3,6 +3,7 @@ title: Anotação de processos complexos no registro de atividades
 description: Junte-se a Beth Massura, Jimmy Spencer e o moderador Corey Bayless nesta sessão de aprofundamento para descobrir técnicas inovadoras de solução de problemas para processos complexos de vários segmentos no Marketo, usando notas de log de atividades para rastrear onde os processos começam, terminam, falham e têm sucesso.
 solution: Marketo Engage
 feature: Audit Trail
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2024-02-08T00:00:00Z
 jira: KT-14922
 thumbnail: 3427149.jpeg
 exl-id: df731e4b-3a3c-4cdf-8901-d803e9a4ae64
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

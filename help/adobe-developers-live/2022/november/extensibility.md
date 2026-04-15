@@ -1,7 +1,8 @@
 ---
 title: Introdução à extensibilidade da interface do Adobe Developers Live NOV 22 e à nova interface do fragmento de conteúdo
-description: Introdução à extensibilidade da interface e ao novo fragmento de conteúdo O Adobe Experience Manager oferece novos serviços que reduzem os custos de manutenção, fornecem constantemente o aprimoramento mais recente aos usuários e podem ser personalizados e estendidos com uma pilha moderna de tecnologia de front-end.Nesta sessão, faremos uma visão geral dos novos serviços da interface do usuário do fragmento de conteúdo e forneceremos um exemplo passo a passo de como criar uma extensão para o Console do fragmento de conteúdo.
+description: Introdução à extensibilidade da interface e ao novo fragmento de conteúdo UIAo Adobe Experience Manager oferece novos serviços que reduzem os custos de manutenção, fornecem constantemente o aprimoramento mais recente aos usuários e podem ser personalizados e estendidos com uma pilha de tecnologia front-end moderna.Nesta sessão, faremos uma visão geral dos novos serviços da interface do usuário do fragmento de conteúdo e forneceremos um exemplo passo a passo de como criar uma extensão para o Console de fragmentos de conteúdo.
 solution: Experience Manager,Experience Manager Sites
+feature: Developer Tools, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11484
 thumbnail: 3411305.jpeg
 exl-id: 9624f106-e48c-4c6e-81b8-adf083c8db96
 duration: 2733
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

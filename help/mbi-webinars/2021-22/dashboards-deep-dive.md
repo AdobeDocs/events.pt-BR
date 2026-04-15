@@ -5,14 +5,17 @@ landing-page-description: Assista a este webinário gravado para obter um tour g
 short-description: Assista a este webinário gravado para obter um tour guiado dos quatro painéis incluídos na configuração com cada conta do Commerce Intelligence.
 kt: 10496
 solution: Commerce, Commerce Intelligence
+feature: Data Integration, Reports
+feature-set: Commerce Intelligence
+topic: Commerce
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg
 exl-id: f11829c9-3c7b-4da5-8ad8-762086a820b9
 duration: 2932
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -35,5 +38,5 @@ Faça um tour guiado pelos quatro painéis incluídos na configuração de cada 
 
 ## Recursos úteis
 
-[Painéis](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=pt-BR)
-[Exportando Dados do Gráfico](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=pt-BR)
+[Painéis](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
+[Exportando Dados do Gráfico](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

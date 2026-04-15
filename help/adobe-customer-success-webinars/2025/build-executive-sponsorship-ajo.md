@@ -2,19 +2,21 @@
 title: Criação de patrocínio executivo para o suporte ao sucesso da Adobe Journey Optimizer
 description: Saiba como os líderes executivos defendem programas do AJO, alinham equipes e impulsionam resultados com estratégias de envolvimento e liderança de patrocinadores.
 solution: Journey Optimizer
+feature: Journeys
+topic: Personalization, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2422
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19625
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 2524ce6c-d654-4b17-aa0f-ecefe17aa2ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # Sessão VRA #4: Criação de patrocínio executivo para o sucesso do suporte do Adobe Journey Optimizer (AJO)
 
@@ -50,4 +52,3 @@ Um mapeamento eficaz das partes interessadas é essencial para impulsionar a tra
 * **Estabelecimento de relacionamentos** promova a transparência, defina expectativas claras e mantenha uma comunicação contínua para transformar o suporte executivo em parceria estratégica.
 
 Usar um mapa de estratégia das partes interessadas ajuda as organizações a selecionar o patrocinador executivo e os aliados certos, garantindo uma implementação bem-sucedida e uma mudança contínua.
-

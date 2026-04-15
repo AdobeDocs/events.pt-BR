@@ -2,15 +2,17 @@
 title: O Gem Oculto No Banco De Dados - Registros Reativados
 description: Junte-se à nossa sessão, onde guiaremos você pelas etapas que adotamos para operacionalizar o processo de reengajamento na Alma e o que aprendemos ao longo do caminho.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9771
 thumbnail: 340591.jpeg
 exl-id: 500c79fc-75cf-40ef-8a6d-376ea30d432c
 duration: 2375
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---

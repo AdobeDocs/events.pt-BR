@@ -1,19 +1,21 @@
 ---
 title: Palestra de abertura do Adobe Analytics
 description: Explore as habilidades essenciais dos analistas — narrativa, ética e empatia — além de como a IA e o insight humano se combinam para gerar resultados significativos para os negócios.
+feature: Data Governance, Data Configuration and Collection
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18828
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 8f1fedd4-3c00-4593-8b04-4d37be97378a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # Palestra de abertura do Adobe Analytics
 
@@ -23,7 +25,7 @@ Acúmulo empresarial e raciocínio ético: tome decisões inteligentes e éticas
 Metodologia de pesquisa e artesanato de narrativa: Transforme os resultados dos dados em narrativas atraentes para as partes interessadas.
 Competência técnica e inteligência emocional: forneça suporte e soluções com empatia, não apenas habilidades técnicas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471190/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
 
 ## Desbloquear o Analytics para impacto humano
 

@@ -3,19 +3,20 @@ title: Caos tranquilo do cliente - Dicas para lidar com Jornadas complexas no Ad
 description: Aprenda dicas práticas para detalhar jornadas complexas, usar tags e simplificar o gerenciamento de dados para uma orquestração contínua no Adobe Journey Optimizer.
 solution: Experience Platform, Journey Optimizer
 feature: Journeys
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18849
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: e2b632ee-aa96-41db-8587-f880595a5143
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
-
 
 # Caos tranquilo do cliente: dicas para lidar com Jornadas complexas no Adobe Journey Optimizer (AJO)
 

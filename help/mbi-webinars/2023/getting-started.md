@@ -1,18 +1,21 @@
 ---
 title: Introdução ao Commerce Intelligence
-description: Assista a este webinário para saber mais sobre a funcionalidade principal do Commerce Intelligence para sua loja de Adobe Commerce ou Magento Open Source.
-landing-page-description: Assista a este webinário gravado para saber mais sobre a funcionalidade principal do Commerce Intelligence para sua loja de Adobe Commerce ou Magento Open Source.
-short-description: Assista a este webinário gravado para saber mais sobre a funcionalidade principal do Commerce Intelligence para sua loja de Adobe Commerce ou Magento Open Source.
+description: Assista a este webinário para saber mais sobre a funcionalidade principal do Commerce Intelligence para sua loja da Adobe Commerce ou Magento Open Source.
+landing-page-description: Assista a este webinário gravado para saber mais sobre a funcionalidade principal do Commerce Intelligence para sua loja da Adobe Commerce ou Magento Open Source.
+short-description: Assista a este webinário gravado para saber mais sobre a funcionalidade principal do Commerce Intelligence para sua loja da Adobe Commerce ou Magento Open Source.
 kt: 10408
 solution: Commerce, Commerce Intelligence
+feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Commerce, Performance
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
 exl-id: ac932e1b-ae0a-40a3-b7dd-948d88ded358
 duration: 3221
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
@@ -31,5 +34,5 @@ Os casos de uso são compartilhados por todo o, o que fornece exemplos ilustrati
 
 ## Recursos adicionais
 
-[Introdução ao Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=pt-BR)
-[Suporte da Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=pt-BR)
+[Introdução ao Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+[Suporte da Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

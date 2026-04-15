@@ -2,19 +2,20 @@
 title: Dos dados ao design - Automatização de PDFs com marcas com o Workfront Fusion
 description: Descubra como automatizar a criação de PDF com marca usando o Workfront Fusion. Simplifique os processos e melhore a produtividade com este guia abrangente.
 feature: Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3287
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20607
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: ef961b55-b8c5-46db-ba2d-94f66ee85d6f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 2%
 
 ---
-
 
 # Dos dados ao design - Automatização de PDFs com marcas com o Workfront Fusion
 
@@ -22,9 +23,6 @@ Transforme os dados do Workfront em produtos finais elegantes e prontos para as 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481825/?learn=on&enablevpops)
 
-Procurando mais recursos do evento, incluindo o conjunto de slides e o arquivo zip discutidos durante a sessão? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587?profile.language=pt)!
+Procurando mais recursos do evento, incluindo o conjunto de slides e o arquivo zip discutidos durante a sessão? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
-
-
-

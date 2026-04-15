@@ -1,13 +1,15 @@
 ---
 title: Aprofundamento do editor de rich text (RTE) do AEM
 description: Conheça as Práticas recomendadas sobre as configurações avançadas e o uso do RTE no AEM. Abordaremos os diferentes casos de uso, limitações, armadilhas, fluxo de trabalho de configuração e etapas comuns de solução de problemas ao usar o RTE no AEM. Também abordaremos sua arquitetura de comando-plug-in e conceitos principais como regras HTML, kernel e desserialização.
+feature: Authoring
+topic: Development, Headless
 discoiquuid: d4220ddf-360a-4068-9558-b42f29038cc7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: d6ecba7f-e82b-4b26-9769-392449c9d070
 duration: 3186
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---

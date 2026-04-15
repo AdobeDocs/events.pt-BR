@@ -1,19 +1,21 @@
 ---
 title: Melhorar a experiência no local
-description: Descubra como o Adobe Brand Concierge transforma experiências digitais com interações personalizadas orientadas por IA para impulsionar o engajamento e as conversões.
+description: Descubra como a Adobe Brand Concierge transforma experiências digitais com interações personalizadas orientadas por IA para impulsionar o engajamento e as conversões.
+feature: Edge Delivery Services, Release Information
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 779
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19983
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: dd524527-e8fc-4de1-8974-cdea2573855d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
-
 
 # Melhore a experiência no local com o Brand Concierge
 

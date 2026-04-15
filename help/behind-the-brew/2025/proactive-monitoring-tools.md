@@ -1,19 +1,22 @@
 ---
 title: Por trás da brecha - um detalhamento completo das ferramentas de monitoramento pró-ativo
+solution: Commerce
+feature: Security, Cache
 description: Junte-se a nós para saber como a SWAT, o Fastly e o New Relic permitem o monitoramento pró-ativo, o diagnóstico eficiente de problemas e o rastreamento contínuo da integridade do sistema para obter o desempenho ideal.
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3787
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18156
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 09353d41-314b-4551-b7e8-796ca665e14e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Por trás da brew: um detalhamento completo das ferramentas de monitoramento pró-ativo
 

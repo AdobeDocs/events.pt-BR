@@ -1,6 +1,7 @@
 ---
 title: Aprenda fluxos de trabalho e dicas para implantações mais rápidas com os Ambientes de desenvolvimento rápido (RDE)
 description: Aprenda fluxos de trabalho e dicas para implantações mais rápidas com os Ambientes de desenvolvimento rápido (RDE) Os Ambientes de desenvolvimento rápido (RDE) para o AEM as a Cloud Service melhoram a experiência do desenvolvedor, permitindo que ele implante e revise as alterações rapidamente, minimizando o tempo necessário para testar os recursos. Os RDEs são compatíveis com cenários de desenvolvimento iterativo, por exemplo, para atualizar código Java, configurações, scripts, conteúdo e configurações do dispatcher. As alterações são aplicadas diretamente às instâncias em execução. Nesta sessão, examinaremos os RDEs detalhadamente e mostraremos como os desenvolvedores podem aproveitá-los para implantar alterações experimentais diretamente, testar seu conteúdo e código durante o desenvolvimento e obter um feedback rápido sobre suas alterações usando um ambiente de nuvem real.
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13356
 thumbnail: 3419947.jpeg
 exl-id: 77f81cc0-6513-42a8-9c03-fbb97c4dbf29
 duration: 2643
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---

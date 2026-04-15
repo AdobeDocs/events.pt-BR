@@ -3,6 +3,7 @@ title: Como assimilar e processar ativos no Experience Manager Assets as a Cloud
 description: Temos várias maneiras de os clientes obterem ativos no Adobe Experience Manager e processá-los uma vez no Adobe Experience Manager Assets. Como os clientes escolhem a abordagem certa para seus casos de uso? Como eles podem aproveitar os recursos de importação e processamento da plataforma para maximizar o valor de seu investimento e reduzir o tempo de implantação? Saiba mais sobre os novos recursos da plataforma Adobe Experience Manager Assets Cloud Service.
 solution: Experience Manager,Experience Manager Assets
 feature: Asset Ingestion
+topic: Development, Headless
 role: User
 level: Beginner
 version: Experience Manager as a Cloud Service
@@ -10,10 +11,10 @@ kt: 9180
 type: Event
 exl-id: 7bf484d6-29fc-44b5-99c1-cc3e6055c72d
 duration: 1797
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '218'
+ht-degree: 7%
 
 ---
 
@@ -28,5 +29,5 @@ Continue a conversa em **[Comunidades Experience League](https://adobe.ly/2Zq7dl
 ## Recursos adicionais
 
 - [Documentação do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
-- [Visão geral do Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=pt-BR)
-- [Tutoriais do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=pt-BR)
+- [Visão geral do Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Tutoriais do Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

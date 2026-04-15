@@ -1,6 +1,9 @@
 ---
 title: Apresentação do Acrobat Analyzer
+solution: Acrobat Sign
+feature: Generative AI, Sign
 description: Descubra o Adobe Acrobat Analyzer, uma ferramenta da GenAI para Acrobat Sign que automatiza fluxos de trabalho de documentos, reduz riscos e melhora a eficiência da tomada de decisões.
+topic: Artificial Intelligence, Performance
 role: Admin, Leader, User
 level: Beginner
 doc-type: Event
@@ -8,7 +11,7 @@ duration: 0
 last-substantial-update: 2026-03-06T00:00:00Z
 jira: KT-20535
 exl-id: 08269373-e0c7-4a46-9c58-b37761beabb1
-source-git-commit: 27fe23c75a418be21fe90df4d8c3309d1d56848f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

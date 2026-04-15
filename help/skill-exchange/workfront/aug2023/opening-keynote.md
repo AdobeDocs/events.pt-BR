@@ -1,6 +1,8 @@
 ---
 title: Abrindo Palestra
-description: Nesta sessão, a Director de marketing de produtos, Richard Whitehead, guiará você pela evolução do Workfront, incluindo destaques, recursos novos e disponíveis e finalizará com inovações de produtos.
+description: Nesta sessão, o diretor de marketing de produtos, Richard Whitehead, o guiará pela evolução do Workfront, incluindo destaques, recursos novos e disponíveis e finalizará com inovações de produtos.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ jira: KT-14610
 thumbnail: 3425894.jpeg
 exl-id: 6d840275-3f12-4480-b442-93b0a4dab153
 duration: 694
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -18,6 +20,6 @@ ht-degree: 0%
 
 # Palestra de abertura do Workfront em agosto de 2023
 
-Nesta sessão, a Director de marketing de produtos, Richard Whitehead, guiará você pela evolução do Workfront, incluindo destaques, recursos novos e disponíveis e finalizará com inovações de produtos.
+Nesta sessão, o diretor de marketing de produtos, Richard Whitehead, o guiará pela evolução do Workfront, incluindo destaques, recursos novos e disponíveis e finalizará com inovações de produtos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453834/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)

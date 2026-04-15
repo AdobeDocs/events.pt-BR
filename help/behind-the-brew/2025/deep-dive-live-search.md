@@ -1,6 +1,9 @@
 ---
 title: Aprofundamento do Live Search
+solution: Commerce
+feature: Headless, Integration
 description: Personalize sua experiência do Live Search no Adobe Commerce com orientações de especialistas e exemplos de implementação prática
+topic: Headless, Integrations, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +11,9 @@ duration: 3515
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17165
 exl-id: 1bf37835-ec68-4195-b373-52718bf39d30
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -23,7 +26,7 @@ Nesta sessão, o consultor técnico do cliente da Adobe, Tapan Sodagar, nos orie
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443021/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 O foco geral da sessão foi o Live Search da Adobe Commerce, incluindo componentes, widgets e detalhes técnicos.
 

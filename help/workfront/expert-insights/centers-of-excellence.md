@@ -2,6 +2,7 @@
 title: Insights de especialistas - Governança e centros de excelência com Danielle Johnston
 description: Descubra as estratégias de Danielle Johnston sobre como usar o Workfront para construir governança e centros de excelência que impulsionam a adoção e a mudança positiva.
 feature: Strategic Planning
+topic: Performance, Administration
 speaker-name-1: Danielle Johnston
 speaker-title-1: Customer Success Manager
 speaker-company-1: Adobe
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 942
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18619
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: d7ebb12d-102d-41a4-86a6-95f49384172f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # Insights de especialistas - Governança e centros de excelência com Danielle Johnston
 
@@ -43,4 +44,3 @@ Danielle é uma gerente de sucesso do cliente que ajudou vários clientes a impl
 ## Tem algo para compartilhar?
 
 Você tem uma ótima história para compartilhar, durante um evento ou em um vídeo do Expert Insights? Entre em contato com nossa equipe em [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-

@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live - 22 DE NOVEMBRO - Coloque a criação em contexto e headless no seu aplicativo Next.JS
-description: Traga a criação em contexto e headless para o seu Next.JS O AppNext.js fornece uma excelente experiência para o desenvolvedor criar aplicativos React prontos para produção, especialmente com renderização estática híbrida e de servidor. É um veículo de entrega perfeito para sites alimentados pelo Adobe Experience Manager.Nesta sessão, mostraremos como:Inicializar rapidamente um novo aplicativo Next.js que funciona com conteúdo do Adobe Experience ManagerUsar o SDK editável do React para habilitar a edição no contextoBuscar conteúdo do CMS headless do Adobe Experience Manager e renderizar no aplicativo Next.js
+description: Traga a criação em contexto e headless para o seu Next.JS O AppNext.js fornece uma excelente experiência para o desenvolvedor criar aplicativos React prontos para produção, especialmente com renderização estática híbrida e de servidor. É um veículo de entrega perfeito para sites alimentados pelo Adobe Experience Manager.Nesta sessão, mostraremos como:Inicializar rapidamente um novo aplicativo Next.js que funciona com conteúdo do Adobe Experience ManagerUsar o React Editable SDK para permitir a edição no contextoBuscar conteúdo do Adobe Experience Manager headless CMS e renderizar no aplicativo Next.js
 solution: Experience Manager,Experience Manager Sites
+feature: Developer Tools, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11482
 thumbnail: 3411303.jpeg
 exl-id: 0d4ceb27-5df8-49cc-86c6-ea078a1ff216
 duration: 2415
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -27,7 +28,7 @@ A Next.js fornece uma ótima experiência de desenvolvedor para criar aplicativo
 Nesta sessão, mostraremos como:
 
 * Inicialize rapidamente um novo aplicativo Next.js que funciona com conteúdo do Adobe Experience Manager
-* Usar o SDK editável do React para habilitar a edição do contexto
+* Usar o React Editable SDK para habilitar a edição no contexto
 * Buscar conteúdo do CMS headless do Adobe Experience Manager e renderizar no aplicativo Next.js
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411303/?quality=12&learn=on)

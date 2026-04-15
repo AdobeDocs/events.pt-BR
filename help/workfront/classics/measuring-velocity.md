@@ -1,15 +1,17 @@
 ---
 title: Pergunte a um especialista - Medindo a velocidade
 description: Saiba como medir e rastrear a velocidade usando os relatórios do  [!DNL Workfront] . Esse workshop foi gravado em 14 de agosto de 2019.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
 duration: 4630
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '3962'
+source-wordcount: '3986'
 ht-degree: 0%
 
 ---
@@ -27,7 +29,7 @@ Economize tempo copiando e colando os cálculos abaixo.
 >[!NOTE]
 >
 >A sintaxe para cálculos de campo personalizado mudou desde que a apresentação foi feita em 2019, no entanto, os conceitos e outras instruções fornecidas na apresentação ainda são precisos.
->&#x200B;>**Os cálculos incluídos abaixo foram atualizados para refletir as regras de sintaxe mais recentes.**
+>**Os cálculos incluídos abaixo foram atualizados para refletir as regras de sintaxe mais recentes.**
 
 **Primeira data de confirmação**
 

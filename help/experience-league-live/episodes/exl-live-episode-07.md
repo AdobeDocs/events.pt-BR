@@ -3,13 +3,14 @@ title: Estender o AEM com o Adobe App Builder
 description: O desenvolvimento de microsserviços, a integração de sistemas de back-end e a automatização de workflows nunca foram tão fáceis.
 solution: Experience Manager
 feature: App Builder
+topic: Integrations, Development
 kt: 9501
 event-cta-url: https://youtu.be/b6jKxNnXFrk
 event-start-time: 2021-12-16 09:00-8
 event-guests: Mark Szulc, Sarah Xu, Zoran Nikolovski
 exl-id: e8c3e768-125b-4595-bcfc-5495f6595c3a
 duration: 3248
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

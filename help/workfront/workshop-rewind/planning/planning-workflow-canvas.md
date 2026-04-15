@@ -1,19 +1,21 @@
 ---
 title: Trio de Energia da Workfront - Conectando Painéis de Planejamento, Fluxo de Trabalho e Tela
 description: Descubra como integrar o planejamento, o fluxo de trabalho e os painéis do Canvas no Workfront para obter um gerenciamento simplificado de projetos.
+feature: Reports and Dashboards, Work Management, Strategic Planning
+topic: Integrations, Security, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3585
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20609
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 1038eeb7-584f-421c-88cd-9084746a5974
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 2%
 
 ---
-
 
 # Trio de Energia da Workfront - Conectando Painéis de Planejamento, Fluxo de Trabalho e Tela
 
@@ -21,8 +23,6 @@ As organizações bem-sucedidas não tratam o planejamento, a execução e os re
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481830/?learn=on&enablevpops)
 
-Procurando mais recursos do evento, incluindo o conjunto de slides compartilhado durante a sessão? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160?profile.language=pt)!
+Procurando mais recursos do evento, incluindo o conjunto de slides compartilhado durante a sessão? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.
-
-

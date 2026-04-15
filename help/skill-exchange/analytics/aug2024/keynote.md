@@ -1,20 +1,22 @@
 ---
 title: Palestra de abertura - Capacitação de equipes com dados
-description: Entenda a importância da democratização de dados e os problemas que ela resolve.Saiba mais sobre as práticas recomendadas para fornecer o contexto correto e garantir o uso eficaz dos dados. Descubra como a Adobe Analytics e o Customer Journey Analytics podem ajudar a capacitar suas equipes com dados.
+description: Entenda a importância da democratização de dados e os problemas que ela resolve.Conheça as práticas recomendadas para fornecer o contexto correto e garantir o uso eficaz dos dados. Descubra como a Adobe Analytics e a Customer Journey Analytics podem ajudar a capacitar suas equipes com dados.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 642
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15979
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: 9d52c522-8600-4812-997c-dc0182e79236
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '130'
 ht-degree: 1%
 
 ---
-
 
 # Palestra de abertura: Capacitar equipes com dados
 
@@ -24,6 +26,6 @@ Capacitar as equipes com dados é essencial para impulsionar a inovação e melh
 
 * Entenda a importância da democratização de dados e os problemas que ela resolve.
 * Conheça as práticas recomendadas para fornecer o contexto correto e garantir o uso eficaz dos dados.
-* Descubra como a Adobe Analytics e o Customer Journey Analytics podem ajudar a capacitar suas equipes com dados.
+* Descubra como a Adobe Analytics e a Customer Journey Analytics podem ajudar a capacitar suas equipes com dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453592/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)

@@ -2,6 +2,8 @@
 title: Explorar grupos de usuários do Adobe no Experience Cloud
 description: Descubra como os Grupos de usuários do Adobe promovem a colaboração, oferecem solução de problemas conduzida pelos colegas e fornecem oportunidades de liderança na AEM, Analytics, Marketo Engage e Workfront.
 solution: General
+feature: Developer Tools
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3492
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18677
 exl-id: b0344cef-66f3-4882-b0d8-eb2e298a08d2
-source-git-commit: 64d09d3316d604d92d1186e3785e64ac1bbaa800
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---

@@ -3,15 +3,16 @@ title: Simplificando sua primeira milha de gerenciamento de dados
 description: O volume crescente de dados torna muito desafiador para as empresas capturar com eficiência dados de interação digital e enviá-los para o marketing apropriado ... (as descrições devem ter entre 60 e 160 caracteres)
 solution: Real-Time Customer Data Platform
 feature: Data Governance
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
 exl-id: e35c6cc7-7831-4a62-9feb-9315a2bff18b
 duration: 3818
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 1%
 
 ---
@@ -22,7 +23,7 @@ O volume crescente de dados torna muito desafiador para as empresas capturar com
 
 >[!VIDEO](https://video.tv.adobe.com/v/344311/?quality=12&learn=on)
 
-## Informações adicionais 
+## Informações adicionais
 
 * [Seleção de uma plataforma de dados do cliente para o sucesso](cdp-success.md)
 * [Práticas recomendadas de pessoas e processos para gerenciamento de dados do cliente](people-and-process.md)

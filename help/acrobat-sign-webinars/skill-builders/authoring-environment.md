@@ -1,6 +1,8 @@
 ---
 title: Treinamento avançado em ambiente de criação
 description: Saiba mais sobre as opções disponíveis no Ambiente de criação do Acrobat Sign.
+feature: Sign
+topic: Development
 role: User
 level: Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
 exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 Saiba mais sobre as opções disponíveis no Ambiente de criação do Acrobat Sign. Os tópicos abordados incluem: Visão geral da preparação de modelos de documento do Acrobat Sign usando o Acrobat, marcação de texto e o Ambiente de criação do Acrobat Sign. Mergulhe fundo no Ambiente de criação, abrangendo a clonagem versus a cópia de campos, a adição de campos especializados, a atribuição de campos e a configuração de campos condicionais e de cálculo. Como enviar seus modelos para assinatura, comparando o modelo de documento vs. o modelo de campo de formulário.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455905/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
 
 ## Pontos principais
 

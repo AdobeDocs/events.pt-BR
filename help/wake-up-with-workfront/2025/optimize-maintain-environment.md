@@ -1,6 +1,8 @@
 ---
 title: Otimizar e manter seu ambiente
 description: Otimize o Adobe Workfront com dicas especializadas sobre eficiência, integridade de dados e escalabilidade. Conheça ferramentas, estratégias e práticas de aprimoramento contínuo.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3655
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17168
 exl-id: 36805420-e73f-47f7-b853-f7df9a358b3d
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -43,7 +45,7 @@ Não perca esta oportunidade de atualizar seu ambiente de gerenciamento de traba
 * Perguntas de pesquisa para envolver participantes.
 
 
-## Principais pontos
+## Principais lições
 
 O foco da sessão foi na otimização e manutenção do ambiente de trabalho.
 

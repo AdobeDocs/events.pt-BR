@@ -2,6 +2,7 @@
 title: Expert Insights - Fusão com Ewan Hruska
 description: Conheça as práticas recomendadas do Fusion para o Ewan Hruska. Descubra como documentar, otimizar e dimensionar workflows com o Adobe Workfront Fusion para obter eficiência.
 feature: Workfront Fusion
+topic: Performance
 speaker-name-1: Ewan Hruska
 speaker-title-1: Senior Customer Success Architect
 speaker-company-1: Adobe
@@ -12,9 +13,9 @@ duration: 1458
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18618
 exl-id: ab61b492-a391-497b-af45-f2d468e3f24f
-source-git-commit: ed7e2914147dbdc2012186c88e50d7313ef8bf7d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -27,19 +28,19 @@ Bem-vindo de volta ao Expert Insights!  Eu sou Cynthia Boon, sua CSM Workfront &
 
 ## Preciso de sua ajuda!
 
-Como Ewan mencionou no vídeo, ele está trabalhando em um guia de práticas recomendadas de fusão, e ele adoraria ouvir de você!  Se você estiver usando o Fusion para oferecer suporte aos seus processos, compartilhe conselhos, recomendações e dicas na [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=pt) e ele tentará incluir o máximo possível!
+Como Ewan mencionou no vídeo, ele está trabalhando em um guia de práticas recomendadas de fusão, e ele adoraria ouvir de você!  Se você estiver usando o Fusion para oferecer suporte aos seus processos, compartilhe conselhos, recomendações e dicas na [Publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114) e ele tentará incluir o máximo possível!
 
 ## Conselhos
 
 * A fusão é uma representação visual de seus processos. A documentação é sua amiga! Falando em documentação, salve os detalhes de como você cria seus processos.  Melhor ainda, faça um vídeo você mesmo andando por elas!
 * Meça o esforço e as horas de seu trabalho repetitivo
-* A Calculadora de ROI do Adobe Workfront que Ewan mencionou está anexada à [Publicação da Experience League Community](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=pt).
+* A Calculadora de ROI do Adobe Workfront que Ewan mencionou está anexada à [Publicação da Experience League Community](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114).
 * Use o Fusion para resolver seus desafios multifuncionais, economizar tempo (e dinheiro) e evitar erros.
 
 ## Recursos
 
-* [Lista de Modelos de Fusão Disponíveis](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=pt-BR)
-* [visões gerais de vídeo do Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=pt-BR)
+* [Lista de Modelos de Fusão Disponíveis](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
+* [visões gerais de vídeo do Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
 
 ## Sobre o orador
 

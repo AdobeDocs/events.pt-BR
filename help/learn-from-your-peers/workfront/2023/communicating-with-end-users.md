@@ -3,15 +3,17 @@ title: Webinar de comunicação com usuários finais
 description: Explore diversas estratégias de comunicação com os usuários do Workfront em nosso webinário sob demanda. Aprenda com especialistas da IDEXX, Adobe e Adobe Workfront sobre canais e tipos de comunicações eficazes, e sobre como desenvolver sua estratégia iterativamente.
 role: Admin, Leader
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3649
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15825
 exl-id: d1cec74c-aeca-4832-a7e7-be1e9cee112c
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -26,6 +28,6 @@ Neste webinário sob demanda, Lyndsy Denk, gerente de treinamento e capacitaçã
 * Dicas para decidir quais canais usar para suas comunicações
 * Como pensar em sua estratégia de comunicação de maneira iterativa, começando de onde você está e amadurecendo à medida que você vai
 
-Você também pode baixar o &quot;Guia de comunicações&quot; com ideias e exemplos de comunicações reais que seus colegas estão compartilhando com os usuários aqui: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=pt
+Você também pode baixar o &quot;Guia de comunicações&quot; com ideias e exemplos de comunicações reais que seus colegas estão compartilhando com os usuários aqui: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

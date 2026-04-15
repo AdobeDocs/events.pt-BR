@@ -2,6 +2,7 @@
 title: Insights de especialistas - Fluxos de trabalho não tradicionais do Workfront com Kiersten Kollins
 description: Descubra como Kiersten Kollins da DSW usa fluxos de trabalho não tradicionais do Adobe Workfront, relatórios personalizados e automações do Fusion para otimizar as operações de marketing e aumentar a eficiência da equipe.
 feature: Work Management
+topic: Performance, Development
 speaker-name-1: Kiersten Kollins
 speaker-title-1: Senior Marketing Ops Technologist
 speaker-company-1: DSW
@@ -12,9 +13,9 @@ duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
 exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -33,11 +34,11 @@ Você ficará impressionado com todas as ideias fantásticas que ela compartilha
 * Iniciar o Creative Brief analisa para atender às necessidades de seus usuários e projetos. 
 * *BÔNUS!* Ela também compartilha um exemplo de um de seus casos de uso favoritos do Fusion!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469944/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Recursos
 
-Durante o evento, Kiersten mencionou dois recursos que anexamos ao [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=pt).
+Durante o evento, Kiersten mencionou dois recursos que anexamos ao [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
 * **Exemplo de relatório** - Relatório de tarefa após o horário comercial 
 * **Medidas de proteção de roteamento de feedback DSW** Este é um exemplo fantástico de como ensinar seus usuários a fornecer atualizações no Workfront! 
 

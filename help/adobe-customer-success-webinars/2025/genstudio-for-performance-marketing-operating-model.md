@@ -2,21 +2,23 @@
 title: GenStudio para marketing de desempenho - Modelo operacional e estratégia de governança
 description: O webinário no Adobe GenStudio for Performance Marketing aborda a criação de uma estrutura de governança para aprimorar os processos criativos, a colaboração e a eficiência, enquanto fornece insights sobre a disponibilidade organizacional, as práticas recomendadas para modelos operacionais e os princípios do Marketing Agile para maximizar o investimento.
 solution: GenStudio for Performance Marketing
+feature: Workfront Planning
+topic: Artificial Intelligence, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3579
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17369
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: 2b5db111-2d36-4aea-9fa3-1aeb38ce0dc7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
-
-# GenStudio para PEM: modelo operacional e estratégia de governança
+# GenStudio for PeM: modelo operacional e estratégia de governança
 
 Este webinário foi projetado para clientes que estão implementando ou considerando o Adobe GenStudio for Performance Marketing. Saiba como criar uma estrutura de governança que orquestre processos criativos, melhore a colaboração e promova a eficiência. Descubra a perspectiva da Adobe sobre disponibilidade organizacional, explore as práticas recomendadas para modelos operacionais e obtenha insights acionáveis sobre como aproveitar os princípios do Marketing Ágil para maximizar seu investimento na GenStudio.
 
@@ -28,7 +30,7 @@ Pontos principais de discussão
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444446/?learn=on&enablevpops)
 
-## Principais pontos
+## Principais lições
 
 ### Definição de Disponibilidade Organizacional
 
@@ -37,8 +39,8 @@ Pontos principais de discussão
 
 ### Critérios de Sucesso do Gen Studio para Marketing de Desempenho
 
-* Maior produtividade da equipe criativa: automatize processos para simplificar a execução.
-* Ciclos de revisão criativa aprimorados: aumente a eficiência e a velocidade.
+* Maior produtividade da equipe do Creative: automatize processos para simplificar a execução.
+* Ciclos de revisão do Creative aprimorados: aumente a eficiência e a velocidade.
 * Conteúdo compatível com a marca: gere conteúdo com medidas de proteção corporativa.
 
 ### Modelo operacional de marketing ágil

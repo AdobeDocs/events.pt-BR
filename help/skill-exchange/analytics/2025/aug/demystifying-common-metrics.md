@@ -3,19 +3,20 @@ title: Desmistificar métricas comuns
 description: Saiba como interpretar métricas do Adobe Analytics (visitas, visitantes, exibições de página, rejeições, taxas de conversão e muito mais) para melhorar a precisão dos relatórios e os insights.
 solution: Analytics
 feature: Metrics, Analytics Basics
+topic: Security
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18817
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: f2f4277d-7778-4100-8768-0fac3edeec55
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # Desmistificar métricas comuns
 
@@ -41,4 +42,3 @@ Descubra como entender as métricas mais comuns de análise da Web e usá-las pa
 * **Percepção do tráfego de bot** Descubra como as métricas de bot ajudam você a identificar e filtrar o tráfego não humano para obter relatórios mais simples.
 
 Dominar esses conceitos ajudará você a selecionar as melhores métricas para suas necessidades e maximizar o valor dos relatórios de análise.
-
