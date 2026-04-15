@@ -25,4 +25,4 @@ Sou eu novamente, sua CSM de Workfront sob demanda Cynthia Boon e espero inspira
 
 Procurando um exemplo de como um cliente usa placas? Basta ver a apresentação dos Quadros da equipe da Mattel no Adobe Summit 2024!  
 
-[Sessão De Cúpula De 2024: Como A Mattel Está Aproveitando As Placas Workfront](https://business.adobe.com/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
+[Sessão De Cúpula De 2024: Como A Mattel Está Aproveitando As Placas Workfront](https://business.adobe.com/br/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)

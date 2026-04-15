@@ -28,7 +28,7 @@ Veja como os novos recursos são projetados para facilitar a conexão da estrat�
 ## Recursos
 
 - [PDF de apresentação de slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/111025+-+From+Vision+to+Value-Workfront+Planning+Release+%26+Roadmap.pdf)
-- [Visão geral do Adobe Workfront Planning](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+- [Visão geral do Adobe Workfront Planning](https://experienceleague.adobe.com/pt-br/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
 - [Visão Geral da API do Workfront Planning](https://developer.adobe.com/wf-planning/api/v1/)
 - [API Explorer para fluxos de trabalho do Workfront](https://developer.adobe.com/workfront/api-explorer/)
-- Você tem ideias para compartilhar ou tem dúvidas de acompanhamento do evento? Fique à vontade para soltá-los nos comentários da [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!). Novos eventos são adicionados a cada mês. Portanto, verifique a página Eventos da Experience League para obter as sessões mais recentes.
+- Você tem ideias para compartilhar ou tem dúvidas de acompanhamento do evento? Fique à vontade para soltá-los nos comentários da [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!?profile.language=pt). Novos eventos são adicionados a cada mês. Portanto, verifique a página Eventos da Experience League para obter as sessões mais recentes.

@@ -38,8 +38,8 @@ A Corre é um CSM verdadeiramente estratégico que define o ritmo para usarmos a
 
 ### Summit Sessions
 
-* [Como a Adobe otimizou seu conteúdo Supply chain - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Explore a abordagem da Adobe para implantar seu conteúdo Supply chain em sua própria organização de marketing 
-* [Revolucionalizando a Produção de Conteúdo com o Adobe - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Descubra como a Adobe pode maximizar seu supply chain de conteúdo e acelerar seu fluxo de trabalho criativo 
+* [Como a Adobe otimizou seu conteúdo Supply chain - S316](https://business.adobe.com/br/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Explore a abordagem da Adobe para implantar seu conteúdo Supply chain em sua própria organização de marketing 
+* [Revolucionalizando a Produção de Conteúdo com o Adobe - S305](https://business.adobe.com/br/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Descubra como a Adobe pode maximizar seu supply chain de conteúdo e acelerar seu fluxo de trabalho criativo 
 
 ### Demonstrações de produto
 

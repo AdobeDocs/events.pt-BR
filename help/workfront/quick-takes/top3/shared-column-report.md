@@ -27,4 +27,4 @@ Temos várias perguntas sobre como usar o Modo de texto para combinar informaç�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
 
-Procurando mais? Temos **Três Dicas de Bônus** na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)!
+Procurando mais? Temos **Três Dicas de Bônus** na [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=pt)!

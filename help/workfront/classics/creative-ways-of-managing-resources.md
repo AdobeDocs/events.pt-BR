@@ -27,6 +27,6 @@ Se você perdeu a sessão ao vivo, a gravação é postada aqui e o link para o 
 * [Workfront Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Creative+Ways+of+Managing+Resources+in+Adobe+Workfront+052025.pdf)
 * [Deck de slides da Universidade de Western Governors](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Rick+C.s+Presentation+for+Workfront+Event_+Creative+Ways+of+Managing+Resources.pdf)
 * [Plataforma de slides do depósito de sapatos DSW Designer](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/DSW+SLIDES+FINAL+V2+-+Creative+Ways+of+Managing+Resources+in+Workfront+.pdf)
-* [Publicação da comunidade do Experience League com recursos adicionais](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-creative-ways-of-managing-resources-in-adobe/td-p/755145)
+* [Publicação da comunidade do Experience League com recursos adicionais](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-creative-ways-of-managing-resources-in-adobe/td-p/755145?profile.language=pt)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464296/?learn=on&enablevpops)

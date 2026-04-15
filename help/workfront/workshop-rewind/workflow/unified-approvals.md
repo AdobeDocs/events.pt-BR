@@ -25,6 +25,6 @@ As Aprovações unificadas representam o futuro das aprovações no Workfront. J
 
 Se você perdeu a sessão, não se preocupe! Revise a [apresentação de slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf) e assista à gravação sob demanda para acompanhá-la.
 
-Procurando mais recursos para as perguntas e respostas do evento? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-understanding-unified-approvals-direction-reporting-and-what-s-next-3-26-26-249480)!
+Procurando mais recursos para as perguntas e respostas do evento? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-understanding-unified-approvals-direction-reporting-and-what-s-next-3-26-26-249480?profile.language=pt)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.

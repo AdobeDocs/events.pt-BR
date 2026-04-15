@@ -23,7 +23,7 @@ Hospedado em parceria com Steve Teitelbaum, arquiteto corporativo do Content Sup
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481821/?learn=on&enablevpops)
 
-Esta sessão amplia a discussão de um workshop anterior, [Workfront Pro Tips for Governance, Execution, and Adoption](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption).
+Esta sessão amplia a discussão de um workshop anterior, [Workfront Pro Tips for Governance, Execution, and Adoption](https://experienceleague.adobe.com/pt-br/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption).
 
 Se você perdeu a sessão, não se preocupe! Revise a [apresentação de slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+Part+2_Dec2025.pdf) e assista à gravação sob demanda para acompanhá-la.
 

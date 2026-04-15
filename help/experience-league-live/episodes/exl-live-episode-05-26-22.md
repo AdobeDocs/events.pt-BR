@@ -25,8 +25,8 @@ Nesta sessão, descubra o &quot;futuro é agora&quot; da coleta de dados da Web 
 ## Alguns links úteis
 
 * [Tutorial: implementar o Adobe Experience Cloud com o Web SDK](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=pt-BR){target="_blank"}
-* [Informações coletadas automaticamente no Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [Informações coletadas automaticamente no Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=pt-BR){target="_blank"}
 * [Provisionamento gratuito do Web SDK](https://adobe.ly/websdkaccess){target="_blank"}
-* [Informações sobre IDs de dispositivo próprio no Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Visão geral e download do Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Informações sobre IDs de dispositivo próprio no Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=pt-BR){target="_blank"}
+* [Visão geral e download do Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=pt-BR){target="_blank"}
 * [Documentação do SDK Mobile](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}

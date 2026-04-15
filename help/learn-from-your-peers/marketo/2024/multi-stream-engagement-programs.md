@@ -38,8 +38,8 @@ Esta sessão Aprenda com seus colegas discutiu a configuração e o gerenciament
 
 ## Recursos referenciados nesta apresentação
 
-* [Noções básicas sobre programas de engajamento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [Noções básicas sobre a pontuação do engajamento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [Adicionar um programa a um fluxo de programa de engajamento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [Visão geral da biblioteca de importação do programa](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Noções básicas sobre programas de engajamento](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [Noções básicas sobre a pontuação do engajamento](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Adicionar um programa a um fluxo de programa de engajamento](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Visão geral da biblioteca de importação do programa](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
 * [Thread de discussão da comunidade de nação de marketing](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)

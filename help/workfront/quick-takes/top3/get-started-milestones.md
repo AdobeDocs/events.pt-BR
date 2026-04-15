@@ -31,6 +31,6 @@ Incluir um Relatório de marcos no painel do projeto ou compartilhar esse relat�
 
 Para obter mais informações sobre marcos, confira estes recursos gratuitos:
 
-* [Criar um caminho de etapas e etapas de etapas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [Usar a visualização de Etapas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [Criar um caminho de etapas e etapas de etapas](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [Usar a visualização de Etapas](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
 * [Enviar e compartilhar relatórios](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)

@@ -31,5 +31,5 @@ Nesta sessão do Experience League Live, os especialistas em produtos da Adobe e
 
 **Clique na imagem acima para assistir ao programa!**
 
-Continue a discussão na [publicação da Comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Continue a discussão na [publicação da Comunidade do Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273?profile.language=pt#M132).
 

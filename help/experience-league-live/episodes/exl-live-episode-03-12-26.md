@@ -24,4 +24,4 @@ Abordamos a tela de orquestração de campanhas e os esquemas relacionais como b
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-Para continuar a conversa sobre este tópico, visite a [Discussão da Comunidade Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
+Para continuar a conversa sobre este tópico, visite a [Discussão da Comunidade Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161?profile.language=pt){target="_blank"}

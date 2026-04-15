@@ -23,6 +23,6 @@ As organizações bem-sucedidas não tratam o planejamento, a execução e os re
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481830/?learn=on&enablevpops)
 
-Procurando mais recursos do evento, incluindo o conjunto de slides compartilhado durante a sessão? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160)!
+Procurando mais recursos do evento, incluindo o conjunto de slides compartilhado durante a sessão? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160?profile.language=pt)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.

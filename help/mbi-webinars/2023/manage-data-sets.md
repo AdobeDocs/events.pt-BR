@@ -36,5 +36,5 @@ Durante esse webinário gravado, você aprenderá a calcular o retorno sobre o i
 
 ## Recursos úteis
 
-[Um tour pelo Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[Conectar seus Dados](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Um tour pelo Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=pt-BR)
+[Conectar seus Dados](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=pt-BR)

@@ -25,6 +25,6 @@ ht-degree: 2%
 
 Se você perdeu a sessão, não se preocupe! Revise a [apresentação de slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/022626+-+Enablement+that+Scales+-+Training+and+Blueprints+slides.pdf) e assista à gravação sob demanda para acompanhá-la.
 
-Procurando mais recursos no evento? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-enablement-that-scales-turning-workfront-blueprints-into-real-world-training-programs-february-26-2026-248830)!
+Procurando mais recursos no evento? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-enablement-that-scales-turning-workfront-blueprints-into-real-world-training-programs-february-26-2026-248830?profile.language=pt)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.

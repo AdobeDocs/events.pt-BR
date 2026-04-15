@@ -25,6 +25,6 @@ Veja como a equipe de operações criativas do Advisors Excel descobriu uma mane
 
 Se você perdeu a sessão, não se preocupe! Revise a [apresentação de slides](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf) e assista à gravação sob demanda para acompanhá-la.
 
-Procurando mais recursos no evento? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316)!
+Procurando mais recursos no evento? Confira a [publicação da Comunidade Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316?profile.language=pt)!
 
 Novos eventos são adicionados a cada mês; portanto, verifique a [página Eventos da Experience League](https://experienceleague.adobe.com/pt-br/events) para obter as sessões mais recentes.

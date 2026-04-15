@@ -31,7 +31,7 @@ Se você não tiver tido a chance de experimentar o recurso de Quadros, não se 
 
 Como prometido no vídeo, temos muitos recursos para compartilhar, incluindo artigos e demonstrações de vídeo curtas:
 
-* [Introdução aos painéis no Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
-* [Aceitação antecipada de recursos para painéis do Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [Criar ou editar um quadro - inclui descrições de cada modelo de Quadros](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Placas Adobe Workfront - Demonstrações de vídeos curtos](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Introdução aos painéis no Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=pt-BR)
+* [Aceitação antecipada de recursos para painéis do Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=pt-BR)
+* [Criar ou editar um quadro - inclui descrições de cada modelo de Quadros](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=pt-BR)
+* [Placas Adobe Workfront - Demonstrações de vídeos curtos](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=pt-BR)
