@@ -28,4 +28,4 @@ Pontos principais de discussão
 * Analise os principais casos de uso, a aplicação de recursos e dicas e truques para a progressão da maturidade.
 * Discuta os recursos futuros e os aprimoramentos da ferramenta
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463363/?captions=por_br&learn=on&enablevpops)

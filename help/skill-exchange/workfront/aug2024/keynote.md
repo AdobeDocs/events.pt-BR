@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Adobe Workfront: Abrindo Palestra
 
->[!VIDEO](https://video.tv.adobe.com/v/3433193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454487/?captions=por_br&learn=on)

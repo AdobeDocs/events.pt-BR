@@ -22,7 +22,7 @@ ht-degree: 1%
 
 O webinário demonstrará como a integração desses conceitos pode impulsionar a eficiência, aprimorar as experiências do cliente e apoiar a tomada de decisões orientadas por dados dentro das organizações.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457013/?captions=por_br&learn=on)
 
 ## Principais lições
 

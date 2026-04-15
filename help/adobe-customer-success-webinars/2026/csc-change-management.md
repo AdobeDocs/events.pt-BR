@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Descubra como conduzir sua organização em um Supply chain de conteúdo orientado por dados usando uma lente de gerenciamento de alterações comprovada. Esta sessão mostrará como alinhar líderes, equipar equipes e novas maneiras de trabalhar, de modo que as equipes, a automação e os dados compartilhados realmente se traduzam em um tempo de entrada no mercado mais rápido, maior reutilização de ativos e governança mais forte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479822/?captions=por_br&learn=on&enablevpops)
 
 * **Liderar a mudança, não apenas as ferramentas** Saiba como enquadrar a mudança para uma Supply chain de conteúdo automatizada em termos comerciais que geram uma verdadeira aceitação — esclarecendo o &quot;por que agora&quot;, alinhando executivos e transformando os primeiros pilotos em impulso para a organização mais ampla.
 

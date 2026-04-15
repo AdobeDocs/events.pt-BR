@@ -29,4 +29,4 @@ Esta sessão fornece uma compreensão básica de três aspectos críticos da cri
 * Criação de uma navegação fácil de usar para obter a experiência ideal do site
 * Estabelecendo a base do SEO no AEM Sites
 
->[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464320/?captions=por_br&learn=on&enablevpops)

@@ -28,4 +28,4 @@ Capacitar as equipes com dados é essencial para impulsionar a inovação e melh
 * Conheça as práticas recomendadas para fornecer o contexto correto e garantir o uso eficaz dos dados.
 * Descubra como a Adobe Analytics e a Customer Journey Analytics podem ajudar a capacitar suas equipes com dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453592/?captions=por_br&learn=on)

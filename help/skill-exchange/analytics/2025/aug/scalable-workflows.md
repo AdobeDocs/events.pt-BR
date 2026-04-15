@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Junte-se a especialista do Adobe Ioana Maftei, gerente sênior de análise da IBM, enquanto ela compartilha como criar fluxos de trabalho de análise escaláveis e controlados que tornam o conteúdo do supply chain mensurável. Saiba como fornecer os insights certos às pessoas certas, no momento certo, permitir a colaboração entre equipes e adaptar os projetos do Analysis Workspace para atender a diferentes funções e necessidades.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471234/?captions=por_br&learn=on&enablevpops)
 
 ## Mapeamento de funções para estágios do Analytics
 

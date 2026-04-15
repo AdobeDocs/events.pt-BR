@@ -24,4 +24,4 @@ Suas licenças da Workfront estão trabalhando tão arduamente quanto você? Jun
 
 Saiba como a Monique garante que as pessoas certas tenham o acesso certo, usando funções, grupos, equipes e formulários personalizados para simplificar a escala e reduzir a sobrecarga administrativa. Essa sessão oferece maneiras práticas de limpar sua instância, melhorar a governança e otimizar a configuração do Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473945/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473963/?captions=por_br&learn=on&enablevpops)

@@ -32,7 +32,7 @@ A Corre é um CSM verdadeiramente estratégico que define o ritmo para usarmos a
 * Comece identificando os pontos de pintura do processo e vá de lá. Não deixe a tecnologia sobrecarregar o objetivo.
 * Conecte-se com outros clientes que estejam em uma jornada semelhante na Comunidade ou em Eventos! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469999/?captions=por_br&learn=on&enablevpops)
 
 ## Recursos
 

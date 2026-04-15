@@ -28,7 +28,7 @@ Estratégias relevantes e abordagens práticas para organizações com o objetiv
 * Utilização do Workfront para oferecer suporte ao gerenciamento de projetos enxutos
 * Aprendizado contínuo e adaptação
 
->[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456711/?captions=por_br&learn=on)
 
 ## Visão geral da reunião
 

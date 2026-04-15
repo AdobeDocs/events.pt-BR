@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Palestra de abertura do Adobe Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3433144/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453949/?captions=por_br&learn=on)

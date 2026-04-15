@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Este intercâmbio de habilidades se concentra em como um novo desenvolvedor do AEM pode iniciar e implantar um novo projeto. Ele se concentrará em tópicos como Arquétipo de projeto do AEM, configuração do Cloud Manager e ferramentas de desenvolvimento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457278/?captions=por_br&learn=on)

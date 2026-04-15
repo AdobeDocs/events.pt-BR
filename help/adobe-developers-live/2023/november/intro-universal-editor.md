@@ -25,4 +25,4 @@ ht-degree: 0%
 
 O Editor universal é a próxima geração do editor de páginas em contexto do AEM e resolve as limitações atuais do Editor de páginas do AEM ou do Editor SPA. Ele é independente de estruturas, mecanismos de renderização e fontes de dados, proporcionando toda a liberdade que os desenvolvedores buscam e tornando-o realmente universal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456472/?captions=por_br&learn=on)

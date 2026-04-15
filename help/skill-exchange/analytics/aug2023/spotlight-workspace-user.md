@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Nivelamento para cima - Educando o usuário casual do Workspace
 
->[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456689/?captions=por_br&learn=on)
