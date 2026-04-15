@@ -2929,11 +2929,11 @@ Webinários conduzidos pelo sucesso dos clientes da Adobe, criados para capacit�
 
 
 
->>
+&#x200B;>>
     &lt;div class=&quot;card-image&quot;>
     &lt;figure class=&quot;image x-is-16by9&quot;>
     &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Domínio do Workfront - Estratégias para o Sucesso&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot;>
-    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754&quot; alt=&quot;Domínio do Workfront - Estratégias para o Sucesso&quot;
+    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630166754&quot; alt=&quot;Domínio do Workfront - Estratégias para o Sucesso&quot;
     style=&quot;width: 100%; proporção: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;&quot;>
     &lt;/a>
     &lt;/figure>
