@@ -23,7 +23,7 @@ ht-degree: 10%
    + [Atrás do Brew](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=pt-BR)
    + [Commerce e Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=pt-BR)
    + [Vozes do gerenciamento de dados do cliente](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=pt-BR)
-   + [Webinários sob demanda do CX Analytics](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
+   + [Webinários sob demanda do CX Analytics](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=pt-BR)
    + [Drip de dados](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=pt-BR)
    + [Aprofundamento do Marketo](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=pt-BR)
    + [Expressos e Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html?lang=pt-BR)
@@ -51,7 +51,7 @@ ht-degree: 10%
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=pt-BR)
    + Adobe Analytics {#aa}
       + [Webinários de sucesso do cliente do Adobe](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=pt-BR)
-      + [Webinários sob demanda do CX Analytics](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
+      + [Webinários sob demanda do CX Analytics](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=pt-BR)
       + [Drip de dados](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=pt-BR)
       + [Sessões técnicas do Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=pt-BR)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=pt-BR)
@@ -73,7 +73,7 @@ ht-degree: 10%
       + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=pt-BR)
    + Adobe Customer Journey Analytics {#cja}
       + [Webinários de sucesso do cliente do Adobe](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=pt-BR)
-      + [Webinários sob demanda do CX Analytics](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
+      + [Webinários sob demanda do CX Analytics](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=pt-BR)
       + [A mistura perfeita](https://experienceleague.adobe.com/pt-br/docs/events/the-perfect-blend/overview)
       + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=pt-BR)
    + Adobe Experience Manager {#aem}
