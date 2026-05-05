@@ -163,7 +163,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/mobile-e-signing.md" title="Otimizar a assinatura eletrônica móvel com o Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477532/?format=jpeg&nocache=1778006131905" alt="Otimizar a assinatura eletrônica móvel com o Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477537/?captions=por_br&format=jpeg&nocache=1778006131905" alt="Otimizar a assinatura eletrônica móvel com o Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -205,7 +205,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/getting-started.md" title="Acrobat Sign 101 - Introdução" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1778006132191" alt="Acrobat Sign 101 - Introdução"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455470/?captions=por_br&format=jpeg&nocache=1778006132191" alt="Acrobat Sign 101 - Introdução"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -228,7 +228,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/authoring-environment.md" title="Treinamento avançado em ambiente de criação" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1778006132196" alt="Treinamento avançado em ambiente de criação"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455905/?captions=por_br&format=jpeg&nocache=1778006132196" alt="Treinamento avançado em ambiente de criação"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -313,7 +313,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-reporting.md" title="Relatórios avançados do Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1778006132401" alt="Relatórios avançados do Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454410/?captions=por_br&format=jpeg&nocache=1778006132401" alt="Relatórios avançados do Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -354,7 +354,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-sending-documents-signature.md" title="Dicas avançadas para enviar documentos para assinatura" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1778006132755" alt="Dicas avançadas para enviar documentos para assinatura"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454885/?captions=por_br&format=jpeg&nocache=1778006132755" alt="Dicas avançadas para enviar documentos para assinatura"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -377,7 +377,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/collect-signatures.md" title="Colete muitas assinaturas com um clique" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1778006132752" alt="Colete muitas assinaturas com um clique"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454896/?captions=por_br&format=jpeg&nocache=1778006132752" alt="Colete muitas assinaturas com um clique"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -400,7 +400,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/document-builder.md" title="Document Builder para Adobe Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1778006132748" alt="Document Builder para Adobe Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454918/?captions=por_br&format=jpeg&nocache=1778006132748" alt="Document Builder para Adobe Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -423,7 +423,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/fillable-signable-web-form.md" title="Publicar um formulário Web preenchível e assinável" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1778006132737" alt="Publicar um formulário Web preenchível e assinável"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455451/?captions=por_br&format=jpeg&nocache=1778006132737" alt="Publicar um formulário Web preenchível e assinável"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -446,7 +446,7 @@ Aprenda com especialistas da Adobe como dominar novos fluxos de trabalho de assi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/workflow-automations.md" title="Automações de fluxo de trabalho possibilitadas pelo Microsoft Power Automate" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1778006132743" alt="Automações de fluxo de trabalho possibilitadas pelo Microsoft Power Automate"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454929/?captions=por_br&format=jpeg&nocache=1778006132743" alt="Automações de fluxo de trabalho possibilitadas pelo Microsoft Power Automate"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
