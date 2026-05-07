@@ -162,7 +162,7 @@ Seja você um administrador do Workfront, gerente de projetos ou usuário comum,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="3 principais abordagens para o Office Hours" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="3 principais abordagens para o Office Hours"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470147/?captions=por_br&format=jpeg&nocache=1778106659577" alt="3 principais abordagens para o Office Hours"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -227,7 +227,7 @@ Essas sessões apresentam soluções do mundo real, exemplos de clientes e suges
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Insights de especialistas - Supply chain de conteúdo com Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Insights de especialistas - Supply chain de conteúdo com Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469999/?captions=por_br&format=jpeg&nocache=1778106659855" alt="Insights de especialistas - Supply chain de conteúdo com Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
