@@ -29,7 +29,7 @@ Junte-se ao Adobe Experience Manager Champion Vengadesh Shanmugavelu para obter 
 
 [Clique aqui para baixar a apresentação da sessão.](../../assets/experience-manager/may2026/AEM_Dynamic_Media_Webinar-May-7-2026.pdf)
 
->[!VIDEO](https://video.tv.adobe.com/v/3481545/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481550/?captions=por_br&learn=on&enablevpops)
 
 * Como o Adobe Experience Manager Dynamic Media permite a distribuição inteligente de mídia usando configurações de perfil, representações inteligentes e otimização em tempo real.
 * Como ativar o Dynamic Media por meio dos Componentes principais do AEM e estender sua potência na empresa usando as APIs abertas do Dynamic Media.
