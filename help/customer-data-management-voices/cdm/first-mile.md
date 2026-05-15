@@ -4,13 +4,13 @@ description: O volume crescente de dados torna muito desafiador para as empresas
 solution: Real-Time Customer Data Platform
 feature: Data Governance
 topic: Security
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
 exl-id: e35c6cc7-7831-4a62-9feb-9315a2bff18b
 duration: 3818
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 1%
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # Simplificando sua primeira milha de gerenciamento de dados
 
-O volume crescente de dados torna muito desafiador para as empresas capturar com eficiência dados de interação digital e enviá-los para os canais de marketing apropriados. A desativação de cookies de terceiros pelos navegadores adiciona um nível adicional de complexidade, o que requer que as empresas encontrem soluções do lado do servidor para continuar enviando dados para parceiros. Neste webinário, Gabriel Jaquier, Jeff Chasin e Jon Viray da Adobe compartilham estratégias sobre como superar esses desafios aproveitando as conexões da Real-Time CDP.
+O volume crescente de dados torna muito desafiador para as empresas capturar com eficiência dados de interação digital e enviá-los para os canais de marketing apropriados. A desativação de cookies de terceiros pelos navegadores adiciona um nível adicional de complexidade, o que requer que as empresas encontrem soluções do lado do servidor para continuar enviando dados para parceiros. Neste webinário, Gabriel Jaquier, Jeff Chasin e Jon Viray da Adobe compartilham estratégias sobre como superar esses desafios utilizando as conexões da Real-Time CDP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344311/?quality=12&learn=on)
 

@@ -4,14 +4,14 @@ description: Este webinário ajudará a desbloquear as oportunidades de colabora
 solution: Real-Time Customer Data Platform
 feature: Data Management
 topic: Security
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 type: Event
 thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
 duration: 2560
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 16%
@@ -32,8 +32,8 @@ Cumprindo a promessa da experiência, com acesso a menos dados. Seja você um an
 
 ## Informações adicionais
 
-[Visão geral da correspondência de segmentos](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=pt-BR)
+[Visão geral da correspondência de segmentos](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
 
-[Audience Marketplace para compradores de dados](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=pt-BR)
+[Audience Marketplace para compradores de dados](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
 [Destinos com base em pessoas](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=pt-BR)
