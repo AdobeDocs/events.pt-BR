@@ -57,7 +57,7 @@ O mês de maio marca o início da temporada de formaturas, um momento para novas
 
 Procurando mais? Explore as últimas novidades da sua comunidade do Adobe Workfront por meio de nossa seleção de eventos sob demanda preparados. Use o menu de navegação esquerdo para procurar tópicos em Retrocesso do workshop, onde as sessões são agrupadas pelo Fusion, Planning e Workflow para ajudá-lo a encontrar rapidamente o conteúdo adaptado às suas necessidades.
 
-E certifique-se de participar dos próximos eventos ao vivo para fazer perguntas, compartilhar insights e colaborar com colegas. Visite a [página de Eventos do Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) regularmente para ver o que vem a seguir.
+E certifique-se de participar dos próximos eventos ao vivo para fazer perguntas, compartilhar insights e colaborar com colegas. Visite a [página de Eventos do Experience League Workfront](https://experienceleague.adobe.com/pt-br/events?filters=Workfront) regularmente para ver o que vem a seguir.
 
 <!-- 
 CARDS 

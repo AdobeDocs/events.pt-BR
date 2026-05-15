@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Marketo e Mochas
 
-Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combinados com a [documentação](https://experienceleague.adobe.com/docs/marketo-engage.html) e os [tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) do Adobe Marketo, você compreenderá melhor como usar o Adobe Marketo para oferecer suporte aos seus negócios.
+Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combinados com a [documentação](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=pt-BR) e os [tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=pt-BR) do Adobe Marketo, você compreenderá melhor como usar o Adobe Marketo para oferecer suporte aos seus negócios.
 
 ## Gravações de 2025
 
