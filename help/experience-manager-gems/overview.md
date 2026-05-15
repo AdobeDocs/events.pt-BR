@@ -12,10 +12,10 @@ type: Event
 user-guide-description: Sessões do AEM GEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: f0179cfd595c2d1ced94c230141428430ed9abfb
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 2%
+source-wordcount: '949'
+ht-degree: 3%
 
 ---
 
@@ -34,7 +34,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
 
 ## 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * gems2025/mastering-cache-efficiency-for-optimal-page-performance.md
 * gems2025/maximize-impact-with-sites-optimizer.md
@@ -61,8 +62,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
                     <p class="is-size-6">Descubra como a Sites Optimizer usa a IA para aumentar o desempenho do site, o SEO e o envolvimento do usuário com insights e recomendações em tempo real para equipes de marketing e desenvolvimento.</p>
                 </div>
                 <a href="gems2025/maximize-impact-with-sites-optimizer.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -84,8 +85,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
                     <p class="is-size-6">Saiba como configurar o Adobe Managed CDN no AEM Cloud Service para aprimorar o desempenho e a segurança com novos recursos de configuração de CDN.</p>
                 </div>
                 <a href="gems2025/getting-started-adobe-managed-cdn.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -94,7 +95,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
 
 ## 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 * gems2024/aem-authoring-and-edge-delivery.md
 * gems2024/content-management-apis.md
 * gems2024/edge-delivery-for-aem-assets.md
@@ -124,8 +126,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
                     <p class="is-size-6">O webinário de GEMs do AEM mostra como a criação do AEM se integra ao Edge Delivery Services, criando um projeto com o AEM Cloud Service e mantendo uma interface de criação do WYSIWYG.</p>
                 </div>
                 <a href="gems2024/aem-authoring-and-edge-delivery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -147,8 +149,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
                     <p class="is-size-6">A sessão de GEMs do AEM explora os padrões de APIs no AEM Sites, abordando padrões avançados de OpenAPI, eventos e webhooks e novas APIs REST para automação de tradução, com insights de especialistas do Adobe.</p>
                 </div>
                 <a href="gems2024/content-management-apis.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -170,8 +172,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
                     <p class="is-size-6">O webinar de GEMs do AEM demonstrará a integração do AEM Assets em sites criados no AEM Edge Delivery Services, personalizando a integração, fornecendo ativos usando o AEM Dynamic Media com a API aberta e explorando casos de uso práticos e práticas recomendadas.</p>
                 </div>
                 <a href="gems2024/edge-delivery-for-aem-assets.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -193,8 +195,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
                     <p class="is-size-6">Saiba como criar e publicar o AEM Forms usando o Edge Delivery Services, abrangendo a criação baseada em documentos e no AEM, a configuração de projetos para personalização e a utilização do AEM Forms as a Cloud Service para processamento de back-end.</p>
                 </div>
                 <a href="gems2024/edge-delivery-for-aem-forms.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -216,8 +218,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
                     <p class="is-size-6">Os desenvolvedores do AEM podem explorar novas APIs do Assets Open e eventos de E/S nativos em nuvem para criar extensões fora de processo do AEM, simplificar fluxos de trabalho, melhorar a velocidade de desenvolvimento e reduzir a manutenção, com casos de uso práticos e práticas recomendadas demonstradas.</p>
                 </div>
                 <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -239,8 +241,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
                     <p class="is-size-6">O webinário de GEMs do AEM demonstrará como adicionar um repositório GitHub privado no Cloud Manager, vinculá-lo diretamente aos pipelines e testes de deslocamento para a esquerda para identificar problemas no nível da solicitação de pull antes de mesclar o código.</p>
                 </div>
                 <a href="gems2024/private-github-for-aem-cloud-manager.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -262,8 +264,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
                     <p class="is-size-6">A sessão demonstrará como os RDEs permitem a implantação e a revisão rápidas das alterações, reduzindo os tempos de resposta do desenvolvimento e fornecendo feedback quase instantâneo. Ele também introduzirá novos recursos como registro aprimorado e suporte de front-end.</p>
                 </div>
                 <a href="gems2024/rapid-development-environment-news.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -285,8 +287,8 @@ Os webinários são conduzidos regularmente.  Dicas importantes,
                     <p class="is-size-6">O webinário de GEMs do AEM ensinará você a criar uma vitrine de alto desempenho no Edge Delivery Services para o Adobe Commerce, abordando a configuração do projeto, a integração do Commerce SaaS, componentes front-end personalizáveis e novos recursos de criação para aprimorar as experiências do Commerce.</p>
                 </div>
                 <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -330,7 +332,7 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/pt-br/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
@@ -349,7 +351,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=pt) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions

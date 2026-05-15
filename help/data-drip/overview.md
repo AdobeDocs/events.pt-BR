@@ -3,7 +3,7 @@ title: Drip de dados
 description: Junte-se aos especialistas da Adobe na série Data Drip para explorar os recursos e as práticas recomendadas mais recentes do Adobe Analytics e do Target, com demonstrações em tempo real que garantem que os clientes maximizem o potencial do produto e permaneçam competitivos.
 duration: 15
 exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
-source-git-commit: d195ceaea0b4ccd0c16949e6cff65ec6d04a5e6d
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 A série Drip de dados apresenta especialistas da Adobe e acolhe clientes existentes da Adobe Analytics e do Target de todos os níveis de habilidade. A série se concentra em alguns dos recursos mais recentes e práticas recomendadas que refletem o tópico do evento. A apresentação é seguida de uma demonstração ao vivo ou de capturas de tela com exemplos de como agir de acordo com as práticas recomendadas utilizando os recursos do produto. É garantido que os clientes saiam com uma melhor compreensão de como se manter competitivo e alcançar o sucesso, tudo isso enquanto maximizam o que o produto tem a oferecer.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

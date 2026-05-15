@@ -3,20 +3,21 @@ title: Marketo e Mochas
 description: Marketo On-Demand Events é uma biblioteca de vídeos na qual especialistas e colegas compartilham suas opiniões e ideias sobre como usar melhor o Adobe Marketo.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1427'
 ht-degree: 2%
 
 ---
 
 # Marketo e Mochas
 
-Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combinados com a [documentação](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=pt-BR) e os [tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=pt-BR) do Adobe Marketo, você compreenderá melhor como usar o Adobe Marketo para oferecer suporte aos seus negócios.
+Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combinados com a [documentação](https://experienceleague.adobe.com/docs/marketo-engage.html) e os [tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) do Adobe Marketo, você compreenderá melhor como usar o Adobe Marketo para oferecer suporte aos seus negócios.
 
 ## Gravações de 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
@@ -148,7 +149,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
 
 ## Gravações de 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2024/ask-me-anything.md
 * 2024/attribution-dashboard-recording.md
@@ -180,8 +182,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Junte-se ao último webinário interativo do ano da Adobe com Kate Kolbert e James Letham, que aborda a otimização de webinários, atualizações de programas, recursos subutilizados do Marketo, práticas recomendadas de marketing por email, gerenciamento de banco de dados, permissões de usuário, sincronização Marketo-Salesforce, envolvimento de chat dinâmico e estágios do ciclo de vida.</p>
                 </div>
                 <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -203,8 +205,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Junte-se ao consultor sênior de negócios da Adobe, Cynthia Chang, e ao consultor técnico, James Leedom, para uma sessão detalhada sobre como dominar o modelo de atribuição da Marketo e os painéis de insights de desempenho (MPI), abordando a configuração, o rastreamento de programas, a sincronização de dados e mostrando o impacto do marketing na receita e na aquisição de clientes.</p>
                 </div>
                 <a href="2024/attribution-dashboard-recording.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -226,8 +228,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Junte-se aos Business Advisors da Adobe, Cynthia Chang e Carly Gaver, para a Parte 3 da série de webinários Marketo Maturity, explorando como aproveitar as ferramentas de relatórios da Marketo para impulsionar o crescimento dos negócios, monitorar o desempenho e fornecer métricas de impacto, com perguntas e respostas ao vivo.</p>
                 </div>
                 <a href="2024/drive-growth-with-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -249,8 +251,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Junte-se aos consultores de negócios Cynthia Chang e Carly Gaver para saber como maximizar a criação de clientes potenciais no Adobe Marketo Engage, explorar Programas de engajamento para distribuição de conteúdo e ver uma demonstração ao vivo sobre como configurar um Programa de engajamento usando o Modelo de práticas recomendadas, com perguntas e respostas ao vivo.</p>
                 </div>
                 <a href="2024/lead-nurture-success.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -272,8 +274,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Junte-se a Kate Colbert, conselheira técnica do cliente da Adobe, e James Leedom, enquanto exploram estratégias para aproveitar a atribuição de modelos e atividades de atribuição personalizados no Adobe Marketo Measure, demonstrando exemplos reais e concluindo com uma sessão de perguntas e respostas ao vivo.</p>
                 </div>
                 <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -295,8 +297,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Junte-se aos Business Advisors da Adobe, Cynthia Chang e Carly Gaver, na análise da curva de maturidade do Marketo, que oferece insights sobre como otimizar as configurações de tecnologia, implementar práticas recomendadas e manter a documentação eficaz e o controle da plataforma com uma demonstração em tempo real da biblioteca de modelos de programa.</p>
                 </div>
                 <a href="2024/maturity-part1-foundation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -318,8 +320,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Junte-se à assessora sênior de negócios da Adobe, Kate Colbert, e à assessora técnica, James Leedom, enquanto exploram os 9 novos painéis do Discover no Marketo Measure, oferecendo insights dinâmicos sobre métricas como receita, ROI, envolvimento e velocidade de liderança, com uma demonstração ao vivo e uma sessão de perguntas e respostas.</p>
                 </div>
                 <a href="2024/new-discover-dashboard.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -341,8 +343,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Junte-se aos consultores de negócios da Adobe, Cynthia Chang e Carly Gaver, para a Parte 2 da série Marketo Maturity, com foco no gerenciamento de dados, integrações de CRM e otimização de campanha para aprimorar o uso do Marketo, com perguntas e respostas ao vivo.</p>
                 </div>
                 <a href="2024/optimize-marketo-usage.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -351,7 +353,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
 
 ## Gravações de 2023
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2023/attribution.md
 * 2023/deliverability-part-one.md
@@ -383,8 +386,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Junte-se a Elizabeth Lundberg e Kate Colbert nesta sessão do Marketo &amp; Mochas para explorar a atribuição no Marketo Measure, incluindo modelos de ações, práticas recomendadas para selecionar a correta e perguntas e respostas ao vivo para aprimorar seus insights de marketing.</p>
                 </div>
                 <a href="2023/attribution.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -406,8 +409,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Junte-se à Marketo &amp; Mochas para explorar as práticas recomendadas de capacidade de delivery de email com Sean Wirt e Cynthia Chang, abordando o gerenciamento de reputação, a qualidade de dados, IPs compartilhados vs. dedicados e uma demonstração do Programa de capacidade de delivery na Marketo Engage.</p>
                 </div>
                 <a href="2023/deliverability-part-one.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -429,8 +432,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Explore as práticas recomendadas de capacidade de delivery de email com o Sean Wirt do Marketo Deliverability Manager, incluindo estratégias do Gmail, Privacidade de email do Apple, IPs compartilhados vs. dedicados e uma demonstração detalhada da ferramenta de capacidade de delivery da Marketo Engage, seed lists, smart lists e relatórios.</p>
                 </div>
                 <a href="2023/deliverability-part-two.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -452,8 +455,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Saiba mais sobre os benefícios da pontuação de lead com Cynthia Chang e Kelvin Ieng no Marketo &amp; Mochas, com estratégias, configuração e uma demonstração ao vivo no Marketo Engage, além dos principais argumentos e perguntas e respostas ao vivo.</p>
                 </div>
                 <a href="2023/lead-scoring.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -475,8 +478,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Saiba como a transparência aumenta a credibilidade de marketing com Cynthia Chang e James Leedom, que compartilham estratégias de configuração de ciclo de vida, segmentação de jornadas e demonstram as ferramentas de análise, relatórios e modelagem de ciclo de vida do Marketo Engage.</p>
                 </div>
                 <a href="2023/lifecycle-modeling.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -498,8 +501,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Libere todo o potencial do Marketo Sales Insights (MSI) com Cynthia Chang e James Leedom à medida que se aprofundam nos principais recursos, integração com o Salesforce, gerenciamento de licenças e estratégias para aumentar a eficiência das vendas e do marketing.</p>
                 </div>
                 <a href="2023/msi-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -521,8 +524,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Junte-se aos consultores de negócios de automação de marketing da Adobe, Kate Colbert e Elizabeth Lundberg, para uma sessão detalhada de 90 minutos sobre como otimizar canais online e offline com a atribuição do Marketo Measure, que apresenta configurações estratégicas, práticas recomendadas e perguntas e respostas ao vivo.</p>
                 </div>
                 <a href="2023/online-offline.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -544,8 +547,8 @@ Bem-vindo às gravações do Marketo e do Mochas. Ao usar esses recursos combina
                     <p class="is-size-6">Explore os elementos essenciais dos programas do Marketo, incluindo configuração de pastas, convenções de nomenclatura, pesquisas de membros e verificações de status do programa, com as atualizações mais recentes dos modelos da Biblioteca de programas, ativos criativos e demonstrações de práticas recomendadas.</p>
                 </div>
                 <a href="2023/program-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

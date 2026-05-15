@@ -3,9 +3,9 @@ title: Sessões técnicas do Experience Cloud
 description: Aprimore suas habilidades no Adobe Experience Cloud com sessões técnicas ao vivo e sob demanda realizadas por especialistas da Adobe. Obtenha dicas e estratégias acionáveis a qualquer momento para uma experiência de aprendizado contínua.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1630'
+source-wordcount: '1666'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,8 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
 
 ## Sessões de 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
@@ -223,7 +224,8 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
 
 ## Sessões de 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2024/aep-web-sdk-troubleshooting.md
@@ -356,7 +358,8 @@ Libere todo o potencial do Adobe Experience Cloud com sessões técnicas ativas 
 
 ## Sessões de 2023
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 

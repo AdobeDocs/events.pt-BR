@@ -1,7 +1,8 @@
 ---
 title: Webinários sob demanda do CX Analytics
-description: Explore vídeos sob demanda do CX Analytics com lançamentos de produtos, atualizações de recursos, integrações de soluções da Adobe, webinários de integração e histórias reais de sucesso de clientes e parceiros para criar conhecimento e se manter atualizado com as mais recentes inovações da CX Analytics.
-source-git-commit: cb5b307d248b0f972db897b699d6bcc82bfab0bc
+description: Explore vídeos sob demanda do CX Analytics com lançamentos de produtos, atualizações de recursos, integrações de soluções da Adobe, webinários de integração e histórias reais de sucesso de clientes e parceiros para criar conhecimento e se manter atualizado com as mais recentes inovações do CX Analytics.
+exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -10,9 +11,10 @@ ht-degree: 0%
 
 # Webinários sob demanda do CX Analytics {#cx-analytics-ondemand-webinars}
 
-Explore uma biblioteca com curadoria de vídeos do CX Analytics, incluindo lançamentos de produtos e recursos, histórias melhores em conjunto nas soluções da Adobe, webinários de introdução e histórias de sucesso de parceiros/clientes. Assista sob demanda para aprimorar sua experiência em análise e se manter atualizado com as inovações mais recentes no portfólio do CX Analytics, com novos conteúdos adicionados regularmente.
+Explore uma biblioteca com curadoria de vídeos do CX Analytics, incluindo lançamentos de produtos e recursos, histórias melhores em conjunto nas soluções da Adobe, webinários de introdução e histórias de sucesso de parceiros/clientes. Assista sob demanda para aprimorar sua experiência em análise e manter-se atualizado com as inovações mais recentes no portfólio do CX Analytics, com novos conteúdos adicionados regularmente.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,4 +48,3 @@ Explore uma biblioteca com curadoria de vídeos do CX Analytics, incluindo lanç
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-

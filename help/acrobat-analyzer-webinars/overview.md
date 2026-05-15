@@ -1,10 +1,11 @@
 ---
 title: Webinários do Acrobat Analyzer
 description: Explore os webinários do Adobe Acrobat Analyzer para ver como a IA gerativa extrai insights estruturados e auditáveis de documentos para automatizar fluxos de trabalho, reduzir riscos e acelerar a tomada de decisões empresariais em escala.
-source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
+exl-id: cbc929b5-3673-4118-826f-763dacff987b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
@@ -12,7 +13,8 @@ ht-degree: 0%
 
 Descubra como o Adobe Acrobat Analyzer usa a IA gerativa para extrair insights estruturados e auditáveis de grandes volumes de documentos. Saiba como automatizar fluxos de trabalho, reduzir riscos e permitir decisões mais rápidas e inteligentes em escala. Navegue pelos próximos webinars para ver como você pode transformar a inteligência de documentos em sua organização.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,7 +48,3 @@ Descubra como o Adobe Acrobat Analyzer usa a IA gerativa para extrair insights e
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-
