@@ -26,5 +26,5 @@ Com todo o barulho no mercado sobre os CDPs, é difícil saber onde focar e como
 ## Informações adicionais
 
 *[Práticas recomendadas de pessoas e processos para o gerenciamento de dados do cliente](people-and-process.md)
-*[Crie experiências excelentes com seus dados primários](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
-*[Estudo de caso - bancos TSB em personalização de dados em tempo real para cada cliente.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)
+*[Crie experiências excelentes com seus dados primários](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html?lang=pt-BR)
+*[Estudo de caso - bancos TSB em personalização de dados em tempo real para cada cliente.](https://business.adobe.com/br/customer-success-stories/tsb-case-study.html)

@@ -26,5 +26,5 @@ Saiba como obter o máximo de sua CDP investindo nas pessoas e nos processos por
 ## Informações adicionais
 
 * [Simplificando sua primeira milha de gerenciamento de dados](first-mile.md)
-* [Elevar a função do profissional de marketing como administrador de dados](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
-* [Dez considerações para o gerenciamento responsável de dados do cliente](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+* [Elevar a função do profissional de marketing como administrador de dados](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=pt-BR)
+* [Dez considerações para o gerenciamento responsável de dados do cliente](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=pt-BR)
