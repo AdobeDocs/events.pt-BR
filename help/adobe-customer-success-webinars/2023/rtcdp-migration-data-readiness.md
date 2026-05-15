@@ -27,4 +27,4 @@ Saiba mais sobre a estratégia por trás da preparação organizacional de uma p
 * Saiba como se alinhar em casos de uso de negócios como uma organização
 * Principais recursos e ações para prontidão da CDP em tempo real
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457068/?captions=por_br&learn=on)
