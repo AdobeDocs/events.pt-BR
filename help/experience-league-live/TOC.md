@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
+source-git-commit: c59b43a7869d32b106f30bf25818c825cfa33166
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 12%
+source-wordcount: '380'
+ht-degree: 16%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 12%
 
 + [Visão geral](overview.md)
 + Episódios {#episodes}
+   + [Teste, simule e valide jornadas com eficiência antes de ativá-las](episodes/exl-live-episode-06-17-26.md)
    + [Novos casos de uso para engajamento do cliente: atividades do iOS Live, push da Web e mensagens persistentes](episodes/exl-live-episode-04-08-26.md)
    + [Conheça a orquestração de campanhas no Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
    + [Agentes Adobe Experience Platform para maior eficiência de marketing e melhores resultados de negócios](episodes/exl-live-episode-03-03-26.md)
@@ -39,7 +40,7 @@ ht-degree: 12%
    + [Introdução do Assistente de IA para públicos-alvo para profissionais de marketing no Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [Revelação de cartões de conteúdo para o Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
    + [Harmonizar públicos usando a composição de público federado no Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
-   + [AI Bash - Desbloquear o poder do assistente de IA em aplicativos Adobe Experience Platform e no Campaign](episodes/exl-live-episode-09-26-24.md)
+   + [AI Bash: como explorar o potencial do Assistente de IA em aplicativos da Adobe Experience Platform e no Campaign](episodes/exl-live-episode-09-26-24.md)
    + [Você está pronto para elevar o nível do seu aplicativo de análise para dispositivos móveis?](episodes/exl-live-episode-09-18-24.md)
    + [Summer Spotlight — Três recursos que você precisa experimentar no Adobe Journey Optimizer](episodes/exl-live-episode-08-28-24.md)
    + [Como as versões mais recentes do Adobe Real-Time CDP podem ajudar a sua empresa](episodes/exl-live-episode-06-26-24.md)
@@ -57,5 +58,5 @@ ht-degree: 12%
    + [Estender o AEM com o Adobe App Builder](episodes/exl-live-episode-07.md)
    + [Quem clicou nisso? E então o que eles fizeram?](episodes/exl-live-episode-04.md)
    + [Dicas de especialistas para fazer suas campanhas de fim de ano se destacarem](episodes/exl-live-episode-03.md)
-   + [Minhas três dicas de implementação favoritas do Adobe [!DNL Analytics] &#x200B;](episodes/exl-live-episode-01.md)
+   + [Minhas três dicas de implementação favoritas do Adobe [!DNL Analytics] ](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
