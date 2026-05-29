@@ -72,7 +72,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Preparação para o Marketo Engage na identidade da Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1780010007038" alt="Preparação para o Marketo Engage na identidade da Adobe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432366/?captions=por_br&format=jpeg&nocache=1780010007038" alt="Preparação para o Marketo Engage na identidade da Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -95,7 +95,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="APIs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1780010007041" alt="APIs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430733/?captions=por_br&format=jpeg&nocache=1780010007041" alt="APIs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
