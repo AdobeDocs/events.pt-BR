@@ -32,7 +32,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-4-0.md" title="Vídeo de visão geral da versão 2026.04.0 do AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491490/?format=jpeg&nocache=1779813527282" alt="Vídeo de visão geral da versão 2026.04.0 do AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491495/?captions=por_br&format=jpeg&nocache=1779813527282" alt="Vídeo de visão geral da versão 2026.04.0 do AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
