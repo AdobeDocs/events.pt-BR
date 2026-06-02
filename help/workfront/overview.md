@@ -3,10 +3,10 @@ title: Workshops sob demanda da Adobe Workfront
 description: Workfront Events é uma biblioteca de vídeos na qual especialistas e colegas compartilham suas ideias e opiniões sobre como usar o Workfront para aprimorar o trabalho que está sendo feito para suas organizações.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 1%
+source-wordcount: '911'
+ht-degree: 0%
 
 ---
 
@@ -42,8 +42,8 @@ CARDS
                     <p class="is-size-6">Descubra as atualizações mais recentes na versão do segundo trimestre de 2026 da Adobe Workfront, incluindo aprimoramentos no planejamento, fluxo de trabalho e muito mais.</p>
                 </div>
                 <a href="releases/26-q2-release-webinar.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -53,11 +53,11 @@ CARDS
 
 ## Retrocesso do workshop
 
-O mês de maio marca o início da temporada de formaturas, um momento para novas perspectivas e aprendizado daqueles que já estiveram lá antes. Para comemorar, destacamos uma seleção de sessões que apresentam clientes experientes do Adobe Workfront compartilhando conselhos práticos, experiências do mundo real e insights que você pode aplicar imediatamente. Os vídeos em destaque deste mês incluem uma mistura de conteúdo totalmente novo e sessões destacadas do passado que permanecem igualmente relevantes hoje.
+O mês de junho chegou e a última edição do [The Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880) também! Este informativo é o seu balcão central para as últimas notícias, atualizações, eventos e tudo o que está acontecendo no mundo da Workfront.
 
 Procurando mais? Explore as últimas novidades da sua comunidade do Adobe Workfront por meio de nossa seleção de eventos sob demanda preparados. Use o menu de navegação esquerdo para procurar tópicos em Retrocesso do workshop, onde as sessões são agrupadas pelo Fusion, Planning e Workflow para ajudá-lo a encontrar rapidamente o conteúdo adaptado às suas necessidades.
 
-E certifique-se de participar dos próximos eventos ao vivo para fazer perguntas, compartilhar insights e colaborar com colegas. Visite a [página de Eventos do Experience League Workfront](https://experienceleague.adobe.com/pt-br/events?filters=Workfront) regularmente para ver o que vem a seguir.
+E certifique-se de participar dos próximos eventos ao vivo para fazer perguntas, compartilhar insights e colaborar com colegas. Visite a [página de Eventos do Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) regularmente para ver o que vem a seguir.
 
 <!-- 
 CARDS 
@@ -133,8 +133,8 @@ CARDS
                     <p class="is-size-6">Descubra como a Schneider Electric usa o Workfront Fusion para simplificar processos, economizar tempo e melhorar a eficiência em seus estúdios criativos.</p>
                 </div>
                 <a href="workshop-rewind/fusion/schneider-electric-efficiency.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -165,7 +165,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="3 principais abordagens para o Office Hours" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470147/?captions=por_br&format=jpeg&nocache=1778106659577" alt="3 principais abordagens para o Office Hours"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="3 principais abordagens para o Office Hours"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,8 +201,8 @@ CARDS
                     <p class="is-size-6">Descubra as diferenças entre problemas e projetos no Workfront e saiba qual abordagem se adapta às necessidades de fluxo de trabalho e relatórios da sua equipe.</p>
                 </div>
                 <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -231,7 +231,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Insights de especialistas - Supply chain de conteúdo com Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469999/?captions=por_br&format=jpeg&nocache=1778106659855" alt="Insights de especialistas - Supply chain de conteúdo com Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Insights de especialistas - Supply chain de conteúdo com Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
