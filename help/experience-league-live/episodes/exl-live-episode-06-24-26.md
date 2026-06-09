@@ -6,16 +6,17 @@ solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
-source-git-commit: 83ba57e9aa2026437bae583a0db42b61fd05a23e
+exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
+source-git-commit: 4a81b87743847ed72b725a43cfb7979daec1dd5d
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # Como aproveitar o MCP do Target e outras novas versões importantes no Adobe Target
 
-Junte-se a nós neste episódio do Experience League LIVE em que nossos especialistas mostrarão como o Adobe Target está fornecendo um MCP do Target para analisar insights do programa e criar e editar atividades com a ajuda de um agente e novos recursos adicionais para otimização de escala.
+Junte-se a nós na próxima Experience League LIVE, onde nossos especialistas o guiarão pelas mais recentes inovações da Adobe Target à medida que entrarmos em uma nova era de agentes. Apresentamos o novo MCP do Target, incluindo o que é, como acessá-lo e como ele funciona para analisar insights do programa e criar e editar atividades com um agente. Também compartilhamos demonstrações de novos recursos e melhorias adicionais criados para ajudá-lo a dimensionar a otimização.
 
 Nesta sessão, você aprenderá a:
 
@@ -27,7 +28,6 @@ Nesta sessão, você aprenderá a:
 
 Não perca esta chance de ver as últimas novidades em otimização de agilidade e obter respostas ao vivo de suas perguntas por nossos especialistas.
 
+[Defina um lembrete do YouTube.](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
 
 [![ExL LIVE 24 de junho de 2026](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
-
-[Defina um lembrete do YouTube.](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
