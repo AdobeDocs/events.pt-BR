@@ -7,7 +7,7 @@ event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
 exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
-source-git-commit: 4a81b87743847ed72b725a43cfb7979daec1dd5d
+source-git-commit: 6cf497c3898f0aa061f89b12cf6843b05232d63c
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -28,6 +28,6 @@ Nesta sessão, você aprenderá a:
 
 Não perca esta chance de ver as últimas novidades em otimização de agilidade e obter respostas ao vivo de suas perguntas por nossos especialistas.
 
-[Defina um lembrete do YouTube.](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+[Defina um lembrete do YouTube.](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
 
-[![ExL LIVE 24 de junho de 2026](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+[![ExL LIVE 24 de junho de 2026](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
