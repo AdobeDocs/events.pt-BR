@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 7f3035c2cb1e7c7fbd3ff17854dc9121e041849b
+source-git-commit: bb45c593ea931bf57ced7f358f9300b83cd707a2
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 53%
+source-wordcount: '112'
+ht-degree: 50%
 
 ---
 
@@ -50,6 +50,20 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
     </div>
   </td>
 </tr>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-16-26.md">
+      <img alt="Experience League LIVE 16 de julho" src="assets/WebBannerExlLive-July16-2026.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-07-16-26.md">
+        <strong>"Fragmentos de conteúdo do AEM no Adobe Journey Optimizer: novidades e como usá-lo"</strong>
+      </a>
+      <br/><em>com Sandra Hausmann, Jyothitha Chandran, Tyson Wai e Chris Ivory</em>
+      <br/><em>16 de julho de 2026</em>
+    </div>
+  </td>
+</tr>
+
 </table>
 
 <div id="recs-overview-body-1"></div>
@@ -101,5 +115,5 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
 
 >[!TIP]
 >
->Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/pt-br?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
+>Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
 
