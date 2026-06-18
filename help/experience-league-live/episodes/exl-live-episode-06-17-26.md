@@ -24,4 +24,4 @@ Nós o guiamos pela maneira ideal de testar suas jornadas antes do lançamento e
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492438/?learn=on&enablevpops)
 
-Participe da conversa na [Comunidade do Experience League](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138) — nossos especialistas estão prontos para responder às suas perguntas.
+Participe da conversa na [Comunidade do Experience League](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138?profile.language=pt) — nossos especialistas estão prontos para responder às suas perguntas.
