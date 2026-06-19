@@ -7,7 +7,7 @@ feature: Deliverability
 event-cta-url-live: https://youtube.com/live/lrdorB0LgFo
 event-start-time: 2026-07-16 08:30-7
 event-guests: Sandra Hausmann, Jyothitha Chandran, Tyson Wai, Chris Ivory
-source-git-commit: bb45c593ea931bf57ced7f358f9300b83cd707a2
+source-git-commit: ae074af2754b15146b372023fa2ec297a51e4cac
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
@@ -40,3 +40,4 @@ Você terá uma visão clara de como o AEM e o AJO se encaixam em um fluxo de tr
 Ideal para autores do AEM e profissionais do AJO que colaboram em conteúdo e desejam reduzir o atrito entre as equipes.
 
 **Clique na imagem acima para definir um lembrete para o programa!**
+

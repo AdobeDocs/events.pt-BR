@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: cd1d58a1d2e0135bc7ad80501bdc976c470896b8
+source-git-commit: ae074af2754b15146b372023fa2ec297a51e4cac
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 53%
@@ -18,7 +18,6 @@ ht-degree: 53%
 # Experience League LIVE
 
 Experience League LIVE é um programa de transmissão ao vivo produzido pela equipe da Experience League.  É uma chance de se conectar com especialistas em produtos da Adobe e aprender dicas, truques e estratégias práticas que podem ser usados com os aplicativos da Adobe Experience Cloud.
-
 
 
 ## Próximos eventos do Experience League LIVE
@@ -50,7 +49,6 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
     </div>
   </td>
 </tr>
-
 </table>
 
 <div id="recs-overview-body-1"></div>
@@ -59,7 +57,6 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
-
 <div id="past-events">
 
 
@@ -68,7 +65,6 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
 ## Escolhas da equipe
 
 <table style="max-width: 1214px;">
-
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
       <img alt="Experience League LIVE 21 de abril" src="episodes/assets/WebBanner-June26-2024.jpg">
@@ -81,9 +77,7 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
       <br/><em>26 de junho de 2024</em>
     </div>
   </td>
-
-
-<td style="vertical-align: top;">
+  <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
       <img alt="Experience League LIVE 26 de maio" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
@@ -96,11 +90,10 @@ Experience League LIVE é um programa de transmissão ao vivo produzido pela equ
     </div>
   </td>
   </tr>
-
 </table>
 
 
 >[!TIP]
 >
->Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/pt-br?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
+>Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) gratuitos, bem como os [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
 
