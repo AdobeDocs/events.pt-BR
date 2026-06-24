@@ -3,9 +3,9 @@ user-guide-title: Eventos da Workfront
 breadcrumb-title: Eventos da Workfront
 user-guide-description: Eventos da Workfront
 solution: Workfront
-source-git-commit: 259802ff23ae19444b03976becefe4fabeff38aa
+source-git-commit: b4b48b83a52b48c67d0d514600045b138ed24f36
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '572'
 ht-degree: 1%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 1%
       + [Automatização de PDFs com marcas com o Workfront Fusion](workshop-rewind/fusion/automating-branded-pdfs.md)
       + [Automatização de convenções de nomenclatura](workshop-rewind/fusion/automating-naming-conventions.md)
       + [Automatizar Processos De Trabalho](workshop-rewind/fusion/automate-work-processes.md)
+      + [APIs básicas do Workfront](workshop-rewind/fusion/basic-workfront-apis.md)
       + [Benefícios e práticas recomendadas da Fusion](workshop-rewind/fusion/benefits-best-practices.md)
       + [Importações de dados](workshop-rewind/fusion/data-imports.md)
       + [Benefícios e casos de uso da fusão](workshop-rewind/fusion/case-for-fusion.md)
