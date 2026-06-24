@@ -1,15 +1,14 @@
 ---
 title: Como aproveitar o MCP do Target e outras novas versões importantes no Adobe Target
-description: Teste e valide suas jornadas antes do lançamento e saiba como levá-las além com a nova marca Jornada Simulation.
-kt: 21226
+description: Saiba como aproveitar o novo servidor MCP do Adobe Target para criar e analisar atividades com um agente, além de explorar testes Bayesianos, sinalizadores de recursos e experimentação de CDN.
 solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns
 exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
-source-git-commit: 266d1337ab989ab9a9ba91f9c167d687e08050e9
+source-git-commit: b0680eb53b3b68243cda9d1f2681f72d67b88511
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -28,4 +27,5 @@ Você aprenderá a:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-Visite a documentação do produto para obter mais informações sobre o [Adobe Target MCP server](https://experienceleague.adobe.com/pt-br/docs/target/using/mcp/target-mcp).
+Visite a documentação do produto para obter mais informações sobre o [Adobe Target MCP server](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp).
+Dúvidas? Pergunte a eles no [fórum da comunidade](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358) — nossos especialistas estão monitorando ativamente a discussão deste episódio.
