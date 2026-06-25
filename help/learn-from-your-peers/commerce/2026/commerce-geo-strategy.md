@@ -1,6 +1,6 @@
 ---
 title: Estratégia GEO da Adobe Commerce - Otimização de LLM nas experiências D2C
-description: Descubra como aprimorar a estratégia GEO do Adobe Commerce com otimização para LLM para melhorar a descoberta orientada por IA e o sucesso do comércio eletrônico global.
+description: Descubra como aprimorar a estratégia GEO da Adobe Commerce com otimização para LLM para melhorar a capacidade de descoberta orientada por IA e o sucesso do comércio eletrônico global.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,7 +8,7 @@ duration: 5
 last-substantial-update: 2026-05-26T00:00:00Z
 jira: KT-21383
 exl-id: 28a56924-b608-48b9-bbcd-ebf48616c2cc
-source-git-commit: 259cd7b663537c646c7c928dc4a5ee0aa0fed4ab
+source-git-commit: 8a3d93cf5816c3e3d45cfd14bffa28b5bd51d8f5
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
